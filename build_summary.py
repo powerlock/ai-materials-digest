@@ -22,7 +22,7 @@ import json
 import os
 import sys
 
-from agent import benchmarks, charts, extract, summary
+from agent import benchmarks, charts, extract, html, summary
 
 if hasattr(sys.stdout, "buffer"):
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
@@ -36,6 +36,7 @@ CHARTS_DIR = os.path.join(ROOT, "charts")
 BENCH_CACHE = os.path.join(ROOT, "data", "matbench_discovery.json")
 ABSTRACT_CACHE = os.path.join(ROOT, "state", "abstracts.json")
 CSV_OUT = os.path.join(ROOT, "data", "model_performance.csv")
+HTML_OUT = os.path.join(ROOT, "index.html")
 
 
 def load_manual() -> dict:
@@ -102,6 +103,10 @@ def main() -> int:
 
     summary.write_csv(models, CSV_OUT)
     print(f"   {CSV_OUT}")
+
+    with open(HTML_OUT, "w", encoding="utf-8") as fh:
+        fh.write(html.render_index(models, studies, chart_list, tiers, today))
+    print(f"   {HTML_OUT}")
 
     if args.docx:
         sys.path.insert(0, os.path.join(ROOT, "tools"))
