@@ -4,4 +4,6 @@ __pycache__/
 venv/
 *.docx
 !AI and Materials Discovery.docx
+!MODEL_PERFORMANCE.docx
+!NEEDS_DATA.docx
 .DS_Store

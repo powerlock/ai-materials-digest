@@ -1,1 +1,5 @@
 requests>=2.31.0
+PyYAML>=6.0
+matplotlib>=3.5
+numpy>=1.21
+python-docx>=0.8.11
