@@ -1,0 +1,65 @@
+name: Daily AI + materials digest
+
+on:
+  schedule:
+    # 11:30 UTC daily. arXiv publishes new submissions around 00:00 UTC on
+    # weekdays, so this catches the previous day in full.
+    - cron: "30 11 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Lookback window in days"
+        required: false
+        default: "3"
+      min_score:
+        description: "Minimum relevance score"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build digest
+        env:
+          # Raises the GitHub API rate limit for the release checks.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: set an OPENALEX_MAILTO repo secret to join the polite pool.
+          OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
+        run: |
+          ARGS="--days ${{ github.event.inputs.days || '3' }}"
+          if [ -n "${{ github.event.inputs.min_score }}" ]; then
+            ARGS="$ARGS --min-score ${{ github.event.inputs.min_score }}"
+          fi
+          python run_digest.py $ARGS
+
+      - name: Commit new entries
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add DIGEST.md state/seen.json
+          if git diff --staged --quiet; then
+            echo "No new items today."
+          else
+            git commit -m "Digest: $(date -u +%Y-%m-%d)"
+            git push
+          fi

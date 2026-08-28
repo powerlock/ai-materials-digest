@@ -1,0 +1,100 @@
+{
+  "_comment": "Edit the keyword weights to retune the digest. An item is kept only if it clears min_score. Matching is case-insensitive on title + abstract; title matches count double.",
+
+  "lookback_days": 3,
+  "min_score": 6,
+  "max_items_per_section": {
+    "journals": 15,
+    "preprints": 30,
+    "conferences": 15,
+    "industry": 10,
+    "default": 12
+  },
+  "openalex_mailto": "",
+
+  "core_terms": {
+    "mattergen": 8,
+    "mattersim": 8,
+    "gnome": 6,
+    "alchemi": 8,
+    "machine learning interatomic potential": 9,
+    "machine-learned interatomic potential": 9,
+    "interatomic potential": 6,
+    "universal potential": 5,
+    "foundation model": 4,
+    "crystal structure prediction": 8,
+    "inverse design": 6,
+    "materials discovery": 8,
+    "materials design": 5,
+    "autonomous laboratory": 9,
+    "self-driving lab": 9,
+    "high-throughput screening": 5,
+    "convex hull": 4,
+    "energy above hull": 6,
+    "materials project": 4,
+    "generative model": 4,
+    "diffusion model": 4,
+    "graph neural network": 5,
+    "equivariant": 4,
+    "active learning": 3,
+    "surrogate model": 3
+  },
+
+  "ai_terms": {
+    "machine learning": 3,
+    "deep learning": 3,
+    "neural network": 3,
+    "transformer": 2,
+    "large language model": 2,
+    "artificial intelligence": 2,
+    "agentic": 2,
+    "generative ai": 3
+  },
+
+  "materials_terms": {
+    "crystal": 3,
+    "inorganic": 2,
+    "perovskite": 3,
+    "solid-state electrolyte": 4,
+    "battery": 3,
+    "cathode": 3,
+    "electrolyte": 3,
+    "catalyst": 3,
+    "superconductor": 4,
+    "semiconductor": 2,
+    "alloy": 2,
+    "mof": 3,
+    "metal-organic framework": 3,
+    "thermoelectric": 3,
+    "photovoltaic": 3,
+    "polymer": 2,
+    "zeolite": 3,
+    "magnet": 2,
+    "solid state synthesis": 5,
+    "dft": 3,
+    "density functional theory": 3,
+    "molecular dynamics": 3,
+    "phonon": 3,
+    "band gap": 3,
+    "formation energy": 3
+  },
+
+  "bonus_terms": {
+    "experimentally synthesized": 5,
+    "experimental validation": 4,
+    "synthesized and characterized": 5,
+    "x-ray diffraction": 3,
+    "rietveld": 3,
+    "benchmark": 2,
+    "open-source": 2,
+    "dataset": 2
+  },
+
+  "veto_terms": [
+    "geforce",
+    "gaming",
+    "stock price",
+    "quarterly earnings",
+    "webinar registration"
+  ]
+}
