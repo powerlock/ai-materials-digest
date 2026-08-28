@@ -20,7 +20,13 @@ import numpy as np  # noqa: E402
 
 plt.rcParams.update({
     "figure.dpi": 130,
+    "font.family": "serif",
+    "font.serif": ["Times New Roman", "DejaVu Serif"],
     "font.size": 9,
+    "axes.titlesize": 10,
+    "axes.labelsize": 9,
+    "xtick.labelsize": 8,
+    "ytick.labelsize": 8,
     "axes.grid": True,
     "grid.alpha": 0.3,
     "axes.spines.top": False,
