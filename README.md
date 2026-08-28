@@ -3,7 +3,8 @@
 Fetches new work on AI-driven materials discovery every day, scores it against
 keyword rules, and prepends the survivors to [`DIGEST.md`](DIGEST.md).
 
-No API keys and no LLM required. The only dependency is `requests`.
+No API keys and no LLM required. The main runtime dependencies are `requests`,
+`PyYAML`, `numpy`, `matplotlib`, and `python-docx` (for Word output).
 
 ## What it watches
 
@@ -39,7 +40,8 @@ A run takes roughly 2–4 minutes; most of it is deliberate politeness delays
 ## Daily automation with GitHub Actions
 
 [`.github/workflows/daily-digest.yml`](.github/workflows/daily-digest.yml) runs
-at 11:30 UTC daily and commits any new entries.
+at 11:30 UTC daily, builds the digest, then runs `build_summary.py --docx` and
+commits any new digest and summary entries.
 
 1. Create an empty GitHub repo, then from this folder:
    ```bash
@@ -97,10 +99,25 @@ state/seen.json          dedupe memory (committed, so CI remembers)
 DIGEST.md                the running document
 ```
 
+## Model-performance summary layer
+
+[`build_summary.py`](build_summary.py) runs on top of the digest and produces
+ranked tables, a "needs data" queue, and PNG figures.
+
+```bash
+python build_summary.py          # MODEL_PERFORMANCE.md, NEEDS_DATA.md, charts
+python build_summary.py --docx   # also writes .docx versions
+```
+
+It combines the Matbench Discovery leaderboard (comparable benchmark numbers)
+with whatever performance figures can be extracted from the daily digest
+abstracts. Most abstracts do not contain a numeric result, so the generated
+[`NEEDS_DATA.md`](NEEDS_DATA.md) lists the missing fields and explains how to
+fill them in [`manual_data.json`](manual_data.json).
+
 ## Converting the digest to Word
 
 ```bash
-pip install python-docx
 python tools/md2docx.py DIGEST.md DIGEST.docx
 ```
 

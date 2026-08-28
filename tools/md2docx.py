@@ -1,3 +1,4 @@
+import os
 import re
 import sys
 
@@ -65,7 +66,11 @@ def is_sep(line):
     return bool(re.fullmatch(r"\|[\s:|-]+\|", line.strip()))
 
 
+IMAGE_RE = re.compile(r"^!\[(?P<alt>[^\]]*)\]\((?P<path>[^)]+)\)$")
+
+
 def convert(md_path, docx_path):
+    base_dir = os.path.dirname(os.path.abspath(md_path))
     lines = open(md_path, encoding="utf-8").read().split("\n")
     doc = Document()
     doc.styles["Normal"].font.name = "Calibri"
@@ -86,6 +91,19 @@ def convert(md_path, docx_path):
 
         # horizontal rule
         if re.fullmatch(r"-{3,}|\*{3,}", stripped):
+            i += 1
+            continue
+
+        # standalone image
+        m_img = IMAGE_RE.match(stripped)
+        if m_img:
+            img_path = os.path.join(base_dir, m_img.group("path").replace("/", os.sep))
+            if os.path.exists(img_path):
+                doc.add_picture(img_path, width=Inches(6.6))
+                doc.paragraphs[-1].alignment = WD_ALIGN_PARAGRAPH.CENTER
+            else:
+                par = doc.add_paragraph()
+                add_inline(par, f"[missing image: {m_img.group('path')}]")
             i += 1
             continue
 

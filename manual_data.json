@@ -1,0 +1,24 @@
+{
+  "_readme": [
+    "Fill in anything NEEDS_DATA.md reports as missing, then rerun:",
+    "    python build_summary.py",
+    "Values here override the automated sources and are never overwritten.",
+    "Models are keyed by the exact model name shown in Table 1.",
+    "Studies are keyed by DOI (no https://doi.org/ prefix).",
+    "metrics entries are [label, value, unit]; use \"\" for a dimensionless unit.",
+    "Set sort_value to the number you want the row ranked by (accuracy %, or 100 - error %)."
+  ],
+
+  "models": {},
+
+  "studies": {
+    "10.1038/s41586-025-08628-5": {
+      "models": ["MatterGen", "MatterSim"],
+      "materials": ["TaCr2O6"],
+      "methods": ["DFT", "solid-state synthesis", "XRD", "nanoindentation"],
+      "metrics": [["bulk modulus target error", 20, "%"]],
+      "sort_value": 80,
+      "notes": "Example row, kept as a template. Target 200 GPa, measured 158 +/- 11 GPa."
+    }
+  }
+}
