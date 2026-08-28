@@ -5,8 +5,8 @@ import sys
 import docx
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
-from docx.oxml.shared import OxmlElement
 from docx.shared import Inches, Pt, RGBColor
 
 
@@ -25,6 +25,7 @@ def add_hyperlink(par, label, url, size=None):
     par._p.remove(run._r)
     link.append(run._r)
     par._p.append(link)
+
 
 INLINE = re.compile(
     r"(\*\*.+?\*\*|`[^`]+`|\[[^\]]+\]\([^)]+\)|<https?://[^>]+>|\*[^*]+\*)"
@@ -69,18 +70,85 @@ def is_sep(line):
 IMAGE_RE = re.compile(r"^!\[(?P<alt>[^\]]*)\]\((?P<path>[^)]+)\)$")
 
 
+def _set_run_font(run, name=None, size=None, bold=None, italic=None):
+    if name:
+        run.font.name = name
+    if size is not None:
+        run.font.size = Pt(size)
+    if bold is not None:
+        run.bold = bold
+    if italic is not None:
+        run.italic = italic
+
+
+def apply_journal_styles(doc):
+    """Science-style journal typography (single-column so wide tables stay readable)."""
+    # Body text
+    normal = doc.styles["Normal"]
+    normal.font.name = "Times New Roman"
+    normal.font.size = Pt(10)
+    normal.paragraph_format.line_spacing = 1.15
+    normal.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+    normal.paragraph_format.space_after = Pt(6)
+
+    # Lists should stay left-aligned
+    for style_name in ("List Bullet", "List Number"):
+        style = doc.styles[style_name]
+        style.font.name = "Times New Roman"
+        style.font.size = Pt(10)
+        style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        style.paragraph_format.line_spacing = 1.15
+        style.paragraph_format.space_after = Pt(3)
+
+    # Headings
+    for level in range(1, 5):
+        style = doc.styles[f"Heading {level}"]
+        style.font.name = "Times New Roman"
+        style.font.color.rgb = RGBColor(0, 0, 0)
+        style.font.bold = True
+        style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        style.paragraph_format.line_spacing = 1.0
+    doc.styles["Heading 1"].font.size = Pt(12)
+    doc.styles["Heading 2"].font.size = Pt(10)
+    doc.styles["Heading 2"].font.italic = True
+    doc.styles["Heading 3"].font.size = Pt(10)
+    doc.styles["Heading 3"].font.italic = True
+    doc.styles["Heading 4"].font.size = Pt(10)
+
+    # Title style for the first top-level heading
+    title = doc.styles["Title"]
+    title.font.name = "Times New Roman"
+    title.font.size = Pt(14)
+    title.font.bold = True
+    title.font.color.rgb = RGBColor(0, 0, 0)
+    title.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    title.paragraph_format.space_after = Pt(12)
+
+    # Margins
+    for section in doc.sections:
+        section.left_margin = Inches(0.75)
+        section.right_margin = Inches(0.75)
+        section.top_margin = Inches(0.75)
+        section.bottom_margin = Inches(0.75)
+
+
+def _shade_header_row(table, color="D9D9D9"):
+    for cell in table.rows[0].cells:
+        tcPr = cell._tc.get_or_add_tcPr()
+        shd = OxmlElement("w:shd")
+        shd.set(qn("w:fill"), color)
+        tcPr.append(shd)
+
+
 def convert(md_path, docx_path):
     base_dir = os.path.dirname(os.path.abspath(md_path))
     lines = open(md_path, encoding="utf-8").read().split("\n")
     doc = Document()
-    doc.styles["Normal"].font.name = "Calibri"
-    doc.styles["Normal"].font.size = Pt(11)
-    for section in doc.sections:
-        section.left_margin = section.right_margin = Inches(0.7)
-        section.top_margin = section.bottom_margin = Inches(0.8)
+    apply_journal_styles(doc)
 
     i = 0
     n = len(lines)
+    fig_num = 0
     while i < n:
         line = lines[i]
         stripped = line.strip()
@@ -97,10 +165,21 @@ def convert(md_path, docx_path):
         # standalone image
         m_img = IMAGE_RE.match(stripped)
         if m_img:
-            img_path = os.path.join(base_dir, m_img.group("path").replace("/", os.sep))
+            fig_num += 1
+            alt = m_img.group("alt").strip()
+            img_path = os.path.join(
+                base_dir, m_img.group("path").replace("/", os.sep)
+            )
             if os.path.exists(img_path):
-                doc.add_picture(img_path, width=Inches(6.6))
-                doc.paragraphs[-1].alignment = WD_ALIGN_PARAGRAPH.CENTER
+                p = doc.add_picture(img_path, width=Inches(6.0))
+                p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                cap = doc.add_paragraph()
+                cap.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                run = cap.add_run(f"Figure {fig_num}. {alt}" if alt
+                                  else f"Figure {fig_num}.")
+                run.font.name = "Times New Roman"
+                run.font.size = Pt(9)
+                run.italic = True
             else:
                 par = doc.add_paragraph()
                 add_inline(par, f"[missing image: {m_img.group('path')}]")
@@ -118,6 +197,7 @@ def convert(md_path, docx_path):
             par = doc.add_paragraph()
             par.paragraph_format.left_indent = Pt(18)
             par.paragraph_format.space_after = Pt(10)
+            par.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
             r = par.add_run("\n".join(buf))
             r.font.name = "Consolas"
             r.font.size = Pt(9)
@@ -136,14 +216,17 @@ def convert(md_path, docx_path):
             table.autofit = True
             for cell, text in zip(table.rows[0].cells, header):
                 cell.paragraphs[0].text = ""
-                add_inline(cell.paragraphs[0], text, size=8.5)
+                cell.paragraphs[0].alignment = WD_ALIGN_PARAGRAPH.LEFT
+                add_inline(cell.paragraphs[0], text, size=8)
                 for r in cell.paragraphs[0].runs:
                     r.bold = True
             for row in rows:
                 cells = table.add_row().cells
                 for cell, text in zip(cells, row):
                     cell.paragraphs[0].text = ""
-                    add_inline(cell.paragraphs[0], text, size=8.5)
+                    cell.paragraphs[0].alignment = WD_ALIGN_PARAGRAPH.LEFT
+                    add_inline(cell.paragraphs[0], text, size=8)
+            _shade_header_row(table)
             doc.add_paragraph()
             continue
 
@@ -164,6 +247,7 @@ def convert(md_path, docx_path):
                 i += 1
             par = doc.add_paragraph()
             par.paragraph_format.left_indent = Pt(18)
+            par.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
             add_inline(par, " ".join(buf))
             for r in par.runs:
                 r.italic = True
@@ -194,9 +278,15 @@ def convert(md_path, docx_path):
         par = doc.add_paragraph()
         add_inline(par, " ".join(buf))
 
-    # title page styling: first heading centered
-    if doc.paragraphs:
-        doc.paragraphs[0].alignment = WD_ALIGN_PARAGRAPH.CENTER
+    # Promote the first top-level heading to a centered title
+    for p in doc.paragraphs:
+        if p.style and p.style.name == "Heading 1":
+            p.style = "Title"
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            for r in p.runs:
+                r.bold = True
+                r.font.size = Pt(14)
+            break
 
     doc.save(docx_path)
     print("wrote", docx_path)
