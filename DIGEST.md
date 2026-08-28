@@ -8,6 +8,413 @@ Newest entries appear directly below this line.
 
 ## 2026-08-28
 
+45 new item(s). Top hit: **The CHGNet uMLIP model fine-tuned for 2Hc-WS2** (score 24, Zenodo (CERN European Organization for Nuclear Research)).
+
+### Journal articles
+
+- **[The CHGNet uMLIP model fine-tuned for 2Hc-WS2](https://doi.org/10.5281/zenodo.22059539)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-22 | doi:10.5281/zenodo.22059539 | score 24*
+  <br>Pjotrs Zguns
+
+  The CHGNet uMLIP model fine-tuned for 2Hc-WS2 in P. Žguns, I. Pudza, A. Kuzmin, Benchmarking CHGNet Universal Machine Learning Interatomic Potential Against DFT and EXAFS: Case of Layered WS2 and MoS2, J. Chem. Theory Comput. 21 (2025) 8142–8150. Doi: 10.1021/acs.jctc.5c00955
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, benchmark, dft`
+
+
+- **[Mechanistic study of mixed lithium halides solid-state electrolytes](https://doi.org/10.1103/czy4-7lfp)**
+  <br>*Physical Review Materials | 2026-08-26 | doi:10.1103/czy4-7lfp | score 23*
+  <br>Davide Tisi, Sergey Pozdnyakov, Michele Ceriotti
+
+  Lithium halides with the general formula LixMyX6}, where M indicates metal ions and X halide anions are very actively studied as solid-state electrolytes, because of relatively low cost, high stability and Li conductivity. The structure and properties of these halide-based solid electrolytes (HSE) can be tuned by alloying, e.g. using different halides and/or transition metals simultaneously. The large chemical space is difficult to sample by experiments, making simulations based on broadly applicable machine-learning interatomic potentials (MLIPs) a promising approach to elucidate structure-property relations, and facilitate the design of better-performing compositions.Here we focus on the L...
+
+  `matched: solid-state electrolyte, interatomic potential, electrolyte, alloy`
+
+
+- **[PyAPX: python toolkit for atomic configuration pattern exploration](https://doi.org/10.1038/s41598-026-66072-5)**
+  <br>*Scientific Reports | 2026-08-19 | doi:10.1038/s41598-026-66072-5 | score 23*
+  <br>Akira Kusaba, Tetsuji Kuboyama, Tatoshi Yonemori, Karol Kawka
+
+  Abstract In materials discovery, the integration of first-principles calculations with machine learning techniques has been actively studied for two key tasks: crystal structure prediction, which searches for stable structures given a chemical composition, and elemental substitution, which explores chemical compositions that yield desirable properties in a given crystal structure. However, even when both the crystal structure and chemical composition are fixed, material properties can still vary depending on the atomic arrangements (configurations) at crystallographic sites. To support detailed material design, we present PyAPX, a Python toolkit that performs Bayesian searches of stable atom...
+
+  `matched: crystal structure prediction, materials discovery, machine learning, crystal`
+
+
+- **[Accurate and Efficient NMR Crystallography through Machine-Learning Geometry Optimization and Shielding Prediction](https://doi.org/10.1021/acs.jpclett.6c02446)**
+  <br>*The Journal of Physical Chemistry Letters | 2026-08-21 | doi:10.1021/acs.jpclett.6c02446 | score 21*
+  <br>Ema Chaloupecká, Ondřej Socha, Martin Dračínský
+
+  Abstract We evaluated a fully machine-learning-assisted workflow for NMR crystallography by combining the Universal Model for Atoms (UMA) interatomic potential for crystal structure optimization with the ShiftML3 prediction of solid-state NMR shieldings. Benchmarking against conventional periodic density functional theory (DFT) calculations for 1H, 13C, and 15N chemical shifts demonstrates that ML-based geometry optimization consistently improves the accuracy of 13C and 15N predictions relative to standard PBE optimization, highlighting the dominant role of structural refinement. ShiftML3 achieves DFT-level accuracy for shielding prediction and, when combined with UMA-optimized geometries, m...
+
+  `matched: density functional theory, interatomic potential, benchmark, crystal, dft`
+
+
+- **[Dataset for the publication- A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films](https://doi.org/10.5281/zenodo.22111105)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-24 | doi:10.5281/zenodo.22111105 | score 19*
+  <br>Ankit Yadav, Lucia Bajtošová, Miroslav Cieslar, Jan Fikar
+
+  This deposit contains the dataset of the manuscript: "A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films" by Ankit Yadav, [co-authors], and Jan Fikar. Contents: - README.md- Main LaTeX source file (.tex)- Bibliography file (.bib)- All figures (.pdf)- codes(.py) The manuscript introduces the cylindrical sintering (CS) method for constructing nanocrystalline aluminum thin-film samples with realistic, disordered grain boundaries while retaining deterministic control over grain size, shape, and orientation. CS samples are benchmarked against sintered hexagonal Voronoi (HV) references under identical conditions using two interatomic potentials — the c...
+
+  `matched: interatomic potential, benchmark, dataset, crystal`
+
+
+- **[Dataset for the publication- A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films](https://doi.org/10.5281/zenodo.22111106)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-24 | doi:10.5281/zenodo.22111106 | score 19*
+  <br>Ankit Yadav, Lucia Bajtošová, Miroslav Cieslar, Jan Fikar
+
+  This deposit contains the dataset of the manuscript: "A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films" by Ankit Yadav, [co-authors], and Jan Fikar. Contents: - README.md- Main LaTeX source file (.tex)- Bibliography file (.bib)- All figures (.pdf)- codes(.py) The manuscript introduces the cylindrical sintering (CS) method for constructing nanocrystalline aluminum thin-film samples with realistic, disordered grain boundaries while retaining deterministic control over grain size, shape, and orientation. CS samples are benchmarked against sintered hexagonal Voronoi (HV) references under identical conditions using two interatomic potentials — the c...
+
+  `matched: interatomic potential, benchmark, dataset, crystal`
+
+
+- **[From Empirical Design To Autonomous Ecosystems: AI-Driven Advances, Challenges, And Future Directions In Precision Nanomedicine](https://doi.org/10.5281/zenodo.21931873)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-14 | doi:10.5281/zenodo.21931873 | score 19*
+  <br>Hezam Saleh Mohammed Dhaif Allah*
+
+  The integration of artificial intelligence (AI), machine learning (ML), and deep learning (DL) into nanomedicine and drug delivery is driving a fundamental paradigm shift from empirical, trial-and-error formulation discovery toward predictive, data-driven, and patient-tailored therapeutic engineering. This comprehensive review systematically examines the multi-faceted convergence of AI technologies across the entire drug delivery pipeline. We highlight how ML and DL architectures including graph neural networks, generative adversarial frameworks, and transformer-based models predict nanoparticle physicochemical properties, optimize encapsulation efficiency, rationalize stimuli-responsive rel...
+
+  `matched: artificial intelligence, graph neural network, machine learning, neural network, deep learning, transformer`
+
+
+- **[From Empirical Design To Autonomous Ecosystems: AI-Driven Advances, Challenges, And Future Directions In Precision Nanomedicine](https://doi.org/10.5281/zenodo.21931872)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-14 | doi:10.5281/zenodo.21931872 | score 19*
+  <br>Hezam Saleh Mohammed Dhaif Allah*
+
+  The integration of artificial intelligence (AI), machine learning (ML), and deep learning (DL) into nanomedicine and drug delivery is driving a fundamental paradigm shift from empirical, trial-and-error formulation discovery toward predictive, data-driven, and patient-tailored therapeutic engineering. This comprehensive review systematically examines the multi-faceted convergence of AI technologies across the entire drug delivery pipeline. We highlight how ML and DL architectures including graph neural networks, generative adversarial frameworks, and transformer-based models predict nanoparticle physicochemical properties, optimize encapsulation efficiency, rationalize stimuli-responsive rel...
+
+  `matched: artificial intelligence, graph neural network, machine learning, neural network, deep learning, transformer`
+
+
+- **[Generative AI and Emerging Technologies: Transforming Engineering, Innovation and Entrepreneurship](https://doi.org/10.5281/zenodo.22025110)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-20 | doi:10.5281/zenodo.22025110 | score 18*
+  <br>Rita Rani, Dr. Merin Thomas
+
+  Chapter 1 : EVOLUTION OF GENERATIVE AI: FROM MACHINE LEARNING TO LARGE LANGUAGE MODELS - Dr. Rita Rani Chapter 2 : ARCHITECTURES BEHIND GENERATIVE AI: GANS, TRANSFORMERS AND DIFFUSION MODELS - Dr. Merin Thomas Chapter 3 : ETHICAL AI AND RESPONSIBLE INNOVATION IN THE AGE OF GENERATIVE SYSTEMS - Dr. Natasha Pankunni and Ms. Suhaira E S Chapter 4 : EXPLAINABLE AI (XAI) AND TRUST IN AUTONOMOUS SYSTEMS - Tejas Dixit Chapter 5 : CYBERSECURITY CHALLENGES IN GENERATIVE AI APPLICATIONS - Vaishali Parmar Chapter 6 : GENERATIVE AI IN SOFTWARE ENGINEERING AND AUTOMATED CODE GENERATION - Dr. V. Subba Ramaiah Chapter 7 : AI-DRIVEN PRODUCT DESIGN AND RAPID PROTOTYPING - Dr. Pratima Amol Kalyankar Chapter 8...
+
+  `matched: large language model, machine learning, diffusion model, generative ai, transformer`
+
+
+- **[Generative AI and Emerging Technologies: Transforming Engineering, Innovation and Entrepreneurship](https://doi.org/10.5281/zenodo.22025109)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-20 | doi:10.5281/zenodo.22025109 | score 18*
+  <br>Rita Rani, Dr. Merin Thomas
+
+  Chapter 1 : EVOLUTION OF GENERATIVE AI: FROM MACHINE LEARNING TO LARGE LANGUAGE MODELS - Dr. Rita Rani Chapter 2 : ARCHITECTURES BEHIND GENERATIVE AI: GANS, TRANSFORMERS AND DIFFUSION MODELS - Dr. Merin Thomas Chapter 3 : ETHICAL AI AND RESPONSIBLE INNOVATION IN THE AGE OF GENERATIVE SYSTEMS - Dr. Natasha Pankunni and Ms. Suhaira E S Chapter 4 : EXPLAINABLE AI (XAI) AND TRUST IN AUTONOMOUS SYSTEMS - Tejas Dixit Chapter 5 : CYBERSECURITY CHALLENGES IN GENERATIVE AI APPLICATIONS - Vaishali Parmar Chapter 6 : GENERATIVE AI IN SOFTWARE ENGINEERING AND AUTOMATED CODE GENERATION - Dr. V. Subba Ramaiah Chapter 7 : AI-DRIVEN PRODUCT DESIGN AND RAPID PROTOTYPING - Dr. Pratima Amol Kalyankar Chapter 8...
+
+  `matched: large language model, machine learning, diffusion model, generative ai, transformer`
+
+
+- **[Machine learning for biomaterials design](https://doi.org/10.1038/s44222-026-00476-w)**
+  <br>*Nature Reviews Bioengineering | 2026-08-25 | doi:10.1038/s44222-026-00476-w | score 17*
+  <br>Xiaoqiong Xia, Tianang Leng, Andrés J. Garcı́a, César de la Fuente‐Núñez
+
+  `matched: machine learning, materials design`
+
+
+- **[Neural network finds twisted crystals that steer light at the nanoscale](https://www.nature.com/articles/s41563-026-02744-x)**
+  <br>*Nature Materials | 2026-08-28 | doi:10.1038/s41563-026-02744-x | score 16*
+
+  `matched: neural network, crystal`
+
+
+- **[Lithium Layers Govern Wave-like Cross-Plane Transport and Thermal Anisotropy in LiCoO2](https://doi.org/10.1021/acsaem.6c01338)**
+  <br>*ACS Applied Energy Materials | 2026-08-20 | doi:10.1021/acsaem.6c01338 | score 16*
+  <br>Yatian Zhang, Thomas Frauenheim, Traian Dumitrică, Zhen Tong
+
+  Abstract LiCoO2, a layered crystalline material characterized by pronounced bonding heterogeneity between stiff covalent CoO2 layers and soft ionic Li layers, remains a dominant cathode material for lithium-ion batteries. Using a theoretical framework that combines ab initio anharmonic lattice dynamics with equilibrium molecular dynamics based on machine-learning interatomic potentials, we reveal a dual thermal role of the Li layers: while contributing negligibly to heat transport directly, they fundamentally reshape the mechanism of cross-plane vibrational energy transfer. First, the ab initio calculations uncover a giant lattice thermal conductivity anisotropy, with κL∥/κL⊥ ≈ 21.6 at room...
+
+  `matched: interatomic potential, molecular dynamics, cathode, crystal`
+
+
+- **[Atomic-Scale Origin of the Cation Field Strength Dependence of Mechanical Properties in Divalent-Cation Aluminosilicate Glasses](https://doi.org/10.1021/acs.jpcb.6c03531)**
+  <br>*The Journal of Physical Chemistry B | 2026-08-21 | doi:10.1021/acs.jpcb.6c03531 | score 15*
+  <br>Takeyuki Kato, Juan-Carlos Ginés-Palomares, Yuta Shuseki, Sota Otsuji
+
+  Abstract Aluminosilicate glasses are technologically important materials known for their high mechanical strength. However, the atomistic origins of their composition-dependent mechanical properties remain incompletely understood. Here, 50SiO2–25Al2O3–25RO glasses (R = Be, Mg, Ca, Sr, or Ba) were investigated by combining solid-state 27Al magic-angle spinning nuclear magnetic resonance (MAS NMR), ultrasonic pulse-echo measurements, and machine-learning molecular dynamics (MLMD) simulations. Machine-learning interatomic potentials trained on r2SCAN-level density functional theory reference data reproduced the experimental elastic trends substantially better than PBE-based potentials. The 27Al...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics, magnet`
+
+
+- **[Autoregressive Generative Latent Diffusion Models for Magnetohydrodynamics](https://doi.org/10.1109/icops53334.2026.11660190)**
+  <br>*2026 IEEE International Conference on Plasma Science (ICOPS) | 2026-08-28 | doi:10.1109/icops53334.2026.11660190 | score 13*
+  <br>Scheinker
+
+  `matched: diffusion model, magnet`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Charge-State-Aware Machine-Learned Molecular Dynamics for Reactive Systems with Charge Transfer](https://doi.org/10.26434/chemrxiv.15007718/v1)**
+  <br>*Crossref | 2026-08-21 | doi:10.26434/chemrxiv.15007718/v1 | score 23*
+  <br>Melbourne, Weitzel, Sun
+
+  Conventional coordinate-based machine-learned interatomic potentials are single-valued, limiting their applicability to systems in which only a single charge state exists. Here, we introduce a charge-state-aware machine-learned molecular dynamics (MLMD) framework in which distinct charge-localized states are represented through alternative atomic labeling schemes within a unified machine-learned potential. Transitions between charge states are governed by energetic and configurational criteria learned directly from reference ab initio molecular dynamics (AIMD) trajectories. The method is demonstrated on the NH3 + NH3+ ion-molecule self-reaction, a system exhibiting competing proton transfer...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics`
+
+
+- **[ChemReporter: A Framework for Curating and Exporting Large-Scale Chemical Datasets for MLIP Training](http://arxiv.org/abs/2608.16418v1)**
+  <br>*arXiv | 2026-08-17 | score 23*
+  <br>Marie Bluntzer, Jules Tilly, Christoph Brunken
+
+  Training set quality and diversity are key determinants of the reliability of machine learning interatomic potentials (MLIPs), yet using massive datasets in full is often impractical and redundant, making intelligent data selection essential. A major bottleneck, however, is the lack of infrastructure for uniformly accessing, curating, and subsampling heterogeneous large-scale chemical datasets, which differ widely in structure, metadata, and file format. We address this gap with ChemReporter, a modular, method-agnostic framework that converts arbitrary molecular and materials datasets into a unified, queryable representation and exports the results directly into MLIP-ready training data. Che...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, dataset`
+
+
+- **[DeepField: Condensed-Phase Quantum Learning for All-Atom Protein Dynamics in Explicit Water](https://doi.org/10.26434/chemrxiv.15007896/v1)**
+  <br>*Crossref | 2026-08-26 | doi:10.26434/chemrxiv.15007896/v1 | score 20*
+  <br>Zhou, Chen, Liu, He et al.
+
+  Machine-learned interatomic potentials (MLIPs) are beginning to make quantum-derived biomolecular dynamics practical, but a central mismatch remains between the scale of quantum reference data and the scale of the target simulation: reference calculations are commonly performed on isolated molecules or local fragments, whereas protein function emerges in a heterogeneous condensed-phase protein-water environment. Here we present DeepField, an environment-matched MLIP that uses energies and atomic forces reconstructed for complete hydrated biomolecular configurations as the supervised learning targets. The labels are generated at the CF22D/aug-cc-pVDZ level using electrostatically embedded gen...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics`
+
+
+- **[First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields](http://arxiv.org/abs/2608.21741v1)**
+  <br>*arXiv | 2026-08-22 | score 20*
+  <br>Bharatha K. Gunawardana, Teresa Shah, Bicha Azizova, Deepa Ranabhat et al.
+
+  Polyethylene (PE) is one of the most commonly used synthetic polymers. While the synthesis and processing protocols for PE are well established, precise experimental assignment of microscopic structures at atomistic resolution (i.e., the position of each atom) remains largely limited to highly crystalline systems. This gap is often addressed via computer simulations using empirical interatomic potentials, which use approximate but efficient descriptions of interatomic interactions to reach the length and time scales needed to describe macromolecules. These empirical potentials typically perform well for bulk and/or collective properties but face challenges with chemical realism for complex s...
+
+  `matched: interatomic potential, machine learning, crystal, polymer`
+
+
+- **[First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields](https://doi.org/10.48550/arxiv.2608.21741)**
+  <br>*arXiv (Cornell University) | 2026-08-22 | doi:10.48550/arxiv.2608.21741 | score 20*
+  <br>Bharatha K. Gunawardana, Teresa Shah, Bicha Azizova, Deepa Ranabhat
+
+  Polyethylene (PE) is one of the most commonly used synthetic polymers. While the synthesis and processing protocols for PE are well established, precise experimental assignment of microscopic structures at atomistic resolution (i.e., the position of each atom) remains largely limited to highly crystalline systems. This gap is often addressed via computer simulations using empirical interatomic potentials, which use approximate but efficient descriptions of interatomic interactions to reach the length and time scales needed to describe macromolecules. These empirical potentials typically perform well for bulk and/or collective properties but face challenges with chemical realism for complex s...
+
+  `matched: interatomic potential, machine learning, crystal, polymer`
+
+
+- **[Continuous Scalar Kernels for Quotients of Variable-Cell Periodic Structures: Compactness, Acquisition, and Target Boundaries](https://doi.org/10.26434/chemrxiv.15006891/v3)**
+  <br>*ChemRxiv | 2026-08-25 | doi:10.26434/chemrxiv.15006891/v3 | score 19*
+  <br>Daehong Kim, Won Bo Lee
+
+  Active learning for machine-learned interatomic potentials requires deciding which periodic structure should be labeled next. A common strategy is to select the structure that is least represented by the current data using a kernel similarity. For periodic systems, however, one physical structure can have many equivalent coordinate descriptions. If the novelty score changes under a shift of origin, atom relabeling, lattice-basis change, or rigid rotation, it measures the chosen representation rather than the physical structure. We remove this ambiguity by defining the design problem on physical equivalence classes and constructing a scalar kernel that is invariant to these rewritings. For th...
+
+  `matched: machine-learned interatomic potential, interatomic potential, active learning`
+
+
+- **[Discovery of novel magnetic Y-Mn-B compounds via advanced machine learning guided framework](http://arxiv.org/abs/2608.17200v1)**
+  <br>*arXiv | 2026-08-17 | score 19*
+  <br>Weiyi Xia, Wei Shen Tee, Maxim Moraru, Ying Wai Li et al.
+
+  Rare-earth transition-metal borides offer critical structural motifs for permanent-magnet design; however, the manganese-rich regions within these compositional phase spaces remain largely unexplored. In this work, we develop an advanced machine-learning-assisted discovery framework to explore Y-Mn-B ternary system. Starting from over one million hypothetical structures generated from known structures in databases, we filtered promising candidates by first applying graph neural networks to predict material stability, then using machine-learning-interatomic-potential to relax their structures, and finally validating the results with first-principles calculations. We identify 5 stable and near...
+
+  `matched: graph neural network, machine learning, neural network, magnet`
+
+
+- **[Crystal-structure design by agentic AI in a language of motifs](http://arxiv.org/abs/2608.15900v1)**
+  <br>*arXiv | 2026-08-16 | score 19*
+  <br>Dinh-Khiet Le, Minh-Quyet Ha, Hong-Phuc Vu-Dinh, Takashi Miyake et al.
+
+  Data-driven materials discovery interpolates more reliably than it extrapolates and seldom reaches new structure types. We present MatEvolve, an agentic-AI framework designing crystals, proposing each candidate with a stated rationale and testing it. The agent reasons in an interpretable \emph{language of motifs}, writing each crystal as a \emph{motif profile} that describes the recurring geometric patterns---the \emph{motifs}---composing it. The motif profile serves not merely as a description of a material but as the medium for material design: the agent edits the profile and constructs a crystal from the modified one, and the most promising candidates are validated by first-principles cal...
+
+  `matched: materials discovery, crystal, agentic`
+
+
+- **[Crystal-structure design by agentic AI in a language of motifs](https://doi.org/10.48550/arxiv.2608.15900)**
+  <br>*arXiv (Cornell University) | 2026-08-16 | doi:10.48550/arxiv.2608.15900 | score 19*
+  <br>Dinh-Khiet Le, Minh-Quyet Ha, Hong-Phuc Vu-Dinh, Takashi Miyake
+
+  Data-driven materials discovery interpolates more reliably than it extrapolates and seldom reaches new structure types. We present MatEvolve, an agentic-AI framework designing crystals, proposing each candidate with a stated rationale and testing it. The agent reasons in an interpretable \emph{language of motifs}, writing each crystal as a \emph{motif profile} that describes the recurring geometric patterns---the \emph{motifs}---composing it. The motif profile serves not merely as a description of a material but as the medium for material design: the agent edits the profile and constructs a crystal from the modified one, and the most promising candidates are validated by first-principles cal...
+
+  `matched: materials discovery, crystal, agentic`
+
+
+- **[Machine Learning Prediction of Transport Properties in Amorphous Polymer Electrolytes Using Chemically Informed Structural Descriptors](https://doi.org/10.26434/chemrxiv.15000431/v2)**
+  <br>*Crossref | 2026-08-25 | doi:10.26434/chemrxiv.15000431/v2 | score 18*
+  <br>Ganesh, Paupst, Nath, Dilip Lele et al.
+
+  `matched: machine learning, electrolyte, polymer`
+
+
+- **[Extracting a nitrile-centered, ether-assisted motif hierarchy for lithium-battery electrolyte design from billion-scale molecular space](http://arxiv.org/abs/2608.16364v1)**
+  <br>*arXiv | 2026-08-17 | score 18*
+  <br>Yifeng Xia, Guanghui Wang, Sining Wang, Wenting Chen et al.
+
+  Designing electrolyte molecules for lithium batteries requires balancing electronic stability with appropriate Li+ solvation, yet the structural basis remains unclear across chemically diverse molecules. High-throughput screening expands the searchable space, but ranked candidates alone do not reveal recurring motifs or their applicability limits. We searched nearly one billion GDB13 structures using electronic--solvation descriptors without explicit functional-group preferences or scaffold constraints. Across descriptor weights, high-ranking populations separated into a nitrile-dominant regime and a coexistence regime containing substantial fractions of both nitrile- and ether-containing mo...
+
+  `matched: high-throughput screening, electrolyte, battery`
+
+
+- **[Discovering Physically Interpretable Mathematical Expression for Predicting CO2 Adsorption in Metal-Organic Frameworks via Machine Learning-Symbolic Regression](http://arxiv.org/abs/2608.14990v1)**
+  <br>*arXiv | 2026-08-15 | score 18*
+  <br>Yimin Shao, Shengluo Ma, Shenghong Ju, Yijun Shi et al.
+
+  This work presents a machine learning-symbolic regression (ML-SR) strategy to develop a physically interpretable formula for predicting low pressure CO2 adsorption capacity in hypothetical metal-organic frameworks (hMOFs). Four ML models were trained on a small dataset of 1,000 samples, and five key descriptors-largest cavity diameter, pore limiting diameter, void fraction, gravimetric surface area, and number of hydrogen atoms-were identified through SHAP and feature importance analyses. Symbolic regression was then employed to derive a concise adsorption formula, Q=aA, where a represents an adsorption baseline (mmol/g) and A is a dimensionless adsorption number incorporating four structura...
+
+  `matched: metal-organic framework, machine learning, dataset, mof`
+
+
+- **[JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials](http://arxiv.org/abs/2608.19116v1)**
+  <br>*arXiv | 2026-08-19 | score 17*
+  <br>Denis Blessing, Mouyang Cheng, Maximilian Schebek, Jutta Rogal et al.
+
+  Many problems in disordered materials require sampling beyond fixed composition and volume, where coupled changes in atomic identities and structure create a prohibitively expensive discrete-continuous sampling problem. Here we introduce JANUS, a multimodal neural sampler that couples continuous and masked discrete diffusion through an equivariant graph neural network trained directly from energy evaluations, without pre-generated equilibrium data. In benchmark Ising and isobaric $ΔμNPT$ alloy systems, JANUS reproduces reference Monte Carlo equilibrium observables and recovers free energies and phase behavior with more than three orders of magnitude fewer energy evaluations. In multicomponen...
+
+  `matched: graph neural network, neural network, equivariant, benchmark, alloy`
+
+
+- **[Universal Machine-learning Molecular Dynamics at the Speed of Empirical Potentials](http://arxiv.org/abs/2608.19041v2)**
+  <br>*arXiv | 2026-08-19 | score 17*
+  <br>Tiancheng Li, Jianming Xue, Linfeng Zhang, Duo Zhang et al.
+
+  No interatomic potential has offered universality across chemistry, near-first-principles accuracy and the speed of empirical potentials at once. Here we introduce DPA4C, an equivariant potential whose architecture and compressed CUDA operators are co-designed under deployment constraints to pursue accuracy and efficiency together. Five variants spanning a 49-fold parameter range form the high-throughput end of the measured accuracy--throughput frontier. The largest variant approaches the accuracy of the MACE-Omat models at about two orders of magnitude higher measured throughput. The most compact reduces the energy, force and stress errors of the fastest existing universal MLIP by 61.4%, 48...
+
+  `matched: interatomic potential, molecular dynamics, equivariant`
+
+
+- **[Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Devices](http://arxiv.org/abs/2608.22841v1)**
+  <br>*arXiv | 2026-08-24 | score 16*
+  <br>Xingfei Wei, Manuel Palma Banos, Rigoberto Hernandez
+
+  Developing physical neural network (PNN) hardwares is important to next generation artificial intelligence systems. Phononic devices-using heat current to encode and process information-is one of the solutions to neuromorphic computing. In this work, we back map an artificial neural network (ANN) into a PNN simulation model using polymer networked nanoparticles (PNNPs). Our atomistic simulation results demonstrate that the polymer linked nanoparticle networks can potentially realize information processing using heat current. Using high-throughput molecular dynamics (MD) simulations and the trust region Bayesian optimization (TuRBO) methods, we tune the plasticity of polymer linkers and the t...
+
+  `matched: artificial intelligence, molecular dynamics, neural network, polymer, phonon`
+
+
+- **[Stable Models, Unstable Candidates: Target Transferability in MOF Machine Learning for Gas Uptake Prediction](https://doi.org/10.26434/chemrxiv.15007729/v1)**
+  <br>*Crossref | 2026-08-21 | doi:10.26434/chemrxiv.15007729/v1 | score 16*
+  <br>Masoudi, Abaei, Alimardani, Fakhroleslam et al.
+
+  Machine learning (ML) benchmarks for metal–organic frameworks (MOFs) often demonstrate high accuracy for a single adsorption condition; however, practical screening commonly reuses descriptors, models, or candidate lists across gases, pressures, operating conditions, and screening objectives. Here, we separate the conclusions that transfer from those that remain target specific. We benchmarked CO2 uptake at 0.015 and 0.15 bar and CH4 uptake at 5.8 and 65 bar at constant temperatures using an ARC–MOF-derived strict common cohort of 263,735 structures with compact geometries, enriched interpretable, and topology-augmented descriptors. The evaluation covered ridge regression, random forests, hi...
+
+  `matched: machine learning, benchmark, mof`
+
+
+- **[Atomistic Structure Generation and Neural-Network Screening of Hard Carbons to Identify High-Capacity Sodium Storage](http://arxiv.org/abs/2608.17716v1)**
+  <br>*arXiv | 2026-08-18 | score 16*
+  <br>Harry Mclean, Aiden Daniel Emery, Theodore Thomas Walton, Ned Thaddeus Taylor et al.
+
+  Hard carbons are established anodes for lithium-ion batteries and leading candidates for sodium-ion batteries, yet their electrochemical performance is governed by a heterogeneous network of graphitic domains, defects, and nanopores that conventional atomistic methods cannot model at the required length scales. We combine universal machine-learned interatomic potentials with the RAFFLE structure-generation framework to construct 13,096 realistic hard carbon models containing up to 4,378 atoms, matching experimentally measured densities, porosities, and sp$^2$/sp$^3$ bonding fractions. Explicit sodium intercalation of representative structures reproduces the characteristic sloping-to-plateau...
+
+  `matched: machine-learned interatomic potential, interatomic potential`
+
+
+- **[Preprint of the publication- A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films](https://doi.org/10.5281/zenodo.22112768)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-26 | doi:10.5281/zenodo.22112768 | score 15*
+  <br>Ankit Yadav, Lucia Bajtošová, Miroslav Cieslar, Jan Fikar
+
+  This deposit contains the preprint of the manuscript: "A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films" by Ankit Yadav, [co-authors], and Jan Fikar. Contents:- Complied preprint file (.pdf)The manuscript introduces the cylindrical sintering (CS) method for constructing nanocrystalline aluminum thin-film samples with realistic, disordered grain boundaries while retaining deterministic control over grain size, shape, and orientation. CS samples are benchmarked against sintered hexagonal Voronoi (HV) references under identical conditions using two interatomic potentials — the classical Pascuet15 MEAM potential and the tabGAP machine-learning pote...
+
+  `matched: interatomic potential, benchmark, crystal`
+
+
+- **[Preprint of the publication- A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films](https://doi.org/10.5281/zenodo.22112767)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-26 | doi:10.5281/zenodo.22112767 | score 15*
+  <br>Ankit Yadav, Lucia Bajtošová, Miroslav Cieslar, Jan Fikar
+
+  This deposit contains the preprint of the manuscript: "A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films" by Ankit Yadav, [co-authors], and Jan Fikar. Contents:- Complied preprint file (.pdf)The manuscript introduces the cylindrical sintering (CS) method for constructing nanocrystalline aluminum thin-film samples with realistic, disordered grain boundaries while retaining deterministic control over grain size, shape, and orientation. CS samples are benchmarked against sintered hexagonal Voronoi (HV) references under identical conditions using two interatomic potentials — the classical Pascuet15 MEAM potential and the tabGAP machine-learning pote...
+
+  `matched: interatomic potential, benchmark, crystal`
+
+
+- **[Benchmarking Machine Learning Methods for Predicting Adiabatic Redox Potentials](https://doi.org/10.26434/chemrxiv.15007720/v1)**
+  <br>*Crossref | 2026-08-21 | doi:10.26434/chemrxiv.15007720/v1 | score 15*
+  <br>Türtscher, Shumeiko, Dey, Maken et al.
+
+  The prediction of the adiabatic potentials of one-electron oxidation and reduction processes, traditionally performed with DFT-based methods, is a computationally intensive and slow task. While predicted potentials can be utilized in various ways, such as assessing reactivity between molecules, the high resource requirements associated with their calculation limit their routine determination. Recently, machine-learning models have been adopted to predict these potentials, providing an simple and directly accessible alternative. The accuracy and precision of these models are heavily dependent on the underlying training data and the model architectures. These model architectures are usually se...
+
+  `matched: machine learning, benchmark, dft`
+
+
+- **[Enhancing EBSD throughput of battery electrode materials using super-resolution generative adversarial networks](http://arxiv.org/abs/2608.19117v1)**
+  <br>*arXiv | 2026-08-19 | score 15*
+  <br>John Mangum, Andrew Glaws, Francois Usseglio-Viretta, Steven Spurgeon et al.
+
+  Quantitative microstructural characterization of Li-ion battery electrode materials using electron backscatter diffraction (EBSD) has been proven as a critical method for optimizing cell performance. However, the inherently slow nature of EBSD can hinder the throughput of analyses needed for statistical representation of a material microstructure being developed. This work demonstrates a machine learning super-resolution framework using a generative adversarial network (SRGAN) to significantly increase EBSD throughput. The SRGAN model was trained on EBSD data of LiNixMnyCozO2 (NMC) cathode particles to computationally enhance low-resolution datasets and its performance is compared against cl...
+
+  `matched: machine learning, cathode, dataset, battery`
+
+
+- **[A single design choice determines whether machine learning models of materials make physically impossible predictions](http://arxiv.org/abs/2608.18714v1)**
+  <br>*arXiv | 2026-08-19 | score 15*
+  <br>Can Polat, Mustafa Kurban, Erchin Serpedin, Hasan Kurban
+
+  Machine-learned models are replacing first-principles calculations across materials discovery, and physical symmetry is the central guarantee built into them. The debate over how much symmetry to hard-wire rather than learn has run on rotations, where a symmetry error is an approximation error. Some constraints are exact: symmetry forces certain property tensors to exactly zero, so a nonzero prediction is physically impossible rather than inaccurate. Here we show that whether a model can make such predictions is decided before training by one rarely reported design bit, whether its features carry parity labels, and derive a criterion, the parity gap, that computes from group theory alone whi...
+
+  `matched: materials discovery, machine learning`
+
+
+- **[When less is more: simplified models for interpretable materials design](https://doi.org/10.26434/chemrxiv.15008004/v1)**
+  <br>*Crossref | 2026-08-28 | doi:10.26434/chemrxiv.15008004/v1 | score 14*
+  <br>Wolpert, Dshemuchadse
+
+  Simplified models have long played an important role in materials modelling, from hard-particle and lattice models to coarse-grained descriptions of molecules, polymers, colloids, and frameworks. The value of simplified models is not just computational efficiency. Reducing microscopic degrees of freedom while retaining macroscopic behaviour can reveal which physical and chemical ingredients are responsible for a material’s structure and properties. Simplified models can therefore occupy a middle ground between detailed simulation, which seeks to represent specific materials accurately, and abstract theory, which seeks general principles. In this Perspective, we discuss how simplified models...
+
+  `matched: materials design, polymer`
+
+
+- **[Diagnosing and narrowing the simulation-to-real gap in powder X-ray diffraction with a wet-dry agentic loop](http://arxiv.org/abs/2608.22400v1)**
+  <br>*arXiv | 2026-08-23 | score 14*
+  <br>Shaoguang Wang, Weiyu Guo, Ben Fei, Xiaohong Shao et al.
+
+  Powder X-ray diffraction (PXRD) is the routine probe of crystalline matter, yet its analysis is the rate-limiting step as laboratories automate acquisition. Deep-learning analyzers excel on simulated patterns and degrade on measured ones. This simulation-to-real gap is structural, not additive: synthetic denoising gives no measurable lift on real spectra, whereas correcting a small peak-position drift more than doubles median retrieval correlation. Real-spectrum fine-tuning, peak-aligned reranking, and recalibration narrow what remains and restore the coverage synthetic anchors lose. Xtalyst integrates these in an agent-orchestrated system spanning phase identification, refinement, and calib...
+
+  `matched: x-ray diffraction, crystal, agentic`
+
+
+- **[Integration of Machine Learning and Solid-State Chemistry for the Discovery of Electrochemical Materials for Fuel Cells and Electrolyzers](https://doi.org/10.5281/zenodo.22021890)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-20 | doi:10.5281/zenodo.22021890 | score 14*
+  <br>Vitaly Oustinov
+
+  Abstract This review provides a comprehensive analysis of contemporary approaches to integrating machine learning with solid-state chemistry for the rational design and accelerated discovery of electrochemical materials for solid oxide fuel cells (SOFCs), solid oxide electrolysis cells (SOECs), and reversible solid oxide cells (RSOCs). The fundamental crystallochemical and defect-chemical factors governing ionic transport, protonic and oxide-ion conductivity, chemical stability, and electrocatalytic activity are systematically examined. The role of large-scale computational materials databases, including the Materials Project, Open Quantum Materials Database (OQMD), AFLOW, NOMAD, and the Ope...
+
+  `matched: materials project, machine learning, crystal`
+
+
+- **[Integration of Machine Learning and Solid-State Chemistry for the Discovery of Electrochemical Materials for Fuel Cells and Electrolyzers](https://doi.org/10.5281/zenodo.22021889)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-20 | doi:10.5281/zenodo.22021889 | score 14*
+  <br>Vitaly Oustinov
+
+  Abstract This review provides a comprehensive analysis of contemporary approaches to integrating machine learning with solid-state chemistry for the rational design and accelerated discovery of electrochemical materials for solid oxide fuel cells (SOFCs), solid oxide electrolysis cells (SOECs), and reversible solid oxide cells (RSOCs). The fundamental crystallochemical and defect-chemical factors governing ionic transport, protonic and oxide-ion conductivity, chemical stability, and electrocatalytic activity are systematically examined. The role of large-scale computational materials databases, including the Materials Project, Open Quantum Materials Database (OQMD), AFLOW, NOMAD, and the Ope...
+
+  `matched: materials project, machine learning, crystal`
+
+
+- **[The Past and Future of AI Scientists](http://arxiv.org/abs/2608.14407v1)**
+  <br>*arXiv | 2026-08-14 | score 14*
+  <br>Ross D. King
+
+  We present a survey of the past and future of AI Scientists: machines capable of automating science. AI Scientists can originate hypotheses, deduce their consequences, design and execute experiments, interpret their results, and revise their beliefs. Such systems are integrated scientific agents, connected to the literature, formal knowledge, mathematical models, simulations, data-analysis systems and physical laboratories. Adam was the first machine to make novel scientific discoveries through cycles of hypothesis formation and physical experimentation. Eve established the architecture of the modern self-driving laboratory. Foundation models, autonomous agents and laboratory robotics now ma...
+
+  `matched: foundation model, self-driving lab`
+
+
+- **[Multiscale Modelling of Ferroelectrics using a Physics-Informed Neural Network Driven by Molecular Dynamics Data: Parameter Identification and Field Reconstruction](http://arxiv.org/abs/2608.24733v1)**
+  <br>*arXiv | 2026-08-25 | score 13*
+  <br>Xuejian Wang, Frank Wendler, Hikaru Auzuma, Michael Zaiser et al.
+
+  In multiscale modeling of ferroelectrics, combining atomistic simulation with continuum-scale phase-field models (PFM) remains a fundamental challenge. A key difficulty lies in faithfully capturing discrete atomic-level information within a continuum modeling framework, while accurately representing material behavior at the mesoscale. In this paper, a Physics-Informed Neural Network (PINN) driven by molecular dynamics (MD) data is used. The loss function of the network consists of a supervised term that fits the discrete spatial polarization distributions obtained from MD simulations of systems containing domain walls, and a physics-based term that incorporates the residuals of partial diffe...
+
+  `matched: molecular dynamics, neural network`
+
+
+- **[Active learning molecular beam epitaxy of complex quantum materials](http://arxiv.org/abs/2608.17742v1)**
+  <br>*arXiv | 2026-08-18 | score 13*
+  <br>Raghutheja Bollampally, Soumya Sankar, Yuqi Qin, Berthold Jäck
+
+  The integration of machine learning (ML) into materials science offers a transformative pathway toward fully autonomous synthesis workflows. For precise thin-film deposition techniques like molecular beam epitaxy (MBE), this automation is critical to overcome the time-consuming, manual navigation of high-dimensional thermodynamic phase spaces. Existing approaches for ML-assisted thin film growth predominantly rely on continuous Bayesian optimization (BO) models that assume smooth parameter landscapes. Consequently, they struggle to capture the abrupt crystallographic phase boundaries and narrow growth windows inherent to binary quantum materials. Here, we demonstrate an active learning proto...
+
+  `matched: machine learning, active learning, crystal`
+
+
+- **[Machine Learning-Accelerated Band-Edge Engineering of Pnictogen Chalcohalide Solid Solutions for Solar Energy Technologies](http://arxiv.org/abs/2608.16611v1)**
+  <br>*arXiv | 2026-08-17 | score 13*
+  <br>Cibrán López, David Rovira, Edgardo Saucedo, Claudio Cazorla
+
+  Pnictogen chalcohalide (MChX; M=Bi,Sb; Ch=S,Se; X=I,Br) solid solutions combine earth-abundant constituents, tunable band gaps ($1.2$-$2.1$ eV), and strong optical absorption, making them attractive for solar energy conversion. Yet their vast compositional space has so far prevented a systematic assessment of how band-edge positions vary with stoichiometry and surface termination. Here, we combine first-principles density functional theory with machine learning to predict the valence and conduction band-edge positions of $\mathrm{Bi}_x\mathrm{Sb}_{1-x}\mathrm{S}_y\mathrm{Se}_{1-y}\mathrm{I}_z\mathrm{Br}_{1-z}$ solid solutions across their full compositional range on the two most stable surfa...
+
+  `matched: density functional theory, machine learning, band gap`
+
+
+---
+
+
+## 2026-08-28
+
 46 new item(s). Top hit: **Insights into Lithium Diffusion in Crystalline and Amorphous Solid Electrolytes with Machine Learning Interato** (score 53, Crossref).
 
 ### Journal articles
