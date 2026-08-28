@@ -11,6 +11,158 @@ from agent.summary import MODEL_FIELDS, _doi_cell, _fmt, _params, sort_models, s
 
 NL = "\n"
 
+FORM_CSS = """
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: .5rem 0;
+}
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+.form-group label {
+  font-weight: bold;
+  margin-bottom: .2rem;
+}
+input[type="text"].form-input, select, textarea {
+  width: 100%;
+  padding: .4rem;
+  border: 1px solid var(--border);
+  font-size: .95rem;
+  font-family: Arial, sans-serif;
+}
+textarea {
+  height: 140px;
+  font-family: Consolas, monospace;
+}
+.btn {
+  padding: .5rem 1rem;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: .95rem;
+  margin: .5rem .5rem .5rem 0;
+}
+.btn:hover { background: #083d7a; }
+.output {
+  background: #f4f4f4;
+  border: 1px solid var(--border);
+  padding: .8rem;
+  font-family: Consolas, monospace;
+  white-space: pre-wrap;
+  max-width: 100%;
+  overflow-x: auto;
+}
+"""
+
+UPDATE_FORM_HTML = """
+<section class="caveat">
+<h2>Contribute missing data</h2>
+<p>Fill in a row below and click the button to generate the JSON snippet. Then paste it into <code>manual_data.json</code> and rerun <code>build_summary.py</code>. This is a convenience form for the same file; it does not edit the repository directly.</p>
+
+<h3>Add / update a model</h3>
+<div class="form-grid">
+  <div class="form-group"><label>Model name</label><input type="text" id="m-name" class="form-input" placeholder="MACE-MPA-0"></div>
+  <div class="form-group"><label>Field</label><input type="text" id="m-field" class="form-input" placeholder="kappa_srme"></div>
+  <div class="form-group"><label>Value</label><input type="text" id="m-value" class="form-input" placeholder="0.412"></div>
+  <div class="form-group"><label>Notes</label><input type="text" id="m-notes" class="form-input" placeholder="from Table 2"></div>
+</div>
+<button class="btn" onclick="addModel()">Add model to JSON</button>
+
+<h3>Add / update a study</h3>
+<div class="form-grid">
+  <div class="form-group"><label>DOI or key</label><input type="text" id="s-doi" class="form-input" placeholder="10.1234/example"></div>
+  <div class="form-group"><label>Title</label><input type="text" id="s-title" class="form-input" placeholder="Paper title"></div>
+  <div class="form-group"><label>Models (comma-separated)</label><input type="text" id="s-models" class="form-input" placeholder="MACE, CHGNet"></div>
+  <div class="form-group"><label>Materials (comma-separated)</label><input type="text" id="s-materials" class="form-input" placeholder="Li3YCl6"></div>
+  <div class="form-group"><label>Methods (comma-separated)</label><input type="text" id="s-methods" class="form-input" placeholder="DFT, MD"></div>
+  <div class="form-group"><label>Metric name</label><input type="text" id="s-metric-name" class="form-input" placeholder="MAE"></div>
+  <div class="form-group"><label>Metric value</label><input type="text" id="s-metric-value" class="form-input" placeholder="0.025"></div>
+  <div class="form-group"><label>Metric unit</label><input type="text" id="s-metric-unit" class="form-input" placeholder="eV/atom"></div>
+  <div class="form-group"><label>Sort value (0-100)</label><input type="text" id="s-sort" class="form-input" placeholder="97.5"></div>
+  <div class="form-group"><label>Notes</label><input type="text" id="s-notes" class="form-input" placeholder="from results table"></div>
+</div>
+<button class="btn" onclick="addStudy()">Add study to JSON</button>
+
+<h3>Output JSON</h3>
+<button class="btn" onclick="copyJson()">Copy to clipboard</button>
+<button class="btn" onclick="downloadJson()">Download JSON file</button>
+<pre class="output" id="json-output"></pre>
+</section>
+"""
+
+UPDATE_JS = """
+const manualData = { models: {}, studies: {} };
+
+function toArr(id) {
+  const v = document.getElementById(id).value.trim();
+  return v ? v.split(',').map(s => s.trim()).filter(Boolean) : [];
+}
+
+function asValue(v) {
+  if (v === '') return '';
+  const n = parseFloat(v);
+  return isNaN(n) ? v : n;
+}
+
+function addModel() {
+  const name = document.getElementById('m-name').value.trim();
+  const field = document.getElementById('m-field').value.trim();
+  const value = document.getElementById('m-value').value;
+  const notes = document.getElementById('m-notes').value.trim();
+  if (!name || !field) { alert('Model name and field are required'); return; }
+  if (!manualData.models[name]) manualData.models[name] = {};
+  manualData.models[name][field] = asValue(value);
+  if (notes) manualData.models[name].notes = notes;
+  showJson();
+}
+
+function addStudy() {
+  const doi = document.getElementById('s-doi').value.trim();
+  if (!doi) { alert('DOI is required'); return; }
+  const metrics = [];
+  const mn = document.getElementById('s-metric-name').value.trim();
+  const mv = document.getElementById('s-metric-value').value.trim();
+  const mu = document.getElementById('s-metric-unit').value.trim();
+  if (mn) metrics.push([mn, asValue(mv), mu]);
+  manualData.studies[doi] = {
+    title: document.getElementById('s-title').value.trim(),
+    models: toArr('s-models'),
+    materials: toArr('s-materials'),
+    methods: toArr('s-methods'),
+    metrics: metrics,
+    sort_value: asValue(document.getElementById('s-sort').value),
+    notes: document.getElementById('s-notes').value.trim()
+  };
+  showJson();
+}
+
+function showJson() {
+  document.getElementById('json-output').textContent = JSON.stringify(manualData, null, 2);
+}
+
+function copyJson() {
+  const txt = document.getElementById('json-output').textContent;
+  if (!txt) { alert('Nothing to copy'); return; }
+  navigator.clipboard.writeText(txt).then(() => alert('Copied to clipboard'));
+}
+
+function downloadJson() {
+  const txt = document.getElementById('json-output').textContent;
+  if (!txt) { alert('Nothing to download'); return; }
+  const blob = new Blob([txt], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'manual_data_patch.json';
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+}
+"""
+
 
 def _b(text) -> str:
     return html_module.escape(str(text) if text is not None else "")
@@ -254,6 +406,7 @@ tr:hover {{ background: #eef4fb; }}
   font-size: .85rem;
   color: #666;
 }}
+{FORM_CSS}
 </style>
 </head>
 <body>
@@ -373,7 +526,7 @@ tr:hover {{ background: #eef4fb; }}
 </ul>
 </section>
 
-<div class="footer">
+{UPDATE_FORM_HTML}<div class="footer">
   Download: <a href="data/model_performance.csv">CSV</a> ·
   <a href="MODEL_PERFORMANCE.md">Markdown</a> ·
   <a href="MODEL_PERFORMANCE.docx">Word</a> ·
@@ -412,6 +565,7 @@ function filterTable(id, input) {{
     tr.style.display = tr.textContent.toLowerCase().includes(filter) ? '' : 'none';
   }});
 }}
+{UPDATE_JS}
 </script>
 </body>
 </html>
