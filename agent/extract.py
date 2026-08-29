@@ -315,12 +315,29 @@ def sort_value(metrics: List[Tuple[str, float, str]]) -> Optional[float]:
     return None
 
 
+def _title_key(title: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", title.lower())
+
+
 def build_studies(entries: List[Dict], lexicon: List[str]) -> List[Dict]:
+    def has_doi(entry: Dict) -> bool:
+        doi = entry.get("doi") or ""
+        url = entry.get("url") or ""
+        return (bool(doi) and doi.startswith("10.")) or "doi.org" in url
+
+    # Prefer DOI-bearing records and longer abstracts, then drop title duplicates.
+    def sort_key(entry: Dict):
+        return (-int(has_doi(entry)), -len(entry.get("text", "")), entry.get("title", ""))
+
     studies = []
-    for entry in entries:
+    seen = {}
+    for entry in sorted(entries, key=sort_key):
+        key = _title_key(entry["title"])
+        if key in seen:
+            continue
         text = entry["title"] + ". " + entry["text"]
         metrics = find_metrics(text)
-        studies.append({
+        study = {
             "title": entry["title"],
             "url": entry["url"],
             "doi": entry["doi"],
@@ -331,5 +348,7 @@ def build_studies(entries: List[Dict], lexicon: List[str]) -> List[Dict]:
             "methods": find_labelled(text, CALC_METHODS),
             "metrics": metrics,
             "sort_value": sort_value(metrics),
-        })
+        }
+        seen[key] = study
+        studies.append(study)
     return studies
