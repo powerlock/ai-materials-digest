@@ -6,6 +6,198 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-08-29
+
+21 new item(s). Top hit: **Machine learning interatomic potential study of grain boundaries thermal conductance and tensile strength in h** (score 39, Mendeley Data).
+
+### Journal articles
+
+- **[Machine learning interatomic potential study of grain boundaries thermal conductance and tensile strength in hexagonal boron nitride](https://doi.org/10.17632/c5pynk4jyj)**
+  <br>*Mendeley Data | 2026-08-28 | doi:10.17632/c5pynk4jyj | score 39*
+  <br>Bohayra Mortazavi
+
+  Fig. S1.jpg shows the effect of system length on the room-temperature interfacial thermal conductance of the representative 0h-N-s grain boundary. hBN.extxyz and hBN.cfg contain the AIMD datasets generated in this work, provided in extended XYZ (EXTXYZ) and CFG formats, respectively. In the CFG files, atom types 5 and 7 correspond to boron (B) and nitrogen (N), respectively. hBN.mtp is the trained MTP developed in this work for modeling the mechanical response and thermal transport of grain boundaries in monolayer h-BN. In this potential file, atom types 0 and 1 correspond to boron (B) and nitrogen (N), respectively. Light_hBN.mtp is a faster MTP version for accelerated simulations. AIMD.tar...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, dataset`
+
+
+- **[Machine learning interatomic potential study of grain boundaries thermal conductance and tensile strength in hexagonal boron nitride](https://doi.org/10.17632/c5pynk4jyj.1)**
+  <br>*Mendeley Data | 2026-08-28 | doi:10.17632/c5pynk4jyj.1 | score 39*
+  <br>Bohayra Mortazavi
+
+  Fig. S1.jpg shows the effect of system length on the room-temperature interfacial thermal conductance of the representative 0h-N-s grain boundary. hBN.extxyz and hBN.cfg contain the AIMD datasets generated in this work, provided in extended XYZ (EXTXYZ) and CFG formats, respectively. In the CFG files, atom types 5 and 7 correspond to boron (B) and nitrogen (N), respectively. hBN.mtp is the trained MTP developed in this work for modeling the mechanical response and thermal transport of grain boundaries in monolayer h-BN. In this potential file, atom types 0 and 1 correspond to boron (B) and nitrogen (N), respectively. Light_hBN.mtp is a faster MTP version for accelerated simulations. AIMD.tar...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, dataset`
+
+
+- **[Atomistic simulations of high-entropy alloys: from density functional theory to machine-learning interatomic potentials](https://doi.org/10.1007/s10853-026-13520-2)**
+  <br>*Journal of Materials Science | 2026-08-29 | doi:10.1007/s10853-026-13520-2 | score 28*
+  <br>Ikeda, Xu, Kumar, Neugebauer et al.
+
+  Abstract High-entropy alloys (HEAs) exhibit exceptional structural and functional properties arising from their complex local chemical environments, and their vast compositional space offers considerable flexibility to further tune and optimize these properties. Atomistic simulations based on density functional theory (DFT) have played a central role in elucidating the thermodynamic, mechanical, magnetic, and defect-related properties of HEAs. However, DFT simulations are severely limited by the intrinsic chemical and configurational complexity of these alloys, particularly because reliable predictions require extensive statistical sampling over chemically diverse configurations and access t...
+
+  `matched: density functional theory, interatomic potential, magnet, alloy, dft`
+
+
+- **[Ferroelastic hysteresis, shear modulus softening, and the tetragonal↔cubic transition in davemaoite](https://doi.org/10.1126/sciadv.aed7601)**
+  <br>*Science Advances | 2026-08-28 | doi:10.1126/sciadv.aed7601 | score 27*
+  <br>Tianqi Wan, Chenxing Luo, Zhen Zhang, Yang Sun
+
+  Cubic CaSiO 3 -perovskite (davemaoite), the third most abundant mineral in Earth’s lower mantle, remains a key uncertainty in deep-Earth models. Using machine learning interatomic potentials and molecular dynamics simulations, we present a direct evidence of pronounced ferroelastic hysteresis near its tetragonal↔cubic transition. By isolating the intrinsic elastic response from anelastic relaxation and nonhydrostatic stress, we establish a robust upper-bound benchmark for sound velocities and elasticity models while revealing pronounced shear modulus softening across the transition. The confirmed ferroelasticity suggests substantial strain memory, seismic wave scattering, and strong attenuat...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, perovskite, benchmark`
+
+
+- **[Crystal structure prediction with nuclear quantum and finite-temperature effects via deep free energy learning](https://doi.org/10.1103/3qjr-mgv7)**
+  <br>*Physical review. B./Physical review. B | 2026-08-28 | doi:10.1103/3qjr-mgv7 | score 23*
+  <br>Anonymous
+
+  `matched: crystal structure prediction, crystal`
+
+
+- **[ase-calculator-kit: a unified ASE calculator factory for MLIP and DFT calculators](https://doi.org/10.5281/zenodo.21807793)**
+  <br>*Open MIND | 2026-08-28 | doi:10.5281/zenodo.21807793 | score 21*
+  <br>Taishiro Wakamiya, Atsushi Ishikawa
+
+  A thin, unified ASE calculator factory for machine-learning interatomic potentials (SevenNet, CHGNet, MatterSim, NequIP OAM, UMA/fairchem, MACE) and external DFT calculators (VASP, Quantum ESPRESSO). Every call returns a standard ase.Calculator, so the rest of an ASE workflow stays unchanged.
+
+  `matched: interatomic potential, mattersim, dft`
+
+
+- **[ase-calculator-kit: a unified ASE calculator factory for MLIP and DFT calculators](https://doi.org/10.5281/zenodo.22139209)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-28 | doi:10.5281/zenodo.22139209 | score 21*
+  <br>Taishiro Wakamiya, Atsushi Ishikawa
+
+  A thin, unified ASE calculator factory for machine-learning interatomic potentials (SevenNet, CHGNet, MatterSim, NequIP OAM, UMA/fairchem, MACE) and external DFT calculators (VASP, Quantum ESPRESSO). Every call returns a standard ase.Calculator, so the rest of an ASE workflow stays unchanged.
+
+  `matched: interatomic potential, mattersim, dft`
+
+
+- **[Commentary on ten selected 2025 papers in AI for Materials Science](https://doi.org/10.20517/jmi.2026.36)**
+  <br>*Journal of Materials Informatics | 2026-08-27 | doi:10.20517/jmi.2026.36 | score 19*
+  <br>Yi Liu (36759)
+
+  The integration of artificial intelligence into materials science has matured significantly in 2025, transitioning from surrogate property prediction to foundational atomistic models, generative inverse design, and autonomous experimental discovery.The following ten papers [1][2][3][4][5][6][7][8][9][10] , published in high-impact journals, exemplify the current frontiers, methodological diversity, and remaining challenges of this interdisciplinary domain. PET-MAD (NATURE COMMUNICATIONS [1] )PET-MAD [1] introduces a lightweight, universal interatomic potential based on the Point Edge Transformer, trained on the Massive Atomistic Diversity (MAD) dataset.Despite a compact training set, it achi...
+
+  `matched: artificial intelligence, interatomic potential, inverse design, transformer, dataset`
+
+
+- **[DFT and machine learning insights into productive versus self-metathesis selectivity in ruthenium-catalyzed ethenolysis](https://doi.org/10.1016/j.jcat.2026.117142)**
+  <br>*Journal of Catalysis | 2026-08-29 | doi:10.1016/j.jcat.2026.117142 | score 13*
+  <br>Trujillo-González, Szychta, Poater, Alegre-Requena et al.
+
+  `matched: machine learning, dft`
+
+
+- **[PCFM-based small-sample data augmentation and inverse design of an all-dielectric metasurface supporting triple Fano resonances](https://doi.org/10.1016/j.optcom.2026.133711)**
+  <br>*Optics Communications | 2026-08-29 | doi:10.1016/j.optcom.2026.133711 | score 13*
+  <br>Hou, Chen, Wu, Zhou et al.
+
+  `matched: inverse design`
+
+
+- **[Atomistic Simulation Frameworks for Lithium-Ion Battery Materials: From First-Principles to Machine Learning Potentials](https://doi.org/10.1007/s42493-026-00160-6)**
+  <br>*Multiscale Science and Engineering | 2026-08-26 | doi:10.1007/s42493-026-00160-6 | score 13*
+  <br>Ijaz Ul Haq, Seungjun Lee
+
+  `matched: machine learning, battery`
+
+
+- **[A multi-scale mixture of experts model for cross-size structural prediction of Cu nanoparticles](https://doi.org/10.1038/s41524-026-02280-x)**
+  <br>*npj Computational Materials | 2026-08-27 | doi:10.1038/s41524-026-02280-x | score 12*
+  <br>Yunyu Zhang, Keith T. Butler, C. Richard A. Catlow
+
+  Abstract Predicting structures and energetics of metallic nanoparticles across wide size ranges remains challenging because the balance of interaction scales changes rapidly with system size. We introduce a multi-scale Mixture-of-Experts (MoE) architecture for Cu clusters and nanoparticles that explicitly separates short-, medium-, and long-range interactions using three specialised machine-learning interatomic potential experts combined through a learnable size-conditioned gating network. The resulting MoE aggregates per-atom energies into a single conservative potential, ensuring forces are obtained as energy gradients and enabling stable molecular dynamics. Across mixed cluster-nanopartic...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Volumetric reference data of the orbit: a deep learning MRI analysis in the German national cohort](https://doi.org/10.1038/s41598-026-68393-x)**
+  <br>*Scientific Reports | 2026-08-29 | doi:10.1038/s41598-026-68393-x | score 9*
+  <br>Farassat, Reisert, Rospleszcz, Rod et al.
+
+  Abstract Manual segmentation of orbital magnetic resonance imaging (MRI) is labor-intensive, hindering large-scale morphometric studies. To overcome this, we developed a fully automated deep learning pipeline to segment orbital MRIs and establish age- and sex-stratified normative reference data. We analyzed T1-weighted brain MRIs from 30,868 participants in the population-based German National Cohort (NAKO). After quality control, 28,779 participants (mean age 48.1 years; 44.1% female) were included. The model, validated against expert manual segmentations, accurately extracted 34 volumetric and geometric parameters across 15 orbital structures (Dice Similarity Coefficients: vitreous 0.97, l...
+
+  `matched: deep learning, magnet`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Cross-Scale Assessment of MACE Foundation Models and from Scratch Trained Potentials for Bi-Pt Systems](https://doi.org/10.26434/chemrxiv.15007985/v1)**
+  <br>*ChemRxiv | 2026-08-27 | doi:10.26434/chemrxiv.15007985/v1 | score 35*
+  <br>Quang-Phuc Ngo, Minh-Tue Truong, Dominik Domin, Jonathan Balde
+
+  Machine learning interatomic potentials (MLIPs) offer a computationally efficient alternative to first-principles methods for atomistic simulations, but their performance beyond the configurations represented in their training data remains difficult to assess. Here, we benchmark four pretrained MACE foundation models (MP-0b3, MPA, OMAT, and MATPES) against two MACE potentials trained specifically on Bi-Pt configurations . The models are first evaluated for structural relaxation and vibrational properties of a Bi18Pt24 nanocage using DFT as a reference. The best-performing foundation model, OMAT, is then assessed at the bulk scale for the equilibrium structure, phonon dispersion, and melting...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, foundation model, benchmark, phonon`
+
+
+- **[Benchmarking of Fast and Interpretable UF Machine Learning Potentials](https://doi.org/10.48550/arxiv.2608.27277)**
+  <br>*arXiv (Cornell University) | 2026-08-27 | doi:10.48550/arxiv.2608.27277 | score 35*
+  <br>Pawan Prakash, Sam Dong, Richard G. Hennig
+
+  Machine learning interatomic potentials (MLIPs) have emerged as a powerful alternative to density functional theory (DFT) for molecular dynamics simulations, offering near-DFT accuracy at a fraction of the computational cost. However, many state-of-the-art MLIPs remain computationally demanding and act as black boxes, limiting physical interpretability. In this work, we evaluate the ultra-fast force field (UF$^3$) potential, which employs linear regression with cubic B-spline basis to represent effective two- and three-body interactions. We show that UF$^3$ displays accuracy comparable to established models such as GAP, MTP, NNP (Behler Parrinello), and qSNAP MLIPs. We further investigate th...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, molecular dynamics, machine learning, benchmark`
+
+
+- **[Text Embedding-Assisted Prediction of Corrosion Inhibition Efficiency Using Machine Learning under Small-Sample Conditions](https://doi.org/10.26434/chemrxiv.15007865/v1)**
+  <br>*Crossref | 2026-08-26 | doi:10.26434/chemrxiv.15007865/v1 | score 12*
+  <br>Liu, Fu, Wang, Cao et al.
+
+  Machine learning has been increasingly applied to corrosion prediction, but limited experimental data remain a challenge for small-sample prediction. This study investigates how text embedding can be used as a molecular representation for predicting the corrosion inhibition efficiency of organic inhibitors for ZE41 magnesium alloy. An experimental dataset containing 75 inhibitors was used, with 60 samples for training and 15 samples for testing. Conventional molecular descriptors were combined with text embeddings generated using ChemBERTa and Qwen-text-embedding-v4, and five feature construction strategies were compared to examine the effects of embedding dimensionality and feature integrat...
+
+  `matched: machine learning, dataset, alloy`
+
+
+- **[Designing High-Entropy Alloys: From Physical Metallurgy to Machine Learning Enabled Discovery](https://doi.org/10.20944/preprints202608.1952.v1)**
+  <br>*Preprints.org | 2026-08-27 | doi:10.20944/preprints202608.1952.v1 | score 11*
+  <br>Manish Mandal, Mohd Bilal Khan
+
+  High-entropy alloys (HEAs) are characterized by having more than one principal element in contrast to a traditional alloy with only one base element; this provides a much wider composition space compared to traditional alloys, hence HEAs have been the most studied metal alloys in the last couple of decades. This review links the fundamentals of these materials to the data-driven methods now used to design them. The first part of this review describes the fundamentals of these materials, including the thermodynamic and kinetic basis of these materials and an entropy-based classification. The subsequent parts of this review describe the synthesis routes of these materials via liquid-state, sol...
+
+  `matched: machine learning, alloy`
+
+
+- **[Docking-Score Landscapes Shape Active-Learning Performance across Vina, Glide, and SILCS](https://doi.org/10.26434/chemrxiv-2025-3t356/v2)**
+  <br>*Crossref | 2026-08-28 | doi:10.26434/chemrxiv-2025-3t356/v2 | score 10*
+  <br>Chung, Bhatt, Levine, Lin et al.
+
+  The rapid expansion of large chemical libraries has created a need for virtual screening workflows that are both efficient and accurate. Active learning (AL) offers a scalable strategy by iteratively training surrogate models to prioritize promising compounds and reduce the number of required docking calculations. However, direct benchmarking of active-learning protocols across docking engines remains limited. In this study, we ask whether docking scores generated by different docking engines affect AL performance and what factors underlie these differences. To do so, we compare four active-learning virtual screening workflows, Vina-MolPAL, Glide-MolPAL, SILCS-MolPAL, and Schrödinger’s activ...
+
+  `matched: surrogate model, active learning, benchmark`
+
+
+- **[Grain-Boundary Premelting in High-Entropy Transition Metal Carbides](http://arxiv.org/abs/2608.27273v1)**
+  <br>*arXiv | 2026-08-27 | score 10*
+  <br>Marium M. Mou, Caleb Schenck, Samuel E. Daigle, William G. Fahrenholtz et al.
+
+  Grain-boundary segregation and thermally induced interfacial disordering were investigated in four high-entropy transition metal carbides using Monte Carlo (MC) sampling and molecular dynamics (MD) with the universal MACE-OMAT-0 machine-learning interatomic potential. MC sampling segregated the group-VI element (Cr, Mo, or W) and Zr to grain boundaries, where the group-VI content reached approximately 45 at.%, consistent with STEM-EDS observations. During MD heating, the grain-boundary Lindemann index, a normalized measure of interatomic distance fluctuations, reached the liquid-like threshold of $δ=0.15$ near $1390^{\circ}\mathrm{C}$ for the Cr-containing carbides, $1660^{\circ}\mathrm{C}$...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Grain-Boundary Premelting in High-Entropy Transition Metal Carbides](https://doi.org/10.48550/arxiv.2608.27273)**
+  <br>*arXiv (Cornell University) | 2026-08-27 | doi:10.48550/arxiv.2608.27273 | score 10*
+  <br>Marium M. Mou, C. Schenck, Samuel Daigle, William G. Fahrenholtz
+
+  Grain-boundary segregation and thermally induced interfacial disordering were investigated in four high-entropy transition metal carbides using Monte Carlo (MC) sampling and molecular dynamics (MD) with the universal MACE-OMAT-0 machine-learning interatomic potential. MC sampling segregated the group-VI element (Cr, Mo, or W) and Zr to grain boundaries, where the group-VI content reached approximately 45 at.%, consistent with STEM-EDS observations. During MD heating, the grain-boundary Lindemann index, a normalized measure of interatomic distance fluctuations, reached the liquid-like threshold of $δ=0.15$ near $1390^{\circ}\mathrm{C}$ for the Cr-containing carbides, $1660^{\circ}\mathrm{C}$...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows](http://arxiv.org/abs/2608.26016v1)**
+  <br>*arXiv | 2026-08-26 | score 10*
+  <br>Yuki K. Wakabayashi, Takuma Otsuka
+
+  Self-driving laboratories (SDLs) are transforming materials research by closing the loop among synthesis, characterization, data analysis and experimental decision making. Bayesian optimization (BO) is a decision engine for these loops because it can select experiments from scarce and noisy data while balancing exploitation and exploration. Yet real materials campaigns often depart from the standard black-box setting, involving failed or missing experiments, noise and drift, mixed variables, constraints, multiple objectives, variable cost and fidelity, transfer from historical data, batch or asynchronous operation, and prior physics knowledge. This review presents BO for materials SDLs throu...
+
+  `matched: self-driving lab`
+
+
+---
+
+
 ## 2026-08-28
 
 45 new item(s). Top hit: **The CHGNet uMLIP model fine-tuned for 2Hc-WS2** (score 24, Zenodo (CERN European Organization for Nuclear Research)).
