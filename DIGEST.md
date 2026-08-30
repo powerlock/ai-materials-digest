@@ -6,6 +6,47 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-08-30
+
+4 new item(s). Top hit: **High-quality, high-information datasets for universal atomistic machine learning** (score 14, NCCR MARVEL).
+
+### Journal articles
+
+- **[High-quality, high-information datasets for universal atomistic machine learning](https://doi.org/10.24435/materialscloud:74-84)**
+  <br>*NCCR MARVEL | 2026-08-29 | doi:10.24435/materialscloud:74-84 | score 14*
+  <br>Cesare Malosso, Filippo Bigi, Paolo Pegolo, Joseph W. Abbott
+
+  The quality, consistency, and information content of training data is often what determines the practical value of machine-learning models for atomistic simulations. Yet, many widely used electronic-structure databases are assembled having materials screening as primary goal rather than robust force-field learning, are limited in their scope to a specific class of chemical compounds, and/or employ inconsistent DFT functionals and settings. Here we introduce MAD-1.6, a highly curated dataset designed explicitly for training broadly applicable atomistic models across the periodic table at high levels of theory. MAD-1.6 extends the MAD dataset with targeted enrichment strategies that improve th...
+
+  `matched: machine learning, dataset, dft`
+
+
+- **[High-quality, high-information datasets for universal atomistic machine learning](https://doi.org/10.24435/materialscloud:vm-51)**
+  <br>*NCCR MARVEL | 2026-08-29 | doi:10.24435/materialscloud:vm-51 | score 14*
+  <br>Cesare Malosso, Filippo Bigi, Paolo Pegolo, Joseph W. Abbott
+
+  The quality, consistency, and information content of training data is often what determines the practical value of machine-learning models for atomistic simulations. Yet, many widely used electronic-structure databases are assembled having materials screening as primary goal rather than robust force-field learning, are limited in their scope to a specific class of chemical compounds, and/or employ inconsistent DFT functionals and settings. Here we introduce MAD-1.6, a highly curated dataset designed explicitly for training broadly applicable atomistic models across the periodic table at high levels of theory. MAD-1.6 extends the MAD dataset with targeted enrichment strategies that improve th...
+
+  `matched: machine learning, dataset, dft`
+
+
+- **[Learning 3D void growth and coalescence in heterogeneous polycrystalline materials using vision Transformer models](https://doi.org/10.1016/j.engfracmech.2026.112576)**
+  <br>*Engineering Fracture Mechanics | 2026-08-30 | doi:10.1016/j.engfracmech.2026.112576 | score 11*
+  <br>Wang, Yuan, Zhu, Zhao et al.
+
+  `matched: transformer, crystal`
+
+
+- **[DFA-Grasp: Depth Foundation Model-Augmented Transparent Object Depth Completion for Robotic Grasping](https://doi.org/10.1016/j.robot.2026.105733)**
+  <br>*Robotics and Autonomous Systems | 2026-08-30 | doi:10.1016/j.robot.2026.105733 | score 9*
+  <br>Fan, Li, Chen, Guo et al.
+
+  `matched: foundation model`
+
+
+---
+
+
 ## 2026-08-29
 
 21 new item(s). Top hit: **Machine learning interatomic potential study of grain boundaries thermal conductance and tensile strength in h** (score 39, Mendeley Data).
