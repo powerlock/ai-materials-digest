@@ -6,6 +6,132 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-08-31
+
+13 new item(s). Top hit: **uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Framework** (score 58, arXiv).
+
+### Journal articles
+
+- **[Accelerating Materials Discovery: A Review of Machine Learning in X‐Ray Absorption Spectroscopy](https://doi.org/10.1002/aisy.70529)**
+  <br>*Advanced Intelligent Systems | 2026-08-30 | doi:10.1002/aisy.70529 | score 34*
+  <br>Melaku Lake Tegegne, Haodong Yao, Liyuan Wu, Yihe Pang
+
+  X‐ray absorption spectroscopy (XAS) is a critical technique for probing the local structural and electronic properties of materials. Advanced synchrotron radiation facilities generate complex, high‐dimensional spectra, which pose significant challenges for traditional analysis methods while simultaneously offering unprecedented opportunities for machine learning (ML). This review systematically elaborates how ML models are driving the transformation of XAS data analysis. We not only cover supervised and unsupervised learning methods for spectral classification and clustering but also delve into cutting‐edge deep learning architectures. These include graph neural networks for precise “structu...
+
+  `matched: graph neural network, materials discovery, machine learning, neural network, deep learning`
+
+
+- **[Inverse design of functional materials: a case study in thermoelectrics](https://www.nature.com/articles/s41524-026-02307-3)**
+  <br>*npj Computational Materials | 2026-08-31 | doi:10.1038/s41524-026-02307-3 | score 21*
+
+  `matched: inverse design, thermoelectric`
+
+
+- **[Multiscale insights into the diffusion of SF6/N2 mixtures via machine-learning interatomic potentials](https://doi.org/10.1038/s41598-026-67691-8)**
+  <br>*Scientific Reports | 2026-08-30 | doi:10.1038/s41598-026-67691-8 | score 16*
+  <br>Ke Zhao, Hanyan Xiao, Tianxin Zhuang, Jinggang Yang
+
+  Sulfur hexafluoride (SF 6 ) is widely used as an insulating and arc-extinguishing medium in high-voltage electrical equipment due to its excellent dielectric properties and insulation performance. However, SF 6 is also a potent greenhouse gas, so mixing SF 6 with an inert gas such as N 2 is a promising way to reduce its usage. The diffusion properties of SF 6 /N 2 mixtures play a crucial role in gas-mixture separation or replenishment, because they determine the proportion and uniformity of the mixtures. By combining ab initio molecular dynamics (AIMD) and machine-learning molecular dynamics (MLMD) simulations of SF 6 and N 2 in SF 6 /N 2 mixtures, we systematically characterize their multis...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[MRI radiomics-based machine learning model for complete response classification after chemoradiotherapy in advanced rectal cancer](https://doi.org/10.1177/20552076261484806)**
+  <br>*DIGITAL HEALTH | 2026-08-31 | doi:10.1177/20552076261484806 | score 9*
+  <br>Min, Park, Kim, Jeon et al.
+
+  Objective Accurate identification of complete response (CR) after neoadjuvant chemoradiotherapy (NCRT) is essential for selecting candidates for watch-and-wait treatment in advanced rectal cancer. This study aimed to develop and evaluate a magnetic resonance imaging (MRI) radiomics-based machine learning model to classify CR and Non-CR in post-NCRT rectal MRI images. Methods Using region-of-interest masks, 107 radiomic features were extracted and normalized to a 0–1 range using min-max scaling. Four feature selection methods (ANOVA, RFE, SBS, and LASSO) were paired with four classifiers (LR, SVM, RF, and XGB), and all combinations were evaluated through 5-fold cross-validation in the trainin...
+
+  `matched: machine learning, magnet`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks](http://arxiv.org/abs/2608.28100v1)**
+  <br>*arXiv | 2026-08-28 | score 58*
+  <br>Théo Jaffrelot Inizan, Prathami Divakar Kamath, Alin Marin Elena, Kristin A. Persson
+
+  Foundation machine learning interatomic potentials (MLIPs) deliver near-ab-initio accuracy at a fraction of the computational cost, yet their promise for Metal-organic Frameworks (MOFs) remains largely unrealized as large unit cells make first-principles training data expensive to generate, fine-tuned models are scarce, and experimentally grounded benchmarks are scarcer still. We introduce uMOF, a three-part contribution addressing this gap. First, we release the largest and most accurate density functional theory dataset for MOFs to date, computed at the r$^2$SCAN-D4 level of theory across 85524 configurations spanning 19950 unique frameworks and 79 elements, covering empty and gas-loaded s...
+
+  `matched: machine learning interatomic potential, density functional theory, metal-organic framework, interatomic potential, machine learning, benchmark`
+
+
+- **[QUBO-Compatible Active Learning for Inverse Design of High-Entropy Alloys](http://arxiv.org/abs/2608.28239v1)**
+  <br>*arXiv | 2026-08-28 | score 25*
+  <br>Giorgio Silvi, Kirsten Bark, Rolando Reiner, Nicolas Vogt et al.
+
+  Machine-learned forward models can rapidly predict alloy properties, but their use for inverse design remains challenging when the search should also retain compatibility with quadratic unconstrained binary optimization (QUBO). Here, we develop a QUBO-compatible active-learning framework for inverse design of high-entropy alloys using a pretrained graph-neural-network predictor as a fixed property oracle. A property-guided binary variational autoencoder provides a binary latent representation, while an ensemble of quadratic factorization machines guides candidate selection. We systematically benchmark the framework through controlled latent-space ablations and comparison with direct composit...
+
+  `matched: active learning, inverse design, benchmark, alloy`
+
+
+- **[Realistic Simulations of Energy Materials Using Foundation Models and Electrode-Potential Learning](https://doi.org/10.26434/chemrxiv.15007895/v2)**
+  <br>*Crossref | 2026-08-31 | doi:10.26434/chemrxiv.15007895/v2 | score 24*
+  <br>Chae, Kim, Im, Lee et al.
+
+  Here, we evaluate SevenNet-Omni [Kim et al., Nat. Commun. 2026, 17, 3432], a universal machine-learning interatomic potential (MLIP), in realistic energy-material systems whose long timescale simulations are beyond the practical reach of density-functional theory (DFT). Tests span explicit solvation, metal-support interfaces, and reactive battery surfaces and interfaces, all of which involve realistic cross-domain interactions between inorganic materials and organic species. Without system-specific fine-tuning, SevenNet-Omni achieves sufficient accuracy for these out-of-domain systems, demonstrating strong transferability. To extend MLIPs to electrochemical systems, we also develop a model t...
+
+  `matched: interatomic potential, foundation model, inorganic, battery, dft`
+
+
+- **[OrbGNN: A Wave function-based Machine Learning Interelectronic Representation](http://arxiv.org/abs/2608.27806v1)**
+  <br>*arXiv | 2026-08-28 | score 22*
+  <br>Brody Quebedeaux, Shahzad Akram, Markus Reiher, Konstantinos D. Vogiatzis
+
+  Machine learning interatomic potentials (MLIPs) have become emerging tools in molecular modeling and computational chemistry. By learning high-dimensional potential energy surfaces from quantum chemical data, MLIPs enable accurate and efficient predictions of structural, thermodynamic, and dynamical properties. However, such models have limitations in predictions of electronic properties and the effects of static electron correlation due to their lack of electronic structure information. This work presents OrbGNN, an electronic structure graph architecture analogous to molecular graph and MLIP frameworks, where pair-orbital interactions constitute the graph representation, while orbital enta...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Workflow design as a research variable in computational materials discovery](https://doi.org/10.26434/chemrxiv.15008076/v1)**
+  <br>*Crossref | 2026-08-31 | doi:10.26434/chemrxiv.15008076/v1 | score 20*
+  <br>Kim
+
+  For decades, much of computational materials discovery has relied on campaign architectures whose high-level decision policies were written in advance by human researchers. Agentic AI changes this arrangement because choices of method, system, and next step can increasingly be made at runtime. The workflow can therefore become a deliberative trajectory rather than only a pre-authored graph. I argue that this shift creates a new layer of research design. The central questions are no longer only how capable scientific agents are, but which decision rights should be delegated, how frequently humans should intervene, how agents should be distributed within a laboratory, and how stochastic resear...
+
+  `matched: materials discovery, agentic`
+
+
+- **[Automated Dislocation Detection in Electron Channelling Contrast Imaging: A Comparative Study of Rule-Based, Neural Network, and Deep Learning Approaches](http://arxiv.org/abs/2608.28495v1)**
+  <br>*arXiv | 2026-08-28 | score 17*
+  <br>A. Holmes, C. Trager-Cowan, J. Bruckbauer, B. Hourahine
+
+  Quantifying threading dislocations in semiconductor materials via electron channelling contrast imaging (ECCI) is heavily bottlenecked by slow manual analysis. This work benchmarks three automated detection pipelines on ECCI micrographs of gallium nitride (GaN) against a statistical ground truth. A classical rule-based computer vision approach proved unreliable due to extensive per-image tuning requirements, while a convolutional neural network (CNN)-based multi-stage classification and locator method achieved 87% accuracy but required significant time for a test image and was less efficient in high-density regions. By contrast, a unified single-stage you only look once (YOLOv8) architecture...
+
+  `matched: neural network, deep learning, semiconductor, benchmark`
+
+
+- **[Compact Variational Neural Networks for Spectral Inference from a Single Nonlinear 2D Perovskite Photodetector](http://arxiv.org/abs/2608.27977v1)**
+  <br>*arXiv | 2026-08-28 | score 16*
+  <br>Karl Jonas Riisnaes, Ned Thaddeus Taylor, Hoi Tung Lam, Rosanna Mastria et al.
+
+  Spectroscopy conventionally separates optical frequencies before detection, imposing persistent constraints on footprint, complexity and scalability. Here we establish an alternative paradigm in which the nonlinear optoelectronic dynamics of a single two-dimensional perovskite photodetector physically encode the incident optical field and machine learning performs the inverse spectral reconstruction. Using a planar fluorinated phenethylammonium lead iodide (F-PEAI) photodetector, we exploit wavelength- and irradiance-dependent current-voltage signatures arising from the coupled effects of photocarrier generation, trapping, interfacial transport and field-dependent carrier dynamics. A compact...
+
+  `matched: machine learning, neural network, perovskite`
+
+
+- **[Work Function and High-Coverage Adsorption Energy as Hydrogen-Evolution Descriptors on Ag-Au-Pd-Pt Alloys](http://arxiv.org/abs/2608.28347v1)**
+  <br>*arXiv | 2026-08-28 | score 13*
+  <br>Zacharias Liasi, Ridha Zerdoumi, Felix Thelen, Geovane Arruda de Oliveira et al.
+
+  Hydrogen-evolution activity is commonly rationalized through hydrogen adsorption energies and the Sabatier principle, yet this descriptor picture becomes ambiguous on multimetallic surfaces, where each composition exposes a distribution of local adsorption environments. Here we investigate whether the bare-surface work function, previously shown to add predictive information for monometallic surfaces, remains an activity descriptor for compositionally complex surfaces. We test this on three combinatorial Ag-Au-Pd-Pt thin-film materials libraries screened for acidic hydrogen evolution by scanning electrochemical cell microscopy. Graph neural networks provide adsorption-energy distributions an...
+
+  `matched: graph neural network, neural network, alloy`
+
+
+### Industry labs and code releases
+
+- **[GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models](https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/)**
+  <br>*Microsoft Research | 2026-08-31 | score 11*
+
+  What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration. The post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared first on Microsoft Research .
+
+  `matched: foundation model`
+
+
+---
+
+
 ## 2026-08-30
 
 4 new item(s). Top hit: **High-quality, high-information datasets for universal atomistic machine learning** (score 14, NCCR MARVEL).
