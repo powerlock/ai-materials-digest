@@ -6,6 +6,175 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-01
+
+18 new item(s). Top hit: **AI-Guided Self-Driving Laboratories for Advanced Materials Discovery** (score 44, Computing&AI Connect).
+
+### Journal articles
+
+- **[AI-Guided Self-Driving Laboratories for Advanced Materials Discovery](https://doi.org/10.69709/caic.2026.133382)**
+  <br>*Computing&AI Connect | 2026-08-31 | doi:10.69709/caic.2026.133382 | score 44*
+  <br>Bernard Mallia, Rossana Caputo
+
+  Discovering new high-performance materials and alloys is often likened to finding a needle in a haystack because the design space of chemical compositions and processing conditions is astronomically large, and the discovery process is laborious and prohibitively costly. This perspective articulates a research agenda for autonomous materials and metallurgy discovery platforms that combine closed-loop machine learning with robotic experimentation and traditional materials engineering precepts to formulate, process, and test candidate materials with reduced human intervention, and to iterate recursively for stepwise optimization. It explores how sequential learning methods, generative modeling,...
+
+  `matched: materials discovery, generative model, self-driving lab, machine learning, alloy`
+
+
+- **[bayesaenet: uncertainty quantification for machine learning interatomic potentials](https://doi.org/10.5281/zenodo.22201403)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-31 | doi:10.5281/zenodo.22201403 | score 40*
+  <br>Riccardo Farris
+
+  Variational Bayesian neural networks (LRT, Radial, Flipout) and deep ensembles for aenet-PyTorch machine learning interatomic potentials, with joint energy+force ELBO training, Optuna hyperparameter search, and uncertainty quantification metrics. Software accompanying the paper doi:10.1088/2632-2153/ae9de8.
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, neural network`
+
+
+- **[bayesaenet: uncertainty quantification for machine learning interatomic potentials](https://doi.org/10.5281/zenodo.22201404)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-31 | doi:10.5281/zenodo.22201404 | score 40*
+  <br>Riccardo Farris
+
+  Variational Bayesian neural networks (LRT, Radial, Flipout) and deep ensembles for aenet-PyTorch machine learning interatomic potentials, with joint energy+force ELBO training, Optuna hyperparameter search, and uncertainty quantification metrics. Software accompanying the paper doi:10.1088/2632-2153/ae9de8.
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, neural network`
+
+
+- **[CrystalGRW: generative modeling of crystal structures with targeted crystallographic properties via geodesic random walks](https://doi.org/10.1038/s41598-026-62470-x)**
+  <br>*Scientific Reports | 2026-08-31 | doi:10.1038/s41598-026-62470-x | score 18*
+  <br>Krit Tangsongcharoen, Teerachote Pakornchote, Chayanon Atthapak, Natthaphon Choomphon-anomakhun
+
+  Determining whether a candidate crystalline material is thermodynamically stable depends on identifying its true ground-state structure, a central challenge in computational materials science. We introduce CrystalGRW, a diffusion-based generative model on Riemannian manifolds that proposes candidate crystal configurations in stable phases, validated through density functional theory calculations. Our model is designed for de novo generation , which creates crystal structures together with their compositions. The crystal properties, such as fractional coordinates, atomic types, and lattice matrices, are represented on suitable Riemannian manifolds, ensuring that new predictions generated thro...
+
+  `matched: density functional theory, generative model, crystal`
+
+
+- **[GMD Task 4 composition-support audit - structures and public-checkpoint predictions](https://doi.org/10.5281/zenodo.22215787)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-31 | doi:10.5281/zenodo.22215787 | score 16*
+  <br>Victor Zablocki
+
+  This record preserves the raw inputs and outputs of an audit of compositional generalisation in machine-learned interatomic potentials. It contains 4,800 deterministically selected molecular structures from GMD-26 Task 4 (Fragment Combination), including the structure table, ExtXYZ geometries, 4,800 predictions from the public MACE checkpoint, and 4,800 predictions from the public NequIP checkpoint. It also contains the raw integrity manifest, composition-span audit, matched-carbon- block analysis, compute record, source lock, and inference run records. The archive demonstrates that every Task 4 amino-acid target composition lies in the span of the diamine and dicarboxylic-acid support compo...
+
+  `matched: machine-learned interatomic potential, interatomic potential`
+
+
+- **[GMD Task 4 composition-support audit - structures and public-checkpoint predictions](https://doi.org/10.5281/zenodo.22215786)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-31 | doi:10.5281/zenodo.22215786 | score 16*
+  <br>Victor Zablocki
+
+  This record preserves the raw inputs and outputs of an audit of compositional generalisation in machine-learned interatomic potentials. It contains 4,800 deterministically selected molecular structures from GMD-26 Task 4 (Fragment Combination), including the structure table, ExtXYZ geometries, 4,800 predictions from the public MACE checkpoint, and 4,800 predictions from the public NequIP checkpoint. It also contains the raw integrity manifest, composition-span audit, matched-carbon- block analysis, compute record, source lock, and inference run records. The archive demonstrates that every Task 4 amino-acid target composition lies in the span of the diamine and dicarboxylic-acid support compo...
+
+  `matched: machine-learned interatomic potential, interatomic potential`
+
+
+- **[Dynamical analysis of fractional order corruption diffusion model with optimal control and cost-effectiveness analysis](https://doi.org/10.1080/0022250x.2026.2726737)**
+  <br>*The Journal of Mathematical Sociology | 2026-09-01 | doi:10.1080/0022250x.2026.2726737 | score 9*
+  <br>Teklu
+
+  `matched: diffusion model`
+
+
+- **[Multicenter Validation of Foundation Model Adaptation for Automated Pancreatic Tumor Delineation on CT Scans](https://doi.org/10.3390/cancers18172836)**
+  <br>*Cancers | 2026-09-01 | doi:10.3390/cancers18172836 | score 9*
+  <br>Aktas, Sen Tasci, Peng, Tasci et al.
+
+  Background: Accurate pancreatic tumor segmentation on contrast-enhanced computed tomography (CECT) is important for staging, treatment planning, and response assessment in pancreatic ductal adenocarcinoma (PDAC). Although foundation models have shown promise for medical image segmentation, their effectiveness for disease-specific tumor delineation remains uncertain. This study evaluated whether fine-tuning a Segment Anything Model (SAM)-based framework on the target cohorts improves pancreatic tumor segmentation compared with directly applied foundation models. Methods: In this retrospective multicenter study, CECT examinations from patients with pathologically confirmed PDAC acquired betwee...
+
+  `matched: foundation model`
+
+
+- **[Active Learning for Neural Classifiers: Selecting Training and Test Areas in Satellite Image Object Recognition](https://doi.org/10.1007/978-3-032-16265-6_4)**
+  <br>*Lecture Notes in Networks and Systems | 2026-09-01 | doi:10.1007/978-3-032-16265-6_4 | score 7*
+  <br>Iskenderzade, Aslanov, Huseynov
+
+  `matched: active learning`
+
+
+- **[Compiling Matter: An AI-Driven Research Program for Universal Nanofabrication, Matter Compilation, and Programmable Matter](https://doi.org/10.5281/zenodo.22206444)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-31 | doi:10.5281/zenodo.22206444 | score 7*
+  <br>Maciej Nowicki, Evie Artificial Hyperintelligence
+
+  Compiling Matter presents a research architecture for a long-term technological goal: translating high-level functional intent into physically realizable structures through an AI-driven fabrication compiler and closed-loop physical generative engine. Rather than treating nanofabrication as an extension of conventional 3D printing, this work frames fabrication as a combined problem in information processing, computational physics, chemistry, control theory, autonomous experimentation, metrology, inverse design, and hierarchical assembly. The program develops the foundations of a proposed Matter Compiler capable of translating desired function into material composition, molecular and mesoscale...
+
+  `matched: inverse design`
+
+
+- **[Compiling Matter: An AI-Driven Research Program for Universal Nanofabrication, Matter Compilation, and Programmable Matter](https://doi.org/10.5281/zenodo.22206443)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-31 | doi:10.5281/zenodo.22206443 | score 7*
+  <br>Maciej Nowicki, Evie Artificial Hyperintelligence
+
+  Compiling Matter presents a research architecture for a long-term technological goal: translating high-level functional intent into physically realizable structures through an AI-driven fabrication compiler and closed-loop physical generative engine. Rather than treating nanofabrication as an extension of conventional 3D printing, this work frames fabrication as a combined problem in information processing, computational physics, chemistry, control theory, autonomous experimentation, metrology, inverse design, and hierarchical assembly. The program develops the foundations of a proposed Matter Compiler capable of translating desired function into material composition, molecular and mesoscale...
+
+  `matched: inverse design`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Cartesian tensor equivariant machine-learning force field for spin-dependent atomistic simulations](http://arxiv.org/abs/2608.30338v1)**
+  <br>*arXiv | 2026-08-31 | score 29*
+  <br>Junjie Wang, Yijie Zhu, Zhongwei Zhang, Zhiyue Guo et al.
+
+  Magnetic materials exhibit an intricate coupling between atomic structure and spin degrees of freedom, posing a fundamental challenge for atomistic simulations across experimentally relevant length and time scales. Here we introduce HotPP-Spin, a spin-dependent extension of HotPP for magnetic machine learning interatomic potentials, built on Cartesian tensor equivariant message passing. Atomic magnetic moments are treated as explicit axial-vector degrees of freedom, while spatial-inversion and time-reversal parities are propagated through the tensor couplings. This construction provides a unified representation of exchange-dominated and spin-orbit-induced interactions without imposing predef...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, equivariant, magnet`
+
+
+- **[Nonlinear Crystal Structure Prediction](https://doi.org/10.5281/zenodo.22195386)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-31 | doi:10.5281/zenodo.22195386 | score 26*
+  <br>Jincheng Zhang
+
+  This paper introduces a novel non-linear crystal structure prediction algorithm leveraging deep learning and physics-based models. Traditional methods rely on handcrafted models, limiting their applicability to complex crystal structures. This work proposes a hybrid approach that combines deep learning for feature extraction and physical modeling for optimization, offering a more flexible and efficient prediction methodology. The core mechanism centers on learning crystal structure features using deep learning and then utilizing physical models to optimize the predicted structure and properties. This advancement addresses limitations of previous approaches, providing a robust and adaptable f...
+
+  `matched: crystal structure prediction, deep learning, crystal`
+
+
+- **[Nonlinear Crystal Structure Prediction](https://doi.org/10.5281/zenodo.22195385)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-08-31 | doi:10.5281/zenodo.22195385 | score 26*
+  <br>Jincheng Zhang
+
+  This paper introduces a novel non-linear crystal structure prediction algorithm leveraging deep learning and physics-based models. Traditional methods rely on handcrafted models, limiting their applicability to complex crystal structures. This work proposes a hybrid approach that combines deep learning for feature extraction and physical modeling for optimization, offering a more flexible and efficient prediction methodology. The core mechanism centers on learning crystal structure features using deep learning and then utilizing physical models to optimize the predicted structure and properties. This advancement addresses limitations of previous approaches, providing a robust and adaptable f...
+
+  `matched: crystal structure prediction, deep learning, crystal`
+
+
+- **[When Do Models Win? A Learning Curve Benchmark for Molecular Property Prediction in Low-Data Regimes](https://doi.org/10.26434/chemrxiv.15001253/v6)**
+  <br>*Crossref | 2026-09-01 | doi:10.26434/chemrxiv.15001253/v6 | score 25*
+  <br>Lee¹
+
+  In molecular property prediction, labeled data are often limited to tens to thousands of samples, yet it remains unclear which model classes are most effective in these low-data regimes and how their ranking evolves with data size. We present a learning-curve benchmark spanning traditional machine learning, graph neural networks, transformer-based molecular language models, rotationally equivariant and SE(3)-invariant 3D networks, descriptor-based hybrids, multi-task learning variants, and graph–sequence fusion baselines. Training size is varied from 50 to 3,000 samples, with dataset-dependent maxima, on QM9, ESOL, Lipophilicity, and BACE under scaffold splits with repeated trials. Four patt...
+
+  `matched: graph neural network, machine learning, neural network, equivariant, transformer, benchmark`
+
+
+- **[Learning Materials Properties from Scarce Labels and Unlabeled Crystals](http://arxiv.org/abs/2608.30682v1)**
+  <br>*arXiv | 2026-08-31 | score 17*
+  <br>Wentao Li, Yizhe Chen, Jiangjie Qiu, Yijun Li et al.
+
+  Learning materials properties from scarce labels and unlabeled crystals is a central challenge for data-driven materials discovery. We present SemiMat, a controlled benchmark for semi-supervised materials property regression, and MatRank, a reliability-weighted objective for continuous pseudo-label uncertainty. SemiMat fixes labeled and unlabeled crystal inputs, graph-backbone interfaces, validation-only checkpoint selection, held-out test reporting, normalized MAE (NMAE), and method-rank summaries across six scarce-label tasks, four graph backbones, and five predefined split runs. MatRank builds pseudo-targets from labeled anchors, weights them by local reliability and weak-prediction agree...
+
+  `matched: materials discovery, benchmark, crystal`
+
+
+- **[Cesium Clustering and Fluoroberyllate Network Disruption in FLiBe: A Total Scattering and Molecular Dynamics Study](http://arxiv.org/abs/2608.29898v1)**
+  <br>*arXiv | 2026-08-30 | score 10*
+  <br>Sean Fayfar, Rajni Chahal, Danny Wang, David J. Sprouster et al.
+
+  Several next-generation fission reactor designs employ molten salts such as FLiBe (2LiF-BeF$_2$), with some concepts using fuel dissolved directly in the salt. During operation, fission products such as cesium will accumulate in the salt mixture, potentially leading to an evolution of the thermophysical properties underpinned by the atomic structure. To understand the structural perturbations in FLiBe with 5 mol% CsF, we conducted X-ray and neutron diffraction measurements, refined empirical potential structure refinement (EPSR) models against the experimental data, and compared the resulting structure with neural network molecular dynamics (NNMD) simulations. Comparisons of the EPSR and NNM...
+
+  `matched: molecular dynamics, neural network`
+
+
+- **[Conditional Latent-Prior Generative Compressed Sensing with Application to Petrophysical Target-Log Reconstruction](https://doi.org/10.2139/ssrn.7385284)**
+  <br>*Crossref | 2026-09-01 | doi:10.2139/ssrn.7385284 | score 6*
+  <br>da Silva, Lima, Passos, ROCHA et al.
+
+  Dense well logs provide continuous indirect observations of subsurfaceproperties, whereas target-property curves may be available only at selecteddepths. Direct supervised models can combine dense logs with sparse targetobservations, but they typically use the sparse entries as input features and donot require the reconstruction to honor them as measurements. We introduceConditional Latent-Prior Compressed Sensing with Generative Models (CLP-CSGM), alatent inverse-problem framework that separates these roles. A decoder learnedfrom target-property windows defines the admissible reconstruction range. Densewireline logs predict a context-dependent latent anchor, and sparse target-logobservation...
+
+  `matched: generative model`
+
+
+---
+
+
 ## 2026-08-31
 
 13 new item(s). Top hit: **uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Framework** (score 58, arXiv).
