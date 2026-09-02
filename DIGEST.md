@@ -6,6 +6,176 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-02
+
+20 new item(s). Top hit: **Accelerating the Discovery of Deep-Ultraviolet Nonlinear Optical Materials by Combining Machine Learning Inter** (score 37, Crossref).
+
+### Journal articles
+
+- **[Accelerating the Discovery of Deep-Ultraviolet Nonlinear Optical Materials by Combining Machine Learning Interatomic Potentials with First-Principles Calculations: A Case of LiB2O3F](https://doi.org/10.1021/acs.cgd.6c00461.s001)**
+  <br>*Crossref | 2026-09-02 | doi:10.1021/acs.cgd.6c00461.s001 | score 37*
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Multiscale modelling of ferroelectrics using a physics-informed neural network driven by molecular dynamics data: parameter identification and field reconstruction](https://www.nature.com/articles/s41524-026-02300-w)**
+  <br>*npj Computational Materials | 2026-09-02 | doi:10.1038/s41524-026-02300-w | score 15*
+
+  `matched: molecular dynamics, neural network`
+
+
+- **[A Machine Learning–Based Surrogate Model for the Assessment of Geological Fault Reactivation](https://doi.org/10.3997/2214-4609.202637038)**
+  <br>*ECMOR 2026 | 2026-09-02 | doi:10.3997/2214-4609.202637038 | score 13*
+  <br>Lima, Tueros, de Sá Beserra, de Oliveira et al.
+
+  `matched: machine learning, surrogate model`
+
+
+- **[Deep Learning Surrogate Models for Multiscale, Time-Dependent Heat Transport in Geothermal Reservoirs](https://doi.org/10.3997/2214-4609.202637011)**
+  <br>*ECMOR 2026 | 2026-09-02 | doi:10.3997/2214-4609.202637011 | score 13*
+  <br>Memon, Khedekar, Pal
+
+  `matched: surrogate model, deep learning`
+
+
+- **[Design of a real-time prediction device for lithium battery SOC based on BP neural network and STM32 chip](https://doi.org/10.1117/12.3122410)**
+  <br>*Third International Conference on Electronics, Electrical, and Control System (EECS 2026) | 2026-09-02 | doi:10.1117/12.3122410 | score 13*
+  <br>Niu, Li, Ma, Zhang et al.
+
+  `matched: neural network, battery`
+
+
+- **[Design of an optical-metrology-assisted MEMS thermoelectric microwave power sensor based on BP neural network optimization](https://doi.org/10.1117/12.3122449)**
+  <br>*Third International Conference on Electronics, Electrical, and Control System (EECS 2026) | 2026-09-02 | doi:10.1117/12.3122449 | score 13*
+  <br>Ye, Liu
+
+  `matched: thermoelectric, neural network`
+
+
+- **[Machine learning driven multi-property prediction for rare earth permanent magnet materials](https://www.nature.com/articles/s41524-026-02299-0)**
+  <br>*npj Computational Materials | 2026-09-01 | doi:10.1038/s41524-026-02299-0 | score 13*
+
+  `matched: machine learning, magnet`
+
+
+- **[AI-Driven Blockchain Tokenization as a Catalyst for Global Economic Transformation in Real Estate and Digital Services](https://doi.org/10.4018/979-8-3373-7267-9.ch015)**
+  <br>*Advances in Computational Intelligence and Robotics | 2026-09-02 | doi:10.4018/979-8-3373-7267-9.ch015 | score 10*
+  <br>Goyal, Kabra, Dhakad, Meena et al.
+
+  Traditional real estate services and freelance platforms suffer from high fees, centralized control, biased dispute resolution and limited transparency. This chapter proposes an AI-driven, blockchain-based decentralized system that tokenizes real estate assets and digital project outputs enabling secure, trustless commerce without intermediaries. Machine learning enhances the ecosystem through automated asset valuation, fraud detection and predictive dispute resolution, while smart contracts manage escrow, payments and asset verification. IPFS provides immutable file storage and DAO governance ensures community-driven dispute resolution augmented by AI-based anomaly detection. Built on Solan...
+
+  `matched: machine learning, catalyst`
+
+
+- **[History matching of realistic oil fields using deep-learning based surrogate models and MCMC](https://doi.org/10.3997/2214-4609.202637181)**
+  <br>*ECMOR 2026 | 2026-09-02 | doi:10.3997/2214-4609.202637181 | score 7*
+  <br>Busby, Cherif, Bongay, Yandzangoye et al.
+
+  `matched: surrogate model`
+
+
+- **[An MLP Surrogate Model for Accelerated Well Placement Optimization in Hydrocarbon Reservoirs](https://doi.org/10.3997/2214-4609.202637085)**
+  <br>*ECMOR 2026 | 2026-09-02 | doi:10.3997/2214-4609.202637085 | score 7*
+  <br>Massarweh, Eltayeb, Abushaikha
+
+  `matched: surrogate model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[AdaptNTK: Adaptive Uncertainty Quantification and Active Learning for Neural Network Potentials](http://arxiv.org/abs/2609.00488v1)**
+  <br>*arXiv | 2026-08-31 | score 34*
+  <br>Prajwal Ananth, Shuwen Yue
+
+  Machine learning interatomic potentials bridge the gap between quantum chemical precision and classical computational speed, enabling molecular dynamics simulations with first-principles accuracy. Their reliability is often improved through active learning, which iteratively expands the training set by identifying uncertain, out-of-distribution configurations. Existing uncertainty-quantification methods often involve a trade-off between computational cost and reliability, and generally cannot account for redundancy as an acquisition batch is assembled. Here, we introduce AdaptNTK, a single-model framework that measures uncertainty as a regularized Mahalanobis distance in empirical neural tan...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, active learning, neural network`
+
+
+- **[Unveiling Phase Transformation Mechanism in BN from Large-Scale Machine Learning Molecular Dynamics](https://doi.org/10.26434/chemrxiv.15008201/v1)**
+  <br>*Crossref | 2026-09-02 | doi:10.26434/chemrxiv.15008201/v1 | score 29*
+  <br>Cho, Rampal, Weitzner, Henkelman et al.
+
+  BN-based materials in modern electronics, quantum photonics, and energy devices. Despite their technological importance, the atomistic mechanisms underlying its phase evolution remain poorly understood. Here, we use large-scale molecular dynamics simulations with a MACE-based machine-learning interatomic potential to investigate phase-transformation pathways in crystalline BN. Trained on high-fidelity density functional theory (DFT) data and validated against ab initio molecular dynamics simulations, the potential enables simulations of phase evolution across extended length and time scales. We identify a layer-by-layer transformation mechanism that initiates at interfaces, where lattice mis...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics, machine learning, crystal, dft`
+
+
+- **[Why Multi-Layer Message Passing Works: Completeness Theory for Graph Neural Network Interatomic Potentials](http://arxiv.org/abs/2609.00528v1)**
+  <br>*arXiv | 2026-09-01 | score 29*
+  <br>Pingbing Ming, Han Wang
+
+  We prove that the Hypergraph Neural Network, an invariant architecture with 3-body message passing, is a universal approximator for potential energy surfaces. Our main contribution is a multi-layer completeness theory. We show that $L$ layers of message passing on sparse, cutoff-based graphs achieve the same representational power as having access to the full $L$-hop neighborhood, provided the configurations are generic, satisfy an overlap condition and a connectivity condition. This provides the first rigorous justification for the common practice of using multi-layer message passing with a per-layer cutoff smaller than the physical interaction range, the setting used by virtually all pract...
+
+  `matched: interatomic potential, graph neural network, neural network`
+
+
+- **[Text-guided flow matching enables sample-efficient crystal structure generation](http://arxiv.org/abs/2609.01076v1)**
+  <br>*arXiv | 2026-09-01 | score 22*
+  <br>Wentao Li
+
+  Crystal generators can now propose periodic structures, but their control interfaces remain poorly matched to the mixed descriptors used in materials design. Text provides a compact way to combine composition, symmetry, prototype and property cues, yet it has not been clear whether such information can steer flow-based crystal generation. Here we introduce TFMat, a text-conditioned flow-matching framework that uses structured materials language as a semantic prior for a CrystalFlow generator. Across Perov-5, Carbon-24 and MP-20 crystal structure prediction benchmarks, TFMat improves one-candidate match rates over CrystalFlow and reaches a 92.04% MP-20 match rate with 20 candidates; in de nov...
+
+  `matched: crystal structure prediction, materials design, benchmark, crystal`
+
+
+- **[Accelerating dynamic simulations of photoexcited materials and their evolution by electron-informed machine learning](http://arxiv.org/abs/2609.01492v1)**
+  <br>*arXiv | 2026-09-01 | score 18*
+  <br>Yunzhe Jia, Fankai Xie, Yunfei Bai, Miao Liu et al.
+
+  Nonadiabatic coupled electron-nuclear dynamics upon electronic excitation underpin the microscopic mechanism and rational modulation of diverse photoinduced functional phenomena in materials, yet their direct first-principles simulations remain computationally demanding. Here we develop a framework for nonadiabatic excited-state machine-learning molecular dynamics (EMLMD) simulations, where the nonequilibrium electronic information upon photoexcitation such as electron temperature is rigorously calibrated from high-precision real-time time-dependent density functional theory (rt-TDDFT) benchmark simulations, enabling accurate reconstruction of excited-state potential energy surfaces (PES). T...
+
+  `matched: density functional theory, molecular dynamics, machine learning, benchmark, dft`
+
+
+- **[Fourier Neural Operators for Composition-Driven Crystal Structure Discovery](http://arxiv.org/abs/2609.00900v1)**
+  <br>*arXiv | 2026-09-01 | score 18*
+  <br>Zhijie Yu, Jingyu Li, Yang Huang, Jingrun Chen
+
+  Crystalline materials discovery is essential for energy, electronics, and catalysis, but the vast chemical and structural space makes exhaustive screening infeasible. Existing voxel-based methods are limited by the local receptive fields of three-dimensional convolutional neural networks and the posterior collapse of high-dimensional variational autoencoders. Here, we develop a Fourier Neural Operator (FNO)-based crystal-field solver that maps a prescribed chemical formula and lattice parameters to periodic number-density and electron-density fields. By operating on global Fourier modes, the solver captures long-range correlations in periodic crystal fields beyond conventional local convolut...
+
+  `matched: materials discovery, neural network, crystal`
+
+
+- **[Lead-free piezoelectric perovskites for arterial-pulse e-skin: from configurational complexity to equivariant machine-learning potentials](http://arxiv.org/abs/2609.00580v1)**
+  <br>*arXiv | 2026-09-01 | score 15*
+  <br>Sanaa Ismail, Hassan M. E. Azzazy, Zi-Kui Liu
+
+  Continuous, non-invasive monitoring of the arterial pulse is a clinical priority for cardiovascular disease, the leading cause of global mortality. Flexible piezoelectric electronic skins can transduce the 1-10 kPa pressure wave into a self-powered voltage, but the best-performing piezoceramics are lead-based, and their toxicity is incompatible with skin contact and with tightening RoHS/REACH regulation. Among lead-free alternatives, the BaTiO$3$-based solid solution BZT-BCT reaches $d{33} \approx 620$ pC/N near its tricritical morphotropic phase boundary, rivalling soft PZT while remaining biocompatible. Exploiting this in a wearable confronts a sensitivity-flexibility paradox and three com...
+
+  `matched: equivariant, perovskite`
+
+
+- **[Diagnosing Latent Energy Decomposition in Machine-Learning Interatomic Potentials via Interacting Quantum Atoms](http://arxiv.org/abs/2609.00674v1)**
+  <br>*arXiv | 2026-09-01 | score 13*
+  <br>Kohei Shimamura, Ken-ichi Nomura
+
+  Machine-learning interatomic potentials (MLIPs) can reproduce potential energies and forces accurately, but their internal energy allocation is often difficult to interpret. E3D-IQA is introduced as a diagnostic framework connecting the latent edge-energy representation of an Allegro-type MLIP with Interacting Quantum Atoms (IQA) energy decomposition. The Allegro edge-energy path is retained as a latent pair contribution, while a node-energy path is trained against the IQA intra-atomic energy. IQA interatomic energies are not direct training targets; instead, the learned edge energies are evaluated after training against the IQA pair terms. Tests on H/C/N/O organic reaction structures show t...
+
+  `matched: interatomic potential`
+
+
+- **[Generative artificial intelligence for reliable mechanistic reasoning for corrosion](http://arxiv.org/abs/2609.00099v1)**
+  <br>*arXiv | 2026-08-31 | score 10*
+  <br>Bharath M N, R K Singh Raman, Alankar Alankar
+
+  Corrosion accounts for approximately 4% of global GDP, and reliable prediction is essential for timely mitigation. Machine learning effectively predicts corrosion rates from composition, microstructure, and environmental variables, but cannot explain the underlying mechanisms. A reliable approach in safety-critical materials engineering requires not only accurate retrieval but also mechanistically defensible reasoning, a capability that existing factuality metrics cannot assess. This work presents a domain-adapted retrieval-augmented generation framework for corrosion knowledge synthesis, demonstrated on magnesium alloy corrosion. Three open-weight language models (Llama-3.1-8B, Qwen-2.5-7B,...
+
+  `matched: artificial intelligence, machine learning, alloy`
+
+
+- **[Element priors and target support shape chemical transfer in materials graph networks](http://arxiv.org/abs/2609.00915v1)**
+  <br>*arXiv | 2026-09-01 | score 9*
+  <br>Ran Zhao, Kangming Li
+
+  Materials graph neural networks must often transfer to chemical regions weakly represented in training data. Such transfer can rely on predefined relations among elements or supervised evidence from target-containing structures, but these pathways are usually entangled. Here, held-out-element splits and incremental target support separate their roles. Without target-containing training structures, formation-energy errors depend strongly on the element representation, particularly for H, O and F. Matched perturbations show that representation-induced sharing matters beyond input dimension or numerical form, while a label-free similarity-graph prior reduces selected zero-shot errors. Adding a...
+
+  `matched: graph neural network, neural network`
+
+
+---
+
+
 ## 2026-09-01
 
 18 new item(s). Top hit: **AI-Guided Self-Driving Laboratories for Advanced Materials Discovery** (score 44, Computing&AI Connect).
