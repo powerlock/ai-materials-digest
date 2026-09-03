@@ -6,6 +6,261 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-03
+
+28 new item(s). Top hit: **Finite-temperature dynamic stability separates foundation machine-learning interatomic potentials that harmoni** (score 35, Crossref).
+
+### Journal articles
+
+- **[Composition optimization of FeCrAl alloys for enhanced mechanical properties via machine learning potential molecular dynamics](https://doi.org/10.60893/figshare.apl.c.8653659)**
+  <br>*AIP Publishing | 2026-09-01 | doi:10.60893/figshare.apl.c.8653659 | score 32*
+  <br>Shiyu Du, Hao Ren, Zhenpeng Hu, Yijie Chen
+
+  FeCrAl alloys serve as promising nuclear fuel cladding materials due to their exceptional oxidation resistance and irradiation damage tolerance. These superior properties stem from their optimal chemical composition, particularly the concentrations of Cr and Al as critical alloying elements. Consequently, exploring the compositional space of FeCrAl alloys using efficient and accurate methods is crucial for designing high-performance variants. In this work, we developed a machine learning interatomic potential for FeCrAl alloys based on the Deep Potential (DP) framework. Utilizing this potential, we performed deep potential molecular dynamics simulations to systematically investigate the elas...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, alloy`
+
+
+- **[Composition optimization of FeCrAl alloys for enhanced mechanical properties via machine learning potential molecular dynamics](https://doi.org/10.60893/figshare.apl.c.8653659.v1)**
+  <br>*AIP Publishing | 2026-09-01 | doi:10.60893/figshare.apl.c.8653659.v1 | score 32*
+  <br>Shiyu Du, Hao Ren, Zhenpeng Hu, Yijie Chen
+
+  FeCrAl alloys serve as promising nuclear fuel cladding materials due to their exceptional oxidation resistance and irradiation damage tolerance. These superior properties stem from their optimal chemical composition, particularly the concentrations of Cr and Al as critical alloying elements. Consequently, exploring the compositional space of FeCrAl alloys using efficient and accurate methods is crucial for designing high-performance variants. In this work, we developed a machine learning interatomic potential for FeCrAl alloys based on the Deep Potential (DP) framework. Utilizing this potential, we performed deep potential molecular dynamics simulations to systematically investigate the elas...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, alloy`
+
+
+- **[Composition optimization of FeCrAl alloys for enhanced mechanical properties via machine learning potential molecular dynamics](https://doi.org/10.1063/5.0352217)**
+  <br>*Applied Physics Letters | 2026-08-31 | doi:10.1063/5.0352217 | score 32*
+  <br>Hui Zeng, Zhan Li, Yanlei Zhang, Shiyu Du
+
+  FeCrAl alloys serve as promising nuclear fuel cladding materials due to their exceptional oxidation resistance and irradiation damage tolerance. These superior properties stem from their optimal chemical composition, particularly the concentrations of Cr and Al as critical alloying elements. Consequently, exploring the compositional space of FeCrAl alloys using efficient and accurate methods is crucial for designing high-performance variants. In this work, we developed a machine learning interatomic potential for FeCrAl alloys based on the Deep Potential (DP) framework. Utilizing this potential, we performed DP molecular dynamics simulations to systematically investigate the elastic properti...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, alloy`
+
+
+- **[Accelerating materials discovery for room-temperature qubits via Generative Quantum Machine Learning](https://doi.org/10.1016/j.physb.2026.419255)**
+  <br>*Physica B Condensed Matter | 2026-09-01 | doi:10.1016/j.physb.2026.419255 | score 23*
+  <br>Radhakrishnan Delhibabu
+
+  `matched: materials discovery, machine learning`
+
+
+- **[A Dual-Mode Crystal Structure Prediction Framework for Fixed Element Sets and Fixed Structural Prototypes](https://doi.org/10.1021/acs.inorgchem.6c02906)**
+  <br>*Inorganic Chemistry | 2026-08-31 | doi:10.1021/acs.inorgchem.6c02906 | score 23*
+  <br>Chenglong Qin, Xiangyan Luo, Z.T. Fan, Qunchao Fan
+
+  Abstract Crystal structure prediction (CSP) is a cornerstone technology for the efficient discovery and rational design of functional materials. Here, we propose a deep-learning-enabled dual-mode CSP framework that simultaneously supports two complementary tasks: predicting stable crystal structures for given elemental compositions and identifying chemically viable elemental substitutions for a predefined crystal topology. The framework employs an improved normalized structural fingerprint descriptor that integrates local coordination topology without global spatial-scale information. A cascaded site-probability model, composed of an autoencoder and sigmoid-based classifiers, is developed to...
+
+  `matched: crystal structure prediction, crystal`
+
+
+- **[Thermal transport in defective uranium nitride: Effects of point defects, anharmonicity, and electronic contributions](https://doi.org/10.1063/5.0344135)**
+  <br>*Journal of Applied Physics | 2026-09-01 | doi:10.1063/5.0344135 | score 22*
+  <br>Beihan Chen, Marat Khafizov, Zilong Hua, David H. Hurley
+
+  The impact of point defects on thermal transport in uranium nitride (UN) is investigated using a machine learning interatomic potential combined with Green–Kubo (GK) and normal-mode analysis methods over 300–1500 K. In pristine UN, temperature-dependent calculations of lattice thermal conductivity reveal that four-phonon scattering is essential yet sufficient to accurately capture high-temperature anharmonic phonon transport, as evidenced by close agreement between GK and ShengBTE calculations, including three- and four-phonon processes. In defective systems, all types of point defects significantly reduce thermal conductivity at low temperature. Mode-resolved analysis further shows that int...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, phonon`
+
+
+- **[Data-efficient exploration of atomic clusters via uncertainty quantification on complex potential energy surfaces](https://doi.org/10.1063/5.0349333)**
+  <br>*The Journal of Chemical Physics | 2026-09-01 | doi:10.1063/5.0349333 | score 22*
+  <br>Zi-Xin Wen, Kai‐Le Jiang, Huifang Li, Jiaming Zhang
+
+  Machine learning interatomic potentials have become an effective method for exploring complex potential energy surfaces; however, their application to atomic clusters is frequently hindered by the high cost of sampling diverse isomer spaces and the difficulty in ensuring model generalizability across complex energy landscapes. While uncertainty quantification (UQ) offers a pathway to mitigate data scarcity, its efficacy in capturing continuous potential energy surface features and guiding active learning within the complex landscape of clusters remains systematically unverified. In this study, we developed and evaluated three different UQ frameworks based on advanced UQ methods and integrate...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, active learning`
+
+
+- **[Data-Efficient Exploration of Atomic Clusters via Uncertainty Quantification on Complex Potential Energy Surfaces](https://doi.org/10.60893/figshare.jcp.c.8649087.v1)**
+  <br>*AIP Publishing | 2026-09-01 | doi:10.60893/figshare.jcp.c.8649087.v1 | score 22*
+  <br>Hui-Fang Li, Huai-Qian Wang, Jia-Ming Zhang, Zi-Xin Wen
+
+  Machine learning interatomic potentials (MLIPs) have become an effective method in exploring complex potential energy surfaces; however, their application to atomic clusters is frequently hindered by the high cost of sampling diverse isomer spaces and the difficulty in ensuring model generalizability across complex energy landscapes. While uncertainty quantification (UQ) offers a pathway to mitigate data scarcity, its efficacy in capturing continuous potential energy surface features and guiding active learning within the complex landscape of clusters remains systematically unverified. In this study, we developed and evaluated three different UQ frameworks based on advanced UQ methods and in...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, active learning`
+
+
+- **[Data-Efficient Exploration of Atomic Clusters via Uncertainty Quantification on Complex Potential Energy Surfaces](https://doi.org/10.60893/figshare.jcp.c.8649087)**
+  <br>*AIP Publishing | 2026-09-01 | doi:10.60893/figshare.jcp.c.8649087 | score 22*
+  <br>Hui-Fang Li, Huai-Qian Wang, Jia-Ming Zhang, Zi-Xin Wen
+
+  Machine learning interatomic potentials (MLIPs) have become an effective method in exploring complex potential energy surfaces; however, their application to atomic clusters is frequently hindered by the high cost of sampling diverse isomer spaces and the difficulty in ensuring model generalizability across complex energy landscapes. While uncertainty quantification (UQ) offers a pathway to mitigate data scarcity, its efficacy in capturing continuous potential energy surface features and guiding active learning within the complex landscape of clusters remains systematically unverified. In this study, we developed and evaluated three different UQ frameworks based on advanced UQ methods and in...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, active learning`
+
+
+- **[Artificial Intelligence-Assisted Investigation of Ion Transport Mechanisms and Material Screening for Solid-State Electrolytes](https://doi.org/10.1016/j.ensm.2026.105511)**
+  <br>*Energy storage materials | 2026-09-01 | doi:10.1016/j.ensm.2026.105511 | score 19*
+  <br>Xuhui Wang, Shaoqiang Niu, Dongze Li, Zhuan Wang
+
+  `matched: artificial intelligence, solid-state electrolyte, electrolyte`
+
+
+- **[Supplementary trained models for "Zn2+ phase engineering of the red fluoride phosphor K2TiF6:Mn4+" (Laser & Photonics Reviews, submitted)](https://doi.org/10.5281/zenodo.22199074)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-01 | doi:10.5281/zenodo.22199074 | score 19*
+  <br>Longqian OuYang, Gaoyan Hao
+
+  This record deposits the two trained machine-learning models accompanying the manuscript "Zn2+ phase engineering of the red fluoride phosphor K2TiF6:Mn4+" (submitted to Laser & Photonics Reviews). 1) MACE_potential_K2TiF6_Mn_fluoride.zip — MACE machine-learned interatomic potential (production model plus the previous-generation three-seed committee) used to run long-timescale molecular dynamics of the concentrated ZnCl2/HF growth medium (100 ps unit cell, 424 atoms; 110 ps 2x2x2 supercell, 3392 atoms), characterizing the barrierless CN = 6 CN = 5 exchange of the sixth Ti-F coordination of the [TiF6]2- growth unit. Includes an example configuration and a minimal demonstration script; requires...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics`
+
+
+- **[Supplementary trained models for "Zn2+ phase engineering of the red fluoride phosphor K2TiF6:Mn4+" (Laser & Photonics Reviews, submitted)](https://doi.org/10.5281/zenodo.22199075)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-01 | doi:10.5281/zenodo.22199075 | score 19*
+  <br>Longqian OuYang, Gaoyan Hao
+
+  This record deposits the two trained machine-learning models accompanying the manuscript "Zn2+ phase engineering of the red fluoride phosphor K2TiF6:Mn4+" (submitted to Laser & Photonics Reviews). 1) MACE_potential_K2TiF6_Mn_fluoride.zip — MACE machine-learned interatomic potential (production model plus the previous-generation three-seed committee) used to run long-timescale molecular dynamics of the concentrated ZnCl2/HF growth medium (100 ps unit cell, 424 atoms; 110 ps 2x2x2 supercell, 3392 atoms), characterizing the barrierless CN = 6 CN = 5 exchange of the sixth Ti-F coordination of the [TiF6]2- growth unit. Includes an example configuration and a minimal demonstration script; requires...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics`
+
+
+- **[A dynamic multi-objective optimization framework for geothermal systems via deep learning surrogate models](https://doi.org/10.1016/j.icheatmasstransfer.2026.112491)**
+  <br>*International Communications in Heat and Mass Transfer | 2026-09-03 | doi:10.1016/j.icheatmasstransfer.2026.112491 | score 13*
+  <br>Wang, Zheng, Song, Xia et al.
+
+  `matched: surrogate model, deep learning`
+
+
+- **[Inverse design of digital metamaterials with tailored mechanical responses](https://doi.org/10.1016/j.commatsci.2026.115034)**
+  <br>*Computational Materials Science | 2026-09-03 | doi:10.1016/j.commatsci.2026.115034 | score 13*
+  <br>Xiao, Chu, Jin, Hua et al.
+
+  `matched: inverse design`
+
+
+- **[AI‐Accelerated Design and Modeling of Organic Electrochemical Energy Materials: From Redox‐Active Molecules to Polymer Electrolytes](https://doi.org/10.1002/mame.70340)**
+  <br>*Macromolecular Materials and Engineering | 2026-09-01 | doi:10.1002/mame.70340 | score 13*
+  <br>Zhan‐Yun Zhang, Giannis Savvas, Jichen Li, Yi Zhou
+
+  ABSTRACT Organic electrochemical energy materials (OEEMs) offer a vast design space for rechargeable batteries, redox‐flow batteries, supercapacitors, and mixed ionic–electronic devices, yet their performance depends on tightly coupled thermal, redox, transport, mechanical, morphological, and interfacial properties that can rarely be optimized independently. This review examines how artificial intelligence (AI) is reshaping the computational design and modeling of these materials, tracing the field's shift from small redox‐active molecules toward polymeric electrolytes and electrodes. We cover digital representations and data sources, data‐driven property prediction, machine‐learning interat...
+
+  `matched: artificial intelligence, electrolyte, polymer`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Finite-temperature dynamic stability separates foundation machine-learning interatomic potentials that harmonic benchmarks rank equally](https://doi.org/10.26434/chemrxiv.15008248/v1)**
+  <br>*Crossref | 2026-09-03 | doi:10.26434/chemrxiv.15008248/v1 | score 35*
+  <br>Cai
+
+  Foundation (universal) machine-learning interatomic potentials (MLIPs) are now used routinely as cheap stand-ins for DFT in high-throughput stability screening, but they are benchmarked almost exclusively against harmonic (0 K) phonons. Dynamic stability is physically a finite-temperature property, and an important class of materials, including cubic perovskites, bcc refractory metals and cubic fluorites, is harmonically unstable but thermally stabilised by anharmonicity. We test five foundation MLIPs (MACE-MP-0, CHGNet, ORB-v2, SevenNet-0, MatterSim) on this regime using a curated set of references whose finite-temperature behaviour is documented in the experimental and DFT literature, so t...
+
+  `matched: interatomic potential, perovskite, mattersim, benchmark, phonon, dft`
+
+
+- **[AdaptNTK: Adaptive Uncertainty Quantification and Active Learning for Neural Network Potentials](https://doi.org/10.48550/arxiv.2609.00488)**
+  <br>*arXiv (Cornell University) | 2026-08-31 | doi:10.48550/arxiv.2609.00488 | score 34*
+  <br>Prajwal Ananth, Shuwen Yue
+
+  Machine learning interatomic potentials bridge the gap between quantum chemical precision and classical computational speed, enabling molecular dynamics simulations with first-principles accuracy. Their reliability is often improved through active learning, which iteratively expands the training set by identifying uncertain, out-of-distribution configurations. Existing uncertainty-quantification methods often involve a trade-off between computational cost and reliability, and generally cannot account for redundancy as an acquisition batch is assembled. Here, we introduce AdaptNTK, a single-model framework that measures uncertainty as a regularized Mahalanobis distance in empirical neural tan...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, active learning, neural network`
+
+
+- **[Cartesian tensor equivariant machine-learning force field for spin-dependent atomistic simulations](https://doi.org/10.48550/arxiv.2608.30338)**
+  <br>*arXiv (Cornell University) | 2026-08-31 | doi:10.48550/arxiv.2608.30338 | score 29*
+  <br>Junjie Wang, Yijie Zhu, Zhongwei Zhang, Zhiyue Guo
+
+  Magnetic materials exhibit an intricate coupling between atomic structure and spin degrees of freedom, posing a fundamental challenge for atomistic simulations across experimentally relevant length and time scales. Here we introduce HotPP-Spin, a spin-dependent extension of HotPP for magnetic machine learning interatomic potentials, built on Cartesian tensor equivariant message passing. Atomic magnetic moments are treated as explicit axial-vector degrees of freedom, while spatial-inversion and time-reversal parities are propagated through the tensor couplings. This construction provides a unified representation of exchange-dominated and spin-orbit-induced interactions without imposing predef...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, equivariant, magnet`
+
+
+- **[A Generalized Approach for Incorporating Geometry and Directionality into Coarse-Grained Machine-Learned Potentials](http://arxiv.org/abs/2609.01911v1)**
+  <br>*arXiv | 2026-09-01 | score 23*
+  <br>Arthur Y. Lin, Tejas Dahiya, Rose K. Cersonsky
+
+  Machine-learned interatomic potentials have enabled highly accurate atomistic simulations, but extending these capabilities to coarse-grained systems remains challenging due to the loss of geometric and orientational information during coarse-graining. In this work, we present a generalized framework for incorporating molecular geometry and directionality into coarse-grained machine-learned potentials through two complementary approaches: anisotropic density-based descriptors (AniSOAP) and symmetry-adapted equivariant message-passing neural networks (MACE-CG). Using Gay-Berne particles and coarse-grained representations of benzene, formamide, and water, we demonstrate that explicitly retaini...
+
+  `matched: machine-learned interatomic potential, interatomic potential, neural network, equivariant`
+
+
+- **[Low-Temperature Transport in Li-Ion Battery EC/EMC/FEC Electrolytes: Molecular Dynamics and Machine-Learning Modeling](http://arxiv.org/abs/2609.02824v1)**
+  <br>*arXiv | 2026-09-02 | score 22*
+  <br>İpek Yenda Çınar, Oguzhan Orhan, M. Oluş Özbek, Şener Özönder
+
+  Low-temperature operation imposes severe limitations on lithium-ion transport in battery electrolytes, yet the coupled effects of solvent composition and fluorinated additives in the cold-temperature regime remain insufficiently resolved. Here, we combine classical molecular dynamics (MD) and machine learning (ML) to investigate 1 M LiPF$_6$ electrolytes containing ethylene carbonate (EC), ethyl methyl carbonate (EMC), and EC/EMC (3:7), with 0-10 mol% fluoroethylene carbonate (FEC), from 298 to 233 K. MD simulations quantify Li$^+$ self-diffusion, Nernst-Einstein (NE) and Green-Kubo (GK) conductivities and local coordination, while Gaussian-process surrogates model conductivity across compos...
+
+  `matched: molecular dynamics, machine learning, electrolyte, battery`
+
+
+- **[Fourier Neural Operators for Composition-Driven Crystal Structure Discovery](https://doi.org/10.48550/arxiv.2609.00900)**
+  <br>*arXiv (Cornell University) | 2026-09-01 | doi:10.48550/arxiv.2609.00900 | score 18*
+  <br>Zhijie Yu, Jingyu Li, Yang Huang, Jingrun Chen
+
+  Crystalline materials discovery is essential for energy, electronics, and catalysis, but the vast chemical and structural space makes exhaustive screening infeasible. Existing voxel-based methods are limited by the local receptive fields of three-dimensional convolutional neural networks and the posterior collapse of high-dimensional variational autoencoders. Here, we develop a Fourier Neural Operator (FNO)-based crystal-field solver that maps a prescribed chemical formula and lattice parameters to periodic number-density and electron-density fields. By operating on global Fourier modes, the solver captures long-range correlations in periodic crystal fields beyond conventional local convolut...
+
+  `matched: materials discovery, neural network, crystal`
+
+
+- **[Numerical Photovoltaic Device Modeling and Machine Learning-AssistedPerformance Optimization of MAPbBr3/La2NiMnO6 Double-Absorber SolarCell](https://doi.org/10.2139/ssrn.7403521)**
+  <br>*Crossref | 2026-09-03 | doi:10.2139/ssrn.7403521 | score 17*
+  <br>Alam
+
+  Thisstudypresentsacomprehensivenumericalandmachine-learning-assistedinvestigationofanFTO/ZnSe/MAPbBr3/LNMO/CNT(7,5)/Metal-contact double-absorber solar cell, integrating the wide-bandgap MAPbBr3 perovskite absorber for efficient high-energy photon harvesting with chemically stable lead-free LNMO as a secondary absorber toenhance long-wavelength photon utilization. The unoptimized double-absorber configuration achieves a power conversion efficiency(PCE) of 25.812%, outperforming the LNMO single-absorber (18.924%) and MAPbBr3 single-absorber (17.652%) devices due toimproved photocurrent generation and broader spectral response. SCAPS-1D was employed to evaluate the photovoltaic characteristics...
+
+  `matched: machine learning, photovoltaic, perovskite`
+
+
+- **[Lead-free piezoelectric perovskites for arterial-pulse e-skin: from configurational complexity to equivariant machine-learning potentials](https://doi.org/10.48550/arxiv.2609.00580)**
+  <br>*arXiv (Cornell University) | 2026-09-01 | doi:10.48550/arxiv.2609.00580 | score 15*
+  <br>S O Ismail, Hassan M. E. Azzazy, Zi-Kui Liu
+
+  Continuous, non-invasive monitoring of the arterial pulse is a clinical priority for cardiovascular disease, the leading cause of global mortality. Flexible piezoelectric electronic skins can transduce the 1-10 kPa pressure wave into a self-powered voltage, but the best-performing piezoceramics are lead-based, and their toxicity is incompatible with skin contact and with tightening RoHS/REACH regulation. Among lead-free alternatives, the BaTiO$3$-based solid solution BZT-BCT reaches $d{33} \approx 620$ pC/N near its tricritical morphotropic phase boundary, rivalling soft PZT while remaining biocompatible. Exploiting this in a wearable confronts a sensitivity-flexibility paradox and three com...
+
+  `matched: equivariant, perovskite`
+
+
+- **[HiPoly: a hierarchical polymer-native AI framework for property prediction and generative design](http://arxiv.org/abs/2609.02746v1)**
+  <br>*arXiv | 2026-09-02 | score 13*
+  <br>Ge Sun, Gervasio Zaldivar, Yuan Tian, Gustavo Perez Lemus et al.
+
+  Polymeric materials are central to modern technologies, with applications ranging from energy to health and transportation. Although AI has made significant advances in materials discovery, the hierarchical structure of polymers across multiple length scales makes them inherently difficult to represent in a unified and physically meaningful way. Here we introduce HiPoly, a polymer-native AI framework that processes complete polymer descriptions through a three-level hierarchical graph architecture built on the G2RINS representation. HiPoly encodes stochastic inter-monomer connectivity, composition, and molecular weight directly within its architecture, using physically motivated design princ...
+
+  `matched: materials discovery, polymer`
+
+
+- **[Machine Learning Local Potentials for Accelerated Electron-Phonon Interactions Calculations within the Projector Augmented-Wave Framework](http://arxiv.org/abs/2609.01923v1)**
+  <br>*arXiv | 2026-09-01 | score 13*
+  <br>Yi Xia
+
+  Electron-phonon interactions govern carrier dynamics, transport, and many optical and quantum phenomena in solids, but finite-displacement calculations within the projector augmented-wave (PAW) framework require up to 6N self-consistent supercell calculations for an N-atom system, making them costly for large, low-symmetry, and disordered materials. We introduce MLLocP, a machine learning strategy that learns the self-consistent local potential on real-space grids and supplies its displacement derivatives to the evaluation of all-electron PAW electron-phonon matrix elements. Analysis of the PAW decomposition identifies the local-potential contribution as a natural target for machine learning...
+
+  `matched: machine learning, phonon`
+
+
+- **[Diagnosing Latent Energy Decomposition in Machine-Learning Interatomic Potentials via Interacting Quantum Atoms](https://doi.org/10.48550/arxiv.2609.00674)**
+  <br>*arXiv (Cornell University) | 2026-09-01 | doi:10.48550/arxiv.2609.00674 | score 13*
+  <br>Kohei Shimamura, Ken-ichi Nomura
+
+  Machine-learning interatomic potentials (MLIPs) can reproduce potential energies and forces accurately, but their internal energy allocation is often difficult to interpret. E3D-IQA is introduced as a diagnostic framework connecting the latent edge-energy representation of an Allegro-type MLIP with Interacting Quantum Atoms (IQA) energy decomposition. The Allegro edge-energy path is retained as a latent pair contribution, while a node-energy path is trained against the IQA intra-atomic energy. IQA interatomic energies are not direct training targets; instead, the learned edge energies are evaluated after training against the IQA pair terms. Tests on H/C/N/O organic reaction structures show t...
+
+  `matched: interatomic potential`
+
+
+- **[Electronic configuration vectors provide transferable elemental representations for machine learning across the periodic table](https://doi.org/10.26434/chemrxiv.15008244/v1)**
+  <br>*Crossref | 2026-09-03 | doi:10.26434/chemrxiv.15008244/v1 | score 11*
+  <br>Rajagopalan, Govind Rajan
+
+  Machine learning models typically represent elements as discrete identities, limiting inference for elements absent from training. We introduce the electronic configuration vector (ECV), a physically grounded representation derived from the Aufbau principle that continuously encodes orbital occupancies and energetics across elements. Principal component analysis reveals low-dimensional manifolds that organize elements by atomic number, with extrema corresponding to block transitions. Across adsorption energy, formation energy, and metallicity prediction, ECV yields accurate, lightweight, interpretable models while revealing chemical structure. ECV marginally outperforms the Darwin LLM in met...
+
+  `matched: machine learning, formation energy`
+
+
+- **[Accelerated Discovery of BPA-Free Dental Resin Candidates through Active Learning of Network-Emergent Properties](https://doi.org/10.26434/chemrxiv.15008229/v1)**
+  <br>*Crossref | 2026-09-03 | doi:10.26434/chemrxiv.15008229/v1 | score 10*
+  <br>Balantrapu, Sochacki, Sivaraman
+
+  Bisphenol A-glycidyl methacrylate (Bis-GMA) is widely used in dental resins, but its BPA-derived chemistry motivates the search for structurally distinct monomers that retain favorable cured-network properties. Here we introduce EloKriti, an active-learning workflow that links molecular candidate representations to explicit in silico curing and multi-objective optimization of network-emergent properties. We showcase EloKriti by navigating a curated 1000-candidate BPA-free chemical space, filtered from Open Macromolecular Genome for compatibility with vinyl chain-growth polymerization, to simultaneously maximize elastic modulus and minimize volumetric shrinkage and fractional free volume. The...
+
+  `matched: active learning, polymer`
+
+
+---
+
+
 ## 2026-09-02
 
 20 new item(s). Top hit: **Accelerating the Discovery of Deep-Ultraviolet Nonlinear Optical Materials by Combining Machine Learning Inter** (score 37, Crossref).
