@@ -6,6 +6,159 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-04
+
+16 new item(s). Top hit: **Interplay of B-Site Off-Centering and Molecular Orientations in the Mixed Hybrid Perovskite MAGe1xSnxI3** (score 27, arXiv).
+
+### Journal articles
+
+- **[Visible-infrared spectrum tunable aperiodic Ge 2 Sb 2 Te 5 photonic crystals](https://doi.org/10.1039/d6tc01283c)**
+  <br>*Journal of Materials Chemistry C | 2026-09-04 | doi:10.1039/d6tc01283c | score 13*
+  <br>Liu, Xu, Jia, Wang et al.
+
+  NSGA-II inverse design optimizes color-matched aperiodic ZnS/[MgF 2 /GST] N /Au photonic crystals for visible–MWIR camouflage. GST phase perturbations reconstruct broadband 3–5 µm emissivity, driving a-GST-to-c-GST switching from ∼0.03 to ∼0.87.
+
+  `matched: inverse design, crystal`
+
+
+- **[Evaluating Sequence Foundation Models for Insect Olfactory Gene Discovery: Failure Modes, Evidence Standards, and a Benchmark Agenda](https://doi.org/10.3390/insects17090928)**
+  <br>*Insects | 2026-09-04 | doi:10.3390/insects17090928 | score 13*
+  <br>Li, Zhou, Pu, Wu et al.
+
+  Genome-scale searches for insect olfactory genes are vulnerable to rapid receptor divergence, tandem duplication, fragmented gene models, circular labels, and evolutionary leakage between training and test data. Sequence foundation models trained on DNA or proteins may extend homology-based annotation, but available evidence does not support their use as autonomous annotators or direct predictors of sensory function. This critical review organizes the problem around annotation failures rather than model catalogues. We distinguish six inference levels, from candidate locus detection to organism-level function, and define task-specific high-confidence reference criteria. We also propose a benc...
+
+  `matched: foundation model, benchmark`
+
+
+- **[Solar photocatalytic degradation of seawater organic pollutants using RSM process optimization and advanced machine learning modeling](https://doi.org/10.2166/ws.2026.200)**
+  <br>*Water Supply | 2026-09-04 | doi:10.2166/ws.2026.200 | score 10*
+  <br>Mohammed, Ahmed, Mewada, Shaik et al.
+
+  ABSTRACT Water contamination caused by organic pollutants leads to severe deterioration of water quality and major environmental concern worldwide. The implementation of effective monitoring and remediation measures is necessary for sustainable water treatment. A batch reactor using titanium oxide (TiO2) as a catalyst to remove total organic carbon (TOC) and chemical oxygen demand (COD) in seawater by solar photocatalysis was used. Response surface methodology was carried out with input parameters such as TiO2 dosage 1–4 g/L, pH value 6–9 and reaction time 60–300 min and percentage reduction of TOC and COD as output variables. Adaptive Boosting (AdaBoost), Gradient Boosting (GB), Bayesian Ri...
+
+  `matched: machine learning, catalyst`
+
+
+- **[A Robust and Sustainable Machine Learning Framework for Indoor Localization in Mobile IoT Networks](https://doi.org/10.3390/electronics15173994)**
+  <br>*Electronics | 2026-09-04 | doi:10.3390/electronics15173994 | score 10*
+  <br>Subakti, Jiang
+
+  Accurate indoor localization is a fundamental enabling technology for modern smart environments and Location-Based Services (LBS). Among the various indoor positioning technologies, Bluetooth Low Energy (BLE) has emerged as a popular solution due to its low cost and low power consumption. However, BLE signals suffer from severe environmental noise, while continuously executing complex positioning models can quickly deplete the battery resources of mobile devices. To address both problems jointly, this paper proposes a robust and sustainable machine learning framework for indoor localization on mobile devices. The framework first applies a discrete-time Kalman Filter that suppresses noise ind...
+
+  `matched: machine learning, battery`
+
+
+- **[UniTG: A Unified System for Efficient and Seamless Textual Graph Learning](https://doi.org/10.14778/3836663.3836688)**
+  <br>*Proceedings of the VLDB Endowment | 2026-09-04 | doi:10.14778/3836663.3836688 | score 9*
+  <br>Zhang, Ye, Liu, Peng et al.
+
+  It has become critical to utilize language models (LMs) for representation learning on text-attributed graphs. They enhance the original graph neural networks (GNNs) by delicately modeling text attributes alongside graph structure learning. Despite these algorithmic breakthroughs, existing LM-based graph learning still fails in practical deployment due to several critical defects, namely time and resource inefficiency, inflexible decoupled architectures, limited model scale, and the omission of graph properties. In this paper, we propose UniTG, the first unified system that fuses the LM and GNN phases into a single end-to-end procedure through three co-designed components spanning the runtim...
+
+  `matched: graph neural network, neural network`
+
+
+- **[Reaction - diffusion model of multicomponent myocardial injury based on Dirichlet concentration parameters](https://doi.org/10.20537/2076-7633-2026-18-4-929-972)**
+  <br>*Computer Research and Modeling | 2026-09-04 | doi:10.20537/2076-7633-2026-18-4-929-972 | score 9*
+  <br>Shchetinin, Shevchuk
+
+  `matched: diffusion model`
+
+
+- **[Predicting Faster Than We Can Make: Polymer‐Specific Process Physics as a Frontier for Autonomous Soft‐Matter Discovery](https://doi.org/10.1002/marc.70420)**
+  <br>*Macromolecular Rapid Communications | 2026-09-01 | doi:10.1002/marc.70420 | score 8*
+  <br>Xian Jun Loh
+
+  Machine learning is now a productive tool in polymer research, predicting many properties and proposing new structures by generative design. For the materials whose behaviour is set by processing rather than chemistry alone, our capacity to propose polymers is beginning to outrun our capacity to make, process, and validate them. This Perspective argues that a key bottleneck for these materials is not model architecture but a polymer-specific gap: macroscopic, processing-dependent properties and slow validation timescales. I distinguish chemistry-dominated, condition-dependent, and process-history-dependent properties, and develop two contrasting cases: sustainable thermoplastics, governed by...
+
+  `matched: machine learning, polymer`
+
+
+- **[AtomVoxelizer: Periodic atom-centered voxel grids for fast spatial atomistic analysis](https://doi.org/10.1016/j.softx.2026.102992)**
+  <br>*SoftwareX | 2026-09-01 | doi:10.1016/j.softx.2026.102992 | score 7*
+  <br>Tristan Maxson, Tibor Szilvási
+
+  Atomistic simulation workflows increasingly combine large structures with fast machine-learning interatomic potentials, making auxiliary geometric operations potential bottlenecks. AtomVoxelizer accelerates these tasks by constructing periodic voxel grids using local stencil painting. Rather than evaluating every voxel-atom distance, AtomVoxelizer precomputes local sphere stencils and translates them to each atom, reducing common mask-generation scaling from O(N3) to approximately O(N) by shifting the algorithm to an atom-centered picture. The package supports masks, distance fields, vector and matrix grids, connected-region and surface analysis, probe accessibility, Numba acceleration, and...
+
+  `matched: interatomic potential`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Interplay of B-Site Off-Centering and Molecular Orientations in the Mixed Hybrid Perovskite MAGe1xSnxI3](http://arxiv.org/abs/2609.03510v1)**
+  <br>*arXiv | 2026-09-03 | score 27*
+  <br>Erik Fransson, Apinya Ngoipala, Oskar Öjstedt, Maths Karlsson et al.
+
+  B-site mixing is a common strategy for tuning properties of halide perovskites. In the lead-free system MAGe1-xSn_xI3, it brings tilting and off-centering into competition. Using large-scale molecular dynamics driven by a machine-learned interatomic potential, we map the structural behavior across the full composition range. MAGeI3 exhibits strong polar B-site off-centering that remains nearly constant up to the cubic transition, together with methylammonium (MA) orientational order that weakens progressively on heating. By contrast, MASnI3 combines octahedral tilting with weaker, predominantly antipolar off-centering. Ge-like behavior persists upon alloying and gives way to Sn-like behavior...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics, perovskite, alloy`
+
+
+- **[Beyond DFT: Quantum Chaos and Neural Networks for 2D Material Device Design](https://doi.org/10.21203/rs.3.rs-10784136/v1)**
+  <br>*Crossref | 2026-09-04 | doi:10.21203/rs.3.rs-10784136/v1 | score 17*
+  <br>Mehrmanesh, Behnia
+
+  Abstract Accurate prediction of quantum stability in Selenium-doped MoS 2 field-effect transistors (FETs) remains challenging due to the computational cost of ab initio methods. Here, we combine quantum chaos theory with a multilayer perceptron (MLP) neural network to predict the Brody parameter (β) and current-voltage characteristics without relying on density functional theory. Our MLP model achieves R 2 > 0.93 on test data, accurately capturing the dependence of quantum chaos on bias voltage, impurity concentration, and lattice size. We demonstrate that quantum stability is tunable, not intrinsic, and uncover a universal scaling law where system size governs the transition from integrable...
+
+  `matched: density functional theory, neural network, dft`
+
+
+- **[Deep Learning for Discovering Novel Materials with Desired Properties](https://doi.org/10.5281/zenodo.22270638)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-03 | doi:10.5281/zenodo.22270638 | score 16*
+  <br>Jincheng Zhang
+
+  This work explores the application of deep learning, specifically generative models, to accelerate the process of discovering novel materials possessing desired properties. The core idea is to leverage the power of deep learning to learn the complex relationships between material structure and properties, enabling the generation of new material designs that meet specific criteria. We focus on utilizing Variational Autoencoders (VAEs) as a representative generative model, trained on datasets comprising material data such as crystal structures and elemental compositions. The generated materials are then evaluated for their predicted properties, offering a potentially significant reduction in t...
+
+  `matched: generative model, deep learning, crystal, dataset`
+
+
+- **[Deep Learning for Discovering Novel Materials with Desired Properties](https://doi.org/10.5281/zenodo.22270639)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-03 | doi:10.5281/zenodo.22270639 | score 16*
+  <br>Jincheng Zhang
+
+  This work explores the application of deep learning, specifically generative models, to accelerate the process of discovering novel materials possessing desired properties. The core idea is to leverage the power of deep learning to learn the complex relationships between material structure and properties, enabling the generation of new material designs that meet specific criteria. We focus on utilizing Variational Autoencoders (VAEs) as a representative generative model, trained on datasets comprising material data such as crystal structures and elemental compositions. The generated materials are then evaluated for their predicted properties, offering a potentially significant reduction in t...
+
+  `matched: generative model, deep learning, crystal, dataset`
+
+
+- **[HiPoly: a hierarchical polymer-native AI framework for property prediction and generative design](https://doi.org/10.48550/arxiv.2609.02746)**
+  <br>*arXiv (Cornell University) | 2026-09-02 | doi:10.48550/arxiv.2609.02746 | score 13*
+  <br>Ge Sun, Gervasio Zaldívar, Yuan Tian, Gustavo Perez Lemus
+
+  Polymeric materials are central to modern technologies, with applications ranging from energy to health and transportation. Although AI has made significant advances in materials discovery, the hierarchical structure of polymers across multiple length scales makes them inherently difficult to represent in a unified and physically meaningful way. Here we introduce HiPoly, a polymer-native AI framework that processes complete polymer descriptions through a three-level hierarchical graph architecture built on the G2RINS representation. HiPoly encodes stochastic inter-monomer connectivity, composition, and molecular weight directly within its architecture, using physically motivated design princ...
+
+  `matched: materials discovery, polymer`
+
+
+- **[OptoMatKG: A Traceable Knowledge Graph Framework with Semantic Retrieval for Optoelectronic Materials Science](https://doi.org/10.26434/chemrxiv.15008315/v1)**
+  <br>*Crossref | 2026-09-04 | doi:10.26434/chemrxiv.15008315/v1 | score 12*
+  <br>Ni, Zhang
+
+  Extracting and correlating knowledge from heterogeneous scientific publications poses a fundamental data engineering challenge for data-driven materials discovery. Traditional keyword search lacks semantic depth, while generic large language models (LLMs) are prone to hallucinated predictions. To address these limitations, we present OptoMatKG, a literature-scale data engineering system whose core contributions are threefold: (1) a domain-specific knowledge graph construction pipeline based on a nine-category fullworkflow ontology; the resulting graph comprises 2.62 million entities and 3.38 million typed relations; (2) a cascaded multi-stage retrieval pipeline that synergistically integrate...
+
+  `matched: large language model, materials discovery`
+
+
+- **[BiFuN: Machine Learning-Guided Bifunctional Catalysis in Hydrogenation Reactions](https://doi.org/10.26434/chemrxiv.15008296/v1)**
+  <br>*Crossref | 2026-09-04 | doi:10.26434/chemrxiv.15008296/v1 | score 11*
+  <br>Morán-González, Kneiding, Safy, Beller et al.
+
+  Hydrogen activation and further hydrogenation of substrate cover chemical processes in synthetic and energetic-related technologies. In homogeneous catalysis, transition metal complexes with bifunctional nature offer a platform for the activation and later utilization of the hydrogen-source. However, the development of new catalysts is limited by long-term trial-and-error practices. Screening approaches offer the possibility of relying on key properties to identify promising candidates. Here, we present a data-driven workflow that integrates high-throughput chemical screening, quantum-mechanical (QM) calculations, and machine learning (ML) predictions to accelerate the rational discovery of...
+
+  `matched: machine learning, catalyst`
+
+
+- **[Physics-Informed Neural Network Surrogate for Oxygen Vacancy Dynamics in epitaxial $\mathrm{SrTiO_3}$ on Si memristors via Dynamic Spectral Optimization](http://arxiv.org/abs/2609.02966v1)**
+  <br>*arXiv | 2026-09-02 | score 9*
+  <br>Rodion Podorozhny, Nikoleta Theodoropoulou, Jelena Tešić
+
+  Physics-informed neural networks (PINNs) offer a promising framework for modeling semiconductor devices, yet standard architectures struggle with severe numerical stiffness and multiscale spatial discrepancies inherent to oxide heterostructures. Here, we demonstrate a cascaded PINN architecture coupled with a custom second-order Chebyshev second kind polynomial spectral optimizer (DSO V2 Hybrid) to model ion-electronic drift-diffusion transport in Pt/SrTiO$_3$/Si memristive heterostructures across a 20 nm STO film on a 380 $μ$m Si substrate. By isolating potential, carrier density, and vacancy transport into four sequentially trained sub-neural-networks, our model circumvents condition numbe...
+
+  `matched: neural network, semiconductor`
+
+
+---
+
+
 ## 2026-09-03
 
 28 new item(s). Top hit: **Finite-temperature dynamic stability separates foundation machine-learning interatomic potentials that harmoni** (score 35, Crossref).
