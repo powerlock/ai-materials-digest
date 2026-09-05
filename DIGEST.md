@@ -6,6 +6,93 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-05
+
+9 new item(s). Top hit: **Machine learning interatomic potentials for solid-state precipitation** (score 42, Physical Review Materials).
+
+### Journal articles
+
+- **[Machine learning interatomic potentials for solid-state precipitation](https://doi.org/10.1103/qyb1-7j1p)**
+  <br>*Physical Review Materials | 2026-09-04 | doi:10.1103/qyb1-7j1p | score 42*
+  <br>Lorenzo Piersante, Anirudh Raju Natarajan
+
+  Machine learning interatomic potentials (MLIPs) are routinely used to model diverse atomistic phenomena, yet parameterizing them to accurately capture solid-state phase transformations remains difficult. We present error metrics and data-generation schemes designed to streamline the parameterization of MLIPs for modeling precipitation in multicomponent alloys. We developed an algorithm that enumerates symmetrically distinct transformation pathways connecting chemical decorations of different parent crystal structures. Additionally, we introduce the weighted Kendall- τ coefficient and its semigrand-canonical generalization as metrics for quantifying MLIP accuracy in predicting low-temperature...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, crystal, alloy`
+
+
+- **[Machine learning interatomic potentials for high-entropy alloys: from atomic mechanisms to macroscopic design](https://doi.org/10.1016/j.commatsci.2026.115016)**
+  <br>*Computational Materials Science | 2026-09-04 | doi:10.1016/j.commatsci.2026.115016 | score 41*
+  <br>Abdul Bari, Jiankang Huang, Muhammad Ishfaq, Chen Dong
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, alloy`
+
+
+- **[Distinguishing the mixed conduction interphase: a machine learning molecular dynamics study on the Na 3 PS 4 /Na battery interface](https://doi.org/10.1088/2632-2153/aea2f0)**
+  <br>*Machine Learning Science and Technology | 2026-09-04 | doi:10.1088/2632-2153/aea2f0 | score 40*
+  <br>Bryant Y. Li, Hwidong Jeon, Kristin A. Persson
+
+  Abstract The interphase formed between solid electrolytes and alkali metal anodes determines whether decomposition is self-passivating, solid electrolyte interphase (SEI) or continuously propagating, mixed conducting interphase (MCI). We employ machine learning interatomic potential molecular dynamics to simulate the Na 3 PS 4 /Na interface at scales of 500,000 atoms and 10 ns. Three features distinguish this system from the passivating Li 7 P 3 S 11 /Li interface: (1) P–P transport correlations enabling cooperative phosphorus migration toward the anode, (2) amorphous Na 2 S domains lacking nanocrystalline order, and (3) persistent Na–P connectivity pathways spanning the interphase from the...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, electrolyte, crystal`
+
+
+- **[Field-aware and charge-informed machine learning for predicting molecular and condensed-phase responses and vibrational spectra](https://doi.org/10.1038/s41524-026-02293-6)**
+  <br>*npj Computational Materials | 2026-09-04 | doi:10.1038/s41524-026-02293-6 | score 31*
+  <br>Ke Chen, Sandra Luber
+
+  Abstract External electric fields play a crucial role in chemistry, materials, and biology. However, accurately capturing external field effects remains a challenge for machine learning interatomic potentials (MLIPs). By revealing the limitations of conventional architectures in predicting field-dependent response properties, we introduce a physics-informed field-aware equivariant neural network framework that predicts response properties to external electric fields. External electric fields are incorporated through an equivariant embedding layer that concatenates field representations with atomic features, preserving rotational equivariance. The model leverages an energy-derivative approach...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, neural network, equivariant`
+
+
+- **[Machine learning for predicting the glass transition and melting temperatures of polymers: molecular representations, model architectures, and interpretability](https://doi.org/10.3389/fmats.2026.1919251)**
+  <br>*Frontiers in Materials | 2026-09-03 | doi:10.3389/fmats.2026.1919251 | score 16*
+  <br>Guo Haiqian, Yitian Zhang, Wei Zan, Jiejie Liu
+
+  Glass transition (Tg) and melting (Tm) temperatures set the processing window, service range, and end-use performance of polymers, making their rapid prediction central to accelerated materials design. Experiments and simulations are accurate but costly, while classical structure–property models depend on hand-crafted descriptors; machine learning instead maps chemical structure to thermal transitions end to end. This review organizes machine-learning prediction of Tg and Tm around three pillars—molecular representation, model architecture, and interpretability—and foregrounds the features that separate polymer informatics from generic molecular machine learning: repeat-unit periodicity, cha...
+
+  `matched: machine learning, materials design, polymer`
+
+
+- **[Accelerated stable structure prediction of Li-intercalated bilayer graphene using a data-efficient deep learning framework](https://doi.org/10.1038/s41524-026-02314-4)**
+  <br>*npj Computational Materials | 2026-09-04 | doi:10.1038/s41524-026-02314-4 | score 15*
+  <br>Hui Li, B. Gui, Hailong Zhang, Le Yang
+
+  Replacing bulk graphite with few-layer graphene is a promising route toward improving both the storage capacity and rate capability of fast-charging Li-ion batteries. As the simplest layered graphene system, bilayer graphene (BLG) provides an ideal model for uncovering the structural origins of these improvements, which in turn requires accurate identification of its thermodynamically stable structures. However, predicting stable Li-intercalated structures requires exhaustive exploration of a vast configurational space using density functional theory (DFT), which rapidly becomes computationally prohibitive for large supercells. Here, we present DESSP, a data-efficient deep learning framework...
+
+  `matched: density functional theory, deep learning, dft`
+
+
+- **[Deep learning statistical defect models on magnetic material dynamic and static properties](https://www.nature.com/articles/s41524-026-02285-6)**
+  <br>*npj Computational Materials | 2026-09-05 | doi:10.1038/s41524-026-02285-6 | score 13*
+
+  `matched: deep learning, magnet`
+
+
+- **[Using Approximations of Practice to Support Calculus Instructors’ Enactment of Equitable Active Learning Teaching Practices](https://doi.org/10.1007/s40753-026-00315-8)**
+  <br>*International Journal of Research in Undergraduate Mathematics Education | 2026-09-05 | doi:10.1007/s40753-026-00315-8 | score 7*
+  <br>Serbin, Uhing
+
+  Abstract We implemented a semester-long professional development workshop series to help Calculus I and II instructors implement active learning and equitable teaching practices. The workshops actively engaged instructors in approximations of practice (Grossman et al., 2009) in which they learned to enact various teaching practices like designing tasks; eliciting, noticing, and responding to evidence of student thinking; orchestrating class discussions; fostering inclusive social norms; and equitably managing student participation. After they participated in the workshops, we interviewed the instructors about their decisions to implement the teaching practices from the approximations of prac...
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Unveiling Surface Reaction Networks in Biomass-Derived Compound Upgrading](https://doi.org/10.26434/chemrxiv.15008286/v1)**
+  <br>*ChemRxiv | 2026-09-04 | doi:10.26434/chemrxiv.15008286/v1 | score 22*
+  <br>Fabio Loprete, Axel Tosello Gardini, Luca Visentin, Umberto Raucci
+
+  Biomass-derived platform molecules often undergo complex surface reactions in which productive routes compete with catalyst deactivation, limiting catalyst selectivity and stability. Identifying the molecular origins of these competing processes remains challenging, as conventional computational approaches generally rely on chemical intuition and hypothesis-driven rules, while strongly adsorbed intermediates and poisoning species remain difficult to characterize experimentally. Here, we combine enhanced sampling reaction discovery techniques with machine learning interatomic potentials, experimental catalytic tests, and in situ DRIFTS to unravel the surface reaction network controlling methy...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, catalyst`
+
+
+---
+
+
 ## 2026-09-04
 
 16 new item(s). Top hit: **Interplay of B-Site Off-Centering and Molecular Orientations in the Mixed Hybrid Perovskite MAGe1xSnxI3** (score 27, arXiv).
