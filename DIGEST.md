@@ -6,6 +6,94 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-06
+
+9 new item(s). Top hit: **Complex crystal structure prediction using ML-enhanced multi-minima iterative genetic algorithm** (score 41, Crossref).
+
+### Journal articles
+
+- **[LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework](https://doi.org/10.1145/3845996)**
+  <br>*ACM Transactions on Intelligent Systems and Technology | 2026-09-06 | doi:10.1145/3845996 | score 24*
+  <br>Qiao, Ao, Liu, Xu et al.
+
+  Recent prevailing works on graph machine learning typically follow a methodology of designing advanced graph neural network (GNN) variants to adapt to diverse graph characteristics. In this paper, we aim to streamline this process by leveraging Large Language Models (LLMs) to enhance basic GNNs. Building upon existing categories of LLMs-as-Predictors and LLMsas-Enhancers , we introduce a new paradigm for integrating LLMs with graph learning, termed LLMs-as-Consultants . Unlike existing static paradigms, the Consultant paradigm positions LLMs as model-aware participants invoked conditionally during training based on GNN predictive uncertainty. We instantiate this paradigm through the LOGIN fr...
+
+  `matched: large language model, graph neural network, machine learning, neural network`
+
+
+- **[Inverse Design of a Wide-Angle Wideband Programmable THz Reflectarray Through Generative Adversarial Networks](https://doi.org/10.66224/itrc.17.3.1)**
+  <br>*International Journal of Information and Communication Technology Research | 2026-09-06 | doi:10.66224/itrc.17.3.1 | score 13*
+  <br>Yousefi, Khajeh, Yahaghi, Hosseini et al.
+
+  `matched: inverse design`
+
+
+- **[Prediction and experimental study on hydrogen storage performance of Ti-Fe-Zr-Mn-V-based high-entropy alloys based on machine learning](https://doi.org/10.1016/j.ijhydene.2026.157414)**
+  <br>*International Journal of Hydrogen Energy | 2026-09-06 | doi:10.1016/j.ijhydene.2026.157414 | score 11*
+  <br>Han, Yong, Wang, Wang et al.
+
+  `matched: machine learning, alloy`
+
+
+- **[The Effect of Wayang Huruf Interactive Learning Media on Letter Recognition Skills in Children Aged 4–5 Years](https://doi.org/10.25273/jcare.v14i1.23550)**
+  <br>*Jurnal CARE (Children Advisory Research and Education) | 2026-09-06 | doi:10.25273/jcare.v14i1.23550 | score 7*
+  <br>Mutiara, Herman, Harlisa Harianti, Muharram et al.
+
+  Early childhood literacy development is in its initial stages and remains heavily influenced by learning experiences that are concrete, repetitive, interactive, and aligned with children's developmental characteristics. This study aims to examine the impact of interactive learning media specifically "letter puppets" on the letter recognition skills of children aged 4–5 years. A quantitative approach was employed using a quasi-experimental design (specifically, a non-equivalent group design). The study involved 16 children, evenly divided into experimental and control groups. Data collection was conducted through observation, pre-test and post-test evaluations, and documentation. The experime...
+
+  `matched: active learning`
+
+
+- **[Interactive Learning Media On Dynamic Electrical Materials For Concept-Based High School Students](https://doi.org/10.32764/20yhc152)**
+  <br>*SCHOOLAR: Social and Literature Study in Education | 2026-09-06 | doi:10.32764/20yhc152 | score 7*
+  <br>Hamidah, Prihatiningtyas, Pertiwi, Putra et al.
+
+  The purpose of this study is to develop an interactive learning media based on Canva using the topic of dynamic electricity to increase students' learning interest. The research and development process was carried out using the Borg and Gall development model, which was simplified into several key stages: identifying potential and problems, data collection, product design, design validation, design revision, product testing, product revision, and implementation trial. The validation results of the Canva-based interactive learning media showed that the media received a score of 81.0% from material experts and 78.3% from media experts. Therefore, the interactive learning media are considered f...
+
+  `matched: active learning`
+
+
+- **[Implementasi Gamifikasi Berbasis Canva AI dalam Pembelajaran Bahasa Inggris di Sekolah Dasar: Pendekatan Technology Acceptance Model](https://doi.org/10.63447/jimik.v7i3.2011)**
+  <br>*Jurnal Indonesia : Manajemen Informatika dan Komunikasi | 2026-09-06 | doi:10.63447/jimik.v7i3.2011 | score 6*
+  <br>Fadlan, Akbar, Yel
+
+  The use of digital technology provides opportunities to create more interactive learning through the integration of gamification and artificial intelligence. This study examines the implementation of Canva AI as a gamification-supporting medium in English language learning at SD IDN An-Naba, focusing on Perceived Ease of Use (PEOU), Perceived Usefulness (PU), student engagement, and implementation challenges. The study employed a descriptive qualitative approach, with data collected through observation, interviews, and documentation. The results showed that Canva AI was relatively easy to use and helped teachers prepare engaging learning media while supporting the implementation of gamificat...
+
+  `matched: artificial intelligence, active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Complex crystal structure prediction using ML-enhanced multi-minima iterative genetic algorithm](https://doi.org/10.2139/ssrn.7422744)**
+  <br>*Crossref | 2026-09-06 | doi:10.2139/ssrn.7422744 | score 41*
+  <br>Tang, Xia, Slade, Canfield et al.
+
+  Current machine learning (ML) approaches for materials discovery rely heavily on known structural databases, limiting their ability to identify entirely novel structure types. In this work, we develop a multi-minima iterative genetic algorithm (MMIGA) that integrates an artificial-neural-network machine learning (ANN-ML) interatomic potential with an iterative, metadynamics-inspired penalty scheme. We demonstrate the robustness of this method on a complex ternary La-Co-Pb system, characterized by Co-Pb immiscibility and an intricate energy landscape. The ML-enhanced MMIGA successfully predicts the ground-state Pbam structure of the recently synthesized La4Co4Pb antagonistic-pair-phase, a nov...
+
+  `matched: crystal structure prediction, interatomic potential, materials discovery, machine learning, crystal`
+
+
+- **[Process-Driven Property Variability in PEGDA-Based Photopolymers: Multiscale Characterization and Implications for Data-Driven Materials Design](https://doi.org/10.2139/ssrn.7422818)**
+  <br>*Crossref | 2026-09-06 | doi:10.2139/ssrn.7422818 | score 16*
+  <br>Nuworku, Saeedian, Prasad
+
+  Polyethylene Glycol Diacrylate (PEGDA) is used across applications including biomedical and soft electronics due to its tunability and suitability for manufacturing via multiple routes. However, a mechanistic understanding of how processing influences structural conversion, functional performance, and stability remains limited, leading to large scatter in values. Here, a PEGDA-based hydrogel system prepared via bulk casting and grayscale digital light processing (G-DLP) was analyzed for manufacturing and process-driven variabilities. Fourier Transform Infrared Spectroscopy (FTIR) revealed that the degree of conversion scaled with increasing light exposure and time to cure. However, factors s...
+
+  `matched: materials design, polymer`
+
+
+- **[Interpretable Physically Constrained Framework for Anisotropic Constitutive Model of CoCrNi Plasticity over Wide Strain Rates](https://doi.org/10.2139/ssrn.7422739)**
+  <br>*Crossref | 2026-09-06 | doi:10.2139/ssrn.7422739 | score 11*
+  <br>ZhiZeng, Wang, Luo, Chen et al.
+
+  Conventional constitutive models cannot adequately describe the rate-dependent anisotropic plasticity of CoCrNi under dynamic loading and CrystalPlasticity FiniteElement Method (CPFEM) simulations are too costly for large-scale use. To address these issues, we propose a two-stage physics-constrained machine learning framework that couples mesoscopic dislocation kinetics with macroscopic plasticity criteria. As a surrogate model for CPFEM, it embeds physical regularization to ensure thermodynamically consistent predictions. The model achieves accurate six-dimensional stress predictions across 102∼106 s-1. It generalizes well to various loading modes, including split Hopkinson pressure bar (SH...
+
+  `matched: machine learning, surrogate model, crystal`
+
+
+---
+
+
 ## 2026-09-05
 
 9 new item(s). Top hit: **Machine learning interatomic potentials for solid-state precipitation** (score 42, Physical Review Materials).
