@@ -6,6 +6,112 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-07
+
+11 new item(s). Top hit: **Hessian-based molecular conformation augmentation for a scalable and efficient strategy of machine learning in** (score 37, arXiv).
+
+### Journal articles
+
+- **[Machine learning-assisted DFT screening of 1D covalent organic frameworks for highly selective CO2 reduction reactions](https://doi.org/10.1016/j.surfin.2026.110570)**
+  <br>*Surfaces and Interfaces | 2026-09-07 | doi:10.1016/j.surfin.2026.110570 | score 13*
+  <br>Tong, Li, Luo, Liang et al.
+
+  `matched: machine learning, dft`
+
+
+- **[PI-AttnGAN: Physics-informed attention generative modeling for cross-modal FT-IR-to-Raman serum spectral reconstruction](https://doi.org/10.1016/j.saa.2026.128744)**
+  <br>*Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy | 2026-09-07 | doi:10.1016/j.saa.2026.128744 | score 9*
+  <br>Chang, Lin, Liu, Chen et al.
+
+  `matched: generative model`
+
+
+- **[Thermal conductivity predictions with foundation atomistic models](https://doi.org/10.1038/s41467-026-76391-w)**
+  <br>*Nature Communications | 2026-09-05 | doi:10.1038/s41467-026-76391-w | score 8*
+  <br>Balázs Póta, Paramvir Ahlawat, Gábor Cśanyi, Michele Simoncelli
+
+  Abstract Advances in machine learning have led to the development of foundation models for atomistic materials chemistry, enabling quantum-accurate descriptions of interatomic forces across chemically diverse compounds at reduced computational cost. Hitherto, the accuracy and utility of these models have been assessed relying on descriptors based on formation energies or idealized harmonic atomic vibrations. Yet, the rigorous and physically interpretable quantification of their capability to describe both realistic anharmonic atomic dynamics and technologically relevant observables remains a pressing problem. Here, we address this problem, leveraging the Wigner formulation of heat transport...
+
+  `matched: foundation model, machine learning`
+
+
+- **[lahirukk01/mace-uq: v0.1.0](https://doi.org/10.5281/zenodo.22336573)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-05 | doi:10.5281/zenodo.22336573 | score 7*
+  <br>Lahiru K. Kariyawasam
+
+  First public release. An open implementation of post-hoc per-atom uncertainty quantification for MACE machine-learning interatomic potentials, following the method of Bilbrey et al., npj Computational Materials (2026). What it does: Extracts per-atom latent embeddings from a trained MACE model's message-passing layers Trains gradient-boosted quantile regressors to predict the spread of the per-atom force error Uses the interval width (q95 minus q05) as a per-atom uncertainty score Reports both calibration (interval coverage, miscalibration area) and discrimination (Spearman, Pearson, AUROC, enrichment), comparing three regressor families against a linear baseline Attaches a live monitor to A...
+
+  `matched: interatomic potential`
+
+
+- **[lahirukk01/mace-uq: v0.1.0](https://doi.org/10.5281/zenodo.22336572)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-05 | doi:10.5281/zenodo.22336572 | score 7*
+  <br>Lahiru K. Kariyawasam
+
+  First public release. An open implementation of post-hoc per-atom uncertainty quantification for MACE machine-learning interatomic potentials, following the method of Bilbrey et al., npj Computational Materials (2026). What it does: Extracts per-atom latent embeddings from a trained MACE model's message-passing layers Trains gradient-boosted quantile regressors to predict the spread of the per-atom force error Uses the interval width (q95 minus q05) as a per-atom uncertainty score Reports both calibration (interval coverage, miscalibration area) and discrimination (Spearman, Pearson, AUROC, enrichment), comparing three regressor families against a linear baseline Attaches a live monitor to A...
+
+  `matched: interatomic potential`
+
+
+- **[Vessel-like Channeled Superelastic and Biocompatible Aerogels for Acoustic Absorption and Oil Removal](https://doi.org/10.1021/acsami.6c12142)**
+  <br>*ACS Applied Materials &amp; Interfaces | 2026-09-07 | doi:10.1021/acsami.6c12142 | score 6*
+  <br>Shen, Jiang, Li, Wan et al.
+
+  Abstract Modern industrialization and urbanization have led to environmental challenges, including noise pollution and water contamination, which threaten ecosystems and human health. Current materials designed to address these issues are limited in performance and functionality. In this study, vessel-like channeled cellulose aerogels (VCAs) with hierarchical and anisotropic pore structures were proposed. These aerogels exhibited an ultralow density of 1.5 mg cm−3 (VCAs-0.1) with negative Poisson's ratio behavior and superelasticity at liquid nitrogen temperature. Additionally, VCAs-0.4 demonstrated efficient sound-absorbing performance with a noise reduction coefficient of 0.47 under low ar...
+
+  `matched: materials design`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Hessian-based molecular conformation augmentation for a scalable and efficient strategy of machine learning interatomic potentials](http://arxiv.org/abs/2609.05233v1)**
+  <br>*arXiv | 2026-09-04 | score 37*
+  <br>Bumju Kwak, Jeonghee Jo
+
+  While machine-learning interatomic potentials (MLIPs) have successfully learned potential energy surfaces (PES) and atomic forces, many practical applications, such as vibrational analysis and transition state search, rely heavily on the PES Hessian. Yet, standard MLIPs tend to be trained on energy and forces alone, leaving Hessian information largely unexploited. Meanwhile, existing methods that explicitly incorporate the Hessian into training objectives require architectural modifications and introduce significant computational and memory overheads due to higher-order backpropagation. To address these limitations, we propose two Hessian-derived data augmentation schemes: isotropic Gaussian...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Voltage-embedded equivariant machine learning potential for open system simulations](http://arxiv.org/abs/2609.04696v1)**
+  <br>*arXiv | 2026-09-04 | score 23*
+  <br>Yiming Guan, Rongzhi Gao, ChiYung Yam, GuanHua Chen et al.
+
+  Modeling electrochemical interfaces under operational non-equilibrium conditions is vital for energy technologies but remains bottlenecked by the expensive cost of ab initio methods. Current machine learning potentials, largely designed for closed systems under homogeneous electric fields, are limited in open quantum transport applications. To overcome this, we present an E(3)-equivariant graph neural network that embeds voltage bias for open-system simulations. Our approach decouples the system energy and forces into zero-bias and bias-dependent contributions, assigning distinct vector encodings to electrode and scattering-region atoms to capture non-equilibrium conditions. Trained on limit...
+
+  `matched: graph neural network, machine learning, neural network, equivariant`
+
+
+- **[pdb2reaction: End-to-End Reaction-Path Elucidation from PDB Structures Using Machine-Learning Interatomic Potentials](https://doi.org/10.26434/chemrxiv.15003538/v2)**
+  <br>*Crossref | 2026-09-07 | doi:10.26434/chemrxiv.15003538/v2 | score 16*
+  <br>Ohmura, Sato, Terada
+
+  Elucidating enzymatic reaction mechanisms requires a sequence of computational tasks comprising active-site extraction, minimum-energy path (MEP) search, transition-state (TS) refinement, intrinsic reaction coordinate (IRC) validation, and quasi-rigid-rotor harmonic-oscillator (QRRHO) thermochemistry—stages typically connected by ad hoc scripting and per-system tuning. We present pdb2reaction, an open-source Python command-line toolkit that automates this entire pipeline directly from a user-curated PDB using a single machine-learning interatomic potential (MLIP) backend. A GPU-accelerated pysisyphus fork is bundled to perform all Hessian-based heavy computations on the same CUDA device as t...
+
+  `matched: interatomic potential, open-source`
+
+
+- **[Multi-task deep-learning optimization of trade-off properties for superior-performance Fe-based soft magnetic alloys](http://arxiv.org/abs/2609.04845v1)**
+  <br>*arXiv | 2026-09-04 | doi:10.1088/1674-1056/ae5b5f | score 14*
+  <br>Kang-Yuan Li, Mao-Zhi Li, Wei-Hua Wang
+
+  Fe-based amorphous alloys are promising soft magnetic materials for developing next-generation devices with high frequency and efficiency. However, optimization of Fe-based alloys with ultra-high saturation magnetic flux density (B_s), ultra-low coercivity (H_c), and good glass-forming ability is a notorious problem, owing to the vast composition space and complex trade-offs of these properties. Thus, conventional design methods encounter great challenges. Here we develop a generative multi-task deep learning (GMTDL) to achieve simultaneous optimization of compositions and trade-off properties. The GMTDL can sufficiently exploit and share the knowledge of datasets across different tasks, des...
+
+  `matched: deep learning, dataset, magnet, alloy`
+
+
+- **[Integrating Theory–Experiment Active Learning and Mechanistic Insights for High-Entropy Alloy Design Toward Efficient Alkaline Hydrogen Evolution](https://doi.org/10.26434/chemrxiv.15008410/v1)**
+  <br>*Crossref | 2026-09-07 | doi:10.26434/chemrxiv.15008410/v1 | score 12*
+  <br>Li, Zhang, Jin, Luo et al.
+
+  High-entropy alloys (HEAs) offer diverse local coordination environments for modulating hydrogen adsorption and water activation in alkaline hydrogen evolution, but their highdimensional compositional space remains difficult to explore efficiently. Theory-experiment closed loops can accelerate this search, yet theoretical prior and candidate sampling are commonly coupled, obscuring their individual contributions. Here, we developed a theory-experiment activelearning (TEA) framework that independently varies theoretical priors and candidate sampling strategies for AuCuPdPtIr HEAs. Under identical experimental throughput, the theoretical prior provided transferable performance trends across co...
+
+  `matched: active learning, alloy`
+
+
+---
+
+
 ## 2026-09-06
 
 9 new item(s). Top hit: **Complex crystal structure prediction using ML-enhanced multi-minima iterative genetic algorithm** (score 41, Crossref).
