@@ -6,6 +6,157 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-08
+
+16 new item(s). Top hit: **A computed thermoelectric feature database for 50,992 GNoME materials** (score 40, Crossref).
+
+### Journal articles
+
+- **[Dataset for High Throughput Screening of Heusler Alloy for electrochemical NRR](https://doi.org/10.6084/m9.figshare.33456433)**
+  <br>*Figshare | 2026-09-07 | doi:10.6084/m9.figshare.33456433 | score 38*
+  <br>Manh Hung Ngo, Sang Uck Lee
+
+  Directory for structure and CIF files required for high-throughput screening of Heusler alloy catalysts for NRR.- Structure pool: all possible structures of all-metal Heusler alloys, including six types: alpha, beta, gamma, full, half, and inverse.- Thermodynamic stability:Dataset: CIF files and CSV files required for training machine learning interatomic potentials (MLIP).Ef_smaller_0: CSV file containing information on structures with formation energy smaller than 0.Model: CSV file containing information on the training and prediction processes for three model types: pretrained model, fine-tuning model, and re-training model.Energy after relax: energies of structures after relaxation using...
+
+  `matched: machine learning interatomic potential, high-throughput screening, interatomic potential, formation energy, machine learning, catalyst`
+
+
+- **[Dataset for High Throughput Screening of Heusler Alloy for electrochemical NRR](https://doi.org/10.6084/m9.figshare.33456433.v1)**
+  <br>*Figshare | 2026-09-07 | doi:10.6084/m9.figshare.33456433.v1 | score 38*
+  <br>Manh Hung Ngo, Sang Uck Lee
+
+  Directory for structure and CIF files required for high-throughput screening of Heusler alloy catalysts for NRR.- Structure pool: all possible structures of all-metal Heusler alloys, including six types: alpha, beta, gamma, full, half, and inverse.- Thermodynamic stability:Dataset: CIF files and CSV files required for training machine learning interatomic potentials (MLIP).Ef_smaller_0: CSV file containing information on structures with formation energy smaller than 0.Model: CSV file containing information on the training and prediction processes for three model types: pretrained model, fine-tuning model, and re-training model.Energy after relax: energies of structures after relaxation using...
+
+  `matched: machine learning interatomic potential, high-throughput screening, interatomic potential, formation energy, machine learning, catalyst`
+
+
+- **[High-throughput determination of threshold displacement energies in AlGaN alloys](https://doi.org/10.12688/nuclscitechnolopenres.17814.1)**
+  <br>*Nuclear Science and Technology Open Research | 2026-09-07 | doi:10.12688/nuclscitechnolopenres.17814.1 | score 28*
+  <br>Aiden Gonzalez, Marley Fennell, Alexander Hauck, Miaomiao Jin
+
+  Background Aluminum gallium nitride wide-bandgap semiconductors are increasing in popularity for radiation-tolerant electronic devices. Previous work determined that further research into the behavior of radiation-induced defects should be conducted to better understand the radiation damage mechanisms and improve radiation-hardening for these devices. Methods Here, molecular dynamics was combined with a first-principles-based machine learning interatomic potential and a classical Stillinger–Weber potential to systematically evaluate how the AlGaN alloy composition affects the direction-dependent threshold displacement energies. Validation was completed by performing displacements along well-...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, semiconductor, alloy`
+
+
+- **[Statistical and deep learning approaches for predicting degradation of polymeric materials in photovoltaics](https://doi.org/10.1080/00224065.2026.2723885)**
+  <br>*Journal of Quality Technology | 2026-09-08 | doi:10.1080/00224065.2026.2723885 | score 17*
+  <br>Hong, Gu
+
+  `matched: deep learning, photovoltaic, polymer`
+
+
+- **[Cation Engineering of Cubic AGaBr3 (A = Na, K) Halide Perovskites: A First-Principles and Machine Learning Study](https://doi.org/10.1016/j.physb.2026.419329)**
+  <br>*Physica B: Condensed Matter | 2026-09-08 | doi:10.1016/j.physb.2026.419329 | score 13*
+  <br>Ali, Jamal, Raza, Sharma et al.
+
+  `matched: machine learning, perovskite`
+
+
+- **[Cross-Scale Machine Learning for Polymer Materials: Linking Molecular Structure, Mesoscale Organization, Processing History, and Macroscopic Properties](https://doi.org/10.1021/acsapm.6c02610)**
+  <br>*ACS Applied Polymer Materials | 2026-09-08 | doi:10.1021/acsapm.6c02610 | score 11*
+  <br>Yao, Zhu, Chen, Luo et al.
+
+  Abstract Machine learning (ML) is increasingly used to predict polymer properties, screen candidates, and monitor manufacturing. Yet many studies remain confined to direct repeat-unit-to-property or process-to-quality correlations, while explicit state variables are often predicted only as terminal targets, treated as parallel objectives, or invoked after prediction. Here, mediator-resolved cross-scale polymer machine learning is reserved for workflows in which a condensed-state or process-state variable is measured, predicted, or physically constrained and is used to connect upstream material identity or processing history to a downstream macroscopic response or decision. We organize the li...
+
+  `matched: machine learning, polymer`
+
+
+- **[Single-Atom Palladium Functionalized Reduced Graphene Oxide Coupled with a Physics-Data Dual-Driven Deep Learning Framework for Interpretable Discrimination of Volatile Organic Compound Homologues](https://doi.org/10.1021/acssensors.6c01470)**
+  <br>*ACS Sensors | 2026-09-08 | doi:10.1021/acssensors.6c01470 | score 10*
+  <br>Xu, Cao, Wang, Xuan et al.
+
+  Abstract Precise discrimination of structural homologues, namely molecules with highly similar physicochemical properties, remains a critical bottleneck in artificial olfaction and limits its application in precision medicine and environmental monitoring. While deep learning has enhanced pattern recognition, current purely data-driven models often lack physical interpretability and may show limited transferability to homologous analytes not included during training. Here, we present a physics-data dual-driven deep learning framework that integrates time-resolved sensor responses with DFT-derived molecular descriptors, thereby bridging atomic-level electronic information and macroscopic sensi...
+
+  `matched: deep learning, dft`
+
+
+- **[Research on the Architecture of Artificial Intelligence-Driven Personalized Customization Industrial Design System](https://doi.org/10.4018/ijismd.421484)**
+  <br>*International Journal of Information System Modeling and Design | 2026-09-08 | doi:10.4018/ijismd.421484 | score 9*
+  <br>Huang, Li
+
+  Driven by consumers' personalized needs, 3D-printed jewelry urgently needs a new design paradigm that takes into account creative expression and manufacturing feasibility. In this paper, a human–machine collaborative system for mobile and immersive scenes is proposed: the cloud uses a diffusion model and a generative adversarial network to generate diversified drafts, and the edge side evaluates printability, material cost, and surface quality in real time. Users preview and interact with each other through the virtual reality/augmented reality interface. A five-dimensional preference signal is constructed based on multimodal feedback such as eye movement, gesture, and score, and the driving...
+
+  `matched: artificial intelligence, diffusion model`
+
+
+- **[Accurate Structural Parameter Retrieval for One-Dimensional Nanogratings in Mueller-Matrix Spectroscopic Ellipsometry Using an Element-Adaptive Hybrid Surrogate Model](https://doi.org/10.3390/app16188927)**
+  <br>*Applied Sciences | 2026-09-08 | doi:10.3390/app16188927 | score 7*
+  <br>Kim, Hwang, Kim, Lee et al.
+
+  Mueller-matrix spectroscopic ellipsometry (MMSE) enables accurate characterization of nanostructures; however, structural-parameter retrieval remains challenging because of the high computational cost of rigorous coupled-wave analysis (RCWA), element-dependent prediction errors in the forward surrogate model, and instability caused by measurement noise. In this study, we propose an RCWA-based element-adaptive hybrid surrogate model that combines unified and element-wise surrogate models for accurate and rapid structural-parameter retrieval on one-dimensional nanogratings. The wavelength-dependent spectral variability of each Mueller-matrix (MM) element is quantified using the mean absolute s...
+
+  `matched: surrogate model`
+
+
+- **[The tabGAP files for "A General-Purpose and Eﬀicient Machine-Learned Potential for SiC from Ambient to Extreme Environments"](https://doi.org/10.6084/m9.figshare.33443881.v1)**
+  <br>*Figshare | 2026-09-07 | doi:10.6084/m9.figshare.33443881.v1 | score 7*
+  <br>J. Zhao, Jintong Wu, Zhuang Shao, Jesper Jesper Byggmästar
+
+  The machine-learning interatomic potential files that support the findings of this study are available for "A General‑Purpose and Efficient Machine‑Learned Potential for SiC from Ambient to Extreme Environments" (DOI: https://doi.org/10.48550/arXiv.2510.01827).Two versions are provided:SiC_tabGAP_official: The officially released version, including all tests reported in the study.SiC_tabGAP_refit_for_I_and_V: A refitted version with extended configurations for interstitials and vacancies.
+
+  `matched: interatomic potential`
+
+
+- **[The tabGAP files for "A General-Purpose and Eﬀicient Machine-Learned Potential for SiC from Ambient to Extreme Environments"](https://doi.org/10.6084/m9.figshare.33443881)**
+  <br>*Figshare | 2026-09-07 | doi:10.6084/m9.figshare.33443881 | score 7*
+  <br>J. Zhao, Jintong Wu, Zhuang Shao, Jesper Jesper Byggmästar
+
+  The machine-learning interatomic potential files that support the findings of this study are available for "A General‑Purpose and Efficient Machine‑Learned Potential for SiC from Ambient to Extreme Environments" (DOI: https://doi.org/10.48550/arXiv.2510.01827).Two versions are provided:SiC_tabGAP_official: The officially released version, including all tests reported in the study.SiC_tabGAP_refit_for_I_and_V: A refitted version with extended configurations for interstitials and vacancies.
+
+  `matched: interatomic potential`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[A computed thermoelectric feature database for 50,992 GNoME materials](https://doi.org/10.26434/chemrxiv.15007873/v2)**
+  <br>*Crossref | 2026-09-08 | doi:10.26434/chemrxiv.15007873/v2 | score 40*
+  <br>Deshpande
+
+  Machine-learning interatomic potentials now make it feasible to compute rich physical property sets for very large libraries of hypothetical crystals, but such feature sets are rarely released in analysis-ready form, and thermal-transport descriptors — central to thermoelectric performance — are especially scarce. Here we present a computed feature database for 50,992 novel, thermodynamically plausible crystalline materials drawn from Google DeepMind's Graph Networks for Materials Exploration (GNoME) database and filtered for thermoelectric relevance (non-metallic, finite band gap, energy above the Materials Project convex hull ≤ 0.05 eV/atom). For every material we provide composition and c...
+
+  `matched: interatomic potential, materials project, thermoelectric, convex hull, band gap, crystal`
+
+
+- **[QSARmil: A Package for Molecular Multi-Instance Machine Learning](https://doi.org/10.26434/chemrxiv.15008449/v1)**
+  <br>*Crossref | 2026-09-08 | doi:10.26434/chemrxiv.15008449/v1 | score 23*
+  <br>Zankov, Danel, Šícho, Dehaen et al.
+
+  Numerous Python tools are available for molecular machine learning, typically built around core modeling paradigms such as descriptor-based approaches (“RDKit + scikit-learn”), deep neural networks, graph neural networks, geometric deep learning, and foundation models. Multi-instance learning (MIL) was originally inspired by the drug discovery problem, where a molecule can adopt multiple conformers and the biologically active one is unknown. Despite its clear relevance, MIL has not yet been supported by a dedicated and comprehensive Python platform for molecular applications. Here, we present QSARmil, a Python package designed for molecular multi-instance machine learning, that provides an i...
+
+  `matched: graph neural network, foundation model, machine learning, neural network, deep learning`
+
+
+- **[∆-Machine Learning for LC-DFT-level Excitation Energies of Bacteriochlorophyll Molecules in a LH2 Complex](https://doi.org/10.26434/chemrxiv.15002714/v2)**
+  <br>*Crossref | 2026-09-08 | doi:10.26434/chemrxiv.15002714/v2 | score 17*
+  <br>Maity, Vinod, Zaspel, Kleinekathöfer et al.
+
+  Bacteriochlorophyll (BChl) molecules are the key pigments in the light-harvesting complex 2 (LH2) of purple bacteria, driving solar energy conversion. During this process, fluctuations in excitation energies of the pigments at ultrafast timescales, modulated by the surrounding protein environment, govern the excitation dynamics within the complex. Because of the relatively large size of these molecules with 85 atoms and their complex electronic structure, these energy fluctuations have so far been estimated using semi-empirical methods or low-level time-dependent density functional theory (TD-DFT). In this work, we introduce a ∆-machine learning protocol to predict excitation energies at the...
+
+  `matched: density functional theory, machine learning, dft`
+
+
+- **[Interpretable Machine Learning Disentangles Pore Confinement Across Multiple Zr-MOF CO2 Capture Targets](https://doi.org/10.26434/chemrxiv.15008444/v2)**
+  <br>*Crossref | 2026-09-08 | doi:10.26434/chemrxiv.15008444/v2 | score 14*
+  <br>Vali, Hashemianzadeh
+
+  Pore confinement in zirconium-based metal–organic frameworks (Zr-MOFs) is often described using the cage–window ratio (ΓCW), the largest cavity diameter divided by the pore-limiting diameter (Df), yet whether this composite coordinate carries information beyond Df alone remains unclear. We modeled CO2 uptake, heat of adsorption (HoA), and CO2/N2 selectivity for 239 Zr-containing MOFs at two pressures relevant to vacuum-swing adsorption using structure-grouped machine learning with SHAP interpretation, reaching test R2 values of 0.77–0.88. Although ΓCW correlated positively with all three targets, controlling for Df weakened these associations and reversed their sign, while the reciprocal ana...
+
+  `matched: machine learning, mof`
+
+
+- **[Interpretable Machine Learning Disentangles Pore Confinement Across Multiple Zr-MOF CO2 Capture Targets](https://doi.org/10.26434/chemrxiv.15008444/v1)**
+  <br>*Crossref | 2026-09-08 | doi:10.26434/chemrxiv.15008444/v1 | score 14*
+  <br>Vali, Hashemianzadeh
+
+  Pore confinement in zirconium-based metal–organic frameworks (Zr-MOFs) is often described using the cage–window ratio (ΓCW), the largest cavity diameter divided by the pore-limiting diameter (Df), yet whether this composite coordinate carries information beyond Df alone remains unclear. We modeled CO2 uptake, heat of adsorption (HoA), and CO2/N2 selectivity for 239 Zr-containing MOFs at two pressures relevant to vacuum-swing adsorption using structure-grouped machine learning with SHAP interpretation, reaching test R2 values of 0.77–0.88. Although ΓCW correlated positively with all three targets, controlling for Df weakened these associations and reversed their sign, while the reciprocal ana...
+
+  `matched: machine learning, mof`
+
+
+---
+
+
 ## 2026-09-07
 
 11 new item(s). Top hit: **Hessian-based molecular conformation augmentation for a scalable and efficient strategy of machine learning in** (score 37, arXiv).
