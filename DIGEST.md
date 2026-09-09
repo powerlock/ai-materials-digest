@@ -6,6 +6,122 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-09
+
+12 new item(s). Top hit: **Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular** (score 48, arXiv).
+
+### Journal articles
+
+- **[CarrierLattice Coupling Drives Oxidative Degradation in Mixed TinLead Halide Perovskites: Machine Learning Combined with Nonadiabatic Molecular Dynamics](https://doi.org/10.1021/jacs.6c10222.s001)**
+  <br>*Crossref | 2026-09-09 | doi:10.1021/jacs.6c10222.s001 | score 19*
+
+  `matched: molecular dynamics, machine learning, perovskite`
+
+
+- **[Multicomponent reaction-diffusion model of glioblastoma with anisotropic invasion, immune microenvironment and fractionated radiotherapy](https://doi.org/10.36871/2618-9976.2026.08.003)**
+  <br>*SOFT MEASUREMENTS AND COMPUTING | 2026-09-09 | doi:10.36871/2618-9976.2026.08.003 | score 9*
+  <br>Shchetinin, Shevchuk, Ruzmanov
+
+  A multicomponent reaction-diffusion model of glioblastoma is considered. The model combines DTI-oriented anisotropic invasion, phenotypic switching, a vascular-oxygen block, an aggregated CD8+ immune microenvironment and fractionated radiotherapy. The proliferative-cell mobility is written as the sum of a small background anisotropic mobility {D_{bg}T(x)} and a saturating density-dependent contribution; the term {\delta I} is treated only as an isotropic regularization. For the nondegenerate formulation, local existence, uniqueness, nonnegativity, continuation under a dissipative condition, and convergence of the {\delta}-regularized problems as {\delta}\downarrow 0 are proved. The main conv...
+
+  `matched: diffusion model`
+
+
+- **[Exploring the Need for Interactive Learning Multimedia to Foster Students’ Mathematical Computational Thinking](https://doi.org/10.56773/ierj.v4i1.144)**
+  <br>*Indonesian Educational Research Journal | 2026-09-09 | doi:10.56773/ierj.v4i1.144 | score 7*
+  <br>Jamdin, Zaenuri, Mariani, Susilo et al.
+
+  This study aims to investigate students’ needs for Interactive Learning Multimedia (ILM) in relation to their level of computational thinking in mathematics. Employing a descriptive quantitative approach with a needs analysis survey method, the research involved 30 eighth-grade students at one of the junior high schools in Ambon City. Data was collected using questionnaires assessing both computational thinking levels and ILM needs, based on indicators such as ease of understanding, motivation, visual support, learning interest, and student expectations toward multimedia use. The results indicate that a significant number of students fall into low to moderate levels of computational thinking...
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems](http://arxiv.org/abs/2609.07477v1)**
+  <br>*arXiv | 2026-09-07 | score 48*
+  <br>Musiha Mahfuza Mukta, Osman Goni Ridwan, Romain Perriot, Qiang Zhu
+
+  Recent developments of universal machine learning interatomic potentials (UMLIPs) offer a fast route for screening molecular crystals based on geometry relaxation and energy ranking, but their reliability across chemically diverse energetic materials remains elusive. In particular, it is unclear whether or not these UMLIPs are over-sensitive to break the desired molecular connectivity for relaxing the periodic crystals. Herein we tested the hypothesis that classical force-field pre-relaxation can provide a more suitable starting geometry for subsequent UMLIP relaxation on a large database of high energy molecular crystals. Three models (MACE, MACE-OFF and UMA) in conjunction with the General...
+
+  `matched: machine learning interatomic potential, crystal structure prediction, interatomic potential, machine learning, benchmark, crystal`
+
+
+- **[Out-of-Distribution Inverse Design of Elastic Networks with Differentiable Graph Neural Network Molecular Dynamics](http://arxiv.org/abs/2609.06655v1)**
+  <br>*arXiv | 2026-09-06 | score 37*
+  <br>Sergey A. Shteingolts, Salman N. Salman, Ron Levie, Dan Mendels
+
+  Machine-learning-based inverse design can accelerate the discovery of materials with targeted properties, but conventional structure--property models often require large training datasets and generalize poorly beyond their training distribution. Here, we present a differentiable inverse design framework based on a graph neural network molecular dynamics simulator. By combining a short dynamical initialization with physics-based refinement during simulation, the framework enables optimization well beyond the conditions represented in the training data. Using disordered elastic networks, we show that a simulator trained only on non-auxetic systems with Poisson's ratios between 0.1 and 0.4 can...
+
+  `matched: graph neural network, molecular dynamics, inverse design, neural network, dataset`
+
+
+- **[Entropy-Guided Dataset Reduction for Machine-Learned Interatomic Potentials](https://doi.org/10.26434/chemrxiv.15008542/v1)**
+  <br>*Crossref | 2026-09-09 | doi:10.26434/chemrxiv.15008542/v1 | score 36*
+  <br>Laubach, Vita, Bushick, Williams et al.
+
+  Machine-learned interatomic potentials (MLIPs) deliver near-quantum-mechanical accuracy at a fraction of the computational cost. Their performance depends on the quality and composition of the training data: the training set must cover the range of atomic environments the model will encounter, yet unnecessary redundancy increases training cost without improving accuracy and can inadvertently introduce training biases. Dataset pruning (i.e., selecting a compact, representative subset from a larger collection) has emerged as a practical strategy for building high-quality training sets. Recently, methods based on informationtheoretic diversity measures such as QUESTS (Quick Uncertainty and Entr...
+
+  `matched: machine-learned interatomic potential, interatomic potential, dataset`
+
+
+- **[Identification and Experimental Validation of Candidate Biomarkers for Parkinson’s Disease through Integrated Bioinformatics, Mendelian Randomization, and Machine Learning](https://doi.org/10.21203/rs.3.rs-10776401/v1)**
+  <br>*Crossref | 2026-09-09 | doi:10.21203/rs.3.rs-10776401/v1 | score 21*
+  <br>Guan, Yu
+
+  Abstract Background Identifying reliable biomarkers and therapeutic targets is important for improving the early diagnosis and treatment of Parkinson’s disease (PD). This study aimed to identify PD-related core genes, validate their expression, and explore potential therapeutic drugs. Methods PD transcriptomic datasets were analyzed using differential expression analysis, Mendelian randomization, and machine learning. Candidate genes were validated by qPCR in an MPTP-induced PD mouse model. Potential drugs were screened using the DSigDB database, followed by molecular docking and 100 ns molecular dynamics simulations to evaluate protein–ligand binding and stability. Results Seven core genes...
+
+  `matched: experimental validation, molecular dynamics, machine learning, dataset`
+
+
+- **[MLIP Detective: Active Failure Mode Discovery Beyond Benchmark Scores for Machine-Learning Interatomic Potentials](http://arxiv.org/abs/2609.08399v1)**
+  <br>*arXiv | 2026-09-08 | score 19*
+  <br>Ryuhei Okuno, Nontawat Charoenphakdee, Kaoru Hisama, Yuta Tsuboi
+
+  Universal machine-learning interatomic potentials (u-MLIPs) aim to generalize across diverse configurations. Benchmarks enable reproducible evaluation but may not expose failures outside their predefined scope. Here, we show that physics-informed search can complement benchmark-based evaluation by uncovering hidden failure modes. We introduce MLIP Detective, an agentic framework for active failure mode discovery. Starting from benchmark evidence, MLIP Detective generates falsifiable, physics-informed failure hypotheses, screens them with inexpensive simulations, and escalates only the most suspicious cases to human experts together with proposed verification protocols. Without issue-specific...
+
+  `matched: interatomic potential, benchmark, agentic`
+
+
+- **[Band Structure Modulation of ZrO2 Nanoparticles for Control of CO Adsorption Properties: A Combined Density Functional Theory - Density Functional Tight Binding Study](http://arxiv.org/abs/2609.08329v1)**
+  <br>*arXiv | 2026-09-08 | score 16*
+  <br>Kexin Chen, William Dawson, Aulia Sukma Hutama, Takahito Nakajima et al.
+
+  We present a combined density functional theory (DFT) and density functional tight binding (DFTB) study of zirconia (ZrO2) nanoparticles of experimentally relevant sizes of several nanometers and their interactions with the CO molecule. A hybrid DFTB - Force Field (DFTB-FF) framework is developed, whereby band structure calculations rely on an existing Slater-Koster framework, while the accuracy of structural optimization and adsorption properties is controlled by the introduction of classical long-range interatomic potentials into DFTB instead of the traditional repulsive potentials. Additionally, coordination-dependent Zr-C potentials are introduced to account for the distinct local chemic...
+
+  `matched: density functional theory, interatomic potential, dft`
+
+
+- **[Scalable machine learning framework for multiphase identification from powder X-ray diffraction](http://arxiv.org/abs/2609.06908v1)**
+  <br>*arXiv | 2026-09-07 | score 16*
+  <br>Xinyang Tong, Ethan Jin, Jiahan Xu, Aditya Rao et al.
+
+  X-ray diffraction (XRD) is the primary tool for identifying crystalline phases following synthesis, but automated phase identification remains challenging, particularly for multiphase samples with overlapping peaks and experimental artifacts. While deep-learning methods have been proposed to improve upon classical search-match algorithms, most formulate phase identification as a single closed-set classification problem, requiring one shared model to discriminate among all candidate phases. Here we introduce GALAXI, which instead decouples the identification task into independent one-versus-all binary classifiers that each specialize in recognizing a single phase. These pre-trained classifier...
+
+  `matched: x-ray diffraction, machine learning, crystal`
+
+
+- **[Machine learning for the design and prediction of soft-magnetic electromagnetic shielding FeCo-based alloys in laser cladding](http://arxiv.org/abs/2609.06417v1)**
+  <br>*arXiv | 2026-09-06 | score 15*
+  <br>Luting Wang, Suiyuan Chen, Xiancheng Zhu, Zhiqing Fang et al.
+
+  Electromagnetic shielding materials play a pivotal role in both aerospace applications and daily life. However, their design and manufacturing still face persistent challenges. Machine learning demonstrates significant potential in accelerating material development and compositions optimization. Furthermore, laser additive manufacturing provides powerful technical support for fabricating multi-component, multifunctional electromagnetic shielding materials with tailored properties. In this study, the multiple machine learning strategies have been proposed, based on experimental derivation and soft magnetic material databases, to accelerate the design of multifunctional FeCo-based alloys for e...
+
+  `matched: machine learning, magnet, alloy`
+
+
+- **[Machine learning-accelerated evolutionary Monte Carlo for rapid phase exploration of compositionally complex materials in reactive environments](https://doi.org/10.26434/chemrxiv-2025-l9gnz/v4)**
+  <br>*Crossref | 2026-09-09 | doi:10.26434/chemrxiv-2025-l9gnz/v4 | score 13*
+  <br>Han, De
+
+  Compositionally complex materials, e.g. high-entropy alloys/oxides, have long been of research interest for their unique mechanical and functional properties thanks to the synergistic effects between the large number of components. More recently, they have emerged as a promising platform for the development of novel heterogeneous catalysts for thermo- and electro-chemical applications. However, computational investigation of the phase stability of such catalyst materials remains challenging due to the large design space and the complex active site dynamics under reaction conditions. In this paper, we present a novel evolutionary Monte Carlo algorithm which allows fast exploration of stable c...
+
+  `matched: machine learning, catalyst, alloy`
+
+
+---
+
+
 ## 2026-09-08
 
 16 new item(s). Top hit: **A computed thermoelectric feature database for 50,992 GNoME materials** (score 40, Crossref).
