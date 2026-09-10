@@ -6,6 +6,215 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-10
+
+23 new item(s). Top hit: **Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular** (score 48, arXiv (Cornell University)).
+
+### Journal articles
+
+- **[Machine-Learned Interatomic Potentials for Battery Materials: From Fundamental Methodology to Emerging Applications in Electrodes, Electrolytes, and Interfaces](https://doi.org/10.1039/d6cp01595f)**
+  <br>*Physical Chemistry Chemical Physics | 2026-09-10 | doi:10.1039/d6cp01595f | score 43*
+  <br>Makino, Kato, Terashima, Matsuoka et al.
+
+  The rapid expansion of battery technologies beyond conventional lithium-ion systems has created an urgent demand for predictive, atomistic-scale simulation tools capable of addressing increasingly complex materials and interfaces. While first-principles...
+
+  `matched: machine-learned interatomic potential, interatomic potential, electrolyte, battery`
+
+
+- **[Machine-learning models for Li3PO4 molecular dynamics under electric fields (GRACE potential and Equivar Born-effective-charge model)](https://doi.org/10.5281/zenodo.22658191)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-08 | doi:10.5281/zenodo.22658191 | score 23*
+  <br>Haruka Doyu, Anh Khoa Augustin Lu, Satoshi Watanabe
+
+  GRACE-2L-OAM interatomic potential and Equivar equivariant neural network for per-atom Born effective charge tensors, trained on Li3PO4 DFT and DFPT data.
+
+  `matched: interatomic potential, molecular dynamics, neural network, equivariant, dft`
+
+
+- **[Machine-learning models for Li3PO4 molecular dynamics under electric fields (GRACE potential and Equivar Born-effective-charge model)](https://doi.org/10.5281/zenodo.22658192)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-08 | doi:10.5281/zenodo.22658192 | score 23*
+  <br>Haruka Doyu, Anh Khoa Augustin Lu, Satoshi Watanabe
+
+  GRACE-2L-OAM interatomic potential and Equivar equivariant neural network for per-atom Born effective charge tensors, trained on Li3PO4 DFT and DFPT data.
+
+  `matched: interatomic potential, molecular dynamics, neural network, equivariant, dft`
+
+
+- **[Publisher Correction: Atomistic simulations of high-entropy alloys: from density functional theory to machine-learning interatomic potentials](https://doi.org/10.1007/s10853-026-13714-8)**
+  <br>*Journal of Materials Science | 2026-09-08 | doi:10.1007/s10853-026-13714-8 | score 23*
+  <br>Yuji Ikeda, Xiang Xu, Pranav Kumar, Jörg Neugebauer
+
+  `matched: density functional theory, interatomic potential, alloy`
+
+
+- **[Accelerating density functional theory calculations using conditional generative-adversarial neural networks](https://www.nature.com/articles/s41524-026-02308-2)**
+  <br>*npj Computational Materials | 2026-09-09 | doi:10.1038/s41524-026-02308-2 | score 15*
+
+  `matched: density functional theory, neural network`
+
+
+- **[Green AgNPs/TiO2 for sustainable photocatalytic degradation of AO10 azo dye under eco-friendly white LED illumination: experimental, DFT calculations, and machine learning-guided study](https://doi.org/10.1007/s11356-026-38209-6)**
+  <br>*Environmental Science and Pollution Research | 2026-09-10 | doi:10.1007/s11356-026-38209-6 | score 13*
+  <br>Halfadji, Obeid
+
+  `matched: machine learning, dft`
+
+
+- **[Inverse design of near-infrared narrow-spacing achromatic metalenses based on an improved adaptive genetic algorithm](https://doi.org/10.1063/5.0326482)**
+  <br>*Nanotechnology and Precision Engineering | 2026-09-10 | doi:10.1063/5.0326482 | score 13*
+  <br>Yu, Wang, Sun, Zhang et al.
+
+  Nano-optical imaging technology is one of the key enabling approaches in ultrafast imaging and precision optical measurement systems. Ultrafast imaging typically involves the simultaneous acquisition of multiwavelength information within a narrow spectral interval, imposing stringent requirements on the specificity and precision of optical field manipulation at the subwavelength scale. However, conventional narrowband-achromatic metalens design strategies struggle to concurrently achieve high focusing efficiency and spatial resolution under dense-wavelength operation, which constrains their use in high-performance ultrafast imaging systems. To solve this problem, we propose an inverse design...
+
+  `matched: inverse design`
+
+
+- **[Dataset and Deep Potential Model for Vacancy-driven atomistic reconstruction and phase stability across the Fe2O3–Fe3O4–FeO–Fe reduction sequence](https://doi.org/10.5281/zenodo.22592673)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-07 | doi:10.5281/zenodo.22592673 | score 11*
+  <br>Zeng Liang, Kejiang Li, Jianliang Zhang, Alberto N. Conejo
+
+  This repository contains the datasets, input files, and trained Deep Potential model supporting the study “Vacancy-driven atomistic reconstruction and phase stability across the Fe2O3–Fe3O4–FeO–Fe reduction sequence” The deposited files provide the core data and simulation inputs used to construct and apply the Fe–O machine-learning interatomic potential, with particular emphasis on the α-Fe₂O₃ configurations introduced in the present work and on the stochastic oxygen-removal molecular-dynamics simulations used to analyse vacancy-driven hematite reconstruction. The repository includes: developed_dataset.tar.gz — the developed Fe–O dataset used for model training and validation, including the...
+
+  `matched: interatomic potential, dataset`
+
+
+- **[Dataset and Deep Potential Model for Vacancy-driven atomistic reconstruction and phase stability across the Fe2O3–Fe3O4–FeO–Fe reduction sequence](https://doi.org/10.5281/zenodo.22592674)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-07 | doi:10.5281/zenodo.22592674 | score 11*
+  <br>Zeng Liang, Kejiang Li, Jianliang Zhang, Alberto N. Conejo
+
+  This repository contains the datasets, input files, and trained Deep Potential model supporting the study “Vacancy-driven atomistic reconstruction and phase stability across the Fe2O3–Fe3O4–FeO–Fe reduction sequence” The deposited files provide the core data and simulation inputs used to construct and apply the Fe–O machine-learning interatomic potential, with particular emphasis on the α-Fe₂O₃ configurations introduced in the present work and on the stochastic oxygen-removal molecular-dynamics simulations used to analyse vacancy-driven hematite reconstruction. The repository includes: developed_dataset.tar.gz — the developed Fe–O dataset used for model training and validation, including the...
+
+  `matched: interatomic potential, dataset`
+
+
+- **[Flow-Guided Chemical Language Modeling for Linker Design in Reticular Chemistry](https://doi.org/10.1021/jacs.6c06920)**
+  <br>*Journal of the American Chemical Society | 2026-09-08 | doi:10.1021/jacs.6c06920 | score 10*
+  <br>Dhruv Menon, Vivek Singh, Xu Chen, Mohammad Reza Alizadeh Kiapi
+
+  Abstract Reticular chemistry has enabled the synthesis of tens of thousands of metal–organic frameworks (MOFs), yet the discovery of new materials still relies largely on intuition-driven linker design and iterative experimentation. As a result, researchers explore only a small fraction of the vast chemical space accessible to reticular materials, limiting the systematic discovery of frameworks with targeted properties. Here, we introduce NexerraR1, a building-block chemical language model that enables inverse design in reticular chemistry through targeted generation of organic linkers. Rather than generating complete frameworks directly, Nexerra operates at the level of molecular building b...
+
+  `matched: inverse design, mof`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems](https://doi.org/10.48550/arxiv.2609.07477)**
+  <br>*arXiv (Cornell University) | 2026-09-07 | doi:10.48550/arxiv.2609.07477 | score 48*
+  <br>Musiha Mahfuza Mukta, Osman Goni Ridwan, Romain Perriot, Qiang Zhu
+
+  Recent developments of universal machine learning interatomic potentials (UMLIPs) offer a fast route for screening molecular crystals based on geometry relaxation and energy ranking, but their reliability across chemically diverse energetic materials remains elusive. In particular, it is unclear whether or not these UMLIPs are over-sensitive to break the desired molecular connectivity for relaxing the periodic crystals. Herein we tested the hypothesis that classical force-field pre-relaxation can provide a more suitable starting geometry for subsequent UMLIP relaxation on a large database of high energy molecular crystals. Three models (MACE, MACE-OFF and UMA) in conjunction with the General...
+
+  `matched: machine learning interatomic potential, crystal structure prediction, interatomic potential, machine learning, benchmark, crystal`
+
+
+- **[uFlowCSP: Crystal Structure Prediction using Mean flow generative models](http://arxiv.org/abs/2609.09799v1)**
+  <br>*arXiv | 2026-09-09 | score 41*
+  <br>Sourin Dey, Dipannoy Das Gupta, Lai Wei, Sadman Sadeed Omee et al.
+
+  Crystal structure prediction (CSP) is fundamental to computational materials discovery. Generative models including CDVAE, DiffCSP, FlowMM, and CrystalFlow learn stable-crystal distributions directly, but diffusion and flow-matching inference requires tens to thousands of sequential network evaluations per candidate. We introduce uFlowCSP, a MeanFlow-based CSP model that learns the average, rather than instantaneous, probability-flow velocity. It generates a complete structure in one to five evaluations, delivering 5x-58x faster inference with equal or better performance. A chemistry- and symmetry-aware Transformer uses canonical atom ordering, global composition, and per-token chemistry emb...
+
+  `matched: crystal structure prediction, materials discovery, generative model, transformer, crystal`
+
+
+- **[PASS: Perturbation augmented space group structure sampling for transferable Fe-O machine learning interatomic potential](https://doi.org/10.21203/rs.3.rs-10844125/v1)**
+  <br>*Research Square | 2026-09-09 | doi:10.21203/rs.3.rs-10844125/v1 | score 37*
+  <br>Zixiong Wei, Fei Shuang, Poulumi Dey
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites](http://arxiv.org/abs/2609.09956v1)**
+  <br>*arXiv | 2026-09-09 | score 33*
+  <br>Felix Uddén, Erik Fransson, Julia Wiktor, Benjamin M. Gallant et al.
+
+  Mixed halide perovskites are highly versatile semiconductors with applications in photovoltaics, light-emitting diodes, and photodetectors. Understanding their thermodynamic phase behavior is central to guiding compositional design and improving device stability. Here, we train machine-learned interatomic potentials (MLIPs) on density functional theory reference data for CsxRb1-xPbBr3yI3-3y, CsxRb1-xPbBr3yCl3-3y, and CsxRb1-xPbCl3yI3-3y halide perovskites, enabling large-scale hybrid Monte Carlo-molecular dynamics simulations that sample both configurational and vibrational degrees of freedom. All three binary halide systems exhibit a miscibility gap, the extent of which correlates with hali...
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, molecular dynamics, semiconductor, photovoltaic`
+
+
+- **[Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known superconductors and one negative control](https://doi.org/10.5281/zenodo.22651559)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-08 | doi:10.5281/zenodo.22651559 | score 21*
+  <br>Reinaldo Inácio
+
+  Generative models now propose millions of "stable" crystal structures, and their own referees have shown that stability is not discovery; no public benchmark asks whether a candidate has the physics to do a job. For superconductors the job is twofold: to pair, with a definite gap symmetry, and to become wire. We present a physics judge that answers both from a structure alone (DFT+U, a gated Wannier model, the full rank-4 RPA susceptibility on a 24³ mesh, the linearized gap equation, an irreducible-representation classifier, a manufacturability funnel) and measure what it says about what generators propose. With answer keys pre-registered before computing, the judge was calibrated on six kno...
+
+  `matched: generative model, superconductor, benchmark, crystal, dft`
+
+
+- **[Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known superconductors and one negative control](https://doi.org/10.5281/zenodo.22651560)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-08 | doi:10.5281/zenodo.22651560 | score 21*
+  <br>Reinaldo Inácio
+
+  Generative models now propose millions of "stable" crystal structures, and their own referees have shown that stability is not discovery; no public benchmark asks whether a candidate has the physics to do a job. For superconductors the job is twofold: to pair, with a definite gap symmetry, and to become wire. We present a physics judge that answers both from a structure alone (DFT+U, a gated Wannier model, the full rank-4 RPA susceptibility on a 24³ mesh, the linearized gap equation, an irreducible-representation classifier, a manufacturability funnel) and measure what it says about what generators propose. With answer keys pre-registered before computing, the judge was calibrated on six kno...
+
+  `matched: generative model, superconductor, benchmark, crystal, dft`
+
+
+- **[MLIP Detective: Active Failure Mode Discovery Beyond Benchmark Scores for Machine-Learning Interatomic Potentials](https://doi.org/10.48550/arxiv.2609.08399)**
+  <br>*arXiv (Cornell University) | 2026-09-08 | doi:10.48550/arxiv.2609.08399 | score 19*
+  <br>Ryuhei Okuno, Nontawat Charoenphakdee, Kaoru Hisama, Yuta Tsuboi
+
+  Universal machine-learning interatomic potentials (u-MLIPs) aim to generalize across diverse configurations. Benchmarks enable reproducible evaluation but may not expose failures outside their predefined scope. Here, we show that physics-informed search can complement benchmark-based evaluation by uncovering hidden failure modes. We introduce MLIP Detective, an agentic framework for active failure mode discovery. Starting from benchmark evidence, MLIP Detective generates falsifiable, physics-informed failure hypotheses, screens them with inexpensive simulations, and escalates only the most suspicious cases to human experts together with proposed verification protocols. Without issue-specific...
+
+  `matched: interatomic potential, benchmark, agentic`
+
+
+- **[Machine-Learned Potentials for Accelerated CCSD(T)-level Evaluations: Applications to OH(H2O)n](https://doi.org/10.26434/chemrxiv.15008636/v1)**
+  <br>*Crossref | 2026-09-10 | doi:10.26434/chemrxiv.15008636/v1 | score 17*
+  <br>Jacobson, Shao, Bakalov, Cheng et al.
+
+  An end-to-end machine learning workflow for the development of potential energy surfaces at the DLPNO-CCSD(T)/aug-cc-pVTZ level is described and applied to hydroxide-water complexes with two to five water molecules. This workflow utilizes a two-part machine learning process, achieving both accuracy and efficiency by combining a molecular orbital-based machine learning (MOB-ML) model with a GPU-accelerated equivariant graph neural network (EGNN) model. For both machine learning models trained in this workflow, the training data is obtained through the combination of small diffusion Monte Carlo (DMC) simulations initiated at each of the optimized structures of interest for a given system size....
+
+  `matched: graph neural network, machine learning, neural network, equivariant`
+
+
+- **[Quantum-accurate atomistic modeling of enzyme catalysis using a machine learned potential](http://arxiv.org/abs/2609.09293v1)**
+  <br>*arXiv | 2026-09-08 | score 16*
+  <br>Meng Gao, Armin Shayesteh Zadeh, Aniruddha Seal, Siva Dasetty et al.
+
+  Electronic rearrangements associated with bond forming/breaking in catalytic enzymes require quantum mechanical (QM) treatment beyond classical molecular mechanics (MM). Hybrid QM/MM methods enable tractable simulations but require system-specific setup and are sensitive to the QM region choice and treatment of the QM/MM interface. We demonstrate quantum-accurate treatment of all-atom, complete enzymes in explicit solvent comprising up to 54k atoms and 1 microsecond of total simulation time using the machine-learned interatomic potential (MLIP) eSEN-omol. We reproduce experimental barrier trends for Claisen rearrangement in chorismate mutase, resolve critical intermediate states in PETase ca...
+
+  `matched: machine-learned interatomic potential, interatomic potential`
+
+
+- **[Machine Learning Optimization of Polymeric Complex Coacervate Micelles Reveals Cell-Type-Specific Formulations for Enhanced mRNA Delivery](https://doi.org/10.26434/chemrxiv.15008601/v1)**
+  <br>*Crossref | 2026-09-10 | doi:10.26434/chemrxiv.15008601/v1 | score 12*
+  <br>Panda, Reineke
+
+  The cell-type dependent transfection heterogeneity of polymeric mRNA delivery remains a fundamental barrier to their broad translation. The field has historically addressed this by optimizing the cationic component itself, refining amine identity, density, and block architecture to maximize transfection. Even highly optimized cationic carriers, however, still transfect some cell types well and others poorly, because no single cation chemistry can simultaneously match the internalization and cytoplasmic trafficking biology of every target. Rather than seeking a universally optimal carrier chemistry, we instead sought a tunable formulation framework capable of adapting charge balance and inter...
+
+  `matched: machine learning, polymer`
+
+
+- **[Data-driven strategies for enzyme engineering: From machine learning to protein language models](https://doi.org/10.26434/chemrxiv.15008605/v1)**
+  <br>*Crossref | 2026-09-10 | doi:10.26434/chemrxiv.15008605/v1 | score 11*
+  <br>Ding, Wu, Li, Yang et al.
+
+  Enzymes are key biocatalysts that drive diverse biological processes and industrial applications, offering sustainable alternatives to conventional chemical catalysis. However, the enormous enzyme sequence space and the limited functional annotation have created an urgent demand for computational approaches to accelerate enzyme discovery and engineering. Recent advances in computational methods are accelerating enzyme engineering from empirical trial and error toward predictive design. This review summarizes representative computational tools and predictive models in the enzyme engineering workflow, including (1) enzyme data resources, (2) functional enzyme discovery, (3) enzyme property pre...
+
+  `matched: machine learning, catalyst`
+
+
+- **[Fast, Accurate, and Scalable Fermionic Neural Networks via Translation Equivariance](http://arxiv.org/abs/2609.10186v1)**
+  <br>*arXiv | 2026-09-09 | score 10*
+  <br>David D. Dai, Yen-Ting Lin, Marin Soljačić
+
+  We demonstrate that designing a neural quantum state to be an exact eigenstate of the Hamiltonian's symmetries significantly improves both training speed and final variational energy. For the 2D electron gas, we design TorFormer, a neural network wavefunction which is an exact eigenstate of the total momentum. TorFormer describes both the Fermi liquid and Wigner crystal with no supervision and significantly outperforms Psiformer-based references up to large system sizes. For $r_s = 30.0$ and $40.0$ at $N=91$, we compare TorFormer trained for $8\mathrm{K}$ steps against the previous best NQS, which required $100\mathrm{K}$ training steps. Our improvement to the total energy at $r_s = 40.0$, e...
+
+  `matched: neural network, crystal`
+
+
+- **[pyeCE: A Python Implementation of the Embedded Cluster Expansion](http://arxiv.org/abs/2609.10190v1)**
+  <br>*arXiv | 2026-09-09 | score 8*
+  <br>Yann L. Müller, Claire A. Paetsch, Anirudh Raju Natarajan
+
+  The cluster expansion is a widely used approach for predicting the finite-temperature thermodynamics of alloys from zero-kelvin first-principles calculations, but its conventional formulation becomes intractable for materials with more than three or four chemical species. High-entropy alloys have therefore remained largely out of reach. We present pyeCE, an open-source Python library that implements the embedded cluster expansion (eCE), in which machine learning maps many chemical species onto a smaller set of effective species and thereby limits the growth in the number of cluster functions. pyeCE provides the complete modeling workflow, including the construction of symmetry-adapted descri...
+
+  `matched: machine learning, open-source, alloy`
+
+
+---
+
+
 ## 2026-09-09
 
 12 new item(s). Top hit: **Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular** (score 48, arXiv).
