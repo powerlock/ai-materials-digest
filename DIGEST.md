@@ -6,6 +6,11 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-12
+
+_No new items cleared the relevance threshold today._
+
+
 ## 2026-09-11
 
 17 new item(s). Top hit: **Phonon-Driven Limitations of AI-Predicted Stability in Li-Ion Anode Materials: A Computational Meta-Analysis o** (score 44, FUDMA Journal of Sciences).
