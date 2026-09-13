@@ -6,6 +6,93 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-13
+
+9 new item(s). Top hit: **AGENTIC SOCIO-TECHNICAL SYSTEMS FOR AGING DEMOGRAPHICS: INTEGRATING GRAPH NEURAL NETWORKS AND DEEP REINFORCEME** (score 21, International Journal of Progressive Research in Engineering Management and Science).
+
+### Journal articles
+
+- **[AGENTIC SOCIO-TECHNICAL SYSTEMS FOR AGING DEMOGRAPHICS: INTEGRATING GRAPH NEURAL NETWORKS AND DEEP REINFORCEMENT LEARNING FOR RESILIENT HEALTHCARE LOGISTICS](https://doi.org/10.58257/ijprems53211)**
+  <br>*International Journal of Progressive Research in Engineering Management and Science | 2026-09-13 | doi:10.58257/ijprems53211 | score 21*
+
+  `matched: graph neural network, neural network, agentic`
+
+
+- **[A Survey of Automated Time Series Forecasting: From Deep Learning to Foundation Models with Financial Applications](https://doi.org/10.70267/aitia.2026316325)**
+  <br>*Exploring Science Academic Conference Series | 2026-09-13 | doi:10.70267/aitia.2026316325 | score 20*
+  <br>Yang
+
+  Time-series forecasting is a fundamental research topic in artificial intelligence and machine learning, with broad applications in finance, healthcare, energy management, transportation, and industrial systems. As the scale and complexity of temporal data continue to increase, forecasting methodologies have evolved significantly from traditional statistical models to modern intelligent forecasting systems. Understanding this technological evolution is essential for both researchers and practitioners seekin g to develop more accurate, scalable, and automated forecasting solutions. This survey reviews the development of automated time-series forecasting methods from a historical and technolog...
+
+  `matched: artificial intelligence, machine learning, foundation model, deep learning`
+
+
+- **[A Review of the Applications of Artificial Intelligence in the Full-Process Design of Integrated Circuits](https://doi.org/10.70267/aitia.2026266270)**
+  <br>*Exploring Science Academic Conference Series | 2026-09-13 | doi:10.70267/aitia.2026266270 | score 15*
+  <br>Song
+
+  In the post-Moore era, traditional integrated circuit (IC) design faces bottlenecks such as long design cycles, high costs, and difficulty in PPA convergence. Artificial intelligence (AI), with its data-driven and global optimization capabilities, has pene trated the entire IC design process. This paper systematically reviews the technological evolution of AI in full-process IC design, with emphasis on algorithmic representation mechanisms—from how Graph Neural Networks (GNNs) model congestion as node and edge features, to how Circuit Transformers capture long-range dependencies in directed acyclic graphs. We also analyze engineering practices of AI -EDA integration in industry and discuss t...
+
+  `matched: artificial intelligence, graph neural network, neural network, transformer`
+
+
+- **[MXene-based biosensors for hospital-on-chip diagnostics: a coordination chemistry framework from materials design to clinical translation](https://doi.org/10.1016/j.ccr.2026.218514)**
+  <br>*Coordination Chemistry Reviews | 2026-09-13 | doi:10.1016/j.ccr.2026.218514 | score 11*
+  <br>Gholap, Khanna, Khuspe, Siddiqui et al.
+
+  `matched: materials design`
+
+
+- **[The Impact of Artificial Intelligence on the Generative Design and Cross-Domain Performance of Athletic Footwear](https://doi.org/10.70267/aitia.2026435440)**
+  <br>*Exploring Science Academic Conference Series | 2026-09-13 | doi:10.70267/aitia.2026435440 | score 9*
+  <br>Liu
+
+  The athletic footwear industry is shifting from conventional linear R&D pipelines to advanced digital workflows driven by artificial intelligence (AI). This paper evaluates how AI-driven tools optimize established manufacturing paradigms, focusing on the s ystemic transition within sports shoe development rather than isolated technical breakthroughs. However, conventional pipelines face severe bottlenecks, including low concept iteration efficiency, prolonged finite element simulation latencies, and high tooling costs that impede mass customization. To address these challenges, this study analyzes a triple-transformation methodology. First, Latent Diffusion Models and Kansei Engineering are...
+
+  `matched: artificial intelligence, diffusion model`
+
+
+- **[Towards human-centered and efficient video synthesis: a survey of multimodal diffusion models](https://doi.org/10.1007/s10462-026-11699-z)**
+  <br>*Artificial Intelligence Review | 2026-09-13 | doi:10.1007/s10462-026-11699-z | score 9*
+  <br>Albaghdadi, Naghsh-Nilchi
+
+  Abstract Multimodal video diffusion models have emerged as transformative tools for controlled video synthesis, integrating text, images, audio, and pose sequences to generate semantically meaningful content. Despite significant advances, critical gaps persist in temporal consistency, multimodal alignment, and human-centric motion generation. Existing surveys have not addressed clearly the complex interplay between these components, particularly physiological constraints and identity preservation in human motion synthesis. This survey provides a comprehensive analysis through a unified architectural framework, examining spatial-temporal representations and multimodal conditioning mechanisms....
+
+  `matched: diffusion model`
+
+
+- **[Navigating Sparse Singlet Fission Chemical Space: An Intelligent Generative-Predictive Paradigm](https://doi.org/10.5281/zenodo.22718260)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-12 | doi:10.5281/zenodo.22718260 | score 7*
+  <br>Longfei Lv, Li Fu, Si Zhou, Lingzhi Zhao
+
+  Singlet fission (SF) offers a promising route to surpass the Shockley-Queisser limit by converting a photoexcited singlet exciton into two triplet excitons, thereby enhancing photovoltaic energy conversion efficiency. However, efficient SF process requires stringent energetic requirements among low-lying excited states, which makes SF molecules intrinsically rare within the vast chemical space. This extreme sparsity poses a grand challenge for molecular discovery. Because of low hit rates and trial-and-error computational waste on nonviable structures, conventional high-throughput virtual screening faces significant constraints, even when accelerated by machine learning models. Here, we esta...
+
+  `matched: machine learning, photovoltaic`
+
+
+- **[Navigating Sparse Singlet Fission Chemical Space: An Intelligent Generative-Predictive Paradigm](https://doi.org/10.5281/zenodo.22718261)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-12 | doi:10.5281/zenodo.22718261 | score 7*
+  <br>Longfei Lv, Li Fu, Si Zhou, Lingzhi Zhao
+
+  Singlet fission (SF) offers a promising route to surpass the Shockley-Queisser limit by converting a photoexcited singlet exciton into two triplet excitons, thereby enhancing photovoltaic energy conversion efficiency. However, efficient SF process requires stringent energetic requirements among low-lying excited states, which makes SF molecules intrinsically rare within the vast chemical space. This extreme sparsity poses a grand challenge for molecular discovery. Because of low hit rates and trial-and-error computational waste on nonviable structures, conventional high-throughput virtual screening faces significant constraints, even when accelerated by machine learning models. Here, we esta...
+
+  `matched: machine learning, photovoltaic`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[OmniTCR: a foundation model unifying T cell receptor recognition prediction and conditional sequence generation](https://doi.org/10.64898/2026.09.10.750588)**
+  <br>*Crossref | 2026-09-13 | doi:10.64898/2026.09.10.750588 | score 12*
+  <br>Zeng, Feng, Song, Ding et al.
+
+  T cell receptor (TCR) recognition prediction and receptor generation are traditionally modelled separately, leaving vast TCR sequence collections disconnected from smaller TCR-peptide-MHC datasets. Here we present OmniTCR, a 113-million-parameter autoregressive foundation model pretrained on 328 million formatted human immune-sequence records. Sequence-type tokens and complementary component orders enable joint learning from individual TCR chains and partial or complete TCR-pMHC associations. On unseen epitopes, OmniTCR achieved AUPRCs of 0.7009 for peptide-TCRβ; recognition and 0.8235 for TCR-pMHC interaction prediction, exceeding the strongest evaluated comparators by 0.3396 and 0.3451, re...
+
+  `matched: foundation model, dataset`
+
+
+---
+
+
 ## 2026-09-12
 
 _No new items cleared the relevance threshold today._
