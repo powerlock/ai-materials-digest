@@ -6,6 +6,84 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-14
+
+8 new item(s). Top hit: **Machine learning-accelerated calculation of diffusion coefficients in crystalline structures from molecular dy** (score 34, Computational Materials Science).
+
+### Journal articles
+
+- **[Machine learning-accelerated calculation of diffusion coefficients in crystalline structures from molecular dynamics](https://doi.org/10.1016/j.commatsci.2026.115079)**
+  <br>*Computational Materials Science | 2026-09-11 | doi:10.1016/j.commatsci.2026.115079 | score 34*
+  <br>Sang‐Ho Oh, Jaemin Wang, Byeong‐Joo Lee
+
+  Diffusion is one of the most fundamental physical processes governing materials phenomena. However, the calculation of diffusion coefficients is a representative example of atomistic simulations that require a substantial computational cost despite their conceptual simplicity. This poses a technical bottleneck in the investigation of diffusion kinetics based on atomistic simulations, particularly for studies based on ab initio and machine learning interatomic potentials, which require meaningfully larger computational cost compared to those based on traditional interatomic potentials. In the present work, we developed a novel machine learning model that predicts reliable diffusion coefficien...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, crystal`
+
+
+- **[Artificial intelligence-driven magnetic property prediction and materials discovery for next-generation spintronics](https://doi.org/10.1039/d6ra02308h)**
+  <br>*RSC Advances | 2026-09-14 | doi:10.1039/d6ra02308h | score 31*
+  <br>Elilarassi, Sivanandakumar, Nagarajan, Ilanchezhiyan et al.
+
+  AI-driven magnetic materials discovery integrates physics-informed descriptors, machine learning, magnetic-property prediction, and uncertainty-aware active learning to accelerate materials screening and enable next-generation spintronic devices.
+
+  `matched: artificial intelligence, materials discovery, machine learning, active learning, magnet`
+
+
+- **[Materials design for biocompatible electronics](https://www.nature.com/articles/s41563-026-02739-8)**
+  <br>*Nature Materials | 2026-09-14 | doi:10.1038/s41563-026-02739-8 | score 14*
+
+  `matched: materials design`
+
+
+- **[Vacancy diffusion in transition metal diborides using diverse machine-learning potentials](https://doi.org/10.1063/5.0329286)**
+  <br>*Applied Physics Letters | 2026-09-14 | doi:10.1063/5.0329286 | score 14*
+  <br>Shuyao Lin, Thomas Rocke, David Holec, Lars Hultman
+
+  Machine-learning interatomic potential (MLIP)-based molecular dynamics enables efficient exploration of mass-transport mechanisms in complex materials together with quantitative determination of diffusion coefficients at finite temperatures. Using an identical training dataset, we develop and assess three MLIP formalisms [moment tensor potentials (MTP), atomic cluster expansion (ACE), and message passing ACE (MACE)] and evaluate their transferability for diffusion simulations in hexagonal transition metal diborides. After benchmarking against 0 K ab initio migration energies and comparison of computational efficiency, the MTP model is employed to investigate boron-vacancy diffusion in α-TiB2...
+
+  `matched: interatomic potential, molecular dynamics, benchmark, dataset`
+
+
+- **[AI-Driven Self-Healing Automation in Large-Scale Distributed Systems: Predictive Detection, Autonomous Recovery, and Reliability Governance](https://doi.org/10.32628/ijsrset261255)**
+  <br>*International Journal of Scientific Research in Science, Engineering and Technology | 2026-09-14 | doi:10.32628/ijsrset261255 | score 12*
+  <br>Adepoju
+
+  Large-scale distributed systems increasingly operate under dynamic workloads, heterogeneous infrastructure, complex service dependencies, and rapidly changing deployment topologies, making conventional reactive fault management insufficient for maintaining stringent reliability objectives. This paper examines AI-driven self-healing automation as an integrated reliability paradigm spanning predictive anomaly detection, root-cause diagnosis, autonomous recovery, policy-constrained execution, and post-recovery validation. Existing approaches based on deep learning, graph neural networks, attention mechanisms, ensemble learning, service-oriented recovery, stateful migration, and formal verificat...
+
+  `matched: graph neural network, neural network, deep learning`
+
+
+- **[Flexible Supercapacitors Based on Conducting and Hybrid Materials: Materials Design, Mechanical Tolerance, and Stability](https://doi.org/10.1016/j.synthmet.2026.118300)**
+  <br>*Synthetic Metals | 2026-09-14 | doi:10.1016/j.synthmet.2026.118300 | score 11*
+  <br>Qahtan, Olubi, Owolabi, Popoola et al.
+
+  `matched: materials design`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[A Gentle Push: Fine-Tuning Foundation Models for Complex Oxide Surface Reconstructions](https://doi.org/10.26434/chemrxiv.15001629/v3)**
+  <br>*ChemRxiv | 2026-09-11 | doi:10.26434/chemrxiv.15001629/v3 | score 31*
+  <br>Ralf Wanzenböck, Eva Doloszeski, Georg K. H. Madsen
+
+  Structure-prediction methods routinely sample highly distorted, far-from-equilibrium configurations. Conventional workflows based on machine learning interatomic potentials (MLIPs) therefore require the inclusion of unphysical local atomic environments in the training data to ensure stability during the search. We show that foundation MLIPs, fine-tuned on minimal datasets containing only physically reasonable structures, can serve as robust backbones for evolutionary structure prediction of complex surface reconstructions. We systematically benchmark fine-tuning strategies and identify that freezing all layers except the readouts as the most effective strategy in the low-data regime. Fine-tu...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, foundation model, benchmark, dataset`
+
+
+- **[Unveiling Urban Thermal Dynamics at the Micro-Neighborhood Scale: A Vision Foundation Model and UAV Approach](https://doi.org/10.2139/ssrn.7460674)**
+  <br>*Crossref | 2026-09-14 | doi:10.2139/ssrn.7460674 | score 10*
+  <br>Wu, Xiao, Mingfeng, Song et al.
+
+  The intensification of the urban heat island (UHI) effect necessitates precise micro-climatic analysis; however, conventional macro-scale satellite studies often obscure the sub-meter morphological details that govern localized thermal dynamics. To address this gap, this study establishes the micro-neighborhood as the fundamental analytical unit, utilizing it as a spatial bridge to align high-resolution unmanned aerial vehicle (UAV) imagery with satellite-derived thermal patterns. By deploying Vision Foundation Models (VFMs), we achieve automated, high-fidelity segmentation of fine-scale urban elements. We construct a comprehensive morphological framework encompassing composition, dominance,...
+
+  `matched: foundation model`
+
+
+---
+
+
 ## 2026-09-13
 
 9 new item(s). Top hit: **AGENTIC SOCIO-TECHNICAL SYSTEMS FOR AGING DEMOGRAPHICS: INTEGRATING GRAPH NEURAL NETWORKS AND DEEP REINFORCEME** (score 21, International Journal of Progressive Research in Engineering Management and Science).
