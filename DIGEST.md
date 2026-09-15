@@ -6,6 +6,154 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-15
+
+16 new item(s). Top hit: **Concerted, Facile CO2 Hydrogenation in Ni-MOF-74 Revealed by Machine Learning Interatomic Potential-Based Enha** (score 56, Crossref).
+
+### Journal articles
+
+- **[NextCrystal: a Symmetry-Driven Generative Framework for Crystal Structure Prediction](https://doi.org/10.1088/0256-307x/43/10/100802)**
+  <br>*Chinese Physics Letters | 2026-09-14 | doi:10.1088/0256-307x/43/10/100802 | score 31*
+  <br>Junyi Mu, Lixin He, Xudong Zhu, Shi Yin
+
+  Abstract Crystal structure prediction (CSP), which aims to predict the 3D atomic arrangement of a crystal from its composition, is central to materials discovery and mechanistic understanding. Crystal symmetry plays a crucial role in CSP, but given the composition in a unit cell, existing methods either struggle with the NP-hard combinatorial challenge of enforcing symmetry rigorously or rely on retrieving known templates, inherently limiting both physical fidelity and the discovery of genuinely new materials. To address this challenge, we introduce NextCrystal, a symmetry-driven generative framework that employs language models to encode chemical semantics and directly generate fine-grained...
+
+  `matched: crystal structure prediction, materials discovery, crystal`
+
+
+- **[FastNano Liquid: An Automated Platform for Small‐Angle X‐ray Scattering‐Based Materials Discovery](https://doi.org/10.1002/adem.71267)**
+  <br>*Advanced Engineering Materials | 2026-09-14 | doi:10.1002/adem.71267 | score 22*
+  <br>Pierre‐Baptiste Flandrin, Émeline Cournède, Jens Krarup, Michael Lesa
+
+  Despite recent progress in machine learning for materials research, a persistent bottleneck is the generation of large, high‐quality datasets to train models. Here, we present a laboratory‐based small‐ and wide‐angle X‐ray scattering (SAXS/WAXS) platform designed for combined synthesis and characterization of (nano)materials. The platform is constructed around an automated SAXS/WAXS instrument coupled with several reactor systems in three different workflows: batch, screening, and continuous flow. The batch workflow allows mL‐ to L‐scale syntheses to be monitored online and in situ under controlled temperature, pH, and reactant injection. The screening workflow uses a liquid‐handling robot t...
+
+  `matched: materials discovery, machine learning, dataset`
+
+
+- **[Prediction of vacancy formation energies in Ni-based superalloys by density functional theory calculations and machine learning](https://www.nature.com/articles/s41524-026-02284-7)**
+  <br>*npj Computational Materials | 2026-09-15 | doi:10.1038/s41524-026-02284-7 | score 19*
+
+  `matched: density functional theory, machine learning, alloy`
+
+
+- **[AI-accelerated discovery of altermagnetic metal-organic frameworks via interpretable machine learning](https://www.nature.com/articles/s41524-026-02323-3)**
+  <br>*npj Computational Materials | 2026-09-14 | doi:10.1038/s41524-026-02323-3 | score 19*
+
+  `matched: metal-organic framework, machine learning, magnet`
+
+
+- **[Vacancy diffusion in transition metal diborides using diverse machine-learning potentials](https://doi.org/10.60893/figshare.apl.c.8605463)**
+  <br>*AIP Publishing | 2026-09-14 | doi:10.60893/figshare.apl.c.8605463 | score 14*
+  <br>David Holec, Thomas Rocke, James Kermode, Davide Sangiovanni
+
+  Machine-learning interatomic potential (MLIP)--based molecular dynamics enables efficient exploration of mass-transport mechanisms in complex materials together with quantitative determination of diffusion coefficients at finite temperatures. Using an identical training dataset, we develop and assess three MLIPs formalisms (MTP, ACE, and MACE) and evaluate their transferability for diffusion simulations in hexagonal transition metal diborides. After benchmarking against 0~K ab initio migration energies and comparison of computational efficiency, the MTP model is employed to investigate boron-vacancy diffusion in α-TiB2, α-TaB2, and ω-WB2, representating group IV--VI transition-metal diboride...
+
+  `matched: interatomic potential, molecular dynamics, benchmark, dataset`
+
+
+- **[In Situ Grown Ag NF/PDMS Film SERS Sensor Coupled with Machine Learning for Sensitive Detection of Fungicides in Environmental Water](https://doi.org/10.1021/acs.iecr.6c02863)**
+  <br>*Industrial &amp; Engineering
+Chemistry Research | 2026-09-15 | doi:10.1021/acs.iecr.6c02863 | score 10*
+  <br>Pang, Zhao, Chen, Cai et al.
+
+  Abstract In this work, a two-dimensional SERS sensor (Ag NFs/PDMS) was fabricated by growing silver nanoflower (Ag NF) arrays in situ on amine-functionalized poly(dimethylsiloxane) (PDMS) via a facile one-step reduction strategy. FDTD simulations confirmed a high density of interparticle ″hot spots″ in the optimized substrate, endowing it with exceptional signal uniformity (RSD ≤ 5.46%) and batch-to-batch reproducibility. The sensor enabled sensitive detection of fungicides, crystal violet (CV), and thiram (TRM), across multiple environmental water matrices (tap water, pond water, and lake water), with limits of detection as low as 1.13 × 10–9 M and spike recoveries of 92.3–115.4% (RSD ≤ 5.1...
+
+  `matched: machine learning, crystal`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Concerted, Facile CO2 Hydrogenation in Ni-MOF-74 Revealed by Machine Learning Interatomic Potential-Based Enhanced Sampling Simulations](https://doi.org/10.26434/chemrxiv.15008834/v1)**
+  <br>*Crossref | 2026-09-15 | doi:10.26434/chemrxiv.15008834/v1 | score 56*
+  <br>Dhananjay, Sharma, Karmakar
+
+  Metal-organic frameworks (MOFs) with open metal sites are promising heterogeneous catalysts, but the atomistic and dynamic details that govern their reactivity are difficult to access experimentally due to spatiotemporal resolution limits. Computational studies, predominantly gas-phase density functional theory (DFT) calculations, have been used to study MOF-catalysed reactions, but typically rely on reduced cluster models of the metal center that neglect confinement effects or treat the framework as rigid during the reaction, limiting realistic modeling of catalysis at finite temperature and pressure. Here, we investigate, as a prototypical reaction, CO2 hydrogenation inside Ni-MOF-74 using...
+
+  `matched: machine learning interatomic potential, density functional theory, metal-organic framework, interatomic potential, machine learning, catalyst`
+
+
+- **[Supporting data for "Multi-fidelity Machine Learning Interatomic Potentials for Charged Point Defects"](https://doi.org/10.5281/zenodo.22756144)**
+  <br>*arXiv (Cornell University) | 2026-09-14 | doi:10.5281/zenodo.22756144 | score 44*
+  <br>Xinwei Wang, Irea Mosquera‐Lois, Aron Walsh
+
+  This repository contains the data and models supporting the publication “Multi-fidelity Machine Learning Interatomic Potentials for Charged Point Defects” (DOI: 10.1103/tzwd-cl3y). The repository is organised as follows: 1_FM_benchmark/ contains the DFT-PBE reference calculations used to benchmark foundation machine learning interatomic potentials for the VSb(1) defect across different charge states. 2_global_embedding/ contains the training and test datasets, trained MACE model and training script for the charge-embedded MACE model, together with the HSE06 DFT reference calculations for VSe(1) across five charge states. 3_MF/ contains the datasets, trained models and training scripts for th...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, benchmark, dataset, dft`
+
+
+- **[Leveraging Machine Learning Interatomic Potentials into Fitting Fast and Accurate AMBER-Compatible Precise Force Field](https://doi.org/10.26434/chemrxiv.15008812/v1)**
+  <br>*Crossref | 2026-09-15 | doi:10.26434/chemrxiv.15008812/v1 | score 38*
+  <br>Zhou, Wang, Xie, Zhang et al.
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Predicting Thermophysical Properties of Halide Salts Using On-the-Fly Machine-Learned Interatomic Potentials Across Multiple Exchange-Correlation Functionals](https://doi.org/10.26434/chemrxiv.15008809/v1)**
+  <br>*Crossref | 2026-09-15 | doi:10.26434/chemrxiv.15008809/v1 | score 37*
+  <br>Rudra, Vijay, Mohan, RUDRA et al.
+
+  In silico modeling of molten salts is pivotal for developing emerging carbon-free energy technologies. Accurate prediction of their thermophysical properties using first-principles methods remains computationally intractable owing to the large length and timescales required. Further, the choice of exchange-correlation (XC) functional critically governs the predictive accuracy of thermophysical properties. Here, we train machine learning force fields to investigate the thermophysical properties of NaBr, KCl, and AgCl, representing alkali- and transition-metal halides, across their solid and liquid phases, systematically benchmarking ten XC functionals for NaBr (600-1400 K) and testing the tra...
+
+  `matched: machine-learned interatomic potential, interatomic potential, machine learning, benchmark`
+
+
+- **[Domain-Informed AI Multimodal Foundation Model for Materials Science](https://doi.org/10.26434/chemrxiv.15008789/v1)**
+  <br>*Crossref | 2026-09-14 | doi:10.26434/chemrxiv.15008789/v1 | score 24*
+  <br>de Menezes Rebello, Nascimento, Nogueira
+
+  Accelerating materials discovery can unlock progress on clean energy, sustainable construction, medicines, and electronics, yet the machine-learning pipelines meant to drive that acceleration remain fragmented, unimodal, and narrowly scoped. Large multimodal foundation models, pretrained broadly and reused across tasks, offer an alternative paradigm. Materials-specific foundation models already exist and have delivered genuine advances, most notably universal interatomic potentials and domain language models, but those surveyed here remain either unimodal or physics-agnostic, and building a model that reasons jointly across the full range of materials data requires more than scaling them up....
+
+  `matched: interatomic potential, materials discovery, foundation model`
+
+
+- **[Efficiency and Accessibility Are Not Enough: Chemical-Validity Filtering in High-Throughput Screening of Organic Photovoltaic Materials](https://doi.org/10.26434/chemrxiv.15006402/v3)**
+  <br>*Crossref | 2026-09-15 | doi:10.26434/chemrxiv.15006402/v3 | score 23*
+  <br>Kongo, Kouam, TCHAPET NJAFA, Engo et al.
+
+  Descriptor-based screening for organic photovoltaics ranks molecules on computed properties such as frontier-orbital energies and synthetic accessibility, but such descriptors do not test whether a highly ranked molecule is a chemically sensible material. We screened 17,458 molecules from the PubChemQC database using PCESAScore—Scharber-model efficiency minus the RDKit synthetic-accessibility score—and examined what the metric actually returns. Seven molecules cross the viability threshold, but three are not organic semiconductors (molecular oxygen, a magnesium carbonate salt, a quinhydrone cocrystal) and three more carry reactive groups (two azides, one nitroso). A transparent chemicalvalid...
+
+  `matched: high-throughput screening, semiconductor, photovoltaic, crystal`
+
+
+- **[Predicting Heavy-Duty Diesel Engine Performance and Emissions: A Comparative Evaluation of Statistical and Machine Learning Models](https://doi.org/10.2139/ssrn.7465157)**
+  <br>*Crossref | 2026-09-15 | doi:10.2139/ssrn.7465157 | score 16*
+  <br>Khan, Siddique, Kutkut, Akkerman et al.
+
+  Accurate and computationally efficient prediction of heavy-duty diesel-engine performance and emissions is important for engine calibration, real-time emissions estimation, and model-based control. This study compares five prediction methods: multiple linear regression (MLR), Kriging, an artificial neural network (ANN), a one-dimensional convolutional neural network (1D-CNN), and random forest (RF). A common steady-state experimental dataset was used for the comparison. Ten input variables representing engine operation, air-path conditions, fueling, and thermal behavior were used to predict brake thermal efficiency (BTE), diesel oxidation catalyst (DOC) inlet temperature, and engine-out nitr...
+
+  `matched: machine learning, neural network, catalyst, dataset`
+
+
+- **[Provincial photovoltaic power forecasting based on hierarchical optimization of a time-series foundation model and selective heterogeneous fusion](https://doi.org/10.2139/ssrn.7465198)**
+  <br>*Crossref | 2026-09-15 | doi:10.2139/ssrn.7465198 | score 16*
+  <br>Liu, Shan
+
+  Full-month direct multi-step forecasting of provincial photovoltaic (PV) power is challenged by insufficient regional task adaptation, redundant meteorological inputs, limited responsiveness to critical operating states, inadequate matching of cross-year historical information, and the risk of additional errors from unconditional heterogeneous fusion. To address these challenges, this study proposes a PV power forecasting method based on hierarchical optimization of a time-series foundation model and selective heterogeneous fusion. First, meteorological covariate ablation identifies the effective input set, while staged parameter search and full-parameter fine-tuning adapt the pretrained mod...
+
+  `matched: foundation model, photovoltaic`
+
+
+- **[The Interference Index: Quantifying and Improving Error Cancellation in Machine-Learned Thermodynamic Stability Predictions](https://doi.org/10.26434/chemrxiv.15008797/v1)**
+  <br>*Crossref | 2026-09-15 | doi:10.26434/chemrxiv.15008797/v1 | score 16*
+  <br>Kanzow, Boriosi, Jacinto-Mejía, Storchi et al.
+
+  Machine-learned formation enthalpies for inorganic materials approach density functional theory (DFT) accuracy, yet thermodynamic stability predictions derived from them can remain unreliable, a gap commonly associated with error cancellation in DFT that independent per-compound training does not reproduce. We introduce the interference index ξ, a dimensionless measure of how strongly errors reinforce or cancel in linearly derived quantities. Its root-mean-square average, ξrms, provides a reaction-size-independent null reference, with ξrms = 1 for the isotropic null model. Across seven published models benchmarked on Materials Project compounds, error-cancellation behaviour is distinct from...
+
+  `matched: density functional theory, materials project, inorganic, benchmark, dft`
+
+
+- **[Integrating Theory–Experiment Active Learning and Mechanistic Insights for High-Entropy Alloy Design Toward Efficient Alkaline Hydrogen Evolution](https://doi.org/10.26434/chemrxiv.15008410/v2)**
+  <br>*Crossref | 2026-09-15 | doi:10.26434/chemrxiv.15008410/v2 | score 12*
+  <br>Li, Zhang, Jin, Luo et al.
+
+  High-entropy alloys (HEAs) offer diverse local coordination environments for modulating hydrogen adsorption and water activation in alkaline hydrogen evolution, but their highdimensional compositional space remains difficult to explore efficiently. Theory-experiment closed loops can accelerate this search, yet theoretical prior and candidate sampling are commonly coupled, obscuring their individual contributions. Here, we developed a theory-experiment activelearning (TEA) framework that independently varies theoretical priors and candidate sampling strategies for AuCuPdPtIr HEAs. Under identical experimental throughput, the theoretical prior provided transferable performance trends across co...
+
+  `matched: active learning, alloy`
+
+
+---
+
+
 ## 2026-09-14
 
 8 new item(s). Top hit: **Machine learning-accelerated calculation of diffusion coefficients in crystalline structures from molecular dy** (score 34, Computational Materials Science).
