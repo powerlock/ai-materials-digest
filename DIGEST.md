@@ -6,6 +6,181 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-16
+
+19 new item(s). Top hit: **Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocr** (score 37, arXiv).
+
+### Journal articles
+
+- **[A new funnel for thermoelectric materials discovery](https://www.nature.com/articles/s41578-026-00965-9)**
+  <br>*Nature Reviews Materials | 2026-09-15 | doi:10.1038/s41578-026-00965-9 | score 25*
+
+  `matched: materials discovery, thermoelectric`
+
+
+- **[From First Principles to Machine Learning: Accelerating the Design and Discovery of Hybrid Organic–Inorganic Perovskites](https://doi.org/10.1039/d6dd00303f)**
+  <br>*Digital Discovery | 2026-09-16 | doi:10.1039/d6dd00303f | score 20*
+  <br>Kim, Yue, Li
+
+  Hybrid organic–inorganic perovskites (HOIPs) have emerged as one of the most structurally versatile and technologically promising materials, with demonstrated applications spanning photovoltaics, light-emitting diodes, photodetectors, and piezoelectric energy harvesters. Despite...
+
+  `matched: machine learning, photovoltaic, perovskite, inorganic`
+
+
+- **[AI Visualization for Analyzing Factors Influencing Tourists' Satisfaction Under Deep Learning Technology](https://doi.org/10.4018/ijitsa.422106)**
+  <br>*International Journal of Information Technologies and Systems Approach | 2026-09-16 | doi:10.4018/ijitsa.422106 | score 17*
+  <br>Guleng, Liang, Yang, Lian et al.
+
+  To analyze Chinese tourist satisfaction, this study proposed an advanced multimodal feature fusion deep learning framework integrating a robustly optimized bidirectional encoder representations from transformers pretraining approach (RoBERTa), a convolutional neural network (CNN), and a graph neural network (GNN). The model incorporated local sentiment pattern recognition, global review association modeling, and deep semantic understanding, thereby overcoming limitations of conventional unimodal models. RoBERTa enhanced the contextual interpretation of Chinese-language reviews through dynamic masking and extended training, identifying implicit sentiments. The CNN captured nuanced emotional c...
+
+  `matched: graph neural network, neural network, deep learning, transformer`
+
+
+- **[Deep learning in lung cancer imaging: A narrative review of CT, MRI, PET, and X-ray-based diagnostic models](https://doi.org/10.1556/1647.2026.00454)**
+  <br>*Imaging | 2026-09-16 | doi:10.1556/1647.2026.00454 | score 9*
+  <br>Hasnain, Faris
+
+  Abstract Globally, Cancer-related deaths are mostly due to lung cancer which is approximately 18% of all cancer deaths. The five-year survival rate for patients with localized disease reaches 64%, yet more than two-thirds of patients present at advanced stages, when prognosis is poor. The deep learning (DL) has proven to be a paradigm shift in the imaging of lung cancer and has shown significant nodule detection, histological subtype, tumor segmentation and disease classification expertise in all major imaging modalities. The current narrative review is a summary of peer-reviewed articles since 2020 that investigated the use of DL methods to computed tomography (CT), magnetic resonance imagi...
+
+  `matched: deep learning, magnet`
+
+
+- **[Uncertainty-guided multi-stage adaptive active learning framework for pareto optimization of blast-resistant fiber-metal laminates](https://doi.org/10.1016/j.matdes.2026.117066)**
+  <br>*Materials &amp; Design | 2026-09-16 | doi:10.1016/j.matdes.2026.117066 | score 7*
+  <br>Zhu, Zhou, Zheng, Li et al.
+
+  `matched: active learning`
+
+
+- **[TCA-Net: A Multi-Frequency Interactive Learning Network for Automatic Modulation Recognition](https://doi.org/10.1016/j.sigpro.2026.110914)**
+  <br>*Signal Processing | 2026-09-16 | doi:10.1016/j.sigpro.2026.110914 | score 7*
+  <br>Zeng, Quan, Chen, Wu et al.
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocrystals: A CdSe Case Study](http://arxiv.org/abs/2609.15299v1)**
+  <br>*arXiv | 2026-09-14 | score 37*
+  <br>M. Usman, M. Suleymanova, Z. U. Abideen, M. Fernández-Pendás et al.
+
+  Machine-learning interatomic potentials (MLIPs) enable nanosecond-scale atomistic simulations of inorganic semiconductor nanocrystals, but low errors on held-out configurations do not necessarily guarantee stable molecular dynamics. We benchmark five graph-neural-network MLIPs, SchNet, PaiNN, NequIP, Allegro and MACE, for dynamical stability in a chloride-passivated cadmium selenide nanocluster containing 149 atoms. The models were trained under harmonized conditions on 1,000 configurations and evaluated against 2,000 held-out configurations generated using density functional theory, considering force accuracy, computational efficiency, uncertainty and structural stability during 1 ns simula...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics, semiconductor, benchmark, inorganic`
+
+
+- **[Symbolic Ensemble Learning Enables Discovery of Fast Accurate Physics-Based Interatomic Potentials](http://arxiv.org/abs/2609.16526v1)**
+  <br>*arXiv | 2026-09-15 | score 25*
+  <br>Bilvin Varughese, Aditya Koneru, Adil Muhammad, Troy D. Loeffler et al.
+
+  Machine learning has transformed materials simulation by delivering force fields with ab initio accuracy, yet bridging the gap between high-dimensional regression and physical interpretability remains a grand challenge. Conventional analytical potentials offer transparency but often fail to capture the complexity of far-from-ground state regimes. Here, we introduce a hybrid symbolic-neural framework that unifies the interpretability of the Embedded Atom Method (EAM) with the adaptability of data-driven learning. Using Equation Learner Neural Networks (EqNNs) trained on density functional theory (DFT) data, we obtain interpretable models for aluminum through three distinct training protocols:...
+
+  `matched: density functional theory, interatomic potential, machine learning, neural network, dft`
+
+
+- **[Prescreening Point Defects in Semiconductors With Machine Learning](http://arxiv.org/abs/2609.14846v1)**
+  <br>*arXiv | 2026-09-13 | score 23*
+  <br>Paul Karlsson, Joel Davidsson, Rickard Armiento
+
+  High-throughput calculations using density-functional theory (DFT) are commonly used to explore point defects for applications in power electronics and quantum technologies. There is currently a major shift away from these traditional simulation techniques towards machine learning (ML) methods. We explore a class of physics-guided ML models for predicting defect formation energies and zero-phonon lines (ZPL) to identify point defects for quantum applications. The models are specifically targeted for use in a prescreening step for accelerated high-throughput workflows, and are therefore designed to avoid the costly relaxation step typically present with ML interatomic potentials (MLIPs). We c...
+
+  `matched: interatomic potential, machine learning, semiconductor, phonon, dft`
+
+
+- **[Scaling LLM Agents for Materials Design through Hierarchical Collective Reasoning](http://arxiv.org/abs/2609.16466v1)**
+  <br>*arXiv | 2026-09-15 | score 20*
+  <br>Jaehwan Choi, Yousung Jung
+
+  Materials design must reconcile competing functional requirements with stability and synthesis constraints. Generative models can produce stable, novel crystals, but accommodating detailed natural-language design instructions remains challenging. Here we introduce HiMatGen, a framework for scaling large language model agents through hierarchical collective reasoning. Built from GPT-5.6 Terra, HiMatGen connects 100 investigators in discussion pods across ten scientific domains with tool-enabled domain representatives. Representatives investigate proposals, exchange evidence across domains and return findings and unresolved questions to their pods. This bidirectional exchange turns specialist...
+
+  `matched: large language model, generative model, materials design, crystal`
+
+
+- **[QALPA: Property-guided diffusion modeling for efficient exploration of chemical spaces of flexible molecules](http://arxiv.org/abs/2609.16527v1)**
+  <br>*arXiv | 2026-09-15 | score 20*
+  <br>Michael Hanna, Julian Cremer, Zekiye Erarslan, Leonardo Medrano Sandonas
+
+  Exploring the chemical space of flexible molecules remains challenging because the vast number of possible compounds and conformations, together with the increasing cost and limited generalization of 3D generative models for larger and more complex molecules, restrict access to unexplored chemistry. Here, we introduce QALPA ("Quantum-Aware Learning for Property-space Augmentation"), a property-guided generative framework that combines an E(3)-equivariant diffusion model with active learning and efficient quantum-mechanical (QM) methods to iteratively explore targeted QM property manifolds. By coupling generation with physics-based evaluation, QALPA improves molecular sampling and model relia...
+
+  `matched: generative model, diffusion model, active learning, equivariant`
+
+
+- **[A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films](http://arxiv.org/abs/2609.15246v1)**
+  <br>*arXiv | 2026-09-14 | score 18*
+  <br>Ankit Yadav, Lucia Bajtošová, Miroslav Cieslar, Jan Fikar
+
+  Discrepancies between simulated and experimental mechanical properties in molecular dynamics simulations of nanocrystalline metals typically arise from the sample-construction method and the interatomic potential choice. We introduce a cylindrical sintering method to generate nanocrystalline aluminum thin-film samples with wider, more disordered grain boundaries than the usual Voronoi tessellation method, while maintaining deterministic control over grain size, shape, and orientation. Cylindrical sintered samples are benchmarked against hexagonal Voronoi references under identical conditions using both the classical Pascuet15 MEAM and tabGAP machine-learning potentials. Cylindrical sintered...
+
+  `matched: interatomic potential, molecular dynamics, benchmark, crystal`
+
+
+- **[Multi-Task Graph Neural Network Predictions of Auger-Electron and X-ray Photoelectron Spectroscopy](http://arxiv.org/abs/2609.16339v1)**
+  <br>*arXiv | 2026-09-14 | score 17*
+  <br>Adam E. A. Fouda, Patrick Phillips, Phay J. Ho
+
+  Auger-electron spectroscopy has long accompanied x-ray photoelectron spectroscopy as a second modality to resolve chemical states with overlapping core-electron binding energies. However, analyzing the Auger spectrum is challenged by its complexity and the computational expense of its simulation. Here we demonstrate that the physical connection, and thus inter-task relationship, between the generation of a core-hole and its corresponding Auger-Meitner decay enables inductive knowledge transfer through the training of a multi-task graph neural network to predict both observables from a common graph embedding. Both task losses are combined with learned weights via the uncertainty weighting pro...
+
+  `matched: graph neural network, neural network`
+
+
+- **[Multi4D: an end-to-end neural network for structural determination at complex material interfaces](http://arxiv.org/abs/2609.14348v1)**
+  <br>*arXiv | 2026-09-13 | score 17*
+  <br>Haoran Zhang, Zian Mao, Shufen Chu, Xiaoya He et al.
+
+  Heterogeneous interfaces dictate the performance and degradation of functional materials, making it essential to link local structural variations with macroscopic failure mechanisms to guide future materials design. Yet structural heterogeneity, phase overlap, and local disorder produce highly convoluted diffraction signatures, making extended transition regions difficult to interpret at atomic resolution across large fields of view. Here, we introduce Multi4D, a physics-informed neural network framework for automated multi-component crystallographic identification using four-dimensional scanning transmission electron microscopy (4D-STEM). By combining a latent-space Diffusion Transformer fo...
+
+  `matched: materials design, neural network, transformer, crystal`
+
+
+- **[Exotic centrosymmetric phase of acentric urea under high pressure](http://arxiv.org/abs/2609.16545v1)**
+  <br>*arXiv | 2026-09-15 | score 15*
+  <br>Haw-Tyng Huang, Yedukondalu Neelam, Mei-Shuan Cheng, Zhenxian Liu et al.
+
+  Urea is a simple prototype supramolecular crystal that exhibits rich polymorphism at low pressure due to broken and restored N-H-O hydrogen bonds. The high pressure polymorph (phase V') of acentric urea crystallizes in a centrosymmetric structure, which presents an appealing target because of its potential exotic structure, analogous to the symmetric ice phase X. The pressure-induced polymorphism of urea was studied using powder X-ray diffraction, infrared and Raman spectroscopy, second harmonic generation (SHG) measurements up to 20 GPa and ab initio crystal structure prediction (CSP) based on the constrained evolutionary approach. A strong decrease of the SHG signal at the transition press...
+
+  `matched: crystal structure prediction, x-ray diffraction, crystal`
+
+
+- **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](http://arxiv.org/abs/2609.14840v1)**
+  <br>*arXiv | 2026-09-13 | score 13*
+  <br>Tsz Wai Ko, Jiaru Bai, Thomas Swanick, Yeonghun Kang et al.
+
+  Foundational machine-learning interatomic potentials (MLIPs) are transforming atomistic simulations by achieving near-ab initio accuracy across large chemical spaces at a fraction of the computational cost. A central challenge in using these tools for high-throughput property calculations is translating high-level scientific intent into adaptive simulation campaigns without compromising workflow rigour. We introduce El Agente Potente, an agentic system that combines typed execution graphs with a complementary coding mode for MLIPs-driven atomistic simulations. Typed execution graphs provide structured and provenance-aware execution for standardized workflows, with large language models (LLMs...
+
+  `matched: interatomic potential, large language model, agentic`
+
+
+- **[Neural-Network Solutions to Real-Space Charge Density and Generalization](http://arxiv.org/abs/2609.14906v1)**
+  <br>*arXiv | 2026-09-14 | score 12*
+  <br>Yuxuan Zeng, Taoyuze Lv, Zhicheng Zhong
+
+  The Hohenberg-Kohn theorem establishes that, in principle, the ground state (GS) charge density contains all GS information of a many-electron system, such that all GS observables can be expressed as functionals of the GS charge density. Conventional Kohn-Sham density functional theory requires iterative solution of the self-consistent-field equations at substantial computational cost, motivating the development of deep learning surrogates for electronic structure calculations and, in turn, accelerating computer-aided materials design. Here, we propose \textbf{AIDEN}, an \underline{A}tomic-\underline{I}nteraction \underline{D}ensity \underline{E}quivariant \underline{N}etwork for solving rea...
+
+  `matched: density functional theory, materials design, deep learning`
+
+
+- **[A Systematic Approach to Batch Active Learning for Material Optimization](https://doi.org/10.26434/chemrxiv.15008883/v1)**
+  <br>*Crossref | 2026-09-16 | doi:10.26434/chemrxiv.15008883/v1 | score 10*
+  <br>Gardin, van den Hout, Leurs, Brunsveld et al.
+
+  Closed-loop automated experimentation platforms are accelerating materials characterization and discovery, but their efficiency hinges on a question that automation alone does not answer: given a fixed evaluation budget, which experiment configurations should be run next? Batch active learning addresses this by selecting a group of candidates at each iteration, yet the design choices that govern its efficiency, how many candidates to acquire per cycle, and how to balance exploitation against exploration remain poorly understood. Here, we present a systematic in-silico benchmark of batch active learning across optimization landscapes, prediction models, and dimensionalities, introducing compo...
+
+  `matched: active learning, benchmark`
+
+
+- **[Navigating Sparse Singlet Fission Chemical Space: An Intelligent Generative-Predictive Paradigm](http://arxiv.org/abs/2609.15136v1)**
+  <br>*arXiv | 2026-09-14 | score 7*
+  <br>Longfei Lv, Li Fu, Si Zhou, Lingzhi Zhao et al.
+
+  Singlet fission (SF) offers a promising route to surpass the Shockley-Queisser limit by converting a photoexcited singlet exciton into two triplet excitons, thereby enhancing photovoltaic energy conversion efficiency. However, realizing efficient SF process requires stringent energetic requirements among low-lying excited states that render SF molecules intrinsically rare within the vast chemical space. This extreme sparsity presents a grand challenge for molecular discovery. Due to low hit rates and trial-and-error computational waste on nonviable structures, conventional high-throughput virtual screening faces significant constraints, even when accelerated by machine learning models. Here,...
+
+  `matched: machine learning, photovoltaic`
+
+
+---
+
+
 ## 2026-09-15
 
 16 new item(s). Top hit: **Concerted, Facile CO2 Hydrogenation in Ni-MOF-74 Revealed by Machine Learning Interatomic Potential-Based Enha** (score 56, Crossref).
