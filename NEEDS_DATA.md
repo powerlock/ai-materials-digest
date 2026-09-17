@@ -1,6 +1,6 @@
 # Needs data - awaiting further input
 
-Generated 2026-09-16. Every field below was blank in the automated sources. Fill any of them in `manual_data.json` and rerun `python build_summary.py`; your values take priority and are never overwritten.
+Generated 2026-09-17. Every field below was blank in the automated sources. Fill any of them in `manual_data.json` and rerun `python build_summary.py`; your values take priority and are never overwritten.
 
 ```jsonc
 // manual_data.json
@@ -40,7 +40,7 @@ Generated 2026-09-16. Every field below was blank in the automated sources. Fill
 | **Voronoi RF** | Phonon kSRME, Geometry-opt RMSD | [10.1103/PhysRevB.96.024104](https://doi.org/10.1103/PhysRevB.96.024104) | [repo](https://github.com/janosh/matbench-discovery) |
 | **ALIGNN FF** | Accuracy (%), MAE (meV/atom), RMSE (meV/atom), F1, R2, Phonon kSRME, Geometry-opt RMSD, Parameter count | [10.1039/D2DD00096B](https://doi.org/10.1039/D2DD00096B) | [repo](https://github.com/usnistgov/alignn) |
 
-## Studies with no numeric performance figure (284 of 304)
+## Studies with no numeric performance figure (298 of 319)
 
 These need a human to open the paper and read the results table. Highest value first: studies that already name a model and a material, so only the number is missing.
 
@@ -48,13 +48,13 @@ These need a human to open the paper and read the results table. Highest value f
 |---|---|---|---|---|---|
 | [Conservation-Resolved Error Decomposition: A Benchmark Axis for Electronic-Structure Methods and Machine-Learned Interat](https://doi.org/10.26434/chemrxiv.15007478/v1) | MACE | OFF23 | hybrid DFT, MLIP | 2026-08-17 | [10.26434/chemrxiv.15007478/v1](https://doi.org/10.26434/chemrxiv.15007478/v1) |
 | [HIP: Hessian Interatomic Potentials](https://doi.org/10.5281/zenodo.22003592) | EquiformerV2 | molecule / organic | MLIP | 2026-08-19 | [10.5281/zenodo.22003592](https://doi.org/10.5281/zenodo.22003592) |
-| [Integration of Machine Learning and Solid-State Chemistry for the Discovery of Electrochemical Materials for Fuel Cells ](https://doi.org/10.5281/zenodo.22021890) | ALIGNN, MEGNet, CGCNN | Li-ion battery, catalyst, oxide | DFT | 2026-08-20 | [10.5281/zenodo.22021890](https://doi.org/10.5281/zenodo.22021890) |
+| [Integration of Machine Learning and Solid-State Chemistry for the Discovery of Electrochemical Materials for Fuel Cells ](https://doi.org/10.5281/zenodo.22021890) | MEGNet, ALIGNN, CGCNN | Li-ion battery, catalyst, oxide | DFT | 2026-08-20 | [10.5281/zenodo.22021890](https://doi.org/10.5281/zenodo.22021890) |
 | [The CHGNet uMLIP model fine-tuned for 2Hc-WS2](https://doi.org/10.5281/zenodo.22059539) | CHGNet | WS2, MoS2 | DFT, MLIP | 2026-08-22 | [10.5281/zenodo.22059539](https://doi.org/10.5281/zenodo.22059539) |
 | [Equivariance as a Substitutable Resource: A Unified Scaling Law for Machine-Learned Interatomic Potentials](https://doi.org/10.5281/zenodo.22063807) | MACE | molecule / organic | MLIP | 2026-08-23 | [10.5281/zenodo.22063807](https://doi.org/10.5281/zenodo.22063807) |
 | [Cross-Scale Assessment of MACE Foundation Models and from Scratch Trained Potentials for Bi-Pt Systems](https://doi.org/10.26434/chemrxiv.15007985/v1) | MACE | Bi18Pt24 | DFT, phonons, MLIP | 2026-08-27 | [10.26434/chemrxiv.15007985/v1](https://doi.org/10.26434/chemrxiv.15007985/v1) |
 | [Generative artificial intelligence for reliable mechanistic reasoning for corrosion](http://arxiv.org/abs/2609.00099v1) | Llama | alloy |  | 2026-08-31 | [link](http://arxiv.org/abs/2609.00099v1) |
 | [Supplementary trained models for "Zn2+ phase engineering of the red fluoride phosphor K2TiF6:Mn4+" (Laser & Photonics Re](https://doi.org/10.5281/zenodo.22199074) | MACE | K2TiF6, ZnCl2, TiF6 | MD, MLIP | 2026-09-01 | [10.5281/zenodo.22199074](https://doi.org/10.5281/zenodo.22199074) |
-| [Finite-temperature dynamic stability separates foundation machine-learning interatomic potentials that harmonic benchmar](https://doi.org/10.26434/chemrxiv.15008248/v1) | SevenNet-0, MACE-MP-0, MatterSim, CHGNet | perovskite, halide perovskite, oxide, SrTiO3 | DFT, phonons, MLIP, free energy | 2026-09-03 | [10.26434/chemrxiv.15008248/v1](https://doi.org/10.26434/chemrxiv.15008248/v1) |
+| [Finite-temperature dynamic stability separates foundation machine-learning interatomic potentials that harmonic benchmar](https://doi.org/10.26434/chemrxiv.15008248/v1) | SevenNet-0, MatterSim, MACE-MP-0, CHGNet | perovskite, halide perovskite, oxide, SrTiO3 | DFT, phonons, MLIP, free energy | 2026-09-03 | [10.26434/chemrxiv.15008248/v1](https://doi.org/10.26434/chemrxiv.15008248/v1) |
 | [Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known s](https://doi.org/10.5281/zenodo.22651559) | MatterGen | superconductor | PBE+U, DFT | 2026-09-08 | [10.5281/zenodo.22651559](https://doi.org/10.5281/zenodo.22651559) |
 | [A computed thermoelectric feature database for 50,992 GNoME materials](https://doi.org/10.26434/chemrxiv.15007873/v2) | CHGNet, GNoME | thermoelectric | DFT, MLIP | 2026-09-08 | [10.26434/chemrxiv.15007873/v2](https://doi.org/10.26434/chemrxiv.15007873/v2) |
 | [MLIP Detective: Active Failure Mode Discovery Beyond Benchmark Scores for Machine-Learning Interatomic Potentials](https://doi.org/10.48550/arxiv.2609.08399) | MACE-MPA-0 | surface / slab | MLIP | 2026-09-08 | [10.48550/arxiv.2609.08399](https://doi.org/10.48550/arxiv.2609.08399) |
@@ -62,10 +62,10 @@ These need a human to open the paper and read the results table. Highest value f
 | [Quantum-accurate atomistic modeling of enzyme catalysis using a machine learned potential](http://arxiv.org/abs/2609.09293v1) | eSEN | catalyst | MLIP | 2026-09-08 | [link](http://arxiv.org/abs/2609.09293v1) |
 | [Cross-Property Transfer Learning and Generative Crystal Design for Accelerated Discovery of Low-Thermal-Conductivity Mat](https://doi.org/10.1021/acsami.6c10770) | CrystaLLM, ALIGNN, CGCNN | thermoelectric | DFT, phonons | 2026-09-10 | [10.1021/acsami.6c10770](https://doi.org/10.1021/acsami.6c10770) |
 | [Domain-specific dataset enable accurate MLIPs for disordered halide-based solid electrolytes](https://doi.org/10.1088/2632-2153/aea5d8) | MACE | solid electrolyte, Li-ion battery | DFT, MLIP | 2026-09-10 | [10.1088/2632-2153/aea5d8](https://doi.org/10.1088/2632-2153/aea5d8) |
+| [Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocrystals: A ](https://doi.org/10.48550/arxiv.2609.15299) | Allegro, NequIP, SchNet, PaiNN, MACE | semiconductor | DFT, MD, MLIP | 2026-09-14 | [10.48550/arxiv.2609.15299](https://doi.org/10.48550/arxiv.2609.15299) |
 | [Vacancy diffusion in transition metal diborides using diverse machine-learning potentials](https://doi.org/10.1063/5.0329286) | MACE | TiB2, TaB2, WB2 | DFT, MD, MLIP | 2026-09-14 | [10.1063/5.0329286](https://doi.org/10.1063/5.0329286) |
-| [Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocrystals: A ](http://arxiv.org/abs/2609.15299v1) | Allegro, NequIP, SchNet, PaiNN, MACE | semiconductor | DFT, MD, MLIP | 2026-09-14 | [link](http://arxiv.org/abs/2609.15299v1) |
 | [Universal Thermodynamic Interatomic Potentials for Crystalline Materials](http://arxiv.org/abs/2608.14502v1) | UMA |  | MD, MLIP, free energy | 2026-08-14 | [link](http://arxiv.org/abs/2608.14502v1) |
-| [Data-Efficient Construction of Material-Specific Machine-Learning Interatomic Potentials from Ab Initio Molecular Dynami](http://arxiv.org/abs/2608.14899v1) | GRACE-1L-OAM, SevenNet-0, MACE-MP-0, MatterSim |  | DFT, AIMD, MD, MLIP | 2026-08-14 | [link](http://arxiv.org/abs/2608.14899v1) |
+| [Data-Efficient Construction of Material-Specific Machine-Learning Interatomic Potentials from Ab Initio Molecular Dynami](http://arxiv.org/abs/2608.14899v1) | GRACE-1L-OAM, SevenNet-0, MatterSim, MACE-MP-0 |  | DFT, AIMD, MD, MLIP | 2026-08-14 | [link](http://arxiv.org/abs/2608.14899v1) |
 | [GRACE-OFF: A machine-learned interatomic potential for organic liquids using the GRACE architecture](https://doi.org/10.26434/chemrxiv.15001529/v2) | GRACE, MACE |  | MLIP | 2026-08-18 | [10.26434/chemrxiv.15001529/v2](https://doi.org/10.26434/chemrxiv.15001529/v2) |
 | [How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit](https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/) | ALCHEMI |  |  | 2026-08-18 | [link](https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/) |
 | [Exploring celecoxib polymorph landscape using AIMNet2 machine learning interatomic potential](https://doi.org/10.17615/xd5h-sd62) | AIMNet2 |  | DFT, MLIP | 2026-08-20 | [10.17615/xd5h-sd62](https://doi.org/10.17615/xd5h-sd62) |
@@ -75,7 +75,6 @@ These need a human to open the paper and read the results table. Highest value f
 | [FastMD](https://doi.org/10.5281/zenodo.22051980) | CHGNet, ALIGNN |  | MD, MLIP | 2026-08-22 | [10.5281/zenodo.22051980](https://doi.org/10.5281/zenodo.22051980) |
 | [PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation](https://doi.org/10.1088/3050-287x/ae9ee4) | MatterSim, MatterGen |  | phonons | 2026-08-26 | [10.1088/3050-287x/ae9ee4](https://doi.org/10.1088/3050-287x/ae9ee4) |
 | [Grain-Boundary Premelting in High-Entropy Transition Metal Carbides](https://doi.org/10.48550/arxiv.2608.27273) | MACE |  | MD, Monte Carlo, MLIP | 2026-08-27 | [10.48550/arxiv.2608.27273](https://doi.org/10.48550/arxiv.2608.27273) |
-| [ase-calculator-kit: a unified ASE calculator factory for MLIP and DFT calculators](https://doi.org/10.5281/zenodo.21807793) | MatterSim, SevenNet, CHGNet, NequIP, MACE, UMA |  | DFT, MLIP | 2026-08-28 | [10.5281/zenodo.21807793](https://doi.org/10.5281/zenodo.21807793) |
 | [GMD Task 4 composition-support audit - structures and public-checkpoint predictions](https://doi.org/10.5281/zenodo.22215787) | NequIP, MACE |  | DFT, MLIP | 2026-08-31 | [10.5281/zenodo.22215787](https://doi.org/10.5281/zenodo.22215787) |
 | [Realistic Simulations of Energy Materials Using Foundation Models and Electrode-Potential Learning](https://doi.org/10.26434/chemrxiv.15007895/v2) | SevenNet |  | DFT, MLIP | 2026-08-31 | [10.26434/chemrxiv.15007895/v2](https://doi.org/10.26434/chemrxiv.15007895/v2) |
 | [Diagnosing Latent Energy Decomposition in Machine-Learning Interatomic Potentials via Interacting Quantum Atoms](https://doi.org/10.48550/arxiv.2609.00674) | Allegro |  | MLIP | 2026-09-01 | [10.48550/arxiv.2609.00674](https://doi.org/10.48550/arxiv.2609.00674) |
@@ -85,6 +84,7 @@ These need a human to open the paper and read the results table. Highest value f
 | [Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems](https://doi.org/10.48550/arxiv.2609.07477) | MACE, UMA |  | MLIP | 2026-09-07 | [10.48550/arxiv.2609.07477](https://doi.org/10.48550/arxiv.2609.07477) |
 | [uFlowCSP: Crystal Structure Prediction using Mean flow generative models](https://doi.org/10.48550/arxiv.2609.09799) | DiffCSP, FlowMM, CDVAE |  |  | 2026-09-09 | [10.48550/arxiv.2609.09799](https://doi.org/10.48550/arxiv.2609.09799) |
 | [Supporting data for "Multi-fidelity Machine Learning Interatomic Potentials for Charged Point Defects"](https://doi.org/10.5281/zenodo.22756144) | MACE |  | PBE, HSE06, DFT, MLIP | 2026-09-14 | [10.5281/zenodo.22756144](https://doi.org/10.5281/zenodo.22756144) |
+| [ase-calculator-kit: a unified ASE calculator factory for MLIP and DFT calculators](https://doi.org/10.5281/zenodo.22761828) | MatterSim, SevenNet, NequIP, CHGNet, MACE, UMA |  | DFT, MLIP | 2026-09-15 | [10.5281/zenodo.22761828](https://doi.org/10.5281/zenodo.22761828) |
 | [Materials Discovery and Design](https://doi.org/10.1002/9783527852048.ch9) |  | polymer |  | 2026-08-14 | [10.1002/9783527852048.ch9](https://doi.org/10.1002/9783527852048.ch9) |
 | [Neural Networks Accelerate Ab Initio Multiple Spawning Simulations: A Case Study of Using Machine Learning Potentials fo](https://doi.org/10.26434/chemrxiv.15007443/v1) |  | molecule / organic | DFT, MLIP | 2026-08-14 | [10.26434/chemrxiv.15007443/v1](https://doi.org/10.26434/chemrxiv.15007443/v1) |
 | [Discovering Physically Interpretable Mathematical Expression for Predicting CO2 Adsorption in Metal-Organic Frameworks v](http://arxiv.org/abs/2608.14990v1) |  | MOF, CO2 |  | 2026-08-15 | [link](http://arxiv.org/abs/2608.14990v1) |
@@ -193,9 +193,11 @@ These need a human to open the paper and read the results table. Highest value f
 | [Predicting Heavy-Duty Diesel Engine Performance and Emissions: A Comparative Evaluation of Statistical and Machine Learn](https://doi.org/10.2139/ssrn.7465157) |  | catalyst, oxide |  | 2026-09-15 | [10.2139/ssrn.7465157](https://doi.org/10.2139/ssrn.7465157) |
 | [Integrating Theory–Experiment Active Learning and Mechanistic Insights for High-Entropy Alloy Design Toward Efficient Al](https://doi.org/10.26434/chemrxiv.15008410/v2) |  | Li-ion battery, catalyst, alloy, Au16Cu5Pd35Pt35Ir9 | MD | 2026-09-15 | [10.26434/chemrxiv.15008410/v2](https://doi.org/10.26434/chemrxiv.15008410/v2) |
 | [Efficiency and Accessibility Are Not Enough: Chemical-Validity Filtering in High-Throughput Screening of Organic Photovo](https://doi.org/10.26434/chemrxiv.15006402/v3) |  | semiconductor, photovoltaic |  | 2026-09-15 | [10.26434/chemrxiv.15006402/v3](https://doi.org/10.26434/chemrxiv.15006402/v3) |
+| [Amorphization-Mediated Si-I to Si-V Phase Transition and Reversible Amorphous Si-V Phase Memory in Silicon Nanoparticles](https://doi.org/10.1021/acs.nanolett.6c02592) |  | glass / amorphous | MD, MLIP | 2026-09-15 | [10.1021/acs.nanolett.6c02592](https://doi.org/10.1021/acs.nanolett.6c02592) |
 | [A new funnel for thermoelectric materials discovery](https://www.nature.com/articles/s41578-026-00965-9) |  | thermoelectric |  | 2026-09-15 | [10.1038/s41578-026-00965-9](https://doi.org/10.1038/s41578-026-00965-9) |
 | [Exotic centrosymmetric phase of acentric urea under high pressure](http://arxiv.org/abs/2609.16545v1) |  | high pressure | DFT | 2026-09-15 | [link](http://arxiv.org/abs/2609.16545v1) |
 | [From First Principles to Machine Learning: Accelerating the Design and Discovery of Hybrid Organic–Inorganic Perovskites](https://doi.org/10.1039/d6dd00303f) |  | perovskite, photovoltaic | DFT | 2026-09-16 | [10.1039/d6dd00303f](https://doi.org/10.1039/d6dd00303f) |
+| [Rapid Parameter Estimation from Photoluminescence Decays of Halide Perovskite Thin Films](http://arxiv.org/abs/2609.18438v1) |  | perovskite, halide perovskite |  | 2026-09-16 | [link](http://arxiv.org/abs/2609.18438v1) |
 | [From Empirical Design To Autonomous Ecosystems: AI-Driven Advances, Challenges, And Future Directions In Precision Nanom](https://doi.org/10.5281/zenodo.21931873) |  |  |  | 2026-08-14 | [10.5281/zenodo.21931873](https://doi.org/10.5281/zenodo.21931873) |
 | [Electrostatic Phenomenology Benchmarks for Machine-Learned Interatomic Potentials in Electrochemistry: Beyond the Energy](http://arxiv.org/abs/2608.14153v1) |  |  | MLIP | 2026-08-14 | [link](http://arxiv.org/abs/2608.14153v1) |
 | [The Past and Future of AI Scientists](http://arxiv.org/abs/2608.14407v1) |  |  | MLIP | 2026-08-14 | [link](http://arxiv.org/abs/2608.14407v1) |
@@ -314,28 +316,40 @@ These need a human to open the paper and read the results table. Highest value f
 | [Multi4D: an end-to-end neural network for structural determination at complex material interfaces](http://arxiv.org/abs/2609.14348v1) |  |  |  | 2026-09-13 | [link](http://arxiv.org/abs/2609.14348v1) |
 | [AI-Driven Self-Healing Automation in Large-Scale Distributed Systems: Predictive Detection, Autonomous Recovery, and Rel](https://doi.org/10.32628/ijsrset261255) |  |  |  | 2026-09-14 | [10.32628/ijsrset261255](https://doi.org/10.32628/ijsrset261255) |
 | [Domain-Informed AI Multimodal Foundation Model for Materials Science](https://doi.org/10.26434/chemrxiv.15008789/v1) |  |  | MLIP | 2026-09-14 | [10.26434/chemrxiv.15008789/v1](https://doi.org/10.26434/chemrxiv.15008789/v1) |
+| [A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films](https://doi.org/10.48550/arxiv.2609.15246) |  |  | MD | 2026-09-14 | [10.48550/arxiv.2609.15246](https://doi.org/10.48550/arxiv.2609.15246) |
 | [FastNano Liquid: An Automated Platform for Small‐Angle X‐ray Scattering‐Based Materials Discovery](https://doi.org/10.1002/adem.71267) |  |  |  | 2026-09-14 | [10.1002/adem.71267](https://doi.org/10.1002/adem.71267) |
 | [Unveiling Urban Thermal Dynamics at the Micro-Neighborhood Scale: A Vision Foundation Model and UAV Approach](https://doi.org/10.2139/ssrn.7460674) |  |  | MLIP | 2026-09-14 | [10.2139/ssrn.7460674](https://doi.org/10.2139/ssrn.7460674) |
 | [Flexible Supercapacitors Based on Conducting and Hybrid Materials: Materials Design, Mechanical Tolerance, and Stability](https://doi.org/10.1016/j.synthmet.2026.118300) |  |  |  | 2026-09-14 | [10.1016/j.synthmet.2026.118300](https://doi.org/10.1016/j.synthmet.2026.118300) |
 | [Materials design for biocompatible electronics](https://www.nature.com/articles/s41563-026-02739-8) |  |  |  | 2026-09-14 | [10.1038/s41563-026-02739-8](https://doi.org/10.1038/s41563-026-02739-8) |
-| [A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films](http://arxiv.org/abs/2609.15246v1) |  |  | MD | 2026-09-14 | [link](http://arxiv.org/abs/2609.15246v1) |
 | [Multi-Task Graph Neural Network Predictions of Auger-Electron and X-ray Photoelectron Spectroscopy](http://arxiv.org/abs/2609.16339v1) |  |  |  | 2026-09-14 | [link](http://arxiv.org/abs/2609.16339v1) |
 | [Neural-Network Solutions to Real-Space Charge Density and Generalization](http://arxiv.org/abs/2609.14906v1) |  |  | DFT | 2026-09-14 | [link](http://arxiv.org/abs/2609.14906v1) |
+| [Machine-Learning-Assisted Inverse Design of Biopharmaceutical Formulations and Delivery Systems](https://doi.org/10.20944/preprints202609.1142.v1) |  |  |  | 2026-09-15 | [10.20944/preprints202609.1142.v1](https://doi.org/10.20944/preprints202609.1142.v1) |
+| [Generative AI in Science: Challenges and Opportunities](https://doi.org/10.1093/9780197852712.003.0208) |  |  |  | 2026-09-15 | [10.1093/9780197852712.003.0208](https://doi.org/10.1093/9780197852712.003.0208) |
+| [Symbolic Ensemble Learning Enables Discovery of Fast Accurate Physics-Based Interatomic Potentials](https://doi.org/10.48550/arxiv.2609.16526) |  |  | DFT, Monte Carlo, phonons | 2026-09-15 | [10.48550/arxiv.2609.16526](https://doi.org/10.48550/arxiv.2609.16526) |
+| [Artificial Intelligence in Materials Discovery: A Comprehensive Review of Methods, Applications, and Future Directions](https://doi.org/10.56201/wjimt.v10.no3.2026.pg9.25) |  |  |  | 2026-09-15 | [10.56201/wjimt.v10.no3.2026.pg9.25](https://doi.org/10.56201/wjimt.v10.no3.2026.pg9.25) |
 | [Leveraging Machine Learning Interatomic Potentials into Fitting Fast and Accurate AMBER-Compatible Precise Force Field](https://doi.org/10.26434/chemrxiv.15008812/v1) |  |  | MLIP | 2026-09-15 | [10.26434/chemrxiv.15008812/v1](https://doi.org/10.26434/chemrxiv.15008812/v1) |
 | [Prediction of vacancy formation energies in Ni-based superalloys by density functional theory calculations and machine l](https://www.nature.com/articles/s41524-026-02284-7) |  |  | DFT | 2026-09-15 | [10.1038/s41524-026-02284-7](https://doi.org/10.1038/s41524-026-02284-7) |
 | [QALPA: Property-guided diffusion modeling for efficient exploration of chemical spaces of flexible molecules](http://arxiv.org/abs/2609.16527v1) |  |  |  | 2026-09-15 | [link](http://arxiv.org/abs/2609.16527v1) |
-| [Symbolic Ensemble Learning Enables Discovery of Fast Accurate Physics-Based Interatomic Potentials](http://arxiv.org/abs/2609.16526v1) |  |  | DFT | 2026-09-15 | [link](http://arxiv.org/abs/2609.16526v1) |
+| [Machine learning kinetics from molecular dynamics data](http://arxiv.org/abs/2609.17736v1) |  |  | MD | 2026-09-15 | [link](http://arxiv.org/abs/2609.17736v1) |
 | [Scaling LLM Agents for Materials Design through Hierarchical Collective Reasoning](http://arxiv.org/abs/2609.16466v1) |  |  |  | 2026-09-15 | [link](http://arxiv.org/abs/2609.16466v1) |
+| [Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction](http://arxiv.org/abs/2609.17646v1) |  |  | DFT | 2026-09-15 | [link](http://arxiv.org/abs/2609.17646v1) |
 | [Deep learning in lung cancer imaging: A narrative review of CT, MRI, PET, and X-ray-based diagnostic models](https://doi.org/10.1556/1647.2026.00454) |  |  |  | 2026-09-16 | [10.1556/1647.2026.00454](https://doi.org/10.1556/1647.2026.00454) |
 | [A Systematic Approach to Batch Active Learning for Material Optimization](https://doi.org/10.26434/chemrxiv.15008883/v1) |  |  |  | 2026-09-16 | [10.26434/chemrxiv.15008883/v1](https://doi.org/10.26434/chemrxiv.15008883/v1) |
 | [TCA-Net: A Multi-Frequency Interactive Learning Network for Automatic Modulation Recognition](https://doi.org/10.1016/j.sigpro.2026.110914) |  |  |  | 2026-09-16 | [10.1016/j.sigpro.2026.110914](https://doi.org/10.1016/j.sigpro.2026.110914) |
 | [Uncertainty-guided multi-stage adaptive active learning framework for pareto optimization of blast-resistant fiber-metal](https://doi.org/10.1016/j.matdes.2026.117066) |  |  |  | 2026-09-16 | [10.1016/j.matdes.2026.117066](https://doi.org/10.1016/j.matdes.2026.117066) |
+| [Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents](http://arxiv.org/abs/2609.18598v1) |  |  |  | 2026-09-16 | [link](http://arxiv.org/abs/2609.18598v1) |
+| [Gauge-including neural-network quantum Monte Carlo for molecules in magnetic fields](http://arxiv.org/abs/2609.18826v1) |  |  | QMC, Monte Carlo | 2026-09-16 | [link](http://arxiv.org/abs/2609.18826v1) |
+| [TopoCrackSAM: A Topology-Aware, Parameter-Efficient Fine-Tuned Segment Anything Model for Multi-Class Pavement Distress ](https://doi.org/10.2139/ssrn.7465044) |  |  | MLIP | 2026-09-17 | [10.2139/ssrn.7465044](https://doi.org/10.2139/ssrn.7465044) |
+| [A Review of Atomistic Machine Learning for Grain Boundaries in Advanced Manufacturing: From Metastable Structures to Pro](https://doi.org/10.1007/s11837-026-08693-9) |  |  | MLIP | 2026-09-17 | [10.1007/s11837-026-08693-9](https://doi.org/10.1007/s11837-026-08693-9) |
+| [Agentic System for Autonomous Electromagnetic Research](https://doi.org/10.46620/ursigass26/bcuo4549) |  |  |  | 2026-09-17 | [10.46620/ursigass26/bcuo4549](https://doi.org/10.46620/ursigass26/bcuo4549) |
+| [Materials design and integration strategies for next-generation smart batteries](https://www.nature.com/articles/s41578-026-00957-9) |  |  |  | 2026-09-17 | [10.1038/s41578-026-00957-9](https://doi.org/10.1038/s41578-026-00957-9) |
+| [Physics-guided diffusion models for inverse design of disordered metamaterials](https://www.nature.com/articles/s41524-026-02328-y) |  |  |  | 2026-09-17 | [10.1038/s41524-026-02328-y](https://doi.org/10.1038/s41524-026-02328-y) |
 
 ## Summary of gaps
 
-- Studies with no identifiable model name: **264**
-- Studies with no identifiable calculation method: **129**
-- Studies with no numeric metric: **284**
+- Studies with no identifiable model name: **279**
+- Studies with no identifiable calculation method: **138**
+- Studies with no numeric metric: **298**
 - Benchmarked models missing at least one field: **15**
 
 The dominant cause is structural, not fixable by better parsing: abstracts rarely quote error values, and full text is usually paywalled.

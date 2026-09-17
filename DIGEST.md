@@ -6,6 +6,189 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-17
+
+20 new item(s). Top hit: **Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocr** (score 37, arXiv (Cornell University)).
+
+### Journal articles
+
+- **[Artificial Intelligence in Materials Discovery: A Comprehensive Review of Methods, Applications, and Future Directions](https://doi.org/10.56201/wjimt.v10.no3.2026.pg9.25)**
+  <br>*WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY | 2026-09-15 | doi:10.56201/wjimt.v10.no3.2026.pg9.25 | score 34*
+  <br>Imasuen Aishat Omoh
+
+  Artificial intelligence (AI) is transforming the landscape of materials discovery by addressing the limitations of traditional experimental and computational approaches. Conventional methods, while foundational, are often slow, resource-intensive, and constrained by the vastness of chemical space. AI techniques—including supervised learning for property prediction, unsupervised learning for pattern recognition, deep learning for complex data analysis, reinforcement learning for adaptive optimization, and generative models for inverse design— offer powerful alternatives that accelerate discovery and innovation. This review provides a comprehensive synthesis of current AI methodologies, their...
+
+  `matched: artificial intelligence, materials discovery, generative model, inverse design, deep learning`
+
+
+- **[Physics-guided diffusion models for inverse design of disordered metamaterials](https://www.nature.com/articles/s41524-026-02328-y)**
+  <br>*npj Computational Materials | 2026-09-17 | doi:10.1038/s41524-026-02328-y | score 23*
+
+  `matched: diffusion model, inverse design`
+
+
+- **[Amorphization-Mediated Si-I to Si-V Phase Transition and Reversible Amorphous Si-V Phase Memory in Silicon Nanoparticles](https://doi.org/10.1021/acs.nanolett.6c02592)**
+  <br>*Nano Letters | 2026-09-15 | doi:10.1021/acs.nanolett.6c02592 | score 22*
+  <br>Ziye Deng, Reza Namakian, Wei Gao
+
+  Abstract An experiment has shown that ∼10 nm Si nanoparticles undergo a Si–I (diamond cubic) to Si–V (simple hexagonal) phase transition under compression, in contrast to the Si–I to Si–II (tetragonal) transition observed in bulk silicon. However, the atomistic mechanism underlying this size-dependent transition pathway remains unclear. Here, we employ molecular dynamics simulations with a machine learning interatomic potential to reveal a stress triaxiality-driven, two-step Si–I to Si–V transition pathway in a spherical Si nanoparticle subjected to an idealized triaxial contact loading model. An intermediate amorphous phase nucleates at the nanoparticle surface and propagates inward around...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning`
+
+
+- **[ase-calculator-kit: a unified ASE calculator factory for MLIP and DFT calculators](https://doi.org/10.5281/zenodo.22761828)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-15 | doi:10.5281/zenodo.22761828 | score 21*
+  <br>Taishiro Wakamiya, Atsushi Ishikawa
+
+  A thin, unified ASE calculator factory for machine-learning interatomic potentials (SevenNet, CHGNet, MatterSim, NequIP OAM, UMA/fairchem, MACE) and external DFT calculators (VASP, Quantum ESPRESSO). Every call returns a standard ase.Calculator, so the rest of an ASE workflow stays unchanged.
+
+  `matched: interatomic potential, mattersim, dft`
+
+
+- **[Generative AI in Science: Challenges and Opportunities](https://doi.org/10.1093/9780197852712.003.0208)**
+  <br>*OpenAlex | 2026-09-15 | doi:10.1093/9780197852712.003.0208 | score 16*
+  <br>Anselm Küsters
+
+  Abstract This article surveys the impact of generative Artificial Intelligence (AI) on scientific practice across various domains, ranging from protein structure prediction to literature reviews. Generative AI refers to machine learning systems that can produce original outputs, such as text, images, molecular structures, and code, based on patterns learned from training data. Existing literature suggests significant improvements in discovery speed and quality, particularly in drug design and materials science, where generative models could potentially reduce research timelines from decades to months. However, these benefits are accompanied by severe limitations, including high hallucination...
+
+  `matched: artificial intelligence, generative model, machine learning, generative ai`
+
+
+- **[Materials design and integration strategies for next-generation smart batteries](https://www.nature.com/articles/s41578-026-00957-9)**
+  <br>*Nature Reviews Materials | 2026-09-17 | doi:10.1038/s41578-026-00957-9 | score 13*
+
+  `matched: materials design`
+
+
+- **[A Review of Atomistic Machine Learning for Grain Boundaries in Advanced Manufacturing: From Metastable Structures to Processing–Structure–Property Design](https://doi.org/10.1007/s11837-026-08693-9)**
+  <br>*JOM | 2026-09-17 | doi:10.1007/s11837-026-08693-9 | score 10*
+  <br>Qiu, Fan
+
+  Abstract Grain boundaries are central to the performance of polycrystalline materials, yet their structures and properties become especially difficult to predict in advanced manufacturing, where rapid thermal cycling, steep gradients, severe deformation, and chemical complexity drive interfaces far from equilibrium. Machine learning offers new opportunities to represent, predict, and ultimately design such complex grain-boundary states. This review surveys recent progress in atomistic machine learning for grain boundaries, with emphasis on manufacturing-relevant challenges. We first discuss digital representations of grain boundaries, including crystallographic descriptors, SOAP-based local...
+
+  `matched: machine learning, crystal`
+
+
+- **[Agentic System for Autonomous Electromagnetic Research](https://doi.org/10.46620/ursigass26/bcuo4549)**
+  <br>*Proceedings of the XXXVIth URSI General Assembly and Scientific Symposium – GASS 2026 | 2026-09-17 | doi:10.46620/ursigass26/bcuo4549 | score 9*
+  <br>Padilla, Lu, Malof
+
+  `matched: agentic, magnet`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocrystals: A CdSe Case Study](https://doi.org/10.48550/arxiv.2609.15299)**
+  <br>*arXiv (Cornell University) | 2026-09-14 | doi:10.48550/arxiv.2609.15299 | score 37*
+  <br>M. Usman, M. Suleymanova, Z. U. Abideen, M. Fernández-Pendás
+
+  Machine-learning interatomic potentials (MLIPs) enable nanosecond-scale atomistic simulations of inorganic semiconductor nanocrystals, but low errors on held-out configurations do not necessarily guarantee stable molecular dynamics. We benchmark five graph-neural-network MLIPs, SchNet, PaiNN, NequIP, Allegro and MACE, for dynamical stability in a chloride-passivated cadmium selenide nanocluster containing 149 atoms. The models were trained under harmonized conditions on 1,000 configurations and evaluated against 2,000 held-out configurations generated using density functional theory, considering force accuracy, computational efficiency, uncertainty and structural stability during 1 ns simula...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics, semiconductor, benchmark, inorganic`
+
+
+- **[Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction](http://arxiv.org/abs/2609.17646v1)**
+  <br>*arXiv | 2026-09-15 | score 27*
+  <br>Kishalay Das
+
+  This thesis develops robust and efficient AI frameworks for accelerating crystalline materials discovery by addressing both major stages of the materials-design pipeline: crystal property prediction and crystal structure generation. Motivated by the high computational cost of Density Functional Theory (DFT) and the limited availability of labeled materials data, the thesis explores graph representation learning, pretraining, multimodal learning, and generative modeling for scalable materials design. For property prediction, the thesis first introduces CrysXPP, which learns transferable crystal representations through unsupervised graph autoencoding, reducing dependence on large property-labe...
+
+  `matched: density functional theory, materials discovery, materials design, generative model, crystal, dft`
+
+
+- **[Symbolic Ensemble Learning Enables Discovery of Fast Accurate Physics-Based Interatomic Potentials](https://doi.org/10.48550/arxiv.2609.16526)**
+  <br>*arXiv (Cornell University) | 2026-09-15 | doi:10.48550/arxiv.2609.16526 | score 25*
+  <br>Bilvin Varughese, Aditya Koneru, Adil Muhammad, Troy D. Loeffler
+
+  Machine learning has transformed materials simulation by delivering force fields with ab initio accuracy, yet bridging the gap between high-dimensional regression and physical interpretability remains a grand challenge. Conventional analytical potentials offer transparency but often fail to capture the complexity of far-from-ground state regimes. Here, we introduce a hybrid symbolic-neural framework that unifies the interpretability of the Embedded Atom Method (EAM) with the adaptability of data-driven learning. Using Equation Learner Neural Networks (EqNNs) trained on density functional theory (DFT) data, we obtain interpretable models for aluminum through three distinct training protocols:...
+
+  `matched: density functional theory, interatomic potential, machine learning, neural network, dft`
+
+
+- **[A cylindrical sintering method for more realistic grain boundaries in nanocrystalline thin films](https://doi.org/10.48550/arxiv.2609.15246)**
+  <br>*arXiv (Cornell University) | 2026-09-14 | doi:10.48550/arxiv.2609.15246 | score 18*
+  <br>Ankit Yadav, Lucia Bajtošová, Miroslav Cieslar, Jan Fikar
+
+  Discrepancies between simulated and experimental mechanical properties in molecular dynamics simulations of nanocrystalline metals typically arise from the sample-construction method and the interatomic potential choice. We introduce a cylindrical sintering method to generate nanocrystalline aluminum thin-film samples with wider, more disordered grain boundaries than the usual Voronoi tessellation method, while maintaining deterministic control over grain size, shape, and orientation. Cylindrical sintered samples are benchmarked against hexagonal Voronoi references under identical conditions using both the classical Pascuet15 MEAM and tabGAP machine-learning potentials. Cylindrical sintered...
+
+  `matched: interatomic potential, molecular dynamics, benchmark, crystal`
+
+
+- **[Machine-Learning-Assisted Inverse Design of Biopharmaceutical Formulations and Delivery Systems](https://doi.org/10.20944/preprints202609.1142.v1)**
+  <br>*Preprints.org | 2026-09-15 | doi:10.20944/preprints202609.1142.v1 | score 16*
+  <br>Augustine Odibo
+
+  Pharmaceutical formulation and delivery-device development has historically proceeded by forward trial and error: a candidate material, formulation, or geometry is proposed, fabricated, and tested, and the cycle repeats until an acceptable product emerges. Machine learning enables an inverse alternative: given a target product profile — a desired release rate, gastric-residence time, transfection efficiency, or shape transformation — a model proposes the material composition or device geometry predicted to achieve it, collapsing what was previously dozens of design-build-test cycles into a handful. This review develops that inverse-design paradigm specifically for biopharmaceutical formulati...
+
+  `matched: machine learning, inverse design`
+
+
+- **[Polymer Informatics Atlas: Property-Specific Representations, Chemistry-Aware Generalization, and Reliability-Aware Machine Learning Across Five Polymer Properties](https://doi.org/10.26434/chemrxiv.15008969/v1)**
+  <br>*Crossref | 2026-09-17 | doi:10.26434/chemrxiv.15008969/v1 | score 14*
+  <br>Orji
+
+  Polymer-property machine learning is often evaluated as if representation choice, random-split accuracy, chemical extrapolation, transfer learning, uncertainty, and chemical interpretation were a single problem. Here, these questions are separated in a six-stage Polymer Informatics Atlas built from 7,973 unique RDKit-valid polymer repeat units in the NeurIPS Open Polymer Prediction 2025 dataset. Thirty-six interpretable composition/structure descriptors and radius-4, 2,048-dimensional count Morgan fingerprints were evaluated independently and as a hybrid representation for glass-transition temperature (Tg), fractional free volume (FFV), thermal conductivity (Tc), density, and radius of gyrat...
+
+  `matched: machine learning, polymer, dataset`
+
+
+- **[Machine learning kinetics from molecular dynamics data](http://arxiv.org/abs/2609.17736v1)**
+  <br>*arXiv | 2026-09-15 | score 13*
+  <br>Jonathan Weare, Aaron R. Dinner
+
+  Most molecular transitions occur on timescales far beyond direct molecular dynamics simulations. The committor, the probability that a configuration reaches a product state before a reactant state, is a central kinetic statistic, providing a mechanism-independent reaction coordinate and a foundation for transition path theory and the calculation of rates. This review surveys modern approaches for estimating the committor and related kinetic statistics from molecular simulations, with an emphasis on self-supervised methods that learn solutions of their defining dynamical equations rather than relying on labeled shooting data. We develop a common operator viewpoint connecting generator-based p...
+
+  `matched: molecular dynamics, machine learning`
+
+
+- **[Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents](http://arxiv.org/abs/2609.18598v1)**
+  <br>*arXiv | 2026-09-16 | score 12*
+  <br>Izumi Takahara, Kazunori Nishio, Akira Aiba, Shigeru Kobayashi et al.
+
+  Self-driving laboratories can explore synthesis conditions autonomously, but their decision-making layer is typically a black-box optimizer, and the output is a set of optimized samples, with the measurements reduced to predefined scalar objectives and the reasons behind success left unarticulated. Here we present SynAgent, a framework in which large language model agents operate an automated experimental system and maintain an explicit, revisable understanding of the synthesis process as the campaign's primary output. Starting with no predefined analysis pipeline, SynAgent adaptively generates analysis skills for newly acquired data and evolves this understanding through multimodal reasonin...
+
+  `matched: large language model, self-driving lab`
+
+
+- **[Rapid Parameter Estimation from Photoluminescence Decays of Halide Perovskite Thin Films](http://arxiv.org/abs/2609.18438v1)**
+  <br>*arXiv | 2026-09-16 | score 10*
+  <br>Robin Heumann, Toby Rudolph, Gaosheng Huang, Thomas Kirchartz et al.
+
+  Extracting material parameters from experimental data is often challenging if no invertible analytical equation can be used to link the data with the quantities of interest. If the link between experiment and material parameters is given mathematically by a set of non-linear differential equations, these must be solved repeatedly during the traditional fitting procedure, resulting in long optimization times and limited insight into parameter uncertainty. Here, we present a parameter estimation workflow specifically aimed at transient photoluminescence measurements performed on lead-halide perovskite films. This workflow is accelerated using artificial neural networks for rapid comparison bet...
+
+  `matched: neural network, perovskite`
+
+
+- **[Gauge-including neural-network quantum Monte Carlo for molecules in magnetic fields](http://arxiv.org/abs/2609.18826v1)**
+  <br>*arXiv | 2026-09-16 | score 8*
+  <br>Chengye Lü, Weizhong Fu, Xin-gao Gong, Hongjun Xiang
+
+  External magnetic fields, through their coupling to orbital and spin motion, complicate the correlated electronic states and impose coordinate-dependent phases on the wavefunction, thereby making accurate electronic structure calculations substantially more demanding. Recently, neural network-based quantum Monte Carlo (NNQMC) has emerged as a highly accurate approach to study nucleus-free systems in magnetic fields. For molecular systems, however, things get more complicated as the magnetic field would introduce a rapidly varying phase in the region far from the gauge origin. Here we introduce a gauge-including phase factor that acts directly on the full many-electron wavefunction and accoun...
+
+  `matched: neural network, magnet`
+
+
+- **[Navigating Sparse Singlet Fission Chemical Space: An Intelligent Generative-Predictive Paradigm](https://doi.org/10.48550/arxiv.2609.15136)**
+  <br>*arXiv (Cornell University) | 2026-09-14 | doi:10.48550/arxiv.2609.15136 | score 7*
+  <br>Longfei Lv, Li Fu, Si Zhou, Lingzhi Zhao
+
+  Singlet fission (SF) offers a promising route to surpass the Shockley-Queisser limit by converting a photoexcited singlet exciton into two triplet excitons, thereby enhancing photovoltaic energy conversion efficiency. However, realizing efficient SF process requires stringent energetic requirements among low-lying excited states that render SF molecules intrinsically rare within the vast chemical space. This extreme sparsity presents a grand challenge for molecular discovery. Due to low hit rates and trial-and-error computational waste on nonviable structures, conventional high-throughput virtual screening faces significant constraints, even when accelerated by machine learning models. Here,...
+
+  `matched: machine learning, photovoltaic`
+
+
+- **[TopoCrackSAM: A Topology-Aware, Parameter-Efficient Fine-Tuned Segment Anything Model for Multi-Class Pavement Distress Segmentation](https://doi.org/10.2139/ssrn.7465044)**
+  <br>*Crossref | 2026-09-17 | doi:10.2139/ssrn.7465044 | score 6*
+  <br>Alhassan
+
+  Timely and reliable detection of pavement distresses, particularly cracks, is central to network-level pavement management, yet manual visual inspection remains labor-intensive, subjective, and difficult to scale across large road networks. Recent progress in vision foundation models, most notably the Segment Anything Model (SAM), has enabled promising zero-and few-shot crack segmentation pipelines, but existing SAM-based adaptations largely optimize pixel-overlap accuracy while neglecting the topological correctness of the predicted crack skeleton, the multi-class nature of real-world pavement distress (cracks, potholes, patches, rutting, raveling), and the epistemic and aleatoric uncertain...
+
+  `matched: foundation model`
+
+
+---
+
+
 ## 2026-09-16
 
 19 new item(s). Top hit: **Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocr** (score 37, arXiv).
