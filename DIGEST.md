@@ -6,6 +6,221 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-18
+
+23 new item(s). Top hit: **Truncated automatic sparse differentiation for machine learning interatomic potentials** (score 40, arXiv).
+
+### Journal articles
+
+- **[Machine learning interatomic potential study of grain boundaries thermal conductance and tensile strength in hexagonal boron nitride](https://doi.org/10.1007/s44379-026-00097-5)**
+  <br>*Machine learning for computational science and engineering | 2026-09-17 | doi:10.1007/s44379-026-00097-5 | score 37*
+  <br>Bohayra Mortazavi, Ali Rajabpour, Timon Rabczuk, Xiaoying Zhuang
+
+  Abstract Chemical vapor deposition enables the scalable synthesis of large-area two-dimensional (2D) materials, but the resulting grain boundaries (GBs) can strongly influence their thermal and mechanical performance. In this work, we employ machine learning interatomic potentials (MLIPs) to systematically investigate thermal transport and tensile response across representative 5|7-based grain boundaries in monolayer hexagonal boron nitride (h-BN). The considered GBs span different defect densities and include both symmetric and asymmetric configurations containing B–B and N–N homonuclear bonds. The developed potential is first validated against first-principles calculations, showing excelle...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Structure of Molten FeCl2 and FeCl3](https://doi.org/10.1021/acsmaterialsau.6c00155)**
+  <br>*ACS Materials Au | 2026-09-17 | doi:10.1021/acsmaterialsau.6c00155 | score 25*
+  <br>Fakhrul H. Bhuiyan, Jicheng Guo, Christopher James Benmore, Avery Blockmon
+
+  Abstract Molten iron chlorides are central to emerging energy technologies including electrochemical iron production and redox flow batteries. Optimizing their electrochemical performance and transport properties requires an atomic-scale structural understanding, yet detailed data for molten FeCl2 and its differences from FeCl3 remain scarce. Here, we determined the structures of molten FeCl2 and FeCl3 using high-energy X-ray diffraction (HEXRD), empirical potential structure refinement (EPSR), and molecular dynamics (MD) simulations with machine learning interatomic potentials (MLIPs). HEXRD measurements provided structure factors and total radial distribution functions (RDFs), which were q...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, x-ray diffraction, machine learning`
+
+
+- **[Quantum-inspired inverse design of heterogeneous catalysts for hydrogen evolution reaction](https://www.nature.com/articles/s41524-026-02324-2)**
+  <br>*npj Computational Materials | 2026-09-18 | doi:10.1038/s41524-026-02324-2 | score 21*
+
+  `matched: inverse design, catalyst`
+
+
+- **[ase-calculator-kit: a unified ASE calculator factory for MLIP and DFT calculators](https://doi.org/10.5281/zenodo.22803954)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-17 | doi:10.5281/zenodo.22803954 | score 21*
+  <br>Taishiro Wakamiya, Atsushi Ishikawa
+
+  A thin, unified ASE calculator factory for machine-learning interatomic potentials (SevenNet, CHGNet, MatterSim, NequIP OAM, UMA/fairchem, MACE) and external DFT calculators (VASP, Quantum ESPRESSO). Every call returns a standard ase.Calculator, so the rest of an ASE workflow stays unchanged.
+
+  `matched: interatomic potential, mattersim, dft`
+
+
+- **[Tensor-Resolved Elastic Properties of Silicon Polymorphs from MACE-MP and JARVIS-DFT: A Benchmark Database for Mode-Dependent Elastic Softening](https://doi.org/10.5281/zenodo.22818433)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-17 | doi:10.5281/zenodo.22818433 | score 19*
+  <br>H. Aourag
+
+  Description This dataset accompanies the research article entitled “Mode-Dependent Elastic Softening of MACE-MP Across Silicon Polymorphs: A Tensor-Resolved Benchmark against DFT.” The database provides a source-resolved and structure-resolved benchmark of the elastic response of silicon polymorphs calculated using the MACE-MP universal machine-learning interatomic potential and compared against density-functional-theory (DFT) reference data from JARVIS. The dataset was designed to investigate whether the elastic errors of MACE-MP are uniformly distributed among deformation modes or preferentially associated with shear-related responses. Six silicon structures were initially considered and a...
+
+  `matched: interatomic potential, benchmark, dataset, dft`
+
+
+- **[Tensor-Resolved Elastic Properties of Silicon Polymorphs from MACE-MP and JARVIS-DFT: A Benchmark Database for Mode-Dependent Elastic Softening](https://doi.org/10.5281/zenodo.22818432)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-17 | doi:10.5281/zenodo.22818432 | score 19*
+  <br>H. Aourag
+
+  Description This dataset accompanies the research article entitled “Mode-Dependent Elastic Softening of MACE-MP Across Silicon Polymorphs: A Tensor-Resolved Benchmark against DFT.” The database provides a source-resolved and structure-resolved benchmark of the elastic response of silicon polymorphs calculated using the MACE-MP universal machine-learning interatomic potential and compared against density-functional-theory (DFT) reference data from JARVIS. The dataset was designed to investigate whether the elastic errors of MACE-MP are uniformly distributed among deformation modes or preferentially associated with shear-related responses. Six silicon structures were initially considered and a...
+
+  `matched: interatomic potential, benchmark, dataset, dft`
+
+
+- **[aiida-mlip](https://doi.org/10.5281/zenodo.22817570)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-17 | doi:10.5281/zenodo.22817570 | score 19*
+  <br>Federica Zanca, Jessica Gould, Elliott Kasoar, Muhammad Mohsin
+
+  Machine learning interatomic potentials AiiDA plugin
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Li15Si4 Revisited: Phase Separation Drives Crystallization in Lithiated Silicon](https://doi.org/10.5281/zenodo.22799173)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-16 | doi:10.5281/zenodo.22799173 | score 18*
+  <br>Boburmirzo Juraev, Olena Lenchuk, Jochen Rohrer, Karsten Albe
+
+  This deposit contains the fitted machine-learning interatomic potential, its DFT training dataset, representative simulation structures for the nominal Li3.75Si composition discussed in the main text, and the analysis script used to compute Si-Si radial distribution functions (RDFs).
+
+  `matched: interatomic potential, dataset, crystal, dft`
+
+
+- **[Li15Si4 Revisited: Phase Separation Drives Crystallization in Lithiated Silicon](https://doi.org/10.5281/zenodo.22799174)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-16 | doi:10.5281/zenodo.22799174 | score 18*
+  <br>Boburmirzo Juraev, Olena Lenchuk, Jochen Rohrer, Karsten Albe
+
+  This deposit contains the fitted machine-learning interatomic potential, its DFT training dataset, representative simulation structures for the nominal Li3.75Si composition discussed in the main text, and the analysis script used to compute Si-Si radial distribution functions (RDFs).
+
+  `matched: interatomic potential, dataset, crystal, dft`
+
+
+- **[Enhancing the Efficiency and Flexibility of AutoMeKin: Integrating ORCA and Machine-Learning Potentials](https://doi.org/10.5281/zenodo.21533988)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-17 | doi:10.5281/zenodo.21533988 | score 12*
+  <br>Omar Rodríguez López, Emilio Martı́nez-Núñez, Saulo A. Vázquez, Berta Fernández
+
+  This repository contains the reaction-network data and level-of-theory benchmark for five automated reaction discovery (AutoMeKin) studies: cBD-CCH, cBD-CN, cBD-OH, Tz2-HA, and MEA. For each system it includes:- LL (low-level) exploration data, obtained with the semiempirical PM7 method, used to automatically generate candidate reaction networks (minima, transition states and products).- HL (high-level) refined networks at four independent levels of theory: DFT (ωB97X-D3/def2-TZVP), two machine-learning interatomic potentials (UMA-M and MACE-OMol), and a Δ-ML-corrected composite method (r2SCAN-3c plus a machine-learned correction toward the CC level, labeled DELTA in this repository).- CC si...
+
+  `matched: interatomic potential, benchmark, dft`
+
+
+- **[Enhancing the Efficiency and Flexibility of AutoMeKin: Integrating ORCA and Machine-Learning Potentials](https://doi.org/10.5281/zenodo.22808731)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-17 | doi:10.5281/zenodo.22808731 | score 12*
+  <br>Omar Rodríguez López, Emilio Martı́nez-Núñez, Saulo A. Vázquez, Berta Fernández
+
+  This repository contains the reaction-network data and level-of-theory benchmark for five automated reaction discovery (AutoMeKin) studies: cBD-CCH, cBD-CN, cBD-OH, Tz2-HA, and MEA. For each system it includes:- LL (low-level) exploration data, obtained with the semiempirical PM7 method, used to automatically generate candidate reaction networks (minima, transition states and products).- HL (high-level) refined networks at four independent levels of theory: DFT (ωB97X-D3/def2-TZVP), two machine-learning interatomic potentials (UMA-M and MACE-OMol), and a Δ-ML-corrected composite method (r2SCAN-3c plus a machine-learned correction toward the CC level, labeled DELTA in this repository).- CC si...
+
+  `matched: interatomic potential, benchmark, dft`
+
+
+- **[A Systems-Approach Framework for Fatigue-Aware Interactive Evolutionary Design Adaptive Human-AI Evaluation and Generative Co-Evolution](https://doi.org/10.4018/ijitsa.422315)**
+  <br>*International Journal of Information Technologies and Systems Approach | 2026-09-18 | doi:10.4018/ijitsa.422315 | score 8*
+  <br>Wu, Liang, Nutthan, Huang et al.
+
+  This study presents a fatigue-aware interactive evolutionary art design framework conceptualized as a sociotechnical information system in which users, algorithms, evaluation signals, and generative models jointly influence design outcomes. Existing approaches commonly assume stable user evaluation, neglecting fatigue-induced variations in cognitive load that undermine evaluation reliability and system performance. To address this limitation, this paper proposes an adaptive interactive genetic algorithm integrating a dynamically estimated fatigue index. User behavioral patterns and lightweight physiological signals are modeled via a temporal neural network to capture fatigue evolution. The r...
+
+  `matched: generative model, neural network`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Truncated automatic sparse differentiation for machine learning interatomic potentials](http://arxiv.org/abs/2609.20510v1)**
+  <br>*arXiv | 2026-09-17 | score 40*
+  <br>Marcel F. Langer, Adrian Hill, Michele Ceriotti
+
+  Machine learning interatomic potentials (MLIPs) learn the mapping from atomic positions to potential energy. The forces, the negative gradient of this energy, drive molecular dynamics and are readily obtained using automatic differentiation. Higher-order derivatives, most notably the Hessian, describe collective motion and allow the direct prediction of experimental observables, but are considered computationally inaccessible for large systems. We suggest a solution: in physical systems, interactions decay with distance, and most MLIPs build on this locality through message passing up to a finite receptive field. This implies both sparsity of higher-order derivatives and their decay with dis...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning`
+
+
+- **[ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy](http://arxiv.org/abs/2609.19487v1)**
+  <br>*arXiv | 2026-09-16 | score 35*
+  <br>Jaehyung Lee, Charles Rhys Campbell, Akshaya Ajith, Sergei V. Kalinin et al.
+
+  Graph neural networks are central to materials property prediction and machine-learning interatomic potentials, yet their reliance on specialized graph libraries hampers portability and reproducibility, and property and force-field models have historically required separate graph pipelines. We present ALIGNN 2.0, a dependency-free, pure-PyTorch reimplementation of the Atomistic Line Graph Neural Network, with the line graph and its batching built from scratch, running on current-generation accelerators and unifying scalar, spectral, tensorial, per-atom, and force-field prediction behind a single graph, a combination that to our knowledge no existing framework provides. Comparing radius and k...
+
+  `matched: interatomic potential, graph neural network, inverse design, neural network`
+
+
+- **[Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction](https://doi.org/10.48550/arxiv.2609.17646)**
+  <br>*arXiv (Cornell University) | 2026-09-15 | doi:10.48550/arxiv.2609.17646 | score 27*
+  <br>Kishalay Das
+
+  This thesis develops robust and efficient AI frameworks for accelerating crystalline materials discovery by addressing both major stages of the materials-design pipeline: crystal property prediction and crystal structure generation. Motivated by the high computational cost of Density Functional Theory (DFT) and the limited availability of labeled materials data, the thesis explores graph representation learning, pretraining, multimodal learning, and generative modeling for scalable materials design. For property prediction, the thesis first introduces CrysXPP, which learns transferable crystal representations through unsupervised graph autoencoding, reducing dependence on large property-labe...
+
+  `matched: density functional theory, materials discovery, generative model, materials design, crystal, dft`
+
+
+- **[Artificial Intelligence-Assisted Dopant Discovery toward Air-Stable Sulfide Solid-State Electrolytes](https://doi.org/10.26434/chemrxiv.15009059/v1)**
+  <br>*Crossref | 2026-09-18 | doi:10.26434/chemrxiv.15009059/v1 | score 22*
+  <br>Chen, Hong, Zhang
+
+  Sulfide solid-state electrolytes (SSEs) are highly promising candidates for all-solid-state batteries (ASSBs), but the severe degradation triggered by moisture exposure remains a major obstacle to their large-scale application. Despite compositional doping could effectively enhance the air stability, there is currently no relevant screening strategy to support the efficient exploration of dopants. Herein, we develop an artificial intelligence-assisted dopant screening platform for air-stable sulfide SSEs (LPSC). Retrieval-augmented system combined with large language model could effectively prescreen the dopants that enhance both the ionic conductivity, and interfacial compatibility of the e...
+
+  `matched: artificial intelligence, solid-state electrolyte, large language model, electrolyte`
+
+
+- **[Load balancing for adaptive-precision interatomic potentials in materials science](https://doi.org/10.48550/arxiv.2609.18604)**
+  <br>*arXiv (Cornell University) | 2026-09-16 | doi:10.48550/arxiv.2609.18604 | score 19*
+  <br>David Immel, Godehard Sutmann
+
+  For atomistic molecular dynamics simulations, we consider a recently developed hybrid coupling between the highly accurate machine learning (ML)-based atomic cluster expansion (ACE) interaction model and a less precise (but about 1-2 orders faster) EAM potential, in order to leverage the performance bottleneck of pure ML potentials in a parallel computing environment. This spatial-temporal adaptivity has the potential for a speedup of more than an order of magnitude, that would be lost without a dynamic load-balancing strategy that becomes critical due to fluctuating potential contributions. We compare the load-balancing strategies of LAMMPS with load-balancing methods provided by the librar...
+
+  `matched: interatomic potential, molecular dynamics, machine learning`
+
+
+- **[Machine Learning for High-Entropy Catalysts: Methods and Applications](http://arxiv.org/abs/2609.19837v1)**
+  <br>*arXiv | 2026-09-17 | score 17*
+  <br>Hao Chen, Zongrui Pei, Xianglin Liu
+
+  High-entropy alloys (HEAs) exhibit exceptional catalytic performance in various reactions due to their high configurational entropy, synergistic elemental effects, tunable electronic structures, and excellent structural stability. However, the vast compositional space of HEA catalysts makes traditional experimental and theoretical design costly and inefficient. In recent years, data-driven machine learning (ML) methods have emerged as powerful tools for studying HEAs in catalysis. Through predictive models and ML surrogates, researchers can decipher the intricate composition-structure-performance relationships of these materials. In addition, by leveraging large language models (LLMs) for kn...
+
+  `matched: large language model, machine learning, catalyst, alloy`
+
+
+- **[European Enterprise Foundation Model Law](https://doi.org/10.2139/ssrn.7482201)**
+  <br>*Crossref | 2026-09-18 | doi:10.2139/ssrn.7482201 | score 10*
+  <br>Thomsen, Sanders, Ørberg
+
+  <div> Some of Europe’s most successful companies – including Bosch, Inter IKEA, Novo Nordisk, Rolex and La Caixa – share a distinctive ownership model. They are controlled by enterprise foundations: non-profit entities that own and govern commercial businesses while pursuing long-term social, philanthropic or public-interest objectives. These foundations have helped anchor European champions in stable ownership, patient capital and responsible governance. Yet, despite their economic and societal importance, enterprise foundations remain poorly understood and unevenly regulated across Europe. </div> <div> <br> </div> <div> Most national foundation laws were designed for traditional grant-maki...
+
+  `matched: foundation model`
+
+
+- **[Closed-Loop Autonomous Laboratories: SiLA 2 gRPC Orchestration, Self-Optimizing Bayesian DoE, and Zero-Human-in-the-Loop Synthesis Pipelines](https://doi.org/10.5281/zenodo.22818736)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-17 | doi:10.5281/zenodo.22818736 | score 9*
+  <br>Maksym Babych
+
+  Modern pharmaceutical and materials discovery workflows are bottlenecked by manual device handoffs, ad-hoc experiment scheduling, and iterative human review of intermediate results. This paper presents a fully autonomous closed-loop laboratory architecture built on the SiLA 2 (Standardization in Lab Automation) gRPC protocol, self-optimizing Bayesian Design of Experiments (DoE), and a zero-human-in-the-loop (ZHIL) synthesis pipeline. By unifying heterogeneous laboratory instruments — liquid handlers, plate readers, chromatography systems, and synthesis reactors — under a single SiLA 2 gRPC broker, we achieve device command latency p99 < 120 ms (73% lower than equivalent REST implementations)...
+
+  `matched: materials discovery`
+
+
+- **[Closed-Loop Autonomous Laboratories: SiLA 2 gRPC Orchestration, Self-Optimizing Bayesian DoE, and Zero-Human-in-the-Loop Synthesis Pipelines](https://doi.org/10.5281/zenodo.22818737)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-17 | doi:10.5281/zenodo.22818737 | score 9*
+  <br>Maksym Babych
+
+  Modern pharmaceutical and materials discovery workflows are bottlenecked by manual device handoffs, ad-hoc experiment scheduling, and iterative human review of intermediate results. This paper presents a fully autonomous closed-loop laboratory architecture built on the SiLA 2 (Standardization in Lab Automation) gRPC protocol, self-optimizing Bayesian Design of Experiments (DoE), and a zero-human-in-the-loop (ZHIL) synthesis pipeline. By unifying heterogeneous laboratory instruments — liquid handlers, plate readers, chromatography systems, and synthesis reactors — under a single SiLA 2 gRPC broker, we achieve device command latency p99 < 120 ms (73% lower than equivalent REST implementations)...
+
+  `matched: materials discovery`
+
+
+- **[Uni-Macro-FRPN: Full-Resolution and Cross-Scale Learning for Polymers](https://doi.org/10.26434/chemrxiv.15009049/v1)**
+  <br>*Crossref | 2026-09-18 | doi:10.26434/chemrxiv.15009049/v1 | score 8*
+  <br>Wu, Shan, Zhang
+
+  Polymer properties are governed by interactions across scales. Existing polymer models commonly retain either monomer chemistry without the polymer graph, or the polymer graph with simplified monomer chemistry. Here, we present Uni-Macro-FRPN (FRPN), a Full-Resolution Polymer Network unifying atom-level and within-monomer structural encoding with an explicit monomer-instance graph of a polymer chain. Its two Transformers jointly learn atom-informed monomer semantics, sequence order, and chain topology. Using BigSMILES to construct monomer semantics and polymer graphs, FRPN achieves 86.4% accuracy and 90.6% ROC–AUC on Block Copolymer Database (BCDB) lamellar-versus-non-lamellar classification...
+
+  `matched: transformer, polymer`
+
+
+- **[Machine-Learned Dynamical Representations for Accelerated RiteWeight Convergence](http://arxiv.org/abs/2609.19388v1)**
+  <br>*arXiv | 2026-09-16 | score 8*
+  <br>Sagar Kania
+
+  The increasing use of generative models has made ensembles of short molecular dynamics trajectories increasingly common, creating a growing need for methods that can recover physically meaningful steady-state populations and kinetics from improperly weighted conformational ensembles. Randomized Iterative Trajectory Reweighting (RiteWeight) addresses this problem through repeated random clustering and iterative reweighting, without requiring the fixed Markovian discretization used in conventional Markov state models (MSM). However, the choice of reduced feature space in which RiteWeight performs random clustering has not been systematically investigated. Here, we compare two machine-learned r...
+
+  `matched: molecular dynamics, generative model`
+
+
+---
+
+
 ## 2026-09-17
 
 20 new item(s). Top hit: **Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocr** (score 37, arXiv (Cornell University)).
