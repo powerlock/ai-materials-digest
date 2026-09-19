@@ -6,6 +6,107 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-19
+
+10 new item(s). Top hit: **Truncated automatic sparse differentiation for machine learning interatomic potentials** (score 40, arXiv (Cornell University)).
+
+### Journal articles
+
+- **[CoTAR: Topology and Atomic State Reconstruction in Condensed Phases](https://doi.org/10.1021/acs.jcim.6c02184)**
+  <br>*Journal of Chemical Information and Modeling | 2026-09-18 | doi:10.1021/acs.jcim.6c02184 | score 32*
+  <br>Hodaka Mori, Yu Miyazaki, Takechika Kikkawa
+
+  Abstract Universal machine learning interatomic potentials (uMLIPs) enable performing condensed-phase molecular dynamics (MD) simulations with accuracy approaching that of first-principles; however, their lack of explicit molecular topology limits bond-aware analysis and reconnection to classical force fields. This study presents CoTAR, a hybrid graph neural network (GNN)–hidden Markov model (HMM) framework that reconstructs bond connectivity and order, formal charges, and unpaired electrons from atomic species and coordinates by combining learned local environments, chemical constraints, and temporal smoothing. After joint fine-tuning with 20 labeled snapshots per benchmark system, CoTAR ac...
+
+  `matched: machine learning interatomic potential, interatomic potential, graph neural network, molecular dynamics, machine learning, neural network`
+
+
+- **[High-quality, high-information datasets for universal atomistic machine learning](https://doi.org/10.24435/materialscloud:9g-68)**
+  <br>*NCCR MARVEL | 2026-09-18 | doi:10.24435/materialscloud:9g-68 | score 14*
+  <br>Cesare Malosso, Filippo Bigi, Paolo Pegolo, Joseph W. Abbott
+
+  The quality, consistency, and information content of training data is often what determines the practical value of machine-learning models for atomistic simulations. Yet, many widely used electronic-structure databases are assembled having materials screening as primary goal rather than robust force-field learning, are limited in their scope to a specific class of chemical compounds, and/or employ inconsistent DFT functionals and settings. Here we introduce MAD-1.6, a highly curated dataset designed explicitly for training atomistic models that are broadly applicable across the periodic table at high levels of theory. MAD-1.6 extends the MAD dataset with targeted enrichment strategies that i...
+
+  `matched: machine learning, dataset, dft`
+
+
+- **[Mirror-Symmetry Breaking Induced Tunable Topological Phononic Thermal Transport in Monolayer MgO via Electrophononic Effect](https://doi.org/10.60893/figshare.apr.c.8672961)**
+  <br>*AIP Publishing | 2026-09-18 | doi:10.60893/figshare.apr.c.8672961 | score 13*
+  <br>Lijun Pan, Shuyue Shan, Jie Chen, Sebastian Volz
+
+  Tuning thermal transport in micro/nanomaterials is crucial for efficient thermal management in various electronic and power devices. Although topological phonons present unprecedented opportunities for controlling phononic properties, their influence on phononic thermal transport remains poorly understood, which limits their practical applications. In this work, we explore the manipulation of phonon topology and phononic thermal conductivity via external electric field in monolayer MgO, using Boltzmann transport equations combined with machine-learning interatomic potential. Our calculations reveal that an out-of-plane electric field breaks the mirror symmetry of monolayer MgO, thereby relea...
+
+  `matched: interatomic potential, phonon`
+
+
+- **[Synthetic-data-trained deep learning enables quantitative terahertz metrology in pharmaceutical coatings](https://doi.org/10.1038/s41598-026-71052-w)**
+  <br>*Scientific Reports | 2026-09-19 | doi:10.1038/s41598-026-71052-w | score 9*
+  <br>Shen, Lin, He, Evans et al.
+
+  Abstract Terahertz time-domain imaging provides non-destructive access to buried layers in coated materials, yet quantitative inversion of reflection-mode measurements remains challenging because of ill-posed nature of waveform interpretation and the scarcity of experimentally labelled training data. Here we report a physics-informed deep learning framework trained exclusively on synthetic terahertz waveforms generated from an electromagnetic multilayer model. By incorporating domain randomisation to emulate realistic experimental variability together with a physics-guided parameterisation of coating properties, the model transfers directly from simulation to experimental reflection-mode mea...
+
+  `matched: deep learning, magnet`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Truncated automatic sparse differentiation for machine learning interatomic potentials](https://doi.org/10.48550/arxiv.2609.20510)**
+  <br>*arXiv (Cornell University) | 2026-09-17 | doi:10.48550/arxiv.2609.20510 | score 40*
+  <br>Marcel F. Langer, Adrian Hill, Michele Ceriotti
+
+  Machine learning interatomic potentials (MLIPs) learn the mapping from atomic positions to potential energy. The forces, the negative gradient of this energy, drive molecular dynamics and are readily obtained using automatic differentiation. Higher-order derivatives, most notably the Hessian, describe collective motion and allow the direct prediction of experimental observables, but are considered computationally inaccessible for large systems. We suggest a solution: in physical systems, interactions decay with distance, and most MLIPs build on this locality through message passing up to a finite receptive field. This implies both sparsity of higher-order derivatives and their decay with dis...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning`
+
+
+- **[Truncated automatic sparse differentiation for machine learning interatomic potentials](https://doi.org/10.5281/zenodo.22813524)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-17 | doi:10.5281/zenodo.22813524 | score 37*
+  <br>Marcel F. Langer, Adrian Hill, Michele Ceriotti
+
+  This is the data archive for the preprint "Truncated automatic sparse differentiation for machine learning interatomic potentials", containing code, data, and analysis. See the README.md within for full information. The archive is also hosted at github.com/sirmarcel/tasd4mlip-archive.
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Truncated automatic sparse differentiation for machine learning interatomic potentials](https://doi.org/10.5281/zenodo.22813523)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-17 | doi:10.5281/zenodo.22813523 | score 37*
+  <br>Marcel F. Langer, Adrian Hill, Michele Ceriotti
+
+  This is the data archive for the preprint "Truncated automatic sparse differentiation for machine learning interatomic potentials", containing code, data, and analysis. See the README.md within for full information. The archive is also hosted at github.com/sirmarcel/tasd4mlip-archive.
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy](https://doi.org/10.48550/arxiv.2609.19487)**
+  <br>*arXiv (Cornell University) | 2026-09-16 | doi:10.48550/arxiv.2609.19487 | score 35*
+  <br>Jaehyung Lee, Charles Rhys Campbell, Akshaya Ajith, Sergei V. Kalinin
+
+  Graph neural networks are central to materials property prediction and machine-learning interatomic potentials, yet their reliance on specialized graph libraries hampers portability and reproducibility, and property and force-field models have historically required separate graph pipelines. We present ALIGNN 2.0, a dependency-free, pure-PyTorch reimplementation of the Atomistic Line Graph Neural Network, with the line graph and its batching built from scratch, running on current-generation accelerators and unifying scalar, spectral, tensorial, per-atom, and force-field prediction behind a single graph, a combination that to our knowledge no existing framework provides. Comparing radius and k...
+
+  `matched: interatomic potential, graph neural network, inverse design, neural network`
+
+
+- **[Topology-Guided End-to-End Machine Learning for Rapid Spectrum-Dependent Photovoltaic Optimization](https://doi.org/10.2139/ssrn.7488401)**
+  <br>*Crossref | 2026-09-19 | doi:10.2139/ssrn.7488401 | score 19*
+  <br>Tang, Jin, Wang
+
+  Photovoltaic (PV) technology powers a broad spectrum of applications, from utility-scale solar farms to indoor energy harvesting and thermophotovoltaic (TPV) waste heat recovery, each requiring tailored device optimization under distinct conditions. However, optimizing multi-dimensional coupled PV devices remains prohibitively slow: traditional workflows rely on iterative physical simulations, and even artificial intelligence (AI) surrogate models require thousands of iterative searches to identify optimal parameters. This fundamental speed bottleneck significantly delays the translation of new materials and concepts into practical devices. To address this, we propose a unified end-to-end AI...
+
+  `matched: artificial intelligence, machine learning, surrogate model, photovoltaic`
+
+
+- **[A Molecular Generation–Validation Workflow Combining Reversible Junction Tree Reinforcement Learning and Semi-empirical Quantum Chemistry: A Case Study on Molecular Solar Thermal Fuels](https://doi.org/10.26434/chemrxiv.15009066/v1)**
+  <br>*Crossref | 2026-09-18 | doi:10.26434/chemrxiv.15009066/v1 | score 11*
+  <br>Zhu, Lingg, Szabo, Kowalczyk et al.
+
+  Molecular generative models can rapidly explore chemical space, but conventional metrics alone do not establish whether proposed structures possess application-relevant physical properties. To address this limitation, we developed an integrated generationvalidation framework coupling Reversible Junction Tree Reinforcement Learning (RJT- RL) with automated density-functional tight-binding (DFTB) evaluation. Azobenzenebased molecular solar thermal fuels served as a representative case study. RJT-RL was guided by maximum Tanimoto similarity to a reference dataset, while reference and generated molecules were evaluated under identical DFTB calculation conditions to obtain the energy difference b...
+
+  `matched: generative model, dataset, dft`
+
+
+---
+
+
 ## 2026-09-18
 
 23 new item(s). Top hit: **Truncated automatic sparse differentiation for machine learning interatomic potentials** (score 40, arXiv).
