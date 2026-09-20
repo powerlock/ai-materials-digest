@@ -6,6 +6,90 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-20
+
+9 new item(s). Top hit: **Learning through Graph Neural Networks: Efficient Surrogate Modeling for Preliminary Building Design** (score 24, Crossref).
+
+### Journal articles
+
+- **[Large-Scale Formation Energy Prediction in One Million Crystalline Materials Using Deep Learning and Principal Component Analysis](https://doi.org/10.32604/cmc.2026.089520)**
+  <br>*Computers, Materials &amp; Continua | 2026-09-20 | doi:10.32604/cmc.2026.089520 | score 19*
+  <br>Imran, Ferzund, Butt, Noman et al.
+
+  `matched: formation energy, deep learning, crystal`
+
+
+- **[Explainable artificial intelligence for deep learning-based delamination detection in Carbon Fiber Reinforced Polymer composites](https://doi.org/10.1016/j.engappai.2026.116272)**
+  <br>*Engineering Applications of Artificial Intelligence | 2026-09-20 | doi:10.1016/j.engappai.2026.116272 | score 15*
+  <br>Monson, Markert, Dotto, Rodrigues et al.
+
+  `matched: artificial intelligence, deep learning, polymer`
+
+
+- **[A review of machine learning in polymer composite materials: Advances, challenges, and future perspectives](https://doi.org/10.1016/j.rineng.2026.113068)**
+  <br>*Results in Engineering | 2026-09-17 | doi:10.1016/j.rineng.2026.113068 | score 14*
+  <br>Albert Seldon P, Mohan Kubendiran, P. Edwin Sudhagar
+
+  In the realm of polymer composite materials, Machine Learning (ML) has proven itself to be a challenging, facilitating the swift design of materials, precise prediction of material properties, optimization of manufacturing processes, and intelligent failure analysis. Traditional experimental and numerical methods to develop polymer composites can be costly, time consuming and unsuitable for dealing with complex nonlinear interaction between material composition, fiber orientation, processing parameters, and environmental conditions. Over the last few years, ML methods like supervised learning and unsupervised learning, reinforcement learning, deep learning and hybrid physics-informed models...
+
+  `matched: machine learning, deep learning, polymer`
+
+
+- **[Machine learning based prediction of luminescence properties of ion-doped Cs2ZrCl6 crystalline powders](https://doi.org/10.55092/aimat20260010)**
+  <br>*AI &amp; Materials | 2026-09-20 | doi:10.55092/aimat20260010 | score 13*
+  <br>Wang, Wang, Wu, Wang et al.
+
+  `matched: machine learning, crystal`
+
+
+- **[VPMDK: VASP-Protocol Machine-learning Dynamics Kit](https://doi.org/10.5281/zenodo.20236617)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-19 | doi:10.5281/zenodo.20236617 | score 10*
+  <br>Kagami Aso
+
+  VPMDK (VASP-Protocol Machine-learning Dynamics Kit) is an ASE-oriented layer for machine-learning interatomic potentials. It provides a stable Python API for calculator construction, single-point calculations, relaxations, molecular dynamics, and charge-density prediction, plus a VASP-compatible CLI that reads POSCAR, INCAR, and BCAR inputs and writes VASP-like outputs.
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[VPMDK: VASP-Protocol Machine-learning Dynamics Kit](https://doi.org/10.5281/zenodo.22844538)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-19 | doi:10.5281/zenodo.22844538 | score 10*
+  <br>Kagami Aso
+
+  VPMDK (VASP-Protocol Machine-learning Dynamics Kit) is an ASE-oriented layer for machine-learning interatomic potentials. It provides a stable Python API for calculator construction, single-point calculations, relaxations, molecular dynamics, and charge-density prediction, plus a VASP-compatible CLI that reads POSCAR, INCAR, and BCAR inputs and writes VASP-like outputs.
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[De-biasing Skeleton-Based Action Recognition with Convex Hull Adaptive Shift](https://doi.org/10.1007/s11263-026-03037-1)**
+  <br>*International Journal of Computer Vision | 2026-09-20 | doi:10.1007/s11263-026-03037-1 | score 9*
+  <br>Liu, Wen, Zhang, Wu et al.
+
+  `matched: convex hull`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Learning through Graph Neural Networks: Efficient Surrogate Modeling for Preliminary Building Design](https://doi.org/10.2139/ssrn.7492881)**
+  <br>*Crossref | 2026-09-20 | doi:10.2139/ssrn.7492881 | score 24*
+  <br>Kuo, D’Acunto, Smith
+
+  Although early-stage structural designs can be improved with rapid feedback to compare multiple design alternatives before detailed analyses, repeated early-stage finite element analyses remain computationally expensive. This study proposes a structure-aware graph neural network (GNN) surrogate model to predict the structural responses of multi-story frame buildings under code-based static-load combinations. Frames are represented as structural graphs, where joints and members are encoded as nodes and edges with geometric, topological, loading, boundary, and member-property information. To align message passing with structural behavior, the model incorporates adaptive propagation depth to ac...
+
+  `matched: graph neural network, surrogate model, neural network`
+
+
+- **[Task-restricted learning of generic structural cues for transferable segmentation in image-based analysis of construction aggregates](https://doi.org/10.2139/ssrn.7492880)**
+  <br>*Crossref | 2026-09-20 | doi:10.2139/ssrn.7492880 | score 6*
+  <br>Vazirzanjani, Heidari
+
+  Aggregate gradation is a fundamental engineering property, yet conventional sieve analysis is labor-intensive and sample-based, motivating image-based alternatives. Because segmentation is central to many such workflows, aggregate appearance variability challenges the transferability of mask-oriented learning, increasing reliance on domain-specific supervision, model capacity, or prompt-dependent foundation models. For geometry-driven gradation, however, particle geometry rather than material identity is the primary target, while color, texture, illumination, and surface appearance can introduce unnecessary domain dependencies. We therefore restrict learning to class-agnostic structural-boun...
+
+  `matched: foundation model`
+
+
+---
+
+
 ## 2026-09-19
 
 10 new item(s). Top hit: **Truncated automatic sparse differentiation for machine learning interatomic potentials** (score 40, arXiv (Cornell University)).
