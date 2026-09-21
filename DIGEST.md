@@ -6,6 +6,119 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-21
+
+12 new item(s). Top hit: **OMC-bench and AtomBit-OMC: task-aligned benchmarks and robust, interpretable machine-learned interatomic poten** (score 41, npj Computational Materials).
+
+### Journal articles
+
+- **[OMC-bench and AtomBit-OMC: task-aligned benchmarks and robust, interpretable machine-learned interatomic potentials for organic molecular crystals](https://doi.org/10.1038/s41524-026-02315-3)**
+  <br>*npj Computational Materials | 2026-09-21 | doi:10.1038/s41524-026-02315-3 | score 41*
+  <br>Lu, Zhao, Hu, Chen et al.
+
+  `matched: machine-learned interatomic potential, interatomic potential, benchmark, crystal`
+
+
+- **[Graph Neural Network-Driven Adaptive MARL with Meta-Learning for Resilient Dynamic Optimization of Sports Building Facilities](https://doi.org/10.3390/buildings16183720)**
+  <br>*Buildings | 2026-09-21 | doi:10.3390/buildings16183720 | score 17*
+  <br>Gu, Zhao, Chen
+
+  We propose a decentralized multi-agent reinforcement learning (MARL) framework enhanced with graph neural networks (GNNs) for dynamic scheduling optimization in sports buildings, addressing the limitations of conventional centralized approaches. The system models each facility as an autonomous agent that learns adaptive policies through proximal policy optimization, where local observations include real-time occupancy, energy consumption, and user preferences. Global coordination is achieved via a GNN-based communication protocol, which captures spatial–temporal dependencies between facilities by treating the building as a graph with nodes representing facilities and edges encoding connectiv...
+
+  `matched: graph neural network, neural network`
+
+
+- **[Decoding Catalyst Descriptors Governing Higher Hydrocarbon Formation in CO₂ Hydrogenation Using Explainable Machine Learning](https://doi.org/10.1016/j.jece.2026.125069)**
+  <br>*Journal of Environmental Chemical Engineering | 2026-09-21 | doi:10.1016/j.jece.2026.125069 | score 13*
+  <br>Dharmesh, Karri, Putta, Tanneru et al.
+
+  `matched: machine learning, catalyst`
+
+
+- **[Associating panting levels of broiler breeders in commercial battery cage barns with environmental and age factors via machine learning modeling](https://doi.org/10.1016/j.psj.2026.107819)**
+  <br>*Poultry Science | 2026-09-21 | doi:10.1016/j.psj.2026.107819 | score 13*
+  <br>Liu, Li, Kong, Xi et al.
+
+  `matched: machine learning, battery`
+
+
+- **[Implementation of Deep Learning-Based Interactive Learning Media in Strengthening the Graduate Profile Dimension (DPL) in Early Childhood Education (PAUD)](https://doi.org/10.70610/edujavare.2072)**
+  <br>*EDUJAVARE: International Journal of Educational Research | 2026-09-21 | doi:10.70610/edujavare.2072 | score 13*
+  <br>Muntomimah, Asmah
+
+  This study aims to analyze the implementation of interactive learning media based on deep learning in strengthening the graduate profile dimension in early childhood education (PAUD) in KKG Cluster 2, Pakis District, Malang Regency. This study uses a descriptive qualitative approach with data collection techniques in the form of observation, in-depth interviews, and analysis of learning documents. The results of the study indicate that the use of interactive learning media in learning based on the graduate profile dimension (DPL) is still not optimal. PAUD teachers tend to implement conventional learning with the integration of DPL values ​​that are verbal and routine, under-utilizing media...
+
+  `matched: active learning, deep learning`
+
+
+- **[Hydration-Mechanism-Based Strength Modeling and Binder-Level Inverse Design of Low-Carbon Slag–Fly Ash Ternary Concrete](https://doi.org/10.3390/buildings16183719)**
+  <br>*Buildings | 2026-09-21 | doi:10.3390/buildings16183719 | score 13*
+  <br>Zhang, Zhu, Lin, Wang et al.
+
+  Reducing carbon emissions in concrete production while improving structural performance has become a priority in the transition to carbon neutrality. High-volume fly ash and slag systems significantly reduce carbon emissions. However, their complex hydration interactions alter strength development, rendering conventional empirical strength models inadequate for reliable low-carbon binder design. To overcome this limitation, this study proposes an integrated hydration-mechanism-based framework that links strength prediction with carbon-oriented binder optimization. A unified hydration model is developed based on the coupled evolution of capillary water and calcium hydroxide, enabling a consis...
+
+  `matched: inverse design`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[From sparse quantum-computing data to atomistic simulation with universal machine-learning interatomic potentials](http://arxiv.org/abs/2609.21536v1)**
+  <br>*arXiv | 2026-09-18 | score 21*
+  <br>Tuan Minh Do, Yuichiro Yoshida, Kenji Ishihara, Wataru Mizukami
+
+  We propose a framework for incorporating quantum-computing-based electronic-structure calculations into universal machine-learning interatomic potentials (uMLIPs). Rather than constructing an interatomic potential from scratch, we refine a pretrained DFT-based uMLIP using a small set of accurate reference energies obtained from quantum computing. We demonstrate the approach for three chemically distinct applications: the Menshutkin reaction, water adsorption in the metal-organic framework HKUST-1, and CO hopping on a high-entropy-alloy nanoparticle. For the Menshutkin reaction, fine-tuning on gas-phase configurations improves the transition-state energy inside a carbon nanotube but not the p...
+
+  `matched: metal-organic framework, interatomic potential, alloy, dft`
+
+
+- **[cboamd: A Machine Learning Molecular Dynamics Framework for Vibrational Strong Coupling](http://arxiv.org/abs/2609.22022v1)**
+  <br>*arXiv | 2026-09-18 | score 19*
+  <br>Yifan Li, Roberto Car, Johannes Flick
+
+  Under vibrational strong coupling (VSC), molecular vibrations hybridize with an optical cavity mode to form polaritons, offering a route to modify chemical and material properties without external driving. In this work, we develop a machine-learning interatomic potential (MLIP) based framework to study VSC inside optical cavities. By using the cavity Born-Oppenheimer approximation and treating the photonic degrees of freedom as an effective electric field, we provide a framework that can describe VSC solely based on the electronic ground-state potential energy surfaces (PES), electronic dipole moment, and polarizability, all quantities obtained outside the cavity. We train PES, polarization,...
+
+  `matched: interatomic potential, molecular dynamics, machine learning`
+
+
+- **[Orbital-Free Surrogate Functionals Yield Transferable Interatomic Potentials and Electron Densities](http://arxiv.org/abs/2609.21882v1)**
+  <br>*arXiv | 2026-09-18 | score 16*
+  <br>Simon Wagner, Marc K. Ickler, Manuel V. Klockow, Fred A. Hamprecht et al.
+
+  Orbital-free density functional theory seeks to compute the energy of an electronic system directly from its electron density, avoiding one-electron wave functions and thereby offering a route to scalable electronic structure calculations. Machine-learned orbital-free density functionals have recently achieved promising results on small organic molecules, predicting energies with sub-millihartree accuracy. However, their convergence in density optimization remains sensitive to hyperparameter tuning and architectural choices. Here, we extend the recently introduced (weak) surrogate functional framework - designed to predict ground-state electron densities only - to also yield their energy, re...
+
+  `matched: density functional theory, interatomic potential`
+
+
+- **[Complete Neural Electronic Initialization Accelerates Materials DFT](http://arxiv.org/abs/2609.21759v1)**
+  <br>*arXiv | 2026-09-18 | score 13*
+  <br>Felix Ærtebjerg, Jonas Elsborg, Arghya Bhowmik
+
+  We present the first complete machine learning method for accelerating plane-wave density functional theory (DFT) in materials under the projector augmented wave (PAW) formalism. We formalize seven criteria that a \textit{Complete Neural Electronic Initializer} must satisfy for practical end-to-end PAW DFT acceleration. Applying these criteria to prior work reveals two missing structure-dependent components, augmentation occupancies and spin initialization, that prevent existing methods from providing complete reference-free initialization. Controlled ablations show that omitting these components can eliminate or reverse the acceleration obtained via models that only predict the smooth valen...
+
+  `matched: density functional theory, machine learning, dft`
+
+
+- **[Large Language Models in Chemistry and Materials Science: A Comprehensive Survey](https://doi.org/10.26434/chemrxiv.15009184/v1)**
+  <br>*Crossref | 2026-09-21 | doi:10.26434/chemrxiv.15009184/v1 | score 11*
+  <br>LI, LIU, WEI, WANG et al.
+
+  Large language models (LLMs) are expanding the scope of artificial intelligence in chemistry and materials science by connecting scientific knowledge, heterogeneous data, computational tools, and experimental workflows. This article presents a comprehensive survey of the foundations, representations, methods, applications, and evaluation of LLM-centered scientific systems. We develop a non-exclusive representation-by-mechanism taxonomy linking text, molecular and crystal structures, spectra, images, and numerical properties with model adaptation, cross-representation grounding, external knowledge and tools, and workflow coordination. Within this framework, we synthesize prompting, domain pre...
+
+  `matched: artificial intelligence, large language model, crystal`
+
+
+- **[Machine learning magnetic interactions from neutron powder diffraction data](http://arxiv.org/abs/2609.21970v1)**
+  <br>*arXiv | 2026-09-18 | score 11*
+  <br>Adit S. Desai, Yongqiang Cheng, Joseph A. M. Paddison
+
+  Neutron diffraction is a versatile experimental technique capable of probing a material's magnetic properties. While diffraction is typically used to determine the magnetic structure of a material, magnetic diffuse scattering data from a diffraction experiment are also sensitive to the magnetic interactions in its Hamiltonian. However, accurately determining magnetic interaction parameters from neutron-scattering data involves an inverse scattering problem that is challenging to solve in general. Here, we investigate the effectiveness of a machine learning approach to predict the interaction parameters given magnetic diffuse-scattering data measured on powder samples, for a comprehensive sur...
+
+  `matched: machine learning, magnet`
+
+
+---
+
+
 ## 2026-09-20
 
 9 new item(s). Top hit: **Learning through Graph Neural Networks: Efficient Surrogate Modeling for Preliminary Building Design** (score 24, Crossref).
