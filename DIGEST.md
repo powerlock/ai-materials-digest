@@ -6,6 +6,238 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-22
+
+25 new item(s). Top hit: **Design of High-Ionic-Conductivity Doped Li2ZrO3 Cathode Coating with Machine Learning Interatomic Potentials** (score 56, Crossref).
+
+### Journal articles
+
+- **[Crystal Structure Prediction of Inorganic Materials: A Benchmark and Modern Evaluation](https://doi.org/10.1002/aidi.70162)**
+  <br>*Advanced Intelligent Discovery | 2026-09-21 | doi:10.1002/aidi.70162 | score 43*
+  <br>Lai Wei, Sadman Sadeed Omee, Rongzhi Dong, Nihang Fu
+
+  Crystal structure prediction (CSP) of inorganic materials is a fundamental challenge in computational materials science, yet the field has historically lacked well‐defined benchmarks and comprehensive evaluations. We address this gap by introducing CSP180, a standardized benchmark of 180 inorganic materials, and evaluate 13 state‐of‐the‐art CSP algorithms spanning template‐based, machine learning (ML) potential‐based, and deep learning‐based approaches, none relying on density functional theory (DFT). As a baseline, we also assess the leading DFT‐based algorithms, CALYPSO and USPEX, on a 23‐structure subset with simpler compositions. Template‐based methods, such as TCSP and CSPML, achieve th...
+
+  `matched: crystal structure prediction, density functional theory, machine learning, deep learning, benchmark, inorganic`
+
+
+- **[Supporting data for "Mechanism of Alkene Skeletal Isomerization in Zeolites Revealed by Coupled-Cluster Accurate free energy Simulations"](https://doi.org/10.5281/zenodo.21415521)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-21 | doi:10.5281/zenodo.21415521 | score 28*
+  <br>Chintu Das, Merlin Haaf, GiovanniMaria Piccini
+
+  Supporting data for “Mechanism of Alkene Skeletal Isomerization in Zeolites Revealed by Coupled-Cluster Accurate free energy Simulations”. This includes input files for running LAMMPS molecular dynamics simulations, PLUMED input files for well-tempered metadynamics, scripts for training machine learning interatomic potentials, CP2K input files, ORCA input files.
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, zeolite`
+
+
+- **[Supporting data for "Mechanism of Alkene Skeletal Isomerization in Zeolites Revealed by Coupled-Cluster Accurate free energy Simulations"](https://doi.org/10.5281/zenodo.22878874)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-21 | doi:10.5281/zenodo.22878874 | score 28*
+  <br>Chintu Das, Merlin Haaf, GiovanniMaria Piccini
+
+  Supporting data for “Mechanism of Alkene Skeletal Isomerization in Zeolites Revealed by Coupled-Cluster Accurate free energy Simulations”. This includes input files for running LAMMPS molecular dynamics simulations, PLUMED input files for well-tempered metadynamics, scripts for training machine learning interatomic potentials, CP2K input files, ORCA input files.
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, zeolite`
+
+
+- **[Machine-learning models for Li3PO4 molecular dynamics under electric fields (GRACE potential and Equivar Born-effective-charge model)](https://doi.org/10.5281/zenodo.22869726)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-21 | doi:10.5281/zenodo.22869726 | score 23*
+  <br>Haruka Doyu, Anh Khoa Augustin Lu, Satoshi Watanabe
+
+  GRACE-2L-OAM interatomic potential and Equivar (BM1) equivariant neural network for per-atom Born effective charge tensors, both fine-tuned on Li3PO4 DFT and DFPT data, with an example script for molecular dynamics under an electric field and the amorphous production cell.
+
+  `matched: interatomic potential, molecular dynamics, neural network, equivariant, dft`
+
+
+- **[ase-calculator-kit: a unified ASE calculator factory for MLIP and DFT calculators](https://doi.org/10.5281/zenodo.22866289)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-21 | doi:10.5281/zenodo.22866289 | score 21*
+  <br>Taishiro Wakamiya, Atsushi Ishikawa
+
+  A thin, unified ASE calculator factory for machine-learning interatomic potentials (SevenNet, CHGNet, MatterSim, NequIP OAM, UMA/fairchem, MACE) and external DFT calculators (VASP, Quantum ESPRESSO). Every call returns a standard ase.Calculator, so the rest of an ASE workflow stays unchanged.
+
+  `matched: interatomic potential, mattersim, dft`
+
+
+- **[ase-calculator-kit: a unified ASE calculator factory for MLIP and DFT calculators](https://doi.org/10.5281/zenodo.22866114)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-21 | doi:10.5281/zenodo.22866114 | score 21*
+  <br>Taishiro Wakamiya, Atsushi Ishikawa
+
+  A thin, unified ASE calculator factory for machine-learning interatomic potentials (SevenNet, CHGNet, MatterSim, NequIP OAM, UMA/fairchem, MACE) and external DFT calculators (VASP, Quantum ESPRESSO). Every call returns a standard ase.Calculator, so the rest of an ASE workflow stays unchanged.
+
+  `matched: interatomic potential, mattersim, dft`
+
+
+- **[ase-calculator-kit: a unified ASE calculator factory for MLIP and DFT calculators](https://doi.org/10.5281/zenodo.22880498)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-21 | doi:10.5281/zenodo.22880498 | score 21*
+  <br>Taishiro Wakamiya, Atsushi Ishikawa
+
+  A thin, unified ASE calculator factory for machine-learning interatomic potentials (SevenNet, CHGNet, MatterSim, NequIP OAM, UMA/fairchem, eSEN OMol25, MACE) and DFT calculators (VASP, Quantum ESPRESSO, PySCF/GPU4PySCF). Every call returns a standard ase.Calculator, so the rest of an ASE workflow stays unchanged.
+
+  `matched: interatomic potential, mattersim, dft`
+
+
+- **[Inverse design and back-substitution validation of dual-EIT photonic crystal structures based on CVAE](https://doi.org/10.1117/12.3125670)**
+  <br>*OpenAlex | 2026-09-21 | doi:10.1117/12.3125670 | score 21*
+  <br>Haotang Lu
+
+  The dual electromagnetically induced transparency (Dual-EIT) effect in photonic crystals exhibits significant potential for applications in multi-channel sensing and slow-light devices. However, conventional forward design based on the finitedifference time-domain (FDTD) method relies heavily on time-consuming parameter sweeps. Meanwhile, complex micro/nano-optical systems inherently suffer from a severe one-to-many mapping problem (i.e., different structural parameters can produce highly similar spectra), which often causes traditional deep-learning-based inverse design methods to generate physically invalid structures due to parameter averaging. To overcome this limitation, this paper prop...
+
+  `matched: inverse design, crystal, magnet`
+
+
+- **[Isurwars/Correlation: Correlation 3.9.5](https://doi.org/10.5281/zenodo.22882668)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-21 | doi:10.5281/zenodo.22882668 | score 19*
+  <br>Isaías Rodríguez Aguirre, Mineralwater Xu
+
+  [3.9.5] - 2026-09-21 Simulation Readers & Formats NequIP & Allegro Extended XYZ Parser: Implemented native NequipReader (include/readers/NequipReader.hpp, src/readers/NequipReader.cpp) for single-frame structures and multi-frame trajectories generated by NequIP and Allegro machine learning interatomic potentials: ExtXYZ format parsing with lattice vectors, periodic boundary conditions, per-atom forces, and energy metadata extraction. Automatic format sniffing and reader registration in ReaderFactory. Comprehensive unit test suite (tests/unit/readers/NequipReaderTests.cpp) and libFuzzer harness with dedicated corpus (tests/fuzz/fuzz_nequip.cpp, tests/fuzz/corpus/nequip/minimal.nequip). WebAss...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Machine‐Learning‐Powered Screening of CuNi@FeO Electrocatalyst for Nitrate‐to‐Ammonia Conversion in Industrial Wastewater Concentrate](https://doi.org/10.1002/adfm.78621)**
+  <br>*Advanced Functional Materials | 2026-09-22 | doi:10.1002/adfm.78621 | score 13*
+  <br>Wang, Yang, Huang, Zhang et al.
+
+  ABSTRACT High‐pressure reverse osmosis concentrates (HPROC) generated from coal chemical zero‐liquid‐discharge processes accumulate nitrate in high‐salinity matrices that deteriorate downstream salt recovery and nitrogen management. This necessitates selective nitrate conversion before evaporation‐crystallization. Electrocatalytic reduction offers a promising route to convert nitrate into ammonia, yet electrocatalyst design remains largely empirical, complicating the development of manufacturable electrodes for practical applications. Herein we developed a literature‐informed interpretable machine learning (ML) framework to screen the CuNi@FeO electrocatalyst toward highly selective nitrate‐...
+
+  `matched: machine learning, catalyst, crystal`
+
+
+- **[Lithium-Ion battery SOH estimation via a physics-feature-enhanced method integrating DRT mechanism and multi-scale deep learning](https://doi.org/10.1007/s11581-026-07519-7)**
+  <br>*Ionics | 2026-09-22 | doi:10.1007/s11581-026-07519-7 | score 13*
+  <br>Song, Zhao
+
+  `matched: deep learning, battery`
+
+
+- **[Computational database and analysis workflow for the article "Harnessing lattice distortion for point defects self-healing in multi-principal element alloys."](https://doi.org/10.5281/zenodo.22685863)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-21 | doi:10.5281/zenodo.22685863 | score 13*
+  <br>Bozhao Zhang, Jun Cai Ding, Kaihui Xun, Pengfei Guan
+
+  This repository provides a computational database and analysis workflow for investigating atomic-scale defect behavior and diffusion in body-centered cubic (BCC) Zr-Ti-Nb refractory alloys. It combines a large density-functional theory dataset for training machine-learning interatomic potentials with atomistic calculations of local lattice distortion, vacancy migration energies, local migration-barrier distributions, and bond-length changes during point defect migration. The resulting migration and defect-transport information is used to evaluate finite-temperature diffusion through mean-square-displacement calculations and to simulate point-defect evolution and Frenkel-pair recombination us...
+
+  `matched: interatomic potential, dataset, alloy`
+
+
+- **[Computational database and analysis workflow for the article "Harnessing lattice distortion for point defects self-healing in multi-principal element alloys."](https://doi.org/10.5281/zenodo.22685864)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-21 | doi:10.5281/zenodo.22685864 | score 13*
+  <br>Bozhao Zhang, Jun Cai Ding, Kaihui Xun, Pengfei Guan
+
+  This repository provides a computational database and analysis workflow for investigating atomic-scale defect behavior and diffusion in body-centered cubic (BCC) Zr-Ti-Nb refractory alloys. It combines a large density-functional theory dataset for training machine-learning interatomic potentials with atomistic calculations of local lattice distortion, vacancy migration energies, local migration-barrier distributions, and bond-length changes during point defect migration. The resulting migration and defect-transport information is used to evaluate finite-temperature diffusion through mean-square-displacement calculations and to simulate point-defect evolution and Frenkel-pair recombination us...
+
+  `matched: interatomic potential, dataset, alloy`
+
+
+- **[Learning to Ask Efficiently in Dialogue: Reinforcement Learning Extensions for Stream-based Active Learning](https://doi.org/10.18653/v1/2025.sigdial-1.34)**
+  <br>*Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue | 2026-09-22 | doi:10.18653/v1/2025.sigdial-1.34 | score 7*
+  <br>Waki, Takeda, Komatani
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Design of High-Ionic-Conductivity Doped Li2ZrO3 Cathode Coating with Machine Learning Interatomic Potentials](https://doi.org/10.26434/chemrxiv.15009236/v1)**
+  <br>*Crossref | 2026-09-22 | doi:10.26434/chemrxiv.15009236/v1 | score 56*
+  <br>Wang, Yu, Ong
+
+  Li2ZrO3 (LZO) is a promising cathode coating material for all-solid-state batteries, but its intrinsically low ionic conductivity limits rate performance. Here, we investigate the effects of Y3+, Al3+, Nb5+, and Ta5+ doping and amorphization on the Li+ conductivity of LZO using density functional theory (DFT) and machine learning interatomic potentials (MLIPs). Among the dopants studied, Y3+ substitution exhibits the most favorable defect formation energies. Molecular dynamics simulations using a fine-tuned moment tensor potential (MTP) reveal that 6%-Y-doped crystalline LZO (c-LYZO) achieves a maximum room-temperature ionic conductivity of ∼2mS cm−1, an order of magnitude improvement over u...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, molecular dynamics, machine learning, cathode`
+
+
+- **[Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects](http://arxiv.org/abs/2609.24293v1)**
+  <br>*arXiv | 2026-09-21 | score 44*
+  <br>Zhenxing Dai, Mingjue Ni, Xinpeng Li, Menglin Huang et al.
+
+  Machine learning interatomic potentials (MLIPs) can treat large-scale material systems with near first-principles accuracy and have been widely used to accelerate point-defect simulations. However, the training of MLIPs usually relies on large amounts of DFT data. This issue is particularly pronounced for charged defects, for which DFT calculations of large supercells are required to avoid long-range Coulomb interactions and finite-size effects, making the construction of datasets computationally expensive. In this work, we propose an efficient MLIP training scheme for neutral and lowly charged point defects based on small supercells (less than 100 atoms) and limited number of DFT calculatio...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, dataset, dft`
+
+
+- **[ECENet: An Edge Cluster Expansion Line-Graph Neural Network](http://arxiv.org/abs/2609.23134v1)**
+  <br>*arXiv | 2026-09-19 | score 36*
+  <br>R. Allen LaCour, Teresa Head-Gordon
+
+  Machine-learned interatomic potentials (MLIPs) have emerged as a promising alternative to classical force fields and first-principles theory for predicting the properties of chemical and material systems. Many MLIPs are graph neural networks with O(3)-equivariant features, whose accuracy comes at substantial computational cost. Here we introduce the edge cluster expansion (ECE), an analogue of the atomic cluster expansion in which the environment is expanded around edges between atom pairs rather than single atoms, and build upon it to develop the line-graph neural network ECENet. ECENet uses O(2)-equivariant features that persist on the edges between atoms, giving it natural access to O(2)...
+
+  `matched: machine-learned interatomic potential, interatomic potential, graph neural network, neural network, equivariant`
+
+
+- **[Boundary-driven phase transformation in layered 3R In2Se3 captured by long range machine learning molecular dynamics](https://doi.org/10.26434/chemrxiv.15009227/v1)**
+  <br>*Crossref | 2026-09-22 | doi:10.26434/chemrxiv.15009227/v1 | score 23*
+  <br>Evangelista, Cohen, Thakur, Janotti et al.
+
+  Layered In2Se3 switches between closely related crystalline van der Waals states, but its atomistic thermal pathway in rhombohedral 3R geometries remains unresolved because middle-Se motion within each quintuple layer (QL), inter-QL glide, freesurface morphology, and weak interlayer binding evolve together. Here we develop a PBE+D3(BJ)-trained MACERSGA interatomic potential that adds a reciprocal-space gated-attention long-range correction to a short-range MACE backbone. Compared with MACE trained on the same data, MACERSGA reduces test-set energy and force RMSEs by 83.8% and 17.7%, respectively, while preserving the PBE+D3(BJ) exfoliation binding curves of α-and β-like structures. Large-cel...
+
+  `matched: interatomic potential, molecular dynamics, machine learning, crystal`
+
+
+- **[Colour me shocked: Exact Molecular Hessians from local MLIPs in O(N) time using sparse differentiation!](http://arxiv.org/abs/2609.24720v1)**
+  <br>*arXiv | 2026-09-21 | score 19*
+  <br>Luca Thiede, Andreas Burger, Alán Aspuru-Guzik
+
+  The Hessian of the energy with respect to the nuclear positions is indispensable in atomistic modelling. However, constructing this matrix requires $O(N)$ Hessian vector products, traditionally limiting high-accuracy Hessians to small systems. Machine learning interatomic potentials (MLIPs) have accelerated atomistic modelling by providing highly accurate energies and forces at $O(N)$ cost, yet the resulting $O(N^2)$ cost of Hessians remains a practical bottleneck for large systems. Based on the insight that we can derive the sparsity pattern for an MLIP's Hessians in closed form, we show in this paper how to use techniques from sparse automatic differentiation to reduce the cost of a local...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Transitions between bulk and interfacial fracture in diamond/$c$BN heterostructures](http://arxiv.org/abs/2609.23963v1)**
+  <br>*arXiv | 2026-09-21 | score 14*
+  <br>Wei Qiu, Feiyu Zhou, Xiaonan Wang, Feng Xie et al.
+
+  Whether an initially crack-free heterostructure fails at its interface or within an adjoining phase is controlled by the relative cohesion of competing atomic planes, but how interfacial chemistry, crystallographic orientation, and intermixing reshape this competition remains unclear. Here, we combine density functional theory (DFT) with a fine-tuned atomistic foundation model to resolve tensile fracture in coherent diamond/cubic boron nitride (cBN) heterostructures. The resulting potential reproduces independent DFT tensile responses, including an unseen (001) interface orientation. Interfacial termination, orientation, and diffusion-induced intermixing jointly determine fracture resistance...
+
+  `matched: density functional theory, foundation model, crystal, dft`
+
+
+- **[From Heuristics to Machine Learning: The Performance Ceiling for Single-Ion Magnets and Its Electronic Origin](http://arxiv.org/abs/2609.24038v1)**
+  <br>*arXiv | 2026-09-21 | score 11*
+  <br>Federico Zahariev, Regina Pereyra, Vassiliki-Alexandra Glezakou, Durga Paudyal
+
+  Machine learning (ML) is expected to speed up the discovery of single-ion magnets (SIMs), but does the structural information available before synthesis allow such predictions? For 1215 lanthanide complexes from the SIMDAVIS 1.2.1 database we compared three increasing levels of structural description: tabular features of the coordination site, continuous symmetry measures of the coordination polyhedron, and the complete 3D arrangement of atoms. All three converge to an accuracy near 76%, only slightly above the 71% of the single rule "predict SIM for Dy3+". To explain the failures, we combined multireference ab initio calculations with an inspection of the structures behind the high-confiden...
+
+  `matched: machine learning, magnet`
+
+
+- **[MACHINE LEARNING FOR CELLULOSE MEMBRANES: A REPRESENTATION–MODEL–TASK FRAMEWORK FOR SMALL-DATA REGIMES](https://doi.org/10.26434/chemrxiv.15009248/v1)**
+  <br>*Crossref | 2026-09-22 | doi:10.26434/chemrxiv.15009248/v1 | score 10*
+  <br>Kolomiiets
+
+  Cellulose membranes are a small-data problem with a chemically ambiguous object. A polymorphic matrix, three chemically inequivalent hydroxyls at C2, C3 and C6, and a two-stage fabrication route make representation — not model architecture — the binding constraint on machine learning in this field, and this is why the toolkit that succeeded for gas-separation polymers and thin-film-composite membranes does not transfer to cellulose unchanged. This review organises the methodology around that claim. It first sets out why cellulose membranes remain of interest and where they fail, then shows that the existing computational treatment of cellulose is stratified into layers — first-principles, at...
+
+  `matched: machine learning, polymer`
+
+
+- **[Water Layering and Orientation Modulate Lanthanide Hydration in Carbon Nanotubes](https://doi.org/10.26434/chemrxiv.15009104/v1)**
+  <br>*ChemRxiv | 2026-09-20 | doi:10.26434/chemrxiv.15009104/v1 | score 10*
+  <br>Kailong Zhang, Jian Shi, Qi Shao
+
+  Nanoscale confinement can reorganize water molecules and alter ionic hydration, offering a potential route to separating chemically similar ions. We use molecular dynamics simulations with the MACE-MH-1 foundation machine-learning interatomic potential to investigate the hydration of eight trivalent lanthanide ions (Ln 3+ : La 3+ , Pr 3+ , Nd 3+ , Gd 3+ , Tb 3+ , Dy 3+ , Tm 3+ , and Lu 3+ ) in carbon nanotubes (CNTs) with diameters of 1.09–1.49 nm. We first evaluate MACE-MH-1 for Ln 3+ hydration in bulk solution. The OMOL model of MACE-MH-1 reproduces the reported Ln–O distances and coordination-number trends and is therefore used for the CNT simulations. The hydration factor, which measures...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Uni-Macro-FRPN: Full-Resolution and Cross-Scale Learning for Polymers](https://doi.org/10.26434/chemrxiv.15009049/v2)**
+  <br>*Crossref | 2026-09-22 | doi:10.26434/chemrxiv.15009049/v2 | score 8*
+  <br>Wu, Shan, Zhang
+
+  Polymer properties emerge from interactions across scales, yet existing polymer models typically preserve either detailed monomer chemistry without an explicit polymer graph or polymer connectivity with simplified monomer representations, due to computational constraints, as polymers typically contain tens of thousands of atoms. We present Uni-Macro-FRPN (FRPN), a Full-Resolution Polymer Network that retains both detailed atom-level and monomer-level features and explicit polymer structure information within a unified framework. Two Transformers jointly learn atom-informed monomer semantics, sequence order, and chain topology from BigSMILES-derived representations. On the Block Copolymer Dat...
+
+  `matched: transformer, polymer`
+
+
+- **[Does enforcing physics improve evapotranspiration downscaling? A controlled comparison of mass-conserving and direct deep-learning models for WaPOR](https://doi.org/10.21203/rs.3.rs-10805791/v1)**
+  <br>*Crossref | 2026-09-22 | doi:10.21203/rs.3.rs-10805791/v1 | score 6*
+  <br>Kiala¹, Bergaoui, Schmitter, Andarcia et al.
+
+  Abstract Satellite evapotranspiration products underpin agricultural water accounting. Yet the field-scale (20 m) data irrigation needs exist for only a handful of sites, whereas coarse (≈ 300 m) products span the entire African continent. This motivates deep-learning downscaling of the continental product to field scale. Physics-informed networks that enforce hard conservation constraints are widely advocated, on the premise that they improve accuracy and transfer. Yet this premise is rarely tested in a controlled way. To our knowledge, this is the first controlled test of it for evapotranspiration downscaling. It is also the first to adapt image-restoration and geospatial foundation models...
+
+  `matched: foundation model`
+
+
+---
+
+
 ## 2026-09-21
 
 12 new item(s). Top hit: **OMC-bench and AtomBit-OMC: task-aligned benchmarks and robust, interpretable machine-learned interatomic poten** (score 41, npj Computational Materials).
