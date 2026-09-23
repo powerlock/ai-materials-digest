@@ -6,6 +6,186 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-23
+
+19 new item(s). Top hit: **Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defec** (score 44, arXiv (Cornell University)).
+
+### Journal articles
+
+- **[Deep potential-driven molecular dynamics unveiling composition–structure–property correlations in LiF–BeF2–UF4 molten salt system](https://doi.org/10.1063/5.0348608)**
+  <br>*The Journal of Chemical Physics | 2026-09-22 | doi:10.1063/5.0348608 | score 31*
+  <br>Yuan Yin, Wenshuo Liang, Wentao Zhou, Dezhong Wang
+
+  Molten fluoride salts are critical heat carriers and fuel solvents for advanced molten salt reactors. Yet, their complex atomic interactions and composition-dependent structural evolution remain challenging to characterize over a wide range of temperatures and compositions. Here, we develop a highly transferable and accurate machine learning interatomic potential for the ternary LiF-BeF2-UF4 system, enabling large-scale molecular dynamics simulations with near-density functional theory accuracy across UF4 concentrations from 0 to 25 mol. %. Trained from ab initio molecular dynamics data via an active learning loop, this potential achieves low root-mean-square errors for energy and forces and...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, molecular dynamics, machine learning, active learning`
+
+
+- **[Deep Potential-Driven Molecular Dynamics Unveiling Composition-Structure-Property Correlations in LiF-BeF2-UF4 Molten Salt System](https://doi.org/10.60893/figshare.jcp.c.8673633.v1)**
+  <br>*AIP Publishing | 2026-09-22 | doi:10.60893/figshare.jcp.c.8673633.v1 | score 31*
+  <br>Wentao Zhou, De Zhong Wang, Yuan Yin, Wenshuo Liang
+
+  Molten fluoride salts are critical heat carriers and fuel solvents for advanced molten salt reactors, yet their complex atomic interactions and composition-dependent structural evolution remain challenging to characterize over a wide range of temperatures and compositions. Here, we develop a highly transferable and accurate machine learning interatomic potential for the ternary LiF-BeF2-UF4 system, enabling large-scale molecular dynamics simulations with near-DFT accuracy across UF4 concentrations from 0 to 25 mol%. Trained from ab initio molecular dynamics data via an active learning loop, this potential achieves low root-mean-square errors for energy and forces and exhibits excellent cross...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, active learning, dft`
+
+
+- **[Deep Potential-Driven Molecular Dynamics Unveiling Composition-Structure-Property Correlations in LiF-BeF2-UF4 Molten Salt System](https://doi.org/10.60893/figshare.jcp.c.8673633)**
+  <br>*AIP Publishing | 2026-09-22 | doi:10.60893/figshare.jcp.c.8673633 | score 31*
+  <br>Wentao Zhou, De Zhong Wang, Yuan Yin, Wenshuo Liang
+
+  Molten fluoride salts are critical heat carriers and fuel solvents for advanced molten salt reactors, yet their complex atomic interactions and composition-dependent structural evolution remain challenging to characterize over a wide range of temperatures and compositions. Here, we develop a highly transferable and accurate machine learning interatomic potential for the ternary LiF-BeF2-UF4 system, enabling large-scale molecular dynamics simulations with near-DFT accuracy across UF4 concentrations from 0 to 25 mol%. Trained from ab initio molecular dynamics data via an active learning loop, this potential achieves low root-mean-square errors for energy and forces and exhibits excellent cross...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, active learning, dft`
+
+
+- **[ase-calculator-kit: a unified ASE calculator factory for MLIP and DFT calculators](https://doi.org/10.5281/zenodo.22885284)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-22 | doi:10.5281/zenodo.22885284 | score 21*
+  <br>Taishiro Wakamiya, Atsushi Ishikawa
+
+  A thin, unified ASE calculator factory for machine-learning interatomic potentials (SevenNet, CHGNet, MatterSim, NequIP OAM, UMA/fairchem, eSEN OMol25, MACE) and DFT calculators (VASP, Quantum ESPRESSO, PySCF/GPU4PySCF). Every call returns a standard ase.Calculator, so the rest of an ASE workflow stays unchanged.
+
+  `matched: interatomic potential, mattersim, dft`
+
+
+- **[ase-calculator-kit: a unified ASE calculator factory for MLIP and DFT calculators](https://doi.org/10.5281/zenodo.22894540)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-22 | doi:10.5281/zenodo.22894540 | score 21*
+  <br>Taishiro Wakamiya, Atsushi Ishikawa
+
+  A thin, unified ASE calculator factory for machine-learning interatomic potentials (SevenNet, CHGNet, MatterSim, NequIP OAM, UMA/fairchem, eSEN OMol25, MACE) and DFT calculators (VASP, Quantum ESPRESSO, PySCF/GPU4PySCF). Every call returns a standard ase.Calculator, so the rest of an ASE workflow stays unchanged.
+
+  `matched: interatomic potential, mattersim, dft`
+
+
+- **[Energy-aware routing in underwater wireless sensor networks via temporal graph neural network and reinforcement learning](https://doi.org/10.1016/j.oceaneng.2026.128200)**
+  <br>*Ocean Engineering | 2026-09-23 | doi:10.1016/j.oceaneng.2026.128200 | score 17*
+  <br>Cai, Pu, Gan, Sun et al.
+
+  `matched: graph neural network, neural network`
+
+
+- **[DeepPot-SE potential and calculated properties of liquid Ti–Al alloys](https://doi.org/10.5281/zenodo.22893096)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-22 | doi:10.5281/zenodo.22893096 | score 16*
+  <br>Dmitry Zakiryanov, Mikhail Petrik
+
+  This dataset accompanies the manuscript “Thermodynamic, transport, and local structural properties of liquid Ti–Al alloys from a machine-learning interatomic potential” by Dmitry Zakiryanov and Mikhail Petrik. It contains the frozen DeepPot-SE model, the supplied training input, the configuration extracted from the frozen model, calculated liquid properties at 1973 K, and partial radial distribution functions. The model uses chemical type order Al, Ti. Applicability to crystalline phases and phase transformations has not been established. The supplied and embedded configurations have different training-system lists (14 and 16 systems respectively); both are preserved for provenance. Local pa...
+
+  `matched: interatomic potential, crystal, dataset, alloy`
+
+
+- **[DeepPot-SE potential and calculated properties of liquid Ti–Al alloys](https://doi.org/10.5281/zenodo.22893095)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-22 | doi:10.5281/zenodo.22893095 | score 16*
+  <br>Dmitry Zakiryanov, Mikhail Petrik
+
+  This dataset accompanies the manuscript “Thermodynamic, transport, and local structural properties of liquid Ti–Al alloys from a machine-learning interatomic potential” by Dmitry Zakiryanov and Mikhail Petrik. It contains the frozen DeepPot-SE model, the supplied training input, the configuration extracted from the frozen model, calculated liquid properties at 1973 K, and partial radial distribution functions. The model uses chemical type order Al, Ti. Applicability to crystalline phases and phase transformations has not been established. The supplied and embedded configurations have different training-system lists (14 and 16 systems respectively); both are preserved for provenance. Local pa...
+
+  `matched: interatomic potential, crystal, dataset, alloy`
+
+
+- **[Navigating sparse singlet fission chemical space: an intelligent generative-predictive paradigm](https://doi.org/10.24435/materialscloud:64-z6)**
+  <br>*NCCR MARVEL | 2026-09-22 | doi:10.24435/materialscloud:64-z6 | score 7*
+  <br>Longfei Lv, Fu Li, Si Zhou, Lingzhi Zhao
+
+  Singlet fission (SF) offers a promising route to surpass the Shockley-Queisser limit by converting a photoexcited singlet exciton into two triplet excitons, thereby enhancing photovoltaic energy conversion efficiency. However, realizing efficient SF requires the stringent energetic requirements among low-lying excited states that render SF molecules intrinsically rare within the vast chemical space. This extreme sparsity presents a fundamental challenge for molecular discovery. Due to low hit rates and trial-and-error computational waste on nonviable structures, conventional high-throughput virtual screening faces significant constraints, even when accelerated by machine learning models. Her...
+
+  `matched: machine learning, photovoltaic`
+
+
+- **[Navigating sparse singlet fission chemical space: an intelligent generative-predictive paradigm](https://doi.org/10.24435/materialscloud:wm-9j)**
+  <br>*NCCR MARVEL | 2026-09-22 | doi:10.24435/materialscloud:wm-9j | score 7*
+  <br>Longfei Lv, Fu Li, Si Zhou, Lingzhi Zhao
+
+  Singlet fission (SF) offers a promising route to surpass the Shockley-Queisser limit by converting a photoexcited singlet exciton into two triplet excitons, thereby enhancing photovoltaic energy conversion efficiency. However, realizing efficient SF requires the stringent energetic requirements among low-lying excited states that render SF molecules intrinsically rare within the vast chemical space. This extreme sparsity presents a fundamental challenge for molecular discovery. Due to low hit rates and trial-and-error computational waste on nonviable structures, conventional high-throughput virtual screening faces significant constraints, even when accelerated by machine learning models. Her...
+
+  `matched: machine learning, photovoltaic`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects](https://doi.org/10.48550/arxiv.2609.24293)**
+  <br>*arXiv (Cornell University) | 2026-09-21 | doi:10.48550/arxiv.2609.24293 | score 44*
+  <br>Zhenxing Dai, Mingjue Ni, Xinpeng Li, Menglin Huang
+
+  Machine learning interatomic potentials (MLIPs) can treat large-scale material systems with near first-principles accuracy and have been widely used to accelerate point-defect simulations. However, the training of MLIPs usually relies on large amounts of DFT data. This issue is particularly pronounced for charged defects, for which DFT calculations of large supercells are required to avoid long-range Coulomb interactions and finite-size effects, making the construction of datasets computationally expensive. In this work, we propose an efficient MLIP training scheme for neutral and lowly charged point defects based on small supercells (less than 100 atoms) and limited number of DFT calculatio...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, dataset, dft`
+
+
+- **[OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery](http://arxiv.org/abs/2609.26402v1)**
+  <br>*arXiv | 2026-09-22 | score 37*
+  <br>Thomas Egg, Harry Winston Sullivan, Ellad B. Tadmor, Stefano Martiniani
+
+  The discovery of novel inorganic materials drives technological breakthroughs in critical fields such as computing and energy storage. Generative AI has promised to accelerate the materials discovery pipeline, but state-of-the-art flow and diffusion models remain bottlenecked by the cost of proposing candidate materials. To address this, we introduce OMatG-flash, an all-atom flow map for inorganic crystal structure prediction (CSP) and de novo generation (DNG). OMatG-flash is a Pareto-optimal inference engine for materials, sampling candidate materials with an order of magnitude fewer inference steps and less wall-clock time than existing flow and diffusion models while demonstrating benchma...
+
+  `matched: crystal structure prediction, materials discovery, diffusion model, generative ai, inorganic, crystal`
+
+
+- **[Deep Generative Crystal Structure Prediction: A Benchmark Study and a Controlled Test of Prototype Dependence](http://arxiv.org/abs/2609.26502v1)**
+  <br>*arXiv | 2026-09-22 | score 31*
+  <br>Lai Wei, Rongzhi Dong, Ying Feng, Madeline Miklos et al.
+
+  Deep generative models are widely reported to enable de novo crystal structure prediction (CSP), but their capability has not been measured consistently against template-based methods. We evaluate 12 representative generative CSP models, spanning latent-variable, diffusion, flow-matching, autoregressive, and manifold random-walk architectures, against TCSP 2.0 on 180 test structures and a leakage-controlled subset of 46. All methods use identical structure-matching, symmetry, and consensus criteria. Template retrieval is the strongest single method, reaching 68.3% top-1 success; symmetry-aware EquiCSP (66.4%) and Uni-3DAR (62.9%) form the next tier. However, comparison with TCSP 2.0 shows th...
+
+  `matched: crystal structure prediction, generative model, benchmark, crystal`
+
+
+- **[Topology-Stratified Materials Discovery with A Flow-Based Generative Model](http://arxiv.org/abs/2609.26547v1)**
+  <br>*arXiv | 2026-09-22 | score 28*
+  <br>Jingyi Zhou, Oyshee Chowdhury, Noah Oyeniran, Chongze Hu
+
+  Accurate generation of crystal structures is the foundation to the discovery of high-performance materials for extreme-environment applications, such as aerospace, additive manufacturing, and fusion energy systems. Although generative modeling has emerged as a promising approach for crystal design, its performance remains limited by the complex crystal structures and diverse chemical compositions. In this work, we develop UFO-MGen, a universal flow-based generative model that learns topological features of Wyckoff representations and leverages this information to accurately generate crystals across vast structural and chemical spaces. Compared with state-of-the-art generative models, UFO-MGe...
+
+  `matched: materials discovery, generative model, crystal`
+
+
+- **[Colour me shocked: Exact Molecular Hessians from local MLIPs in O(N) time using sparse differentiation!](https://doi.org/10.48550/arxiv.2609.24720)**
+  <br>*arXiv (Cornell University) | 2026-09-21 | doi:10.48550/arxiv.2609.24720 | score 19*
+  <br>Luca Thiede, Andreas Burger, Alán Aspuru-Guzik
+
+  The Hessian of the energy with respect to the nuclear positions is indispensable in atomistic modelling. However, constructing this matrix requires $O(N)$ Hessian vector products, traditionally limiting high-accuracy Hessians to small systems. Machine learning interatomic potentials (MLIPs) have accelerated atomistic modelling by providing highly accurate energies and forces at $O(N)$ cost, yet the resulting $O(N^2)$ cost of Hessians remains a practical bottleneck for large systems. Based on the insight that we can derive the sparsity pattern for an MLIP's Hessians in closed form, we show in this paper how to use techniques from sparse automatic differentiation to reduce the cost of a local...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Docking, Molecular Dynamics, QSAR, and Machine Learning in Alzheimer's Small-Molecule Drug Discovery: Current Utility, Key Limitations, and Reproducibility Challenges](https://doi.org/10.26434/chemrxiv.15009354/v1)**
+  <br>*Crossref | 2026-09-23 | doi:10.26434/chemrxiv.15009354/v1 | score 14*
+  <br>Saha, Chouhan
+
+  Alzheimer’s disease (AD) remains one of the most challenging therapeutic areas for small-molecule drug discovery because of its multifactorial pathology, complex target biology, and demanding central nervous system drug-development requirements. In this context, computational methods have become increasingly important for compound prioritization, hypothesis generation, and structure–activity interpretation. Among these, molecular docking, molecular dynamics (MD) simulations, quantitative structure–activity relationship (QSAR) modeling, and machine learning (ML) are widely used in AD-oriented medicinal chemistry, particularly in studies involving targets such as β-secretase 1 (BACE1) and tau....
+
+  `matched: molecular dynamics, machine learning`
+
+
+- **[Full-Field Online Temperature Monitoring and Cooling Tracking Methods for Alloy Steel Wire Rod in Air-Cooling Section Using Multispectral Imaging and Deep Learning](https://doi.org/10.2139/ssrn.7512479)**
+  <br>*Crossref | 2026-09-23 | doi:10.2139/ssrn.7512479 | score 12*
+  <br>Shi, Li, Tan, Jia et al.
+
+  Alloy steel wire rods are extensively utilized in critical industries, including automotive manufacturing, machinery production, bridge cables, energy equipment, fasteners, steel cords, bearing steel, and spring steel. The microstructural uniformity, mechanical properties, and dimensional stability of these wire rods directly influence the quality of subsequent processing and their service reliability. In wire rod production, phase transformation control in the air-cooling section post-laying is vital; thus, high-precision online temperature detection is essential for ensuring the quality of the wire rods. Currently, temperature detection following the laying process primarily relies on poin...
+
+  `matched: deep learning, alloy`
+
+
+- **[Machine Learned Interatomic Forces as Inference-Time Physical Guidance for All-Atom Diffusion Peptide Design](https://doi.org/10.26434/chemrxiv.15009322/v1)**
+  <br>*Crossref | 2026-09-23 | doi:10.26434/chemrxiv.15009322/v1 | score 12*
+  <br>Zeng, Song, Liu
+
+  Diffusion-based biomolecular generative models can efficiently explore peptidereceptor sequence-structure space, but the learned generative distribution does not explicitly represent the underlying atomistic potential-energy landscape. As a result, generated complexes may contain locally unfavorable atomic arrangements even when they remain plausible under the learned structural prior. Here, we develop an inferencetime physical guidance framework that couples machine learned interatomic potential (MLIP)-derived forces to the all-atom reverse diffusion trajectory of RFDiffusion3 for receptor-conditioned peptide design. Rather than applying energy minimization after generation, atomistic physi...
+
+  `matched: interatomic potential, generative model`
+
+
+- **[Integrative Physics and Machine Learning-Based Optimal Binding Pose Generator for Protein-Ligand Complexes](https://doi.org/10.26434/chemrxiv.15009330/v1)**
+  <br>*Crossref | 2026-09-23 | doi:10.26434/chemrxiv.15009330/v1 | score 11*
+  <br>Bhati, Dong, Black, Wan et al.
+
+  Accurately identifying the optimal protein–ligand binding pose is crucial for reliable binding affinity prediction, as molecular dynamics–based approaches are highly sensitive to the initial structure. However, there is currently no efficient way to predict such poses. Indeed, we assess the capabilities of three proposed AI-based software solutions (AlphaFold3, Boltz and RoseTTAFold All-Atom) and demonstrate their substantial shortcomings in this context. Here, we present a combined physics-and machine-learning-based method that predicts optimal protein-ligand poses in their relaxed states, enabling rapid and cost-effective downstream estimation of binding affinities. We apply our approach t...
+
+  `matched: molecular dynamics, machine learning`
+
+
+---
+
+
 ## 2026-09-22
 
 25 new item(s). Top hit: **Design of High-Ionic-Conductivity Doped Li2ZrO3 Cathode Coating with Machine Learning Interatomic Potentials** (score 56, Crossref).
