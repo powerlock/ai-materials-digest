@@ -6,6 +6,176 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-24
+
+19 new item(s). Top hit: **Probing the generalisability of Machine learning interatomic potentials for Zeolites with inelastic neutron sp** (score 47, Science and Technology Facilities Council).
+
+### Journal articles
+
+- **[Probing the generalisability of Machine learning interatomic potentials for Zeolites with inelastic neutron spectroscopy](https://doi.org/10.5286/isis.e.rb2620468-1)**
+  <br>*Science and Technology Facilities Council | 2026-09-23 | doi:10.5286/isis.e.rb2620468-1 | score 47*
+  <br>Mr Harry Richardson, Dr Alexander O'Malley, Dr Alin Elena, Dr Andrew McCluskey
+
+  Machine learning interatomic potentials (MLIPs) have emerged as a transformative tool in molecular simulation, offering ab-initio accuracy at a fraction of the computational cost of electronic-structure based methods. This makes them compelling tools for modelling zeolites industrially critical materials whose catalytic and adsorption behaviour depends on large-scale framework flexibility and complex guest host interactions. However, agreement of MLIPs with the static first-principles calculations used for training does not guarantee physically accurate dynamics, and robust experimental validation remains essential. This proposal combines inelastic neutron spectroscopy (INS) measurements wit...
+
+  `matched: machine learning interatomic potential, experimental validation, interatomic potential, machine learning, zeolite`
+
+
+- **[Probing the generalisability of Machine learning interatomic potentials for Zeolites with inelastic neutron spectroscopy](https://doi.org/10.5286/isis.e.rb2620468)**
+  <br>*Science and Technology Facilities Council | 2026-09-23 | doi:10.5286/isis.e.rb2620468 | score 47*
+  <br>Mr Harry Richardson, Dr Alexander O'Malley, Dr Alin Elena, Dr Andrew McCluskey
+
+  Machine learning interatomic potentials (MLIPs) have emerged as a transformative tool in molecular simulation, offering ab-initio accuracy at a fraction of the computational cost of electronic-structure based methods. This makes them compelling tools for modelling zeolites industrially critical materials whose catalytic and adsorption behaviour depends on large-scale framework flexibility and complex guest host interactions. However, agreement of MLIPs with the static first-principles calculations used for training does not guarantee physically accurate dynamics, and robust experimental validation remains essential. This proposal combines inelastic neutron spectroscopy (INS) measurements wit...
+
+  `matched: machine learning interatomic potential, experimental validation, interatomic potential, machine learning, zeolite`
+
+
+- **[A Comparative Study of Multiwalled WS 2 Nanotubes Using Universal Machine Learning Interatomic Potentials and an Atomistic Force Field](https://doi.org/10.1002/cphc.70575)**
+  <br>*ChemPhysChem | 2026-09-23 | doi:10.1002/cphc.70575 | score 39*
+  <br>Andrei V. Bandura, R. A. Évarestov, Alexei Kuzmin, Sergey I. Lukyanov
+
+  This study explores the properties of multiwalled WS 2 nanotubes using the CHGNet universal machine‐learning interatomic potential (uMLIP) and the atomistic force field previously developed by our team. For the first time, both the original (“vanilla”) and fine‐tuned uMLIPs were benchmarked against quantum chemical calculations and atomistic force field models for single‐walled and multiwalled nanotubes. The comparison reveals excellent agreement in structural features between the approaches, although the CHGNet uMLIP tends to underestimate interlayer interaction contributions, affecting certain energy‐related parameters. However, uMLIPs are a significantly less labor‐intensive alternative t...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, benchmark`
+
+
+- **[COFFlow: Building-Block-Based Generative Modeling for Two-Dimensional Covalent Organic Framework Discovery](https://doi.org/10.1021/acs.chemmater.6c01524)**
+  <br>*Chemistry of Materials | 2026-09-24 | doi:10.1021/acs.chemmater.6c01524 | score 26*
+  <br>Yuanhui Pan, Yunrui Yan, Cheng Hui Zeng, Jirui Jin
+
+  Abstract Two-dimensional covalent organic frameworks (2D COFs) are promising porous materials with vast yet largely unexplored design space arising from diverse building blocks (BBs) and crystal topologies. Efficient crystal structure prediction (CSP) and inverse design of 2D COFs therefore remain highly challenging. Here, we develop COFFlow, a flow-matching-based generative framework for CSP of 2D COFs. A COF-specific deconstruction algorithm is introduced to consistently decompose periodic COFs into experimentally relevant BBs across diverse topologies, enabling direct generative assembly of periodic frameworks from BB representations. Systematic evaluations demonstrate that COFFlow can re...
+
+  `matched: crystal structure prediction, generative model, inverse design, crystal`
+
+
+- **[MARS: Feature-guided physics-informed deep learning for real-time battery health and lifetime prediction](https://doi.org/10.1109/tte.2026.3734031)**
+  <br>*IEEE Transactions on Transportation Electrification | 2026-09-24 | doi:10.1109/tte.2026.3734031 | score 13*
+  <br>Izabayo, Zhao
+
+  `matched: deep learning, battery`
+
+
+- **[A Sentinel-3 Foundation Model for Ocean Color](https://doi.org/10.1109/tgrs.2026.3732792)**
+  <br>*IEEE Transactions on Geoscience and Remote Sensing | 2026-09-24 | doi:10.1109/tgrs.2026.3732792 | score 12*
+  <br>Dawson, Vandaele, Taylor, Moffat et al.
+
+  `matched: foundation model, mof`
+
+
+- **[Novel Dynamic Integrated Surrogate Model for Dual-Sided Permanent Magnet Arc Motor Optimization](https://doi.org/10.1109/tie.2026.3730086)**
+  <br>*IEEE Transactions on Industrial Electronics | 2026-09-24 | doi:10.1109/tie.2026.3730086 | score 11*
+  <br>Fang, Lin, Yang, Xu et al.
+
+  `matched: surrogate model, magnet`
+
+
+- **[UpTCR: a unified progressive knowledge transfer foundation model for robust T-cell receptor-antigen binding recognition](https://www.nature.com/articles/s41467-026-78075-x)**
+  <br>*Nature Communications | 2026-09-24 | doi:10.1038/s41467-026-78075-x | score 9*
+
+  `matched: foundation model`
+
+
+- **[A Sentinel-3 foundation model for ocean color_supp1-3732792.pdf](https://doi.org/10.1109/tgrs.2026.3732792/mm1)**
+  <br>*Crossref | 2026-09-24 | doi:10.1109/tgrs.2026.3732792/mm1 | score 9*
+  <br>Dawson
+
+  `matched: foundation model`
+
+
+- **[DRD-SSALNet: A Dual-Representation Decoupled Self-Supervised Active Learning Network for Remote Sensing Semantic Segmentation](https://doi.org/10.1109/lgrs.2026.3736365)**
+  <br>*IEEE Geoscience and Remote Sensing Letters | 2026-09-24 | doi:10.1109/lgrs.2026.3736365 | score 7*
+  <br>Shi, Wang, Bai
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](http://arxiv.org/abs/2609.28013v1)**
+  <br>*arXiv | 2026-09-23 | score 44*
+  <br>Jonas Busk, Emil J. P. Frost, Yogeshwaran Krishnan, Henrik H. Kristoffersen et al.
+
+  Machine-learned interatomic potentials (MLIPs) for solid-liquid interfaces in advanced materials applications, e.g., electrochemistry, catalysis and corrosion, require training data that samples both liquid environments, the solid and the interface itself. We present SoLiD26, a curated solid-liquid interface dataset, containing 15.4 million first-principles atomic structures with up to 576 atoms and 15 chemical elements for training and evaluating MLIPs. The structures were compiled from density functional theory (DFT) calculations performed in studies of solid-liquid interfaces, with most configurations originating from ab initio molecular dynamics (AIMD) simulations. Each record contains a...
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, molecular dynamics, dataset, dft`
+
+
+- **[OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery](https://doi.org/10.48550/arxiv.2609.26402)**
+  <br>*arXiv (Cornell University) | 2026-09-22 | doi:10.48550/arxiv.2609.26402 | score 37*
+  <br>Thomas Egg, Harry W. Sullivan, Ellad B. Tadmor, Stefano Martiniani
+
+  The discovery of novel inorganic materials drives technological breakthroughs in critical fields such as computing and energy storage. Generative AI has promised to accelerate the materials discovery pipeline, but state-of-the-art flow and diffusion models remain bottlenecked by the cost of proposing candidate materials. To address this, we introduce OMatG-flash, an all-atom flow map for inorganic crystal structure prediction (CSP) and de novo generation (DNG). OMatG-flash is a Pareto-optimal inference engine for materials, sampling candidate materials with an order of magnitude fewer inference steps and less wall-clock time than existing flow and diffusion models while demonstrating benchma...
+
+  `matched: crystal structure prediction, materials discovery, diffusion model, generative ai, inorganic, crystal`
+
+
+- **[Topology-Stratified Materials Discovery with A Flow-Based Generative Model](https://doi.org/10.48550/arxiv.2609.26547)**
+  <br>*arXiv (Cornell University) | 2026-09-22 | doi:10.48550/arxiv.2609.26547 | score 28*
+  <br>Jingyi Zhou, Oyshee Chowdhury, Noah Oyeniran, Chongze Hu
+
+  Accurate generation of crystal structures is the foundation to the discovery of high-performance materials for extreme-environment applications, such as aerospace, additive manufacturing, and fusion energy systems. Although generative modeling has emerged as a promising approach for crystal design, its performance remains limited by the complex crystal structures and diverse chemical compositions. In this work, we develop UFO-MGen, a universal flow-based generative model that learns topological features of Wyckoff representations and leverages this information to accurately generate crystals across vast structural and chemical spaces. Compared with state-of-the-art generative models, UFO-MGe...
+
+  `matched: materials discovery, generative model, crystal`
+
+
+- **[Machine learning-enabled prediction of dynamic vertical triplet energies underscores the role of vibrational anharmonicity in energy transfer](https://doi.org/10.26434/chemrxiv.15007359/v2)**
+  <br>*Crossref | 2026-09-24 | doi:10.26434/chemrxiv.15007359/v2 | score 26*
+  <br>Popescu
+
+  The concept of triplet energy has long served as the operative predictor of energy transfer reactivity in photochemistry, yet its reliable computational determination remains challenging for many organic systems. The recently introduced dynamic vertical triplet energy (DvTE) framework recasts triplet energy as a statistical ensemble of instantaneous vertical gaps sampled from molecular dynamics trajectories, achieving mean absolute errors of 1.7 kcal/mol against experimental data, but at a computational cost that limits its broader application. Here, DvTE-ML is introduced, which extends machine-learned interatomic potentials to dynamic, ensemble-based prediction of excited-state properties....
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics, machine learning`
+
+
+- **[Physics-guided inverse design of Co-based superalloys using machine learning and multi-objective optimization for enhanced $γ'$ solvus temperature](http://arxiv.org/abs/2609.27405v1)**
+  <br>*arXiv | 2026-09-23 | score 23*
+  <br>Prashil S. Joshi
+
+  The discovery of next-generation Co-based superalloys with improved high-temperature stability is hindered by the vast compositional design space and complex interactions among alloying elements governing gamma-prime phase stability. This study presents a physics-informed machine learning framework for the inverse design of Co-based superalloys with higher gamma-prime solvus temperature while accounting for alloy density. Four descriptors representing atomic size mismatch (delta-MV), mixing enthalpy (Delta-Hm), electronegativity mismatch (delta-EN), and valence electron concentration mismatch (delta-VEC) were used to characterize the chemistry governing phase stability. Regression algorithms...
+
+  `matched: machine learning, inverse design, alloy`
+
+
+- **[An open benchmark for machine learning-based polymer property prediction](http://arxiv.org/abs/2609.27036v1)**
+  <br>*arXiv | 2026-09-22 | score 23*
+  <br>Robert W. Learsch, Nicholas Liesen, Daniel S. Levine, Anna M. Hiszpanski et al.
+
+  Polymer property prediction lacks open, standardized benchmarks that enable rigorous comparison of machine-learning methods, with existing resources covering only a narrow fraction of polymer architectures, such as homopolymers. We introduce Polymer Benchmark 2026 (PolyBench26), an open dataset comprising nearly 250,000 polymer-property datapoints across eight physical properties, including data from experimental measurements, density functional theory, and molecular dynamics. The benchmark supports four evaluation tasks across homopolymers and alternating, random, and block copolymers: in-distribution property prediction, dataset-size scaling, repeat-unit complexity, and transfer to held-ou...
+
+  `matched: density functional theory, molecular dynamics, machine learning, benchmark, dataset, polymer`
+
+
+- **[Towards Extended Active Learning for Modelling Ferroelectric Switching: the Need for 'Gold Standards'](http://arxiv.org/abs/2609.27108v1)**
+  <br>*arXiv | 2026-09-22 | score 16*
+  <br>Jeffrey R. Reimers, Wenbin Zhang, Zhe Su, Musen Li et al.
+
+  For the purpose of modelling ferroelectric switching in wurtzite-structured materials, four cost-effective density-functional theory (DFT) methods (PBE, PBEsol, r2SCAN, and r2SCAN-rVV10) are considered and compared to various ab initio approaches based on the random-phase approximation (RPA), including RPA with singles corrections (RPAR+S), as well as second-order Møller-Plesset perturbation theory (MP2). The purpose is to determine whether an ab initio approach could act as a 'gold standard' for estimating the reliability of DFT, thus determining an optimal DFT method for use in exhaustive tasks such as the training of machine-learning interatomic potentials (MLIP) for large-scale simulatio...
+
+  `matched: interatomic potential, active learning, dft`
+
+
+- **[A hybrid Fourier neural operator–convolutional surrogate for predicting geometrically necessary dislocation density in polycrystalline aluminum](https://openalex.org/W7214130285)**
+  <br>*INRIA a CCSD electronic archive server | 2026-09-21 | score 10*
+  <br>Yen Fred Woguem, Brieuc Conan‐Guez, Frédéric Pennerath, Lydia Boudjeloud-Assala
+
+  Geometrically necessary dislocation (GND) density (ρGND), which arise from the accommodation of plastic strain gradients, play an important role in strain hardening and damage initiation in polycrystals, but the computational cost of full-field crystal plasticity simulations can limit their applicability to design-scale applications. We train deep-learning surrogates on 1394 crystal plasticity fast Fourier transform (CPFFT) simulations of aluminum microstructures to predict local ρGNDdensity from crystal orientation, dislocation density, and strain. On 140 held-out test structures, a baseline convolutional neural network (CNN) produces spatially flat predictions and fails to reproduce grain-...
+
+  `matched: neural network, crystal`
+
+
+### Industry labs and code releases
+
+- **[Efficient MoE Training for Biological Foundation Models](https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/)**
+  <br>*NVIDIA Developer Blog | 2026-09-24 | score 13*
+
+  As language models grow, scaling dense architectures becomes increasingly expensive. In a dense transformer, every token passes through every layer, so adding...
+
+  `matched: foundation model, transformer`
+
+
+---
+
+
 ## 2026-09-23
 
 19 new item(s). Top hit: **Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defec** (score 44, arXiv (Cornell University)).
