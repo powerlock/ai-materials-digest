@@ -6,6 +6,144 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-25
+
+15 new item(s). Top hit: **Combining physical models with dynamically acquired experimental information for the optimization of multicomp** (score 19, arXiv).
+
+### Journal articles
+
+- **[Optimal Design of the Microwave Oven Magnetic Shunt Transformer Using Physics-Based Equivalent Circuit Model and GNN-Guided NSGA-III Method](https://doi.org/10.3390/electronics15194423)**
+  <br>*Electronics | 2026-09-25 | doi:10.3390/electronics15194423 | score 17*
+  <br>Gao, Su, Zhang, Shi et al.
+
+  Magnetic shunt transformers (MSTs) used in microwave ovens are designed with deliberately high leakage inductance for current limiting and voltage regulation. This requirement couples the core dimensions, winding parameters, shunt geometry, material cost, and power losses. This paper presents an optimal design strategy in which every candidate is evaluated by a physics-based equivalent circuit model and a graph neural network (GNN)-guided non-dominated sorting genetic algorithm III (NSGA-III) optimizer. In the proposed framework, all candidate designs are evaluated for their electromagnetic performance, while the GNN is used only to adapt the crossover probability, mutation probability, and...
+
+  `matched: graph neural network, neural network, transformer, magnet`
+
+
+- **[Topology-aware E(3)-equivariant learning for physically consistent piezoelectric tensor prediction](https://www.nature.com/articles/s41524-026-02331-3)**
+  <br>*npj Computational Materials | 2026-09-25 | doi:10.1038/s41524-026-02331-3 | score 11*
+
+  `matched: equivariant`
+
+
+- **[Cross-Scale Machine Learning for Polymer Materials: Linking Molecular Structure, Mesoscale Organization, Processing History and Macroscopic Properties](https://doi.org/10.1021/acsapm.6c02610.s001)**
+  <br>*Crossref | 2026-09-25 | doi:10.1021/acsapm.6c02610.s001 | score 11*
+
+  `matched: machine learning, polymer`
+
+
+- **[CorrTie: Correction-Aware Tie-Breaking for Active Learning with Vision-Language Models](https://doi.org/10.1007/978-981-92-5699-0_26)**
+  <br>*Lecture Notes in Computer Science | 2026-09-25 | doi:10.1007/978-981-92-5699-0_26 | score 7*
+  <br>Phan, Thai, Nguyen, Nguyen et al.
+
+  `matched: active learning`
+
+
+- **[Multimodality of Antimony Selenide: Emerging Multifunctional Semiconductor for Optoelectronics, Photonics, Catalysis, and Biomedical Applications](https://doi.org/10.1002/admt.71336)**
+  <br>*Advanced Materials Technologies | 2026-09-25 | doi:10.1002/admt.71336 | score 7*
+  <br>Gour, Kumar, Thakur
+
+  ABSTRACT Semiconducting materials are central to a wide range of technologies, from everyday electronics to advanced artificial intelligence systems. In recent years, significant research has focused on identifying alternatives to conventional semiconductors. Among these, Antimony Selenide (Sb 2 Se 3 ) is a promising p‐type semiconductor (which can also be converted to n‐type via doping) with a tunable bandgap of 1.1–1.7 eV, excellent broadband near‐infrared (NIR) optical absorption, including in the telecommunication wavelength range, and high stability. Its strong chemical robustness and environmentally friendly, non‐toxic composition make it an attractive candidate for a wide range of app...
+
+  `matched: artificial intelligence, semiconductor`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Combining physical models with dynamically acquired experimental information for the optimization of multicomponent NASICON fast ionic conductors in a self-driving laboratory](http://arxiv.org/abs/2609.29344v1)**
+  <br>*arXiv | 2026-09-24 | score 19*
+  <br>Bernardus Rendy, Yuxing Fei, Tanjin He, Xiaochen Yang et al.
+
+  Elemental substitution within existing structural frameworks is a widely applied strategy for developing advanced materials. Yet, optimizing target properties while maintaining phase purity usually demands extensive trial-and-error, which becomes substantially inefficient when navigating a complex design space. Here, we introduce a strategy that simultaneously and dynamically assesses composition-dependent synthetic accessibility and target properties via aggregated cost functions that guide autonomous experimentation in a truly self-driving and self-learning mode. Specifically, we developed a cost-guided autonomous solid-state synthesis (CASS) framework and demonstrate its application in th...
+
+  `matched: self-driving lab`
+
+
+- **[From Control-Oriented AI to Generative AI: A Conceptual Review of Artificial Intelligence in Engineering](https://doi.org/10.2139/ssrn.7524650)**
+  <br>*Crossref | 2026-09-25 | doi:10.2139/ssrn.7524650 | score 18*
+  <br>Ehtiwesh
+
+  Artificial intelligence (AI) has been an integral part of engineering research and practice for decades, supporting applications such as intelligent control, system identification, fault diagnosis, optimization, and autonomous decision-making. However, the rapid emergence of Generative AI and Large Language Models (LLMs) has reshaped perceptions of AI, often equating artificial intelligence with generative technologies alone. This review reexamines the evolution of AI in engineering, tracing its development from control-oriented intelligent systems to contemporary generative models. Using a structured review methodology informed by the PRISMA framework, the study synthesizes major developmen...
+
+  `matched: artificial intelligence, large language model, generative model, generative ai`
+
+
+- **[Influence of exchange–correlation functional on machine-learnt interatomic potentials accuracy: a systematic study in borosilicate glasses](https://doi.org/10.26434/chemrxiv.15002879/v2)**
+  <br>*Crossref | 2026-09-25 | doi:10.26434/chemrxiv.15002879/v2 | score 17*
+  <br>Shi, Brugnoli, Coudert
+
+  Machine-learnt interatomic potential (MLIP) has emerged as a strategy to accelerate molecular simulations, offering the promise of quantum chemical accuracy at a cost close to that of classical force fields. They are commonly trained on reference data obtained at the DFT level, which is itself a sufficiently affordable method to generate thousands of configurations and associated energies and atomic forces. However, this approach suffers from an elephant in the room, which is rarely addressed: the choice of exchange–correlation functional. Although it is understood to have a crucial impact on the accuracy of the description of interactions and therefore on the results of the molecular simula...
+
+  `matched: interatomic potential, dft`
+
+
+- **[Development of a Surrogate Model for Predicting Hydraulic Fracture Geometry Using Proppant Distribution](https://doi.org/10.2139/ssrn.7524652)**
+  <br>*Crossref | 2026-09-25 | doi:10.2139/ssrn.7524652 | score 16*
+  <br>Islam, Hu, SHENG, Shahid et al.
+
+  Efficient prediction of hydraulic fracture geometry is critical for unconventional reservoir development. Traditional numerical simulations though accurate are computationally intensive and require expert configuration while machine learning (ML) offers a faster and more flexible alternative. This study presents a novel surrogate modeling framework that predicts fracture geometry 50×200 proppant distribution grid directly from geological data, well data and pumping parameters data. A dataset of 180 GOHFER simulations was prepared and processed using Python to extract key fracturing design inputs for training and validation. The model integrates a Feedforward Neural Network (FNN) with an atte...
+
+  `matched: machine learning, surrogate model, neural network, dataset`
+
+
+- **[Growth-Inspired Graph Generation and Inverse Design of Mechanical Lattices via Dot Matrices Database Augmentation and GCNN](http://arxiv.org/abs/2609.29024v1)**
+  <br>*arXiv | 2026-09-24 | score 15*
+  <br>Weiyun Xu, Jiamu Liu
+
+  Natural load-bearing and transport networks are not assembled in a single step; they emerge through a temporally ordered process of growth, branching, reinforcement, and loop formation. Inspired by this developmental logic, this work introduces a morphogenetic graph-generation framework for mechanical lattices in which a discrete dot matrix provides potential nodes and the final architecture is created by sequential cross-layer and intra-layer growth. The same rule is visualized in two dimensions as a leaf-vein-like developmental sequence and implemented in three dimensions on a 3x3x3 nodal matrix containing 27 candidate nodes. A dataset of distinct three-dimensional lattices was evaluated b...
+
+  `matched: inverse design, dataset`
+
+
+- **[The Mechanics of Delta Learning: Target Design for Generalizable Scientific Machine Learning](http://arxiv.org/abs/2609.28782v1)**
+  <br>*arXiv | 2026-09-23 | score 15*
+  <br>Kareem M. Gameel, Ihor Neporozhnii, Sjoerd Hoogland, Oleksandr Voznyy
+
+  In scientific machine learning, $Δ$-learning trains models on residual errors relative to physical baselines, assuming that more accurate baselines with smaller residual scales inherently improve downstream performance. Here, we demonstrate that residual scale alone is an insufficient heuristic for learnability. Evaluating molecular graph neural networks on total energy targets, we show that complex local descriptor baselines can yield small residual targets that are disproportionately rough within architecture-informed proxy spaces and harder to learn relative to their scale. Conversely, semi-empirical baseline reduces both scale and normalized roughness, improving in-domain and out-of-doma...
+
+  `matched: graph neural network, machine learning, neural network`
+
+
+- **[Slip System Structure Aware Neural Network for Local Slip Evolution Prediction in Crystal Plasticity: From Unseen Grain Testing to Independent RVE Validation](https://doi.org/10.2139/ssrn.7524565)**
+  <br>*Crossref | 2026-09-25 | doi:10.2139/ssrn.7524565 | score 14*
+  <br>Yan, Huang, Xu, Shan et al.
+
+  Accurate prediction of local plastic evolution requires accounting for differences in slip-system activity and interactions among slip systems. This study develop a Slip System Structure Aware Neural Network (SSA) to predict cumulative absolute shear strain increments between adjacent output frames. SSA combines shared processing with individual slip-system representations and state-dependent cross-system interactions. Comparisons use three controls with comparable parameter counts: a multilayer perceptron (MLP), a no-interaction SSA (NI-SSA), and a shared-encoding model with mean pooling. Evaluation covers unseen grains, offline cumulative history reconstruction conditioned on crystal plast...
+
+  `matched: neural network, crystal`
+
+
+- **[AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution](http://arxiv.org/abs/2609.30133v1)**
+  <br>*arXiv | 2026-09-24 | score 14*
+  <br>Ken J. Jenewein, Faezeh Habib Zadeh, Xiaoxiao Wang, Gustavo Malkomes et al.
+
+  Catalyzing acidic oxygen evolution at the proton-exchange-membrane water electrolysis (PEMWE) anode relies almost entirely on iridium or ruthenium, drawn from concentrated supply chains that constrain gigawatt-scale deployment. We report an artificial intelligence (AI)-guided, human-supervised closed-loop platform (>90% automation) integrating combinatorial sputter synthesis, high-throughput screening, machine-learning composition-property models, adaptive multi-objective optimization, and context-aware large-language-model reasoning, where lead catalysts advanced to long-term validation in 1 M H2SO4 at 10 mA cm-2. Navigating a combinatorial metal oxide space, the platform iteratively evalua...
+
+  `matched: high-throughput screening, artificial intelligence, catalyst`
+
+
+- **[Bridging the Training–Application Gap in Kohn–Sham Hamiltonian Learning through Dual-Space Supervision](https://doi.org/10.26434/chemrxiv.15009467/v1)**
+  <br>*Crossref | 2026-09-25 | doi:10.26434/chemrxiv.15009467/v1 | score 11*
+  <br>Wang, Zhang, Wei, Fu et al.
+
+  Predicting the Kohn–Sham Hamiltonian in density functional theory (DFT) via machine learning offers a promising pathway toward efficient electronic structure modeling. Existing models are typically trained by directly minimizing element-wise Hamiltonian matrix errors, yet a significant trainingapplication gap has been observed between Hamiltonian-space loss and errors in derived electronic properties, limiting their utility in practical applications. Noting that these properties are functions on the state space obtained by solving the Hamiltonian eigenvalue problem, this gap can be traced to a misalignment of the error metrics on the Hamiltonian space and its induced state space. The operato...
+
+  `matched: density functional theory, machine learning, dft`
+
+
+- **[A System-Independent Metadynamics Strategy for Reactive Training Data: Application to Gas-Phase Organic Reactions](http://arxiv.org/abs/2609.29105v1)**
+  <br>*arXiv | 2026-09-24 | score 9*
+  <br>Wanrun Jiang, Jinzhe Zeng, Manyi Yang, Tong Zhu et al.
+
+  General-purpose machine-learning interatomic potentials (MLIPs) for organic reactions need to be accurate on both the minimum energy path (MEP) for static evaluation of basic properties and the broader configurational space for simulating reaction dynamics. Existing general datasets for gas-phase organic reactions rely on quasi-static relaxation that confines configurations to the MEP vicinity, so models trained on them could fail on direct molecular-dynamics trajectories; the gap is methodological, not a question of dataset size. We introduce a spatiotemporally resolved, system-independent collective variable (CV): Cartesian RMSD within randomly partitioned local domains against an expandin...
+
+  `matched: interatomic potential, dataset`
+
+
+---
+
+
 ## 2026-09-24
 
 19 new item(s). Top hit: **Probing the generalisability of Machine learning interatomic potentials for Zeolites with inelastic neutron sp** (score 47, Science and Technology Facilities Council).
