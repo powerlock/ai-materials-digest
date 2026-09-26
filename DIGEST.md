@@ -6,6 +6,57 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-26
+
+5 new item(s). Top hit: **Physics-Informed Dual-Path Deep Learning for Joint SOH and RUL Estimation of EV Batteries Under Variable-Tempe** (score 14, Crossref).
+
+### Journal articles
+
+- **[Unveiling the calcium-sensing receptor mechanism underlying kokumi perception in Wuding chicken soup: An integrated machine learning and molecular dynamics simulations](https://doi.org/10.1016/j.lwt.2026.119987)**
+  <br>*LWT | 2026-09-26 | doi:10.1016/j.lwt.2026.119987 | score 13*
+  <br>Yang, Tan, Tang, Liao et al.
+
+  `matched: molecular dynamics, machine learning`
+
+
+- **[Site-Selective Initial Hydration of Boron at Multicomponent Borosilicate GlassWater Interfaces Revealed Using Machine Learning Molecular Dynamics](https://doi.org/10.1021/acsami.6c09704.s002)**
+  <br>*Crossref | 2026-09-26 | doi:10.1021/acsami.6c09704.s002 | score 13*
+
+  `matched: molecular dynamics, machine learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Physics-Informed Dual-Path Deep Learning for Joint SOH and RUL Estimation of EV Batteries Under Variable-Temperature Fast Charging Conditions](https://doi.org/10.2139/ssrn.7528619)**
+  <br>*Crossref | 2026-09-26 | doi:10.2139/ssrn.7528619 | score 14*
+  <br>Kumar, Kamal Tripathi, Pant, A. Patel et al.
+
+  Electric vehicle (EV) safety and driving range heavily depend on precise battery health tracking, especially under aggressive fast-charging and varying thermal conditions. Traditional data-driven models often struggle when predicting outside their training envelope, yielding physically unrealistic health trajectories. To address this, we present a physics - guided dual-stream deep learning model designed for simultaneous State-of-Health (SOH) and Remaining Useful Life (RUL) estimation under fast-charging and changing ambient temperatures. Our architecture splits the representation learning into two specialized paths: a 1D Convolutional Neural Network (1D-CNN) isolates localized spatial marke...
+
+  `matched: neural network, deep learning, battery`
+
+
+- **[GRACE: Graph-Structured Cross-Market Recommendation with Context-Aware Transfer Learning](https://doi.org/10.2139/ssrn.7528626)**
+  <br>*Crossref | 2026-09-26 | doi:10.2139/ssrn.7528626 | score 10*
+  <br>Öztürk, Öğüdücü
+
+  Cross-market recommendation faces critical challenges in transferring knowledge across culturally and behaviorally diverse regions, where severe data sparsity, heterogeneous user preferences, and negative transfer hinder recommendation quality. Existing approaches primarily rely on ID-based or text-based encoders, often overlooking the structural regularities embedded in user--item interaction graphs that provide more robust transferable signals.We propose GRACE, a framework that integrates graph neural network architectures with context-aware transfer learning for cross-market recommendation. By combining graph-based propagation with self-attention mechanisms, GRACE learns transferable stru...
+
+  `matched: graph neural network, neural network`
+
+
+- **[Artificial Intelligence-Assisted Design of Affinity Peptide Ligand for Botulinum Neurotoxin A](https://doi.org/10.2139/ssrn.7528337)**
+  <br>*Crossref | 2026-09-26 | doi:10.2139/ssrn.7528337 | score 9*
+  <br>Song, Pei, Zhang
+
+  Botulinum neurotoxin A (BoNT/A) is among the deadliest natural toxins but is also an approved therapeutic in neurology and aesthetic medicine. Its purification by affinity chromatography remains challenging, where the identification of a specific ligand for this protein is crucial. Herein, the artificial intelligence (AI) model IDProMat was combined with docking, molecular dynamics (MD) simulations, and Molecular Mechanics Poisson–Boltzmann Surface Area (MM-PBSA) calculations to design a peptide ligand for BoNT/A. A heptapeptide NFISLLG targeting the light-chain epitope QFECK of BoNT/A was obtained, with a calculated binding free energy of -7.17 ± 1.15 kcal/mol contributed by electrostatic i...
+
+  `matched: artificial intelligence, molecular dynamics`
+
+
+---
+
+
 ## 2026-09-25
 
 15 new item(s). Top hit: **Combining physical models with dynamically acquired experimental information for the optimization of multicomp** (score 19, arXiv).
