@@ -6,6 +6,156 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-27
+
+16 new item(s). Top hit: **Trained MACE machine-learned interatomic potential and DFT reference dataset for Janus BrClM (M = Ti, Zr, Hf) ** (score 41, Zenodo (CERN European Organization for Nuclear Research)).
+
+### Journal articles
+
+- **[Trained MACE machine-learned interatomic potential and DFT reference dataset for Janus BrClM (M = Ti, Zr, Hf) monolayers](https://doi.org/10.5281/zenodo.22951096)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-25 | doi:10.5281/zenodo.22951096 | score 41*
+  <br>Babar Ali, Ahsan Javed, Muhammad Ali, Zijing Lin
+
+  This deposit contains the trained MACE machine-learned interatomic potential (MLIP) for Janus BrClM (M = Ti, Zr, Hf) monolayers and its DFT reference dataset: the production model checkpoint, 592 training and 65 validation structures with per-composition breakdown, held-out test sets (finite-temperature AIMD, strain, Cl vacancy), and the training script. Reference energies and forces were computed with VASP (PBE, PAW, 550 eV cutoff); training used AMSGrad, learning rate 5 × 10⁻⁴, 80 epochs, loss weights E/F/S = 1.5/10/5, random seed 123. Companion dataset to the PCCP manuscript on BrClM monolayers.
+
+  `matched: machine-learned interatomic potential, interatomic potential, dataset, dft`
+
+
+- **[Trained MACE machine-learned interatomic potential and DFT reference dataset for Janus BrClM (M = Ti, Zr, Hf) monolayers](https://doi.org/10.5281/zenodo.22951097)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-25 | doi:10.5281/zenodo.22951097 | score 41*
+  <br>Babar Ali, Ahsan Javed, Muhammad Ali, Zijing Lin
+
+  This deposit contains the trained MACE machine-learned interatomic potential (MLIP) for Janus BrClM (M = Ti, Zr, Hf) monolayers and its DFT reference dataset: the production model checkpoint, 592 training and 65 validation structures with per-composition breakdown, held-out test sets (finite-temperature AIMD, strain, Cl vacancy), and the training script. Reference energies and forces were computed with VASP (PBE, PAW, 550 eV cutoff); training used AMSGrad, learning rate 5 × 10⁻⁴, 80 epochs, loss weights E/F/S = 1.5/10/5, random seed 123. Companion dataset to the PCCP manuscript on BrClM monolayers.
+
+  `matched: machine-learned interatomic potential, interatomic potential, dataset, dft`
+
+
+- **[Computational screening of alloy-type H2/O2 recombination catalysts: A hybrid approach using machine-learning interatomic potentials, molecular dynamics, and Bayesian optimization](https://doi.org/10.1016/j.mtchem.2026.104064)**
+  <br>*Materials Today Chemistry | 2026-09-24 | doi:10.1016/j.mtchem.2026.104064 | score 31*
+  <br>Yusuke TATEISHI, Louise Magdalene Botha, Alina E. Kozhukhova, Manabu Sugimoto
+
+  Hydrogen safety is a critical issue for hydrogen-based energy and industrial systems, where controlling hydrogen accumulation is essential to mitigate the risk of serious explosions. Passive autocatalytic recombiners (PARs) with equipped catalysts address this challenge by catalyzing the conversion of H 2 and O 2 to H 2 O. Although pristine Pt remains the benchmark catalyst in terms of activity, its high cost motivates the search for low-cost alternatives that can operate under severe conditions, including high temperatures, high humidity, and fluctuating reactant concentrations. Here, we computationally screen Pt-based alloy catalysts as cost-effective alternatives to pristine Pt using a hy...
+
+  `matched: interatomic potential, molecular dynamics, benchmark, catalyst, alloy`
+
+
+- **[lrcfmd/pigen: PIGEN: Physics-Informed Generative Diffusion Model for Crystal Structure Exploration Beyond Known Motifs](https://doi.org/10.5281/zenodo.22941518)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-24 | doi:10.5281/zenodo.22941518 | score 25*
+  <br>Andrij Vasylenko
+
+  PIGEN is a physics-informed generative diffusion framework designed for the controlled generation of crystal structures beyond known structural prototypes. By conditioning generation on chemically grounded compactness and diversity descriptors, PIGEN enables sampling of physically plausible yet structurally novel candidates, suitable for downstream integration with crystal structure prediction (CSP) workflows. This repository contains: The end-to-end PIGEN training and sampling code. Implementation of compactness (C) and MLED diversity descriptors. Interfaces for structure validation. Scripts to reproduce the generation, filtering, and benchmarking experiments reported in the manuscript. PIG...
+
+  `matched: crystal structure prediction, diffusion model, benchmark, crystal`
+
+
+- **[lrcfmd/pigen: PIGEN: Physics-Informed Generative Diffusion Model for Crystal Structure Exploration Beyond Known Motifs](https://doi.org/10.5281/zenodo.22941519)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-24 | doi:10.5281/zenodo.22941519 | score 25*
+  <br>Andrij Vasylenko
+
+  PIGEN is a physics-informed generative diffusion framework designed for the controlled generation of crystal structures beyond known structural prototypes. By conditioning generation on chemically grounded compactness and diversity descriptors, PIGEN enables sampling of physically plausible yet structurally novel candidates, suitable for downstream integration with crystal structure prediction (CSP) workflows. This repository contains: The end-to-end PIGEN training and sampling code. Implementation of compactness (C) and MLED diversity descriptors. Interfaces for structure validation. Scripts to reproduce the generation, filtering, and benchmarking experiments reported in the manuscript. PIG...
+
+  `matched: crystal structure prediction, diffusion model, benchmark, crystal`
+
+
+- **[Where Foundation Machine-Learning Potentials Fail for Iron-Sulfide Defect Kinetics: Failure Modes, Pre-Flight Checks, and a DFT Benchmark of Vacancy-Anchored Hydrogen Migration in Pyrite, Marcasite, Mackinawite, and Greigite](https://doi.org/10.5281/zenodo.20540263)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-25 | doi:10.5281/zenodo.20540263 | score 21*
+  <br>I.N. Morozov
+
+  This dataset and code package accompanies the study of foundation machine-learning interatomic potentials (MLIPs) for vacancy-anchored hydrogen migration in pyrite, marcasite, mackinawite and greigite. Foundation MLIPs offer inexpensive migration-barrier calculations, but their reliability for hydrogen defects in magnetic iron sulfides remains uncertain. We establish plane-wave DFT references at PBE, U = 0 for these four minerals. The electronic barriers for sulfur-to-sulfur transfer around an Fe vacancy are 43, 208, 268 and 236 meV for mackinawite, marcasite, pyrite and the lower-barrier greigite path, respectively. A second greigite edge gives 567 meV: the shorter edge has the higher barri...
+
+  `matched: interatomic potential, benchmark, dataset, magnet, dft`
+
+
+- **[Where Foundation Machine-Learning Potentials Fail for Iron-Sulfide Defect Kinetics: Failure Modes, Pre-Flight Checks, and a DFT Benchmark of Vacancy-Anchored Hydrogen Migration in Pyrite, Marcasite, Mackinawite, and Greigite](https://doi.org/10.5281/zenodo.22958549)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-25 | doi:10.5281/zenodo.22958549 | score 21*
+  <br>Igor N. Morozov
+
+  This dataset and code package accompanies the study of foundation machine-learning interatomic potentials (MLIPs) for vacancy-anchored hydrogen migration in pyrite, marcasite, mackinawite and greigite. Foundation MLIPs offer inexpensive migration-barrier calculations, but their reliability for hydrogen defects in magnetic iron sulfides remains uncertain. We establish plane-wave DFT references at PBE, U = 0 for these four minerals. The electronic barriers for sulfur-to-sulfur transfer around an Fe vacancy are 43, 208, 268 and 236 meV for mackinawite, marcasite, pyrite and the lower-barrier greigite path, respectively. A second greigite edge gives 567 meV: the shorter edge has the higher barri...
+
+  `matched: interatomic potential, benchmark, dataset, magnet, dft`
+
+
+- **[Review of AI-driven discovery of cathode anode and electrolyte materials for advancing sodium-ion batteries](https://doi.org/10.1007/s44508-026-00022-x)**
+  <br>*Discover Industrial Chemistry and Materials | 2026-09-25 | doi:10.1007/s44508-026-00022-x | score 20*
+  <br>Zhong Hu
+
+  Abstract Sodium-ion batteries (SIBs) are emerging as a sustainable, cost-effective alternative to lithium-ion batteries (LIBs) for grid storage, electric vehicles, and electronics. However, commercialization depends on overcoming the performance bottlenecks in energy density, kinetic rates, and safety. Artificial Intelligence (AI) and machine learning (ML) are accelerating this shift by enabling a transition from empirical “trial-and-error” approach to data-driven, predictive “closed-loop autonomous” material discovery. This review covers AI-driven discovery advancements in SIB materials, including layered oxides/polyanionic/Prussian blue analogues cathodes, hard carbon/alloy-type/anode-free...
+
+  `matched: artificial intelligence, machine learning, electrolyte, cathode, alloy`
+
+
+- **[High-Performance Prediction of Thermodynamic Property of NaNO3–NaCl–NaF Molten Salt by Deep Potential Molecular Dynamics Simulation for High-Temperature Thermal Application](https://doi.org/10.1021/acs.jpcb.6c04441)**
+  <br>*The Journal of Physical Chemistry B | 2026-09-24 | doi:10.1021/acs.jpcb.6c04441 | score 19*
+  <br>Heqing Tian, Xianyou Lan, Tianyu Liu
+
+  Abstract Nitrate molten salts are widely applied in concentrating solar power due to their excellent thermodynamic properties. However, conventional experimental methods struggle to accurately measure the thermodynamic properties of molten salts and thoroughly analyze their microscopic structures. The deep potential molecular dynamics (DPMD) method provides a novel approach for investigating the structures and thermodynamic characteristics of molten salts. By integrating machine learning (ML) with the deep potential GENerator (DP-GEN) active learning algorithm, we developed a high-fidelity interatomic potential function of NaNO3–NaCl–NaF molten salt. The structure and thermodynamic propertie...
+
+  `matched: interatomic potential, molecular dynamics, machine learning, active learning`
+
+
+- **[Molecular modelling of high-entropy alloys: from quantum to atomistic, and machine learning](https://www.nature.com/articles/s41524-026-02319-z)**
+  <br>*npj Computational Materials | 2026-09-26 | doi:10.1038/s41524-026-02319-z | score 13*
+
+  `matched: machine learning, alloy`
+
+
+- **[Projected Hessian learning: Fast curvature supervision for accurate machine-learning interatomic potentials](https://doi.org/10.1088/2632-2153/aeac9b)**
+  <br>*Machine Learning Science and Technology | 2026-09-25 | doi:10.1088/2632-2153/aeac9b | score 13*
+  <br>Austin Rodriguez, Justin Smith, Sakib Matin, Nicholas Lubbers
+
+  Abstract The Hessian matrix of second derivatives contains substantially richer information about the local geometry of the potential energy surface than energies and forces alone. Although incorporating full Hessians into machine-learning interatomic potential (MLIP) training can significantly improve accuracy and robustness, the quadratic computational and memory cost of explicitly constructing and storing Hessian matrices has limited its practical use. Here, we introduce Projected Hessian Learning (PHL), a scalable second-order training framework that incorporates curvature information using only Hessian–vector products (HVPs). By avoiding explicit Hessian construction and instead project...
+
+  `matched: interatomic potential`
+
+
+- **[Integration of artificial intelligence in renewable polymers recycling](https://doi.org/10.1016/b978-0-443-27739-9.00010-4)**
+  <br>*Elsevier eBooks | 2026-09-25 | doi:10.1016/b978-0-443-27739-9.00010-4 | score 9*
+  <br>Mariangeles Salas, Ronald Márquez, Lokendra Pal
+
+  `matched: artificial intelligence, polymer`
+
+
+- **[Performance changes in automated lesion detection under federated learning with sequential institution addition](https://doi.org/10.1007/s11548-026-03795-w)**
+  <br>*International Journal of Computer Assisted Radiology and Surgery | 2026-09-27 | doi:10.1007/s11548-026-03795-w | score 6*
+  <br>Nomura, Hanaoka, Yamada, Takenaga et al.
+
+  Abstract Purpose Federated learning (FL) enables multiple institutions to collaboratively train machine learning models while keeping data local and has attracted attention in medical image processing, including computer-aided detection (CAD). In FL, performance is expected to improve through retraining as additional institutions participate. The purpose of this study was to investigate how CAD software performance changes as the number of participating institutions is sequentially increased within an FL framework. Methods We used two types of CAD software for cerebral aneurysm detection in magnetic resonance (MR) angiography images and brain metastasis detection in contrast-enhanced T1-weig...
+
+  `matched: machine learning, magnet`
+
+
+- **[When Avatars Debate: Design and Evaluation of an LLM-Based Debate Platform for Educational Applications](https://doi.org/10.1007/978-3-032-38618-2_14)**
+  <br>*IFIP Advances in Information and Communication Technology | 2026-09-27 | doi:10.1007/978-3-032-38618-2_14 | score 6*
+  <br>Cvitković, Batistić, Maffei, Ljubić et al.
+
+  Abstract Large language models (LLMs) create new opportunities for interactive learning environments that foster critical thinking and exposure to diverse perspectives. This paper introduces a prototype e-learning system that uses these models to conduct argumentative debates between digital avatars representing opposing viewpoints on a given topic. The debates are generated using locally deployed LLMs, enabling controlled, scalable discussion scenarios while avoiding reliance on external cloud services. By dynamically presenting contrasting arguments, the system is designed to encourage learners to consider alternative perspectives. To support active engagement with the debate content, the...
+
+  `matched: large language model, active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Combining physical models with dynamically acquired experimental information for the optimization of multicomponent NASICON fast ionic conductors in a self-driving laboratory](https://doi.org/10.48550/arxiv.2609.29344)**
+  <br>*arXiv (Cornell University) | 2026-09-24 | doi:10.48550/arxiv.2609.29344 | score 19*
+  <br>Bernardus Rendy, Yuxing Fei, Tanjin He, Xiaochen Yang
+
+  Elemental substitution within existing structural frameworks is a widely applied strategy for developing advanced materials. Yet, optimizing target properties while maintaining phase purity usually demands extensive trial-and-error, which becomes substantially inefficient when navigating a complex design space. Here, we introduce a strategy that simultaneously and dynamically assesses composition-dependent synthetic accessibility and target properties via aggregated cost functions that guide autonomous experimentation in a truly self-driving and self-learning mode. Specifically, we developed a cost-guided autonomous solid-state synthesis (CASS) framework and demonstrate its application in th...
+
+  `matched: self-driving lab`
+
+
+- **[A System-Independent Metadynamics Strategy for Reactive Training Data: Application to Gas-Phase Organic Reactions](https://doi.org/10.48550/arxiv.2609.29105)**
+  <br>*arXiv (Cornell University) | 2026-09-24 | doi:10.48550/arxiv.2609.29105 | score 9*
+  <br>姜万润, Jinzhe Zeng, Manyi Yang, Tong Zhu
+
+  General-purpose machine-learning interatomic potentials (MLIPs) for organic reactions need to be accurate on both the minimum energy path (MEP) for static evaluation of basic properties and the broader configurational space for simulating reaction dynamics. Existing general datasets for gas-phase organic reactions rely on quasi-static relaxation that confines configurations to the MEP vicinity, so models trained on them could fail on direct molecular-dynamics trajectories; the gap is methodological, not a question of dataset size. We introduce a spatiotemporally resolved, system-independent collective variable (CV): Cartesian RMSD within randomly partitioned local domains against an expandin...
+
+  `matched: interatomic potential, dataset`
+
+
+---
+
+
 ## 2026-09-26
 
 5 new item(s). Top hit: **Physics-Informed Dual-Path Deep Learning for Joint SOH and RUL Estimation of EV Batteries Under Variable-Tempe** (score 14, Crossref).
