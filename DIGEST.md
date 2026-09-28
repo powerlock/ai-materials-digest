@@ -6,6 +6,197 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-28
+
+20 new item(s). Top hit: **Machine Learning Interatomic Potentials for Modeling Solid-State Batteries** (score 40, Chemistry of Materials).
+
+### Journal articles
+
+- **[Machine Learning Interatomic Potentials for Modeling Solid-State Batteries](https://doi.org/10.1021/acs.chemmater.6c01051)**
+  <br>*Chemistry of Materials | 2026-09-28 | doi:10.1021/acs.chemmater.6c01051 | score 40*
+  <br>Phuthi, Wei, Li, Majumdar et al.
+
+  Abstract Atomistic simulations can provide critical insights into the fundamental behavior of battery materials. A necessary input for such simulations is a description of the potential energy surface (PES). Over the past decade, machine learning interatomic potentials (MLIPs) have emerged as a powerful approach to model the PES at near-first-principles accuracy with orders of magnitude lower computational cost. In this perspective, we examine the role of atomistic simulation in battery research, especially in the context of the capabilities afforded by MLIPs. We outline their advantages and trade-offs relative to ab initio methods and discuss how they enable the prediction of key intrinsic...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, battery`
+
+
+- **[Benchmark data and scripts: MACE-MP-0 evaluation cost, per-task orchestration overhead, and GPU energy for 120 hypothetical metal-organic frameworks](https://doi.org/10.5281/zenodo.23002311)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-27 | doi:10.5281/zenodo.23002311 | score 30*
+  <br>Naveen Goel, Tridip Das, William A. Goddard
+
+  This dataset accompanies the manuscript "Infrastructure Challenges in Scaling AI-Driven Materials Discovery: A Critical Review" by N. Goel, T. Das, and W. A. Goddard III (submitted to Computational Materials Science). It contains the structures, scripts, and raw data for a controlled single-node measurement comparing machine-learning interatomic potential (MLIP) evaluation cost with per-task workflow overheads, and the GPU energy of MLIP relaxations, for hypothetical metal-organic frameworks (MOFs). CONTENTSmofs/ - 120 hypothetical MOFs (CIF) generated with PORMAKE 0.2.3 (random seed 0), 30 in each of four size bins (0-300, 300-600, 600-1000, 1000-2000 atoms per cell), spanning 99 topologies...
+
+  `matched: metal-organic framework, interatomic potential, materials discovery, benchmark, dataset, mof`
+
+
+- **[Benchmark data and scripts: MACE-MP-0 evaluation cost, per-task orchestration overhead, and GPU energy for 120 hypothetical metal-organic frameworks](https://doi.org/10.5281/zenodo.23002312)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-27 | doi:10.5281/zenodo.23002312 | score 30*
+  <br>Naveen Goel, Tridip Das, William A. Goddard
+
+  This dataset accompanies the manuscript "Infrastructure Challenges in Scaling AI-Driven Materials Discovery: A Critical Review" by N. Goel, T. Das, and W. A. Goddard III (submitted to Computational Materials Science). It contains the structures, scripts, and raw data for a controlled single-node measurement comparing machine-learning interatomic potential (MLIP) evaluation cost with per-task workflow overheads, and the GPU energy of MLIP relaxations, for hypothetical metal-organic frameworks (MOFs). CONTENTSmofs/ - 120 hypothetical MOFs (CIF) generated with PORMAKE 0.2.3 (random seed 0), 30 in each of four size bins (0-300, 300-600, 600-1000, 1000-2000 atoms per cell), spanning 99 topologies...
+
+  `matched: metal-organic framework, interatomic potential, materials discovery, benchmark, dataset, mof`
+
+
+- **[SLUSCHI-UP: A web infrastructure for SLUSCHI melting-temperature calculations using universal machine-learning interatomic potentials](https://doi.org/10.1016/j.commatsci.2026.115108)**
+  <br>*Computational Materials Science | 2026-09-27 | doi:10.1016/j.commatsci.2026.115108 | score 28*
+  <br>Qi‐Jun Hong
+
+  Melting temperature is a critical property for high-temperature materials design, but first-principles melting calculations based on finite-temperature molecular dynamics can require substantial computational resources. The SLUSCHI method reduces this cost by using small-cell solid–liquid coexistence simulations and statistical analysis of many short molecular-dynamics trajectories. Here I present SLUSCHI-UP , a deployed web service for atomistic melting-temperature estimation that couples the SLUSCHI workflow to selectable pretrained universal machine-learning interatomic potentials (uMLIPs) and asynchronous GPU execution. Users submit a crystal structure through a Materials Project identif...
+
+  `matched: interatomic potential, molecular dynamics, materials project, materials design, crystal`
+
+
+- **[Intelligent Design of Offshore Jacket Structures Based on Topology Optimization and Graph Neural Networks](https://doi.org/10.1115/omae2026-174737)**
+  <br>*Volume 1: Offshore Technology | 2026-09-28 | doi:10.1115/omae2026-174737 | score 19*
+  <br>Ge, Guo, Wang, Li et al.
+
+  Abstract This paper proposes an integrated intelligent design framework for offshore jacket platforms, merging gradient-based topology optimization with generative design based on graph neural networks. The first component utilizes a differentiable optimization technique that updates member sizes. This process minimizes both structural volume and compliance, while satisfying displacement and diameter-to-thickness constraints. This approach generates a broad set of lightweight yet high-strength design alternatives for jacket platforms. The second component involves generating a large-scale dataset of optimized jacket structures, which are then represented as graphs to train a heteroscedastic...
+
+  `matched: graph neural network, neural network, dataset`
+
+
+- **[Physics Based Machine Learning Surrogate Model for Real-Time Mooring Condition Assessment](https://doi.org/10.1115/omae2026-182350)**
+  <br>*Volume 1: Offshore Technology | 2026-09-28 | doi:10.1115/omae2026-182350 | score 16*
+  <br>Das, Maroju, Shakkari
+
+  Abstract Monitoring mooring conditions is critical for the safe operation of floating offshore platforms, as line failures can result in substantial economic losses, operational downtime, and safety hazards. Present-day mooring monitoring includes direct and indirect load measurement systems, as well as artificial neural networks (ANNs) for detecting failures. Direct load measurement systems, such as load cells, are intrusive, expensive, and difficult to maintain, while indirect systems, such as inclinometers, overcome many of these shortcomings and are generally more reliable. ANN-based approaches can detect failures after they occur but require extensive training with simulated inputs. Tra...
+
+  `matched: machine learning, surrogate model, neural network`
+
+
+- **[Foundation model-powered deep learning of endometrial histology for predicting the cumulative live birth of an in vitro fertilization cycle](https://doi.org/10.1371/journal.pdig.0001744)**
+  <br>*PLOS Digital Health | 2026-09-28 | doi:10.1371/journal.pdig.0001744 | score 15*
+  <br>Xu, Chen, Ruan, Yang et al.
+
+  Objective and reproducible assessment of endometrial receptivity is essential for optimizing in vitro fertilization (IVF) success, yet traditional histological dating suffers from observer variability. This study investigated whether deep learning of hematoxylin and eosin histology images could support cumulative live birth prediction in IVF. An end-to-end ResNet-18 was compared with a UNI2-h-based pipeline, using UNI2-h as a frozen feature extractor. Ten-fold cross-validation ensembles were developed from natural-cycle endometrial biopsies and evaluated in an internal held-out cohort with live birth outcomes. Additional phase-based evaluation was performed, which tested the performance in d...
+
+  `matched: foundation model, deep learning`
+
+
+- **[Transfer Learning Approach for Improved Wind Farm Wake Prediction Using Multi-Fidelity Convolutional Neural Networks](https://doi.org/10.1115/omae2026-181761)**
+  <br>*Volume 1: Offshore Technology | 2026-09-28 | doi:10.1115/omae2026-181761 | score 12*
+  <br>Weilmann Rasmussen, van der Laan, Peña, Réthoré et al.
+
+  Abstract Assessing energy yield and optimising layouts requires accurate predictions of offshore wind farm cluster wakes and far-wake velocity deficits. Computationally efficient engineering wake models often fall short in predicting long-distance wake losses when compared against measurements and computational fluid dynamics (CFD) simulations. This study presents a two-stage transfer learning strategy that employs an Attention Residual U-Net (ARU-Net). This encoder-decoder convolutional neural network (CNN) functions as a rapid surrogate model for flow fields. The network is initially pre-trained on a large dataset of engineering-model simulations using an engineering wake model to capture...
+
+  `matched: surrogate model, neural network, dataset`
+
+
+- **[Toward Sustainable AI in Digital Financial Services: A Hybrid Data-Grounded Architecture for Reducing Generative Model Dependency](https://doi.org/10.3390/su18199907)**
+  <br>*Sustainability | 2026-09-28 | doi:10.3390/su18199907 | score 12*
+  <br>Ozdenizci Kose, Coskun, Baysalli
+
+  AI assistants are increasingly integrated into digital financial services; however, relying on generative language models for response generation can introduce challenges related to response reliability, data exposure, and resource requirements. This study presents a hybrid data-grounded architecture that selectively uses generative AI while maintaining reliable natural language interaction. The proposed task-oriented system combines semantic intent matching, slot and entity extraction, reconciliation, and response routing. Instead of using the generative model to describe every response, the architecture constructs template-based responses directly from structured institutional data wheneve...
+
+  `matched: generative model, generative ai`
+
+
+- **[A green solvent screening tool for emerging materials via uncertainty aware, transformer enhanced transfer learning](https://doi.org/10.1038/s41598-026-72415-z)**
+  <br>*Scientific Reports | 2026-09-28 | doi:10.1038/s41598-026-72415-z | score 11*
+  <br>Kouroudis, Ternes, Gu, Siddiqui et al.
+
+  Abstract Accurate prediction of solubility remains a central challenge across materials science and sustainable chemistry. In particular, due to emerging technologies like organic and hybrid photovoltaics, batteries, and catalysis, solvent usage is expected to increase significantly within the coming years. Therefore, substituting solvents with greener alternatives is vital. This is where machine learning can make a substantial impact. However, the limited data on critical parameters of solubility significantly constraints machine learning efficacy. In this work, we transfer a pre-trained foundational model on QM9 targets to our application with minimal data requirements. Additionally, the p...
+
+  `matched: machine learning, photovoltaic, transformer`
+
+
+- **[🌍🤖 AI, RESPONSIBLE SCALE & NANOTECHNOLOGY CIVILIZATION AT THE LIMIT Artificial Intelligence, NanoEHS, Circularity, Autonomous Laboratories, Standards, Responsible Scale-Up, and the Emerging Engineering of Nanotechnology Civilization](https://doi.org/10.5281/zenodo.23001576)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-27 | doi:10.5281/zenodo.23001576 | score 11*
+  <br>33
+
+  🌍🤖 AI, RESPONSIBLE SCALE & NANOTECHNOLOGY CIVILIZATION AT THE LIMIT Artificial Intelligence, NanoEHS, Circularity, Autonomous Laboratories, Standards, Responsible Scale-Up, and the Emerging Engineering of Nanotechnology Civilization Can nanotechnology accelerate without risk, waste, and governance falling behind? This flagship research volume explores a question that begins in materials science but ultimately extends far beyond it. What happens when artificial intelligence, autonomous laboratories, inverse design, high-throughput experimentation, nanoscale manufacturing, and programmable matter dramatically increase the speed at which new material systems can be proposed? Discovery may accel...
+
+  `matched: artificial intelligence, inverse design`
+
+
+- **[🌍🤖 AI, RESPONSIBLE SCALE & NANOTECHNOLOGY CIVILIZATION AT THE LIMIT Artificial Intelligence, NanoEHS, Circularity, Autonomous Laboratories, Standards, Responsible Scale-Up, and the Emerging Engineering of Nanotechnology Civilization](https://doi.org/10.5281/zenodo.23001577)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-09-27 | doi:10.5281/zenodo.23001577 | score 11*
+  <br>33
+
+  🌍🤖 AI, RESPONSIBLE SCALE & NANOTECHNOLOGY CIVILIZATION AT THE LIMIT Artificial Intelligence, NanoEHS, Circularity, Autonomous Laboratories, Standards, Responsible Scale-Up, and the Emerging Engineering of Nanotechnology Civilization Can nanotechnology accelerate without risk, waste, and governance falling behind? This flagship research volume explores a question that begins in materials science but ultimately extends far beyond it. What happens when artificial intelligence, autonomous laboratories, inverse design, high-throughput experimentation, nanoscale manufacturing, and programmable matter dramatically increase the speed at which new material systems can be proposed? Discovery may accel...
+
+  `matched: artificial intelligence, inverse design`
+
+
+- **[Rapid Prediction and Source Identification of Accidental River Pollution Using a Hybrid Machine Learning and Optimization Framework](https://doi.org/10.3390/su18199895)**
+  <br>*Sustainability | 2026-09-28 | doi:10.3390/su18199895 | score 10*
+  <br>Jiang, Meng, Chen, Yang et al.
+
+  Rapid prediction and source identification of sudden river pollution are essential for emergency response and sustainable water-environment management, whereas conventional numerical models are often computationally intensive and too inefficient for time-critical emergency applications. This study developed an integrated framework combining process-based numerical simulation, machine-learning surrogate modeling, and intelligent optimization for the Lushui River reach in Chongyang County, Hubei Province, China. A coupled hydrodynamic–water quality model was established, with its hydrodynamic component calibrated and validated against observed water-level data. Latin hypercube sampling (LHS) w...
+
+  `matched: machine learning, surrogate model`
+
+
+- **[Attribution assignment for deep-generative sequence models enables interpretability analysis using positive-only data](https://doi.org/10.1371/journal.pcbi.1014805)**
+  <br>*PLOS Computational Biology | 2026-09-28 | doi:10.1371/journal.pcbi.1014805 | score 8*
+  <br>Frank, Widrich, Akbar, Klambauer et al.
+
+  Generative machine learning models offer a powerful framework for therapeutic design, by efficiently exploring large spaces of biological sequences enriched for desirable properties. Unlike supervised learning methods, which require both positive and negative labeled data, generative models such as LSTMs can be trained solely on positively labeled sequences, for example, high-affinity antibodies. This is particularly advantageous in biological settings where negative data are scarce, unreliable, or biologically ill-defined. However, the lack of attribution methods for generative models has hindered the ability to extract interpretable biological insights from such models. To address this gap...
+
+  `matched: generative model, machine learning`
+
+
+- **[An Active Learning Framework for Long-Term Prediction of Mean Outcrossing Rates in Wave-Induced Ship Responses](https://doi.org/10.1115/omae2026-174907)**
+  <br>*Volume 2A: Structures, Safety and Reliability | 2026-09-28 | doi:10.1115/omae2026-174907 | score 7*
+  <br>Takami, Kitahara, Maki, Nielsen et al.
+
+  Abstract To assess the safety of a ship over its operational lifespan, it is imperative to undertake a long-term prediction (LTP) of the ex-ceedance probability of a stipulated design value of the ship’s response, accounting for the statistical characteristics of the ocean environment that the ship is likely to encounter. Taking wave-induced ship responses as an example, the LTP is typically attained by means of computing a Monte Carlo integration of multiple short-term predictions (STPs) under various sea states and operational conditions. However, as the numerical model leveraged for STPs becomes more computationally expensive, directly applying Monte Carlo integration over individual STPs...
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Efficient Screening of Inhibitors for Copper Film Chemical Mechanical Polishing by Integrating Machine Learning, DFT Calculations, and Experimental Validation](https://doi.org/10.2139/ssrn.7537655)**
+  <br>*Crossref | 2026-09-28 | doi:10.2139/ssrn.7537655 | score 25*
+  <br>Song, Niu, Zhou, Wu et al.
+
+  Abstract: Effective regulation of copper (Cu) corrosion is essential for achieving highquality chemical mechanical polishing (CMP) of Cu interconnects, yet conventional inhibitor screening remains empirical and experimentally intensive. Here, we develop an integrated machine learning (ML)-density functional theory (DFT) workflow for data-driven screening of inhibitors for Cu CMP. An XGBoost classifier with an accuracy of 83.9% prioritized three hydroxamic acid derivatives, benzoic hydroxoacetic acid (BHA), salicylic hydroxoacetic acid (SHA), and caproic hydroxoacetic acid (CHA). DFT analyses of frontier molecular orbitals, electrostatic potentials, and Fukui indices indicated that SHA exhibi...
+
+  `matched: density functional theory, experimental validation, machine learning, dft`
+
+
+- **[Energetically Driven Structure Matching for Autonomous Total X-ray Scattering Experiments](http://arxiv.org/abs/2609.30852v1)**
+  <br>*arXiv | 2026-09-25 | score 19*
+  <br>Emil J. P. Frost, Martin A. Karlsen, Jonas H. Jensen, Rodrigo Moreno et al.
+
+  The emergence of autonomous laboratories motivates rapid conversion of experimental data into reliable atomistic models on time-scales compatible with closed-loop optimization. Here we develop an energetically driven structure matching framework for analysis during ongoing total X-ray scattering experiments. Using data from gold nanoparticles, we match against idealized spherical, octahedral, decahedral, and icosahedral geometries, their machine-learned interatomic potential (MLIP)-relaxed structures, and molecular dynamics (MD) ensembles. Idealized models are fast to generate but can misassign morphology and systematically underestimate size by neglecting surface relaxation, strain, and the...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics`
+
+
+- **[Topology-aware AI for porous materials: from structural representation to counterfactual testing and inverse design](https://doi.org/10.21203/rs.3.rs-10932955/v1)**
+  <br>*Crossref | 2026-09-28 | doi:10.21203/rs.3.rs-10932955/v1 | score 16*
+  <br>Enninful
+
+  Abstract Artificial intelligence is reshaping porous material design, but most workflows still compress complex void spaces into scalar descriptors that cannot uniquely specify transport pathways. This Perspective surveys the progression from adsorption-derived descriptors and pore-network models to persistent topology, geometric learning, digital twins and multimodal structural inference. It identifies a weakness: predictive accuracy rarely establishes that a model has learned connectivity. We position counterfactual topology twins—descriptor-matched structures with deliberately different networks—as a unifying stress test. Combined with grouped validation, calibrated uncertainty and realiz...
+
+  `matched: artificial intelligence, inverse design`
+
+
+- **[Reinterpreting Simulation Results for New Materials Applications with a Large Language Model](https://doi.org/10.26434/chemrxiv.15009527/v1)**
+  <br>*Crossref | 2026-09-28 | doi:10.26434/chemrxiv.15009527/v1 | score 14*
+  <br>Kim
+
+  In materials discovery, computational results generated for one application may retain value for deciding what to investigate next. Here we use a large language model to reinterpret archived adsorption calculations in the context of framework chemistry and pore structure across three metal–organic framework case studies. Xenon affinity directly guided Xe/Kr selection, while dilute-limit methane affinity transferred more effectively than finite-pressure uptake. We then asked whether archived results could suggest new applications without a predefined target. CO2 results prompted four separation directions, CO2/N2, CO2/CH4, C2H2/CO2, and C2H6/CO2, none of which was recovered when the same mate...
+
+  `matched: large language model, materials discovery`
+
+
+- **[Multivariate conformal uncertainty propagation in multitask atomistic simulation: Successes and pitfalls](http://arxiv.org/abs/2609.31384v1)**
+  <br>*arXiv | 2026-09-25 | score 10*
+  <br>Katharine Fisher, Michael Herbst, James Kermode, Youssef Marzouk
+
+  Machine learning has become the standard tool for the design of interatomic potentials which balance efficiency and accuracy, but uncertainty quantification remains an open problem. Multiscale simulations introduce an additional challenge: robust uncertainty quantification across scales. Even within one scale, computations are often multistage, producing a sequence of target quantities, each dependent on the previous, and each with some uncertainty. Conformal methods have emerged as a model agnostic framework for recalibrating surrogate predictions to produce sets which contain the truth at a user-specified rate. For multistage workflows, we require uncertainty calibration for multiple chemi...
+
+  `matched: interatomic potential, machine learning`
+
+
+---
+
+
 ## 2026-09-27
 
 16 new item(s). Top hit: **Trained MACE machine-learned interatomic potential and DFT reference dataset for Janus BrClM (M = Ti, Zr, Hf) ** (score 41, Zenodo (CERN European Organization for Nuclear Research)).
