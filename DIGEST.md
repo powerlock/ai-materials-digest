@@ -6,6 +6,107 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-09-29
+
+10 new item(s). Top hit: **E3J: An Efficient and Open-Source Backend for Euclidean Equivariant Operations on GPU and TPU** (score 34, arXiv).
+
+### Journal articles
+
+- **[Room‐Temperature Anomalous Hall Effect and Out‐of‐Plane Spin–Orbit Torques in CoFe 2 O 4 ‐Buffered RuO 2](https://doi.org/10.1002/adfm.78734)**
+  <br>*Advanced Functional Materials | 2026-09-29 | doi:10.1002/adfm.78734 | score 11*
+  <br>Zheng, Lan, Bai, Zhang et al.
+
+  ABSTRACT Realizing room‐temperature out‐of‐plane spin currents remains a key challenge for low‐power perpendicular spin–orbit torque devices. Oxides with strong spin–orbit coupling are highly desirable spin sources for spintronic applications, and RuO 2 has recently attracted widespread attention owing to its excellent spin transport properties. However, the generation of out‐of‐plane spin polarization is limited to specific crystallographic orientations, restricting materials design flexibility and practical device integration. Here, we demonstrate that interfacial magnetic coupling between RuO 2 and an insulating ferromagnet can provide an effective route to circumvent this constraint. In...
+
+  `matched: materials design, crystal, magnet`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[E3J: An Efficient and Open-Source Backend for Euclidean Equivariant Operations on GPU and TPU](http://arxiv.org/abs/2609.35099v1)**
+  <br>*arXiv | 2026-09-28 | score 34*
+  <br>Olivier Peltre, Armand Picard, Adrien Pichard, Miguel Bragança et al.
+
+  We present e3j, a fast Euclid-equivariance backend for geometric deep learning applications with JAX bindings for GPU and TPU. Leveraging both optimized CUDA and Pallas kernels and algorithmic improvements, the library achieves state-of-the-art throughput and runtime on both forward and backward paths. On a machine learning interatomic potential (MLIP) use case, it outperforms established backends, measuring up to 34% speed-up over cuEquivariance on water box NPT simulation using MACE, while remaining fully open source. E3j achieves over 80% efficiency over the H100 maximum memory bandwidth on tensor product operations, and in many cases more than doubles throughput of message passing convol...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, deep learning, equivariant, open-source`
+
+
+- **[Composition-Driven Metal-to-Semiconductor Transition and Enhanced Phonon Transport in B-C substituted Clathrate](http://arxiv.org/abs/2609.32894v1)**
+  <br>*arXiv | 2026-09-26 | score 32*
+  <br>Ghulam Hussain, Dario Massa, Rajibul Islam, Magdalena Birowska et al.
+
+  Establishing chemical design rules that simultaneously control the electronic structure and thermal transport is a long-sought goal for heat-management and energy materials. Here, we demonstrate that a single B-to-C substitution changes the electron count and simultaneously reconstructs the bonding network and crystal structure, driving a metal-to-semiconductor transition while concurrently enhancing the lattice thermal conductivity. Using density-functional theory (DFT) and machine-learned interatomic potentials (MLIPs), we investigate the electronic structure, lattice dynamics, and phonon thermal transport in cubic BaB3C3 and its B-to-C-substituted tetragonal BaB2C4 structure. The substitu...
+
+  `matched: machine-learned interatomic potential, interatomic potential, semiconductor, crystal, phonon, dft`
+
+
+- **[Machine-learning-guided exploration of domain walls in the hybrid improper ferroelectric Ca3Ti2O7](http://arxiv.org/abs/2609.35346v1)**
+  <br>*arXiv | 2026-09-28 | score 22*
+  <br>Ida C. Skogvoll, Erik Fransson, Leo Ö. Westin, Benjamin A. D. Williamson et al.
+
+  Ruddlesden-Popper phases are highly tunable and naturally layered structures, in which polarization can arise via a hybrid improper ferroelectric mechanism. This enables a complex domain wall (DW) structure where multiple order parameters, like octahedral rotations, polar distortions and strain, interact. In this work, we explore the rich set of DW structures in prototypical Ca3Ti2O7, mapping out the DWs in the {100}, {110} and {001} pseudo-tetragonal planes using group theory and machine-learned interatomic potentials (MLIPs). The trained potential reproduces the density functional theory (DFT) order parameter and polarization profiles for all wall types and orientations considered. A charg...
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, dft`
+
+
+- **[Democratizing Atomistic Simulation Workflows for the AI Era with the Quantum Accelerator](http://arxiv.org/abs/2609.33823v1)**
+  <br>*arXiv | 2026-09-27 | score 18*
+  <br>Andrew S. Rosen, Naisargi Goyal, Brad Ayers, Vineet Bansal et al.
+
+  We present the Quantum Accelerator (QuAcc), an open-source workflow library for atomistic simulations with an emphasis on quantum-mechanical calculations. QuAcc provides predefined workflow recipes spanning first-principles electronic-structure methods, semiempirical and tight-binding approaches, classical potentials, and foundation machine-learned interatomic potentials (MLIPs). A central design feature of QuAcc is its separation of domain-specific scientific logic from the workflow engine used to orchestrate and execute calculations. Workflows are written as ordinary Python functions and can be executed with multiple supported workflow engines without modifying the underlying source code,...
+
+  `matched: machine-learned interatomic potential, interatomic potential, open-source`
+
+
+- **[Let CSP Be Your ANCHOR: Adaptive Crystal Search over Frozen Structure Priors](http://arxiv.org/abs/2609.33407v1)**
+  <br>*arXiv | 2026-09-27 | score 15*
+  <br>Emma Lei Hovmand, Jonas Elsborg, Melih Kandemir, Arghya Bhowmik
+
+  De novo crystal generation (DNG) models decide where to search in composition space and how to generate structures with one set of weights. We argue that discovery is better served by separating the two. A crystal structure prediction (CSP) model is a physical prior that should be improved by likelihood training, while rewards, including novelty measured against the search's own history, should act on a search over compositions. We introduce ANCHOR, a GRPO composition policy trained with multi-objective rewards around a frozen CSP model, and continuous adaptive novelty (CAN), a graded novelty score against known structures and a growing discovery history. Using the frozen CSP model as a fixe...
+
+  `matched: crystal structure prediction, crystal`
+
+
+- **[Harnessing Machine Learning and Composite Quantum Chemical Methods for Computing Accurate Bond Dissociation Energies of PFAS](https://doi.org/10.26434/chemrxiv.15009576/v1)**
+  <br>*Crossref | 2026-09-29 | doi:10.26434/chemrxiv.15009576/v1 | score 14*
+  <br>Ghosh, Nayak, Batra, Yamijala et al.
+
+  Designing efficient degradation pathways for per- and polyfluoroalkyl substances (PFAS) requires access to accurate bond dissociation energies (BDEs). Composite quantum chemical methods such as G4 provide high accuracy (<1 kcal mol–1) but are limited to small molecules. Density functional theory (DFT) can handle larger systems, but its results vary significantly with the choice of functional and basis set, raising concerns about reliability. Fragment-based methods like the connectivity-based hierarchy (CBH) and its modified form (mCBH) offer G4-level accuracy at DFT cost, but only when using large fragments. Since obtaining G4 energies for large fragments is computationally demanding, these...
+
+  `matched: density functional theory, machine learning, dft`
+
+
+- **[Beyond Expensive Simulations: Trustworthy Machine Learning Surrogates for Scalable Geophysical Predictions](https://doi.org/10.2139/ssrn.7541037)**
+  <br>*Crossref | 2026-09-29 | doi:10.2139/ssrn.7541037 | score 11*
+  <br>Seby, Okkonen, Suutala
+
+  This study investigates the development and evaluation of statistical machine learning surrogates to accelerate computationally expensive numerical simulations in geophysics. We focus on creating surrogates capable of predicting soil temperature profiles at various depths. To assess model reliability, we explore predictive uncertainty using Gaussian Processes and Monte Carlo Dropout with multilayer perceptrons. We implement active learning using two complementary strategies: one driven by model uncertainty and the other by acquisition functions. These methods aim to strategically select the most informative training points, thereby reducing labeling eﬀort while improving model performance. T...
+
+  `matched: machine learning, active learning`
+
+
+- **[AI-Assisted Identification of Magnetic Orders and Skyrmions](http://arxiv.org/abs/2609.35566v1)**
+  <br>*arXiv | 2026-09-28 | score 9*
+  <br>Haowen Yang, Sophia Huerta, Yingying Wu
+
+  Exotic magnetic orders in two-dimensional (2D) materials are attracting huge interest for energy-efficient spintronic applications, yet realizing robust high-temperature van der Waals antiferromagnets and topological magnetic states remains challenging. In this work, we develop a machine-learning framework for identifying magnetic orders and predicting magnetization using structural, compositional, and electronic information derived from the Materials Project. Fixed-length descriptors are constructed for two complementary tasks: ferromagnetic (FM) versus antiferromagnetic (AFM) classification and quantitative magnetization prediction. Magnetic order is classified using a LightGBM model train...
+
+  `matched: materials project, magnet`
+
+
+- **[CalibHyper: Chance-Corrected Relational Hypergraphs for Few-Shot Molecular Property Prediction](http://arxiv.org/abs/2609.33342v1)**
+  <br>*arXiv | 2026-09-27 | score 9*
+  <br>Linyu Li, Zhi Jin, Yuanpeng He, Dongming Jin et al.
+
+  Molecular property prediction is central to drug development and materials discovery, but experiments are costly and labeled data are scarce. Context-aware methods use auxiliary assay labels to support few-shot prediction, and recent work supervises property relations with label agreement. However, label agreement is sensitive to class marginals and does not directly capture dependence between properties. We propose CalibHyper, a chance-corrected relational hypergraph method based on the joint label distribution. CalibHyper subtracts an independence baseline from the ordered four-state label distribution and shrinks the residual according to the number of joint observations. A swap-equivaria...
+
+  `matched: materials discovery`
+
+
+---
+
+
 ## 2026-09-28
 
 20 new item(s). Top hit: **Machine Learning Interatomic Potentials for Modeling Solid-State Batteries** (score 40, Chemistry of Materials).
