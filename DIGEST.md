@@ -6,6 +6,148 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-01
+
+15 new item(s). Top hit: **A Machine-Learned Interatomic Potential Free-Energy Surface for the First Step of MIL-101(Cr) Secondary Buildi** (score 49, arXiv).
+
+### Journal articles
+
+- **[Acrylate Monomer Database: Refractive Index and Polarizability via Semi-Empirical DFTB+ and GA Optimization](https://openalex.org/W7215009906)**
+  <br>*University of Minnesota Digital Conservancy (University of Minnesota) | 2026-09-29 | score 28*
+  <br>João Duarte, Shruti Venkatram, Morgan Cencer, Traian Dumitrică
+
+  Dataset Applications: 1) Supervised Machine Learning: Train QSPR models (e.g., Random Forest, Graph Neural Networks) on SMILES representations using File 1 to predict optical properties directly from 2D molecular graphs. 2) Generative Model Benchmarking: Evaluate evolutionary or deep generative frameworks by comparing candidate distributions in File 2 against the DFTB+ baseline in File 1. 3) Optical Material Discovery: Screen candidates across both files for extreme refractive index values ($n 1.60$) for specialized optical coatings and polymer lenses.
+
+  `matched: graph neural network, generative model, machine learning, neural network, benchmark, dataset`
+
+
+- **[Toward automated discovery with generative models multimodal learning and closed loop workflows in inverse materials design](https://doi.org/10.1016/j.xcrp.2026.103561)**
+  <br>*Cell Reports Physical Science | 2026-10-01 | doi:10.1016/j.xcrp.2026.103561 | score 19*
+  <br>Anand Babu, Rogério Almeida Gouvêa, Gian‐Marco Rignanese
+
+  `matched: materials design, generative model`
+
+
+- **[Contrastive Conditional–Unconditional Alignment for Long-Tailed Diffusion Model](https://doi.org/10.1007/978-3-032-37520-9_23)**
+  <br>*Lecture Notes in Computer Science | 2026-10-01 | doi:10.1007/978-3-032-37520-9_23 | score 9*
+  <br>Chen, Villa, Liang, Fuxin et al.
+
+  `matched: diffusion model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[A Machine-Learned Interatomic Potential Free-Energy Surface for the First Step of MIL-101(Cr) Secondary Building Unit Formation](http://arxiv.org/abs/2609.38518v1)**
+  <br>*arXiv | 2026-09-29 | score 49*
+  <br>Orlando A. Mendible-Barreto, Yamil J. Colón
+
+  Metal-organic framework (MOF) self-assembly mechanisms remain poorly characterized because ab initio molecular dynamics (AIMD) are accurate but too computationally expensive to converge the free-energy surfaces (FES) that govern secondary building unit (SBU) nucleation and growth. This work addresses that limitation for the first step of MIL-101(Cr) SBU formation. Using MACE-POLAR-M, a long-range-aware equivariant machine-learned interatomic potential fine-tuned on a compact DFT reference dataset built from exploratory metadynamics, this work obtains a converged 2D FES for this step at a level of theory (ωB97M-V/def2-TZVPP) at which AIMD would be prohibitively expensive. The pre-trained mode...
+
+  `matched: machine-learned interatomic potential, metal-organic framework, interatomic potential, molecular dynamics, equivariant, dataset`
+
+
+- **[Cluster-based Structural Similarity for Dataset Visualization and Data Selection for Machine Learning Interatomic Potentials](http://arxiv.org/abs/2609.39984v1)**
+  <br>*arXiv | 2026-09-30 | score 46*
+  <br>Yuto Iwasaki, Miguel A. Caro
+
+  Machine learning interatomic potentials (MLIPs) are essential components for accelerating simulation-driven materials design. Data-efficient MLIP training relies on data-selection strategies that maximize structural diversity while limiting computationally expensive first-principles calculations. A key challenge in such strategies is evaluating structural similarity, which involves a trade-off between retaining information on individual atomic environments and reducing computational cost. Here, we propose similarity evaluation methods that achieve both representational fidelity and computational efficiency. Our method represents each structure using a small set of characteristic atomic envir...
+
+  `matched: machine learning interatomic potential, interatomic potential, materials design, machine learning, dataset`
+
+
+- **[Autonomous Materials Discovery Framework and Self-Healing Interface Architecture for High-Energy Solid-State Batteries: Operation SOLID GENESIS (サブタイトル / 和題: AGI駆動型自律材料探索による次世代全固体電池の開発基盤と界面自己修復アーキテクチャ)](https://doi.org/10.5281/zenodo.23072381)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-01 | doi:10.5281/zenodo.23072381 | score 37*
+  <br>Yoko Hasebe
+
+  Abstract (English) All-solid-state lithium secondary batteries (ASSBs) represent the foremost architecture for reconciling ultra-high energy density with non-negotiable intrinsic safety. However, severe bulk ionic transport bottlenecks within solid electrolytes and dynamic chemo-mechanical interface degradation (contact loss, interphase delamination, and lithium dendrite penetration during cycling) constitute persistent physical barriers to commercial viability. This treatise reports the theoretical framework and implementation architecture of "Operation SOLID GENESIS," an autonomous materials discovery platform integrating generative AI, Graph Neural Networks (GNNs / GNoME), and high-throug...
+
+  `matched: graph neural network, materials discovery, neural network, generative ai, electrolyte, gnome`
+
+
+- **[Autonomous Materials Discovery Framework and Self-Healing Interface Architecture for High-Energy Solid-State Batteries: Operation SOLID GENESIS (サブタイトル / 和題: AGI駆動型自律材料探索による次世代全固体電池の開発基盤と界面自己修復アーキテクチャ)](https://doi.org/10.5281/zenodo.23072382)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-01 | doi:10.5281/zenodo.23072382 | score 37*
+  <br>Yoko Hasebe
+
+  Abstract (English) All-solid-state lithium secondary batteries (ASSBs) represent the foremost architecture for reconciling ultra-high energy density with non-negotiable intrinsic safety. However, severe bulk ionic transport bottlenecks within solid electrolytes and dynamic chemo-mechanical interface degradation (contact loss, interphase delamination, and lithium dendrite penetration during cycling) constitute persistent physical barriers to commercial viability. This treatise reports the theoretical framework and implementation architecture of "Operation SOLID GENESIS," an autonomous materials discovery platform integrating generative AI, Graph Neural Networks (GNNs / GNoME), and high-throug...
+
+  `matched: graph neural network, materials discovery, neural network, generative ai, electrolyte, gnome`
+
+
+- **[Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction](http://arxiv.org/abs/2609.39773v1)**
+  <br>*arXiv | 2026-09-30 | score 31*
+  <br>Thomas Egg, Harry Winston Sullivan, Maya M. Martirossyan, Philipp Höllmer et al.
+
+  Crystal structure governs material properties, making crystal structure prediction (CSP) a fundamental problem in materials science. Generative models are a promising approach for solving this problem, but the prevalence of polymorphism, coupled with large unit cells and complex packing geometry, makes the molecular CSP task challenging for existing models. To address this, we introduce Coarse-Grained Open Materials Generation (CG-OMatG), an equivariant Riemannian flow-based generative model. CG-OMatG predicts molecular crystal structures \textit{via} a coarse-grained, hierarchical representation. CG-OMatG treats molecules as rigid bodies---performing both inter- and intra-molecular message...
+
+  `matched: crystal structure prediction, generative model, equivariant, crystal`
+
+
+- **[Enabling Domain-Specific Atomistic Models: A Machine Learning Potential for the Solid Acid Family](http://arxiv.org/abs/2609.38531v1)**
+  <br>*arXiv | 2026-09-29 | score 22*
+  <br>Jonas Hänseroth, Rose Asuka Baroness von Stackelberg, Christian Dreßler
+
+  Machine-learned interatomic potentials trained across the periodic table have made atomistic simulation broadly accessible, and specializing them to a single compound class is widely expected to improve accuracy. Yet examples remain scarce, and fewer still surpass universal models in speed or reach a higher level of electronic-structure theory. Here we present a potential that is universal within the class of water-free solid-state hydrogen-bond network mediated proton conductors rather than across chemistry and a database of 4.4 million first-principles configurations spanning 55 materials. It surpasses leading general-purpose potentials across this domain, recovering measured activation en...
+
+  `matched: machine-learned interatomic potential, interatomic potential, machine learning`
+
+
+- **[Thermal pathway reconstruction exposes a reliability gap for AI-guided materials design](https://doi.org/10.26434/chemrxiv.15009710/v1)**
+  <br>*Crossref | 2026-10-01 | doi:10.26434/chemrxiv.15009710/v1 | score 14*
+  <br>Lavinda
+
+  AI-guided materials design increasingly connects candidate generation with processing and experimental planning, yet recognizing a material’s final thermal endpoint is not the same as reconstructing how it gets there. We benchmarked closed-book reconstruction of source-qualified differential scanning calorimetry event maps for 30 molecular materials using GPT-5.6 Luna, GPT-6 Luna, GPT-5.6 Sol, and Claude Opus 5.5. In the primary API experiment, models recovered terminal melting in 194/216 opportunities (89.8%) but other thermal transitions and pathways in only 105/318 (33.0%). Additional frontier-model configurations reproduced this endpoint-pathway gap. Providing source-reported preparation...
+
+  `matched: materials design, benchmark`
+
+
+- **[Deep learning based nanopore detection and quantification from transmission electron microscopy images of zirconium corrosion oxides (CrispTEM)​](https://doi.org/10.2139/ssrn.7549486)**
+  <br>*Crossref | 2026-10-01 | doi:10.2139/ssrn.7549486 | score 12*
+  <br>Nama, Kumar, Choudhury, Grovenor et al.
+
+  Quantitative analysis of nanoporosity in zirconium (Zr) alloy corrosion oxides using Fresnel-contrast transmission electron microscopy (TEM) is challenging due to acquisition-dependent contrast, dataset variability, and the time and subjectivity associated with manual analysis. Here, we developed CrispTEM, a Python-based deep-learning workflow for automated segmentation and quantitative analysis of nanopores. The workflow provides a faster, more consistent, and reproducible approach to analysing nanoscale features in TEM images. Although demonstrated here for nanopore characterisation in Zr alloy corrosion oxides, CrispTEM can be retrained and adapted for other imaging conditions, TEM featur...
+
+  `matched: deep learning, dataset, alloy`
+
+
+- **[A latent-space extrapolation grade built into graph atomic cluster expansion foundation potentials](http://arxiv.org/abs/2609.40060v1)**
+  <br>*arXiv | 2026-09-30 | score 11*
+  <br>Yury Lysogorskiy, Anton Bochkarev, Ralf Drautz
+
+  Foundation machine-learning interatomic potentials cover broad configurational and chemical spaces, but their reliability can vary across the atomic environments encountered during a simulation. Here we introduce the calibrated Mahalanobis (CALM) extrapolation grade $γ$, a piecewise differentiable per-atom quantity integrated into GRACE foundation models and evaluated alongside energies and forces in a single model pass. We define $γ$ from nearest-cluster Mahalanobis distances in latent feature space, setting $γ=1$ from the training-distance distribution separately for each element and cluster. Controlled tests show that a normalized random projection of the invariant many-body basis detects...
+
+  `matched: interatomic potential, foundation model`
+
+
+- **[A strategic roadmap for an atomistic machine-learning ecosystem](http://arxiv.org/abs/2609.39090v1)**
+  <br>*arXiv | 2026-09-30 | score 7*
+  <br>Jörg Behler, Michele Ceriotti, Cecilia Clementi, Gábor Csányi et al.
+
+  Data-driven machine learning (ML) techniques have become an essential tool in many domains of science. Their application to atomistic simulations of matter is particularly widespread and impactful. This success is due largely to the existence of a well-developed and established physics-based modeling framework, ranging from first-principles electronic-structure calculations to molecular dynamics and statistical sampling, into which ML was integrated naturally to reshape long-standing trade-offs between accuracy, efficiency, and scale. Nevertheless, this integration raises both conceptual and practical challenges, from choosing between data-centric and physics-based modeling approaches to ada...
+
+  `matched: molecular dynamics, machine learning`
+
+
+- **[Discriminative-Generative Domain Generalization PersonRe-Identification via Identity-Domain Joint Prompting](https://doi.org/10.2139/ssrn.7549420)**
+  <br>*Crossref | 2026-10-01 | doi:10.2139/ssrn.7549420 | score 6*
+  <br>Yang, Wang, Li, Hou et al.
+
+  To address source-domain bias and identity-environment entanglement in domain generalization person re-identification (DG-ReID), we propose a novel discriminative-generative collaborative framework with identity-domain joint prompting. Unlike existing methods that exploit diffusion models merely for data augmentation or feature extraction, we repurpose a pre-trained diffusion model as a generative prior provider to regularize and enhance the discriminative ReID model.However, directly using diffusion latent features is problematic because the VAE latent spaceentangles identity semantics with nuisance factors, leading to poor interpretability and weakidentity separability. To resolve this, we...
+
+  `matched: diffusion model`
+
+
+- **[MyTm: An Automated Melting Temperature Calculation Toolkit](http://arxiv.org/abs/2609.39686v1)**
+  <br>*arXiv | 2026-09-30 | doi:10.17632/hdx3fwwxx8.1 | score 6*
+  <br>Y. S. Huang, H. X. Song, Y. Sun, J. L. Li et al.
+
+  Melting temperature calculation is one of the important topics in computational materials science. In high-throughput in silico screening and artificial intelligence assisted design of materials, it usually requires a rapid and autonomous assessment of the melting temperature of the target. Unfortunately, molecular dynamics (MD) simulations of the melting point require many cumbersome and manual operations, making large-scale calculation of the melting point challenging. In this work, we introduce MyTm, a toolkit that employs MD to automatically determine the melting point. The method is fully modularized, and by combining these modules, the program enables fully automated melting calculatio...
+
+  `matched: artificial intelligence, molecular dynamics`
+
+
+---
+
+
 ## 2026-09-30
 
 28 new item(s). Top hit: **Reweighting free energy profiles between universal machine learning interatomic potentials for fast consensus ** (score 42, Zenodo (CERN European Organization for Nuclear Research)).
