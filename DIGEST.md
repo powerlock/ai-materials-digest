@@ -6,6 +6,186 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-03
+
+20 new item(s). Top hit: **Convolutional Kernel-Embedded E (3)-Equivariant Networks (KEN): Overcoming Architectural Rigidity in Machine L** (score 59, Journal of Chemical Theory and Computation).
+
+### Journal articles
+
+- **[Convolutional Kernel-Embedded E (3)-Equivariant Networks (KEN): Overcoming Architectural Rigidity in Machine Learning Interatomic Potentials](https://doi.org/10.1021/acs.jctc.6c01109)**
+  <br>*Journal of Chemical Theory and Computation | 2026-10-02 | doi:10.1021/acs.jctc.6c01109 | score 59*
+  <br>Gautam Jha
+
+  Abstract Machine learning interatomic potentials (MLIPs) have emerged as scalable alternatives to first-principles methods such as density functional theory (DFT). Among them, E(3)-equivariant graph neural networks (GNNs) like PACE and MACE are highly accurate but structurally rigid, limiting the incorporation of rich, multichannel electronic descriptors. We introduce convolutional kernel-embedded E(3)-equivariant networks (KEN), a hybrid architecture that combines the local environmental extraction of 2D convolutional kernels with the many-body expressivity of an E(3)-equivariant GNN backbone. This design preserves symmetry while enabling flexible, multimodal input features without increasi...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, graph neural network, machine learning, neural network`
+
+
+- **[Representations of Atomic Environments and effects on Body-Ordering and Electrostatics on Machine-Learning Potentials](https://openalex.org/W7216833858)**
+  <br>*SDL | 2026-10-07 | score 25*
+  <br>Apolinario Miguel Tan
+
+  Machine learning interatomic potentials (MLIPs) achieve DFT-level accuracy by replacing rigid functional forms with neural network architectures that allow for much more effective regression at the cost of less intuitive representations. This thesis explores how representations of atomic environments used by MLIPs behave in two regimes: at short range in how body-ordered expansions converge with respect to their basis functions, and at long range, in improving modeling the electronic response of systems sensitive to electrostatic interactions. We determined that Atomic Cluster Expansions (ACE) are only able to recover the DFT dimer curve if the self-interactions inherent in their efficient t...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, neural network, dft`
+
+
+- **[ICDP: an irreducible Cartesian dynamic-attention potential for atomistic simulations](https://doi.org/10.1016/j.commatsci.2026.115125)**
+  <br>*Computational Materials Science | 2026-10-02 | doi:10.1016/j.commatsci.2026.115125 | score 19*
+  <br>Huaijuan Zang, Xuan Li, Yang Li, Jing Jin
+
+  Machine learning interatomic potentials (MLIPs) combine the computational efficiency of conventional empirical potentials with the predictive accuracy of first-principles methods and have substantially advanced materials science and atomistic simulation. Although Cartesian-coordinate representations of atomic environments offer conceptual simplicity and geometric intuitiveness, conventional reducible Cartesian tensors mix components of different rotational orders and contain redundant trace components. Moreover, the number of components increases as 3 ℓ with tensor rank, potentially increasing the complexity of high-order geometric representations and feature coupling. To address these limit...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Neural Posterior Estimation via Hierarchical Bayesian Distillation](https://doi.org/10.20381/ruor-32290)**
+  <br>*University of Ottawa - Library | 2026-10-02 | doi:10.20381/ruor-32290 | score 19*
+  <br>Sina Negarandeh
+
+  Solving inverse problems for spectral data is fundamentally hindered by data scarcity, ill-posedness, and the strict requirement for accurate uncertainty quantification (UQ). Addressing these challenges in the context of X-ray diffraction (XRD), an essential technique for materials discovery and structural health monitoring, we propose an amortized neural posterior estimation framework. Our approach distills a computationally expensive, physics-informed Bayesian teacher into a highly efficient conditional normalizing flow (CNF) student. By enforcing crystallographic constraints within our base generative model, we construct a representative synthetic training corpus to optimize the CNF, effe...
+
+  `matched: materials discovery, x-ray diffraction, generative model, crystal`
+
+
+- **[Machine-Learning Interatomic Potential for Temperature-Dependent Properties of Nb2AlC MAX Phase as a Bond Coat](https://doi.org/10.1016/j.jmrt.2026.10.001)**
+  <br>*Journal of Materials Research and Technology | 2026-10-01 | doi:10.1016/j.jmrt.2026.10.001 | score 16*
+  <br>Hayoung Son, Hyokyeong Kim, Jungdo Park, Seungtaek Lee
+
+  Nb 2 AlC, a 211-type MAX phase, has attracted attention as a potential bond coat (BC) material for thermal barrier coating (TBC) systems. A BC must buffer the thermal expansion mismatch between the ceramic topcoat and the metallic substrate, making its temperature-dependent thermomechanical properties the key criterion for assessing BC suitability. However, quantitative thermomechanical data for Nb 2 AlC across the relevant service temperature range remains scarce. In this work, we developed a moment tensor potential (MTP) for Nb 2 AlC and used it to perform large-scale molecular dynamics (MD) simulations to quantify its thermomechanical behavior over a temperature range of 300–2000 K. The t...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Unsupervised machine learning for automated crystal orientation mapping on noisy 4D-STEM data](https://www.nature.com/articles/s41524-026-02337-x)**
+  <br>*npj Computational Materials | 2026-10-03 | doi:10.1038/s41524-026-02337-x | score 15*
+
+  `matched: machine learning, crystal`
+
+
+- **[Deep learning-assisted multi-objective optimization and microstructure property correlation in rotary friction welding of dissimilar AA1100–AA2014 aluminium alloys](https://doi.org/10.1007/s00170-026-19210-2)**
+  <br>*The International Journal of Advanced Manufacturing Technology | 2026-10-03 | doi:10.1007/s00170-026-19210-2 | score 11*
+  <br>Nagarajan, Subbiah, SM, Jeeva et al.
+
+  `matched: deep learning, alloy`
+
+
+- **[Dynamic bond reconfiguration drives crack-tip carbon migration to strengthen iron grain boundaries](https://doi.org/10.1038/s41524-026-02352-y)**
+  <br>*npj Computational Materials | 2026-10-02 | doi:10.1038/s41524-026-02352-y | score 11*
+  <br>Kazuma Ito, Takashi Otaki, Yuta Yoshimoto, Naoki Matsumura
+
+  Abstract Developing stronger alloys is essential for structural applications, but their reliability is limited by brittle cracking along general grain boundaries (GGBs). Solute segregation can control grain-boundary fracture, yet its effects are typically interpreted in terms of static cohesion changes before and after interfacial separation. How trace solutes modify moving-crack resistance at GGBs remains unclear because realistic segregation and crack propagation are difficult to treat atomistically. Here, we develop a fast and transferable Fe–C machine-learning interatomic potential. Using simulations of experimentally consistent carbon-segregated α-Fe GGBs, we show that trace carbon mark...
+
+  `matched: interatomic potential, alloy`
+
+
+- **[Predicting barrier-fluid failure for temporary abandonment of petroleum wells with a tabular foundation model](https://doi.org/10.1038/s41598-026-72944-7)**
+  <br>*Scientific Reports | 2026-10-03 | doi:10.1038/s41598-026-72944-7 | score 9*
+  <br>Gonçalves, Oliveira, Silva, Silva et al.
+
+  `matched: foundation model`
+
+
+- **[CA-DIFF: enhancing stylistic consistency in handwriting generation—a diffusion model perspective](https://doi.org/10.1007/s10032-026-00623-4)**
+  <br>*International Journal on Document Analysis and Recognition (IJDAR) | 2026-10-03 | doi:10.1007/s10032-026-00623-4 | score 9*
+  <br>Gurav, Chanda, Krishnan
+
+  `matched: diffusion model`
+
+
+- **[TCM-Complexity: a complexity-aware hybrid active learning framework for drug–target interaction prediction](https://doi.org/10.1186/s12859-026-06684-w)**
+  <br>*BMC Bioinformatics | 2026-10-03 | doi:10.1186/s12859-026-06684-w | score 7*
+  <br>Liu, Cheng, Chen, Yuan et al.
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Long-Range Machine Learning Interatomic Potentials for Defect Energetics in SrTiO$_3$](https://doi.org/10.48550/arxiv.2610.00794)**
+  <br>*arXiv (Cornell University) | 2026-09-30 | doi:10.48550/arxiv.2610.00794 | score 42*
+  <br>Yee Chit Wong, Marcel F. Langer, Reinhard J. Maurer, Nicholas D M Hine
+
+  Machine learning interatomic potentials (MLIPs) have advanced rapidly in recent years, yet the majority of models remain semilocal in nature and neglect long-range electrostatic interactions. A growing number of long-range models have emerged to address this limitation, but systematic benchmarks comparing their performance on physically realistic systems remain scarce. In this work, we assess three long-range MLIPs -- MACE-POLAR, MACE-LES, and LOREM, against a short-range baseline MACE model, on their ability to capture long-range Coulombic interactions, progressing from idealised synthetic point-charge systems to first-principles data on realistic crystal structures. This progression allows...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, benchmark, crystal`
+
+
+- **[BranchIP: Learning Adaptive Equivariant Computation for Interatomic Potentials](https://doi.org/10.48550/arxiv.2610.02013)**
+  <br>*arXiv (Cornell University) | 2026-10-01 | doi:10.48550/arxiv.2610.02013 | score 36*
+  <br>Laura Zichi, Gil Harari, Chuin Wei Tan, Marc L. Descoteaux
+
+  Equivariant machine learning interatomic potentials (MLIPs) have revolutionized atomistic modeling, but accurate treatment of complex materials and molecular systems demands expensive models. This limits simulation length- and time-scales, with tensor products a key computational bottleneck. The recent emergence of foundation-scale MLIPs further exacerbates this challenge. We present Branch Interatomic Potential (BranchIP), a single-model framework for learned adaptive tensor product computation, trained with a novel distillation loss. In our experiments on two systems of physical interest, a heterogeneous catalysis system and a proton-conducting solid acid electrolyte, BranchIP accelerates...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, equivariant, electrolyte`
+
+
+- **[Train for Accuracy, Execute at Scale: Architecture-Preserving Inference for Equivariant Atomistic Foundation Models](http://arxiv.org/abs/2610.01036v1)**
+  <br>*arXiv | 2026-10-01 | score 25*
+  <br>Lei Fu, Zihui Feng, Yongheng Li, Hongwei Du et al.
+
+  Equivariant atomistic foundation models provide broadly transferable interatomic potentials trained against quantum-mechanical reference data, but their repeated execution at simulation scale remains computationally and memory intensive. We present Symmetrix-XL, an inference engine that scales pretrained MACE checkpoints without retraining, distillation, or modification of their learned weights. It combines streamed-edge execution to avoid graph-wide materialization of expanded edge intermediates, model-specialized code generation to compile checkpoint-specific operators, and tiled execution to reuse a bounded device-memory workspace. On complete LAMMPS-step benchmarks, Symmetrix-XL reduces...
+
+  `matched: interatomic potential, foundation model, equivariant, benchmark`
+
+
+- **[GEODE: Symmetry-Preserving Cartesian Diffusion for Crystal Generation](http://arxiv.org/abs/2610.01898v1)**
+  <br>*arXiv | 2026-10-01 | score 17*
+  <br>Yuchen Lou, Alex M. Ganose
+
+  Most known inorganic crystals exhibit symmetric atomic arrangements, yet generative models often fail to reproduce them. Explicitly enforcing these symmetries has so far yielded fewer stable and novel structures than unconstrained generation. We introduce Generative Equivariant Orbit Diffusion Engine (GEODE), to our knowledge the first model to combine coordinate and lattice diffusion in Cartesian space. GEODE first samples symmetry templates, then jointly generates the lattice, atomic coordinates and atom types while preserving the specified symmetry with a novel Wyckoff-constrained loss. Cartesian diffusion gives coordinate noise a consistent physical scale that we empirically demonstrate...
+
+  `matched: generative model, equivariant, inorganic, crystal`
+
+
+- **[Autocata: Reaction-network-guided autonomous catalyst screening via capability-centric AI](http://arxiv.org/abs/2609.39060v1)**
+  <br>*arXiv | 2026-09-30 | score 15*
+  <br>Ruili Li, Rui Qi, Qingqing Mao, Ritankar Das et al.
+
+  Artificial intelligence (AI) has expanded the accessible space for catalyst discovery, yet executing complex screening campaigns still requires constant human intervention to bridge high-level reaction objectives with underlying computational pipelines. Here, we present Autocata, a knowledge-embedded autonomous agent that scales catalytic expertise by encoding multistep reaction pathways into reusable, language-invocable capabilities. Powered by a Transformer pretrained on two million catalyst-adsorbate structures, the system incorporates a capability registry of 79 adsorbate-specialized generative models spanning complex reaction networks across carbon, nitrogen, oxygen, and hydrogen interm...
+
+  `matched: artificial intelligence, generative model, transformer, catalyst`
+
+
+- **[Reference-free certification of machine-learning interatomic potentials](https://doi.org/10.48550/arxiv.2610.00585)**
+  <br>*arXiv (Cornell University) | 2026-09-30 | doi:10.48550/arxiv.2610.00585 | score 13*
+  <br>Jonas Hänseroth, Christian Dreßler
+
+  Universal machine-learning interatomic potentials now reach held-out energy and force errors so small that they no longer predict how a model behaves in simulation. Here we show that a potential can be graded without any reference calculation, against properties the exact Born-Oppenheimer surface satisfies by mathematical or physical necessity. We organise these properties into four families, symmetry and invariance, self-consistency and integrability, statistical-mechanical equilibrium and regularity, and turn them into fourteen inexpensive probes, each certifying against a target that is exact and independent of chemistry and reference method. Every probe therefore returns an absolute, arc...
+
+  `matched: interatomic potential`
+
+
+- **[From sparse boreholes to three-dimensional hydrofacies: integrating geophysics and machine learning to investigate groundwater recharge in a mountainous alluvial aquifer](https://doi.org/10.2139/ssrn.7556843)**
+  <br>*Crossref | 2026-10-03 | doi:10.2139/ssrn.7556843 | score 10*
+  <br>Martinez, Gonzales, Mendoza, Barmen et al.
+
+  Groundwater recharge in mountainous alluvial systems depends not only on where recharge enters the subsurface, but also on how heterogeneous basin-fill sediments influence subsequent redistribution. Characterizing this relationship is challenging where borehole control is sparse and geophysical measurements provide indirect and non-unique information on sediment texture. This study develops an integrated geophysical and machine-learning framework to characterize three-dimensional hydrofacies heterogeneity and assess its potential implications for groundwater recharge in the El Paso alluvial aquifer, Bolivia. The workflow combines 53 transient electromagnetic (TEM) soundings, 23 electrical re...
+
+  `matched: machine learning, magnet`
+
+
+- **[Nuclear quantum effects enhance diffusion in supercooled ammonia through accelerated pyramidal inversion](http://arxiv.org/abs/2609.38688v1)**
+  <br>*arXiv | 2026-09-30 | score 9*
+  <br>Minwoo Kim, Hido Woo, Taeyong Park, Ji Woong Yu et al.
+
+  In liquid ammonia, an imbalance between available hydrogen-bond donor and acceptor sites limits water-like tetrahedral connectivity, leaving sparse and short-lived associations within a densely packed liquid. We ask whether quantum-sensitive local rearrangements can nevertheless contribute appreciably to diffusion in this weakly connected liquid. We compare classical and thermostatted ring polymer molecular dynamics from 170 to 250 K using an r$^2$SCAN-trained machine learning force field. Ammonia can change its molecular geometry as the nitrogen atom passes through the plane of the three hydrogen atoms, a motion known as pyramidal inversion. Nuclear quantum effects increase the inversion ra...
+
+  `matched: molecular dynamics, machine learning, polymer`
+
+
+- **[Learning ab initio phase-field models](https://doi.org/10.48550/arxiv.2610.01432)**
+  <br>*arXiv (Cornell University) | 2026-10-01 | doi:10.48550/arxiv.2610.01432 | score 7*
+  <br>Mengyi Chen, Peichen Zhong, Zihan Zhang, Qianxiao Li
+
+  Simulating microstructure evolution requires quantum-mechanical accuracy and mesoscopic reach in length and time scales, a combination that no current method achieves. Classical phase-field models provide this reach, but their accuracy is limited by phenomenological free energies and mobilities. Here we develop a framework for learning ab initio phase-field models, where the mesoscopic equation is not postulated but derived from a Mori-Zwanzig projection of molecular dynamics onto species-density fields under explicit assumptions. The nonlocal free energy and mobility left unspecified by this equation are parametrized by neural networks and learned from short molecular dynamics trajectories...
+
+  `matched: molecular dynamics, neural network`
+
+
+---
+
+
 ## 2026-10-02
 
 20 new item(s). Top hit: **Cluster-based Structural Similarity for Dataset Visualization and Data Selection for Machine Learning Interato** (score 46, arXiv (Cornell University)).
