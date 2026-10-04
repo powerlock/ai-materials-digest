@@ -6,6 +6,94 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-04
+
+9 new item(s). Top hit: **Interatomic potentials for ionic liquids: A comparative case study** (score 19, Izvestia. Ural Federal University Journal. Series 2. Humanities and Arts (Ural Federal University)).
+
+### Journal articles
+
+- **[Interatomic potentials for ionic liquids: A comparative case study](https://doi.org/10.15826/elmattech.2026.5.081)**
+  <br>*Izvestia. Ural Federal University Journal. Series 2. Humanities and Arts (Ural Federal University) | 2026-10-01 | doi:10.15826/elmattech.2026.5.081 | score 19*
+  <br>Dmitry Zakiryanov
+
+  Among all atomistic simulation approaches, empirical potentials deliver unparalleled efficiency of simulations. However, due to the simplicity of energy expressions, special attention should be given to the assessment of their validity and the fitting procedure. This paper reports a comparison of property-fitting pair models, force-fitting pair models, and deep learning potentials. We present a property-oriented fitting scheme for the development of pair potentials for ionic melts. Only basic, fast-computing properties are involved, which allows for the efficient fitting of the potentials through the iterative molecular dynamics simulations. As a case study, an alkali halide and a rare-earth...
+
+  `matched: interatomic potential, molecular dynamics, deep learning`
+
+
+- **[Frozen interatomic-potential features under label budgets on WBM: code, frozen protocol, splits, scores and results](https://doi.org/10.5281/zenodo.23118783)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-04 | doi:10.5281/zenodo.23118783 | score 18*
+  <br>Won-Cheol Jeong
+
+  Code, frozen analysis protocol (venue-neutral public copy with a transformation record), chemical-system partition and split manifests, out-of-fold score arrays, bootstrap draws and result tables for a chemical-system-held-out evaluation of light heads on frozen features of universal machine-learning interatomic potentials (MACE-MP-0 medium, CHGNet 0.3.0, SevenNet-0, MatterSim v1.0.0 5M) against the same potentials' zero-label energy pipelines (fixed-MP-hull stability) and against non-pretrained controls (PBE band gap of at least 1 eV) on the WBM data set. See README_zenodo.md for the contents. Code: MIT; data files: CC BY 4.0.
+
+  `matched: interatomic potential, mattersim, band gap`
+
+
+- **[Frozen interatomic-potential features under label budgets on WBM: code, frozen protocol, splits, scores and results](https://doi.org/10.5281/zenodo.23118782)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-04 | doi:10.5281/zenodo.23118782 | score 18*
+  <br>Won-Cheol Jeong
+
+  Code, frozen analysis protocol (venue-neutral public copy with a transformation record), chemical-system partition and split manifests, out-of-fold score arrays, bootstrap draws and result tables for a chemical-system-held-out evaluation of light heads on frozen features of universal machine-learning interatomic potentials (MACE-MP-0 medium, CHGNet 0.3.0, SevenNet-0, MatterSim v1.0.0 5M) against the same potentials' zero-label energy pipelines (fixed-MP-hull stability) and against non-pretrained controls (PBE band gap of at least 1 eV) on the WBM data set. See README_zenodo.md for the contents. Code: MIT; data files: CC BY 4.0.
+
+  `matched: interatomic potential, mattersim, band gap`
+
+
+- **[Reference Conventions and Structure Types, Rather Than 4f Occupancy, Shape Lanthanide Errors in Universal Machine-Learning Interatomic Potentials](https://doi.org/10.6084/m9.figshare.34057440)**
+  <br>*Figshare | 2026-10-03 | doi:10.6084/m9.figshare.34057440 | score 16*
+  <br>Mynul Hasan
+
+  The file is consisted of FDP compound DFT relaxation files
+
+  `matched: interatomic potential, dft`
+
+
+- **[Reference Conventions and Structure Types, Rather Than 4f Occupancy, Shape Lanthanide Errors in Universal Machine-Learning Interatomic Potentials](https://doi.org/10.6084/m9.figshare.34057440.v1)**
+  <br>*Figshare | 2026-10-03 | doi:10.6084/m9.figshare.34057440.v1 | score 16*
+  <br>Mynul Hasan
+
+  The file is consisted of FDP compound DFT relaxation files
+
+  `matched: interatomic potential, dft`
+
+
+- **[Advanced machine learning strategies for predicting therapy response in preclinical glioblastoma using longitudinal MRI](https://doi.org/10.1038/s41598-026-73929-2)**
+  <br>*Scientific Reports | 2026-10-04 | doi:10.1038/s41598-026-73929-2 | score 12*
+  <br>González, Candiota, Vellido
+
+  Abstract Glioblastoma (GB) is the most aggressive primary brain tumor, characterized by a poor prognosis, limited response to therapy, and high rates of recurrence. Early therapeutic response assessment is challenging due to phenomena such as pseudoresponse and pseudoprogression. This study explores the potential of advanced machine learning (ML) strategies to predict long-term therapy outcomes using longitudinal T2weighted Magnetic Resonance Imaging (MRI) data from a preclinical GL261 glioblastoma mouse model, acquired prior and during treatment. We compare two distinct approaches: a classical pipeline based on radiomic features coupled with an XGBoost classifier, and a deep learning (DL) p...
+
+  `matched: machine learning, deep learning, magnet`
+
+
+- **[Hybrid Deep Learning Finite Difference Time Domain Modeling via Surface Equivalence Theorem for Accelerating Electromagnetic Simulations](https://doi.org/10.5829/ije.2027.40.04a.20)**
+  <br>*International Journal of Engineering | 2026-10-04 | doi:10.5829/ije.2027.40.04a.20 | score 11*
+  <br>Rezaee Rezvan, Yazdi, Ezoji
+
+  `matched: deep learning, magnet`
+
+
+- **[Deep learning-enabled invisible electromagnetic scattering amplifier](https://doi.org/10.1016/j.optlastec.2026.116531)**
+  <br>*Optics &amp; Laser Technology | 2026-10-04 | doi:10.1016/j.optlastec.2026.116531 | score 11*
+  <br>Xie, Liao, Ji, Liu et al.
+
+  `matched: deep learning, magnet`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Experimental data-driven machine learning for predicting and validating the photocatalytic performance of doped BiOBr-based materials](https://doi.org/10.2139/ssrn.7560752)**
+  <br>*Crossref | 2026-10-04 | doi:10.2139/ssrn.7560752 | score 13*
+  <br>Zhang, Wang, Xiaochen, Zhao et al.
+
+  Global water pollution requires the rapid development of efficient photocatalysts for wastewater remediation, yet traditional trial-and-error approaches are time-consuming and cannot effectively reveal complex multivariate reaction systems. In this study, we first synthesized and evaluated a series of single- and co-doped (B/Tb) BiOBr photocatalysts. The optimal 0.5% B-1% Tb co-doped BiOBr exhibited superior activity, achieving 99.35% degradation of Rhodamine B within 60 min. We then combined our experimental results with literature data to construct a comprehensive dataset of 816 entries across 8 variables, establishing a data-driven machine learning (ML) framework. Among ten evaluated algo...
+
+  `matched: machine learning, catalyst, dataset`
+
+
+---
+
+
 ## 2026-10-03
 
 20 new item(s). Top hit: **Convolutional Kernel-Embedded E (3)-Equivariant Networks (KEN): Overcoming Architectural Rigidity in Machine L** (score 59, Journal of Chemical Theory and Computation).
