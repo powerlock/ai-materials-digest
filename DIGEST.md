@@ -6,6 +6,141 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-05
+
+14 new item(s). Top hit: **Machine Learning-Accelerated Inverse Design of Sequence-Controlled Terpolymers** (score 29, Crossref).
+
+### Journal articles
+
+- **[Frozen interatomic-potential features under label budgets on WBM: code, frozen protocol, splits, scores and results](https://doi.org/10.5281/zenodo.23129905)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-04 | doi:10.5281/zenodo.23129905 | score 18*
+  <br>Won-Cheol Jeong
+
+  Code, frozen analysis protocol (venue-neutral public copy with a transformation record), chemical-system partition and split manifests, out-of-fold score arrays, bootstrap draws and result tables for a chemical-system-held-out evaluation of light heads on frozen features of universal machine-learning interatomic potentials (MACE-MP-0 medium, CHGNet 0.3.0, SevenNet-0, MatterSim v1.0.0 5M) against the same potentials' zero-label energy pipelines (fixed-MP-hull stability) and against non-pretrained controls (PBE band gap of at least 1 eV) on the WBM data set. See README_zenodo.md for the contents. Code: MIT; data files: CC BY 4.0. Version 1.1 adds post-hoc descriptive stability learners (a clas...
+
+  `matched: interatomic potential, mattersim, band gap`
+
+
+- **[Reference Conventions and Structure Types, Rather Than 4f Occupancy, Shape Lanthanide Errors in Universal Machine-Learning Interatomic Potentials](https://doi.org/10.6084/m9.figshare.34057440.v2)**
+  <br>*Figshare | 2026-10-04 | doi:10.6084/m9.figshare.34057440.v2 | score 16*
+  <br>Mynul Hasan
+
+  The file is consisted of FDP compound DFT relaxation files
+
+  `matched: interatomic potential, dft`
+
+
+- **[REAL-TIME PEST DETECTION USING DEEP LEARNING ON EDGE DEVICES FOR PRECISION FARMING](https://doi.org/10.5935/jetia.v12i61.3553)**
+  <br>*ITEGAM-Journal of Engineering and Technology for Industrial Applications (ITEGAM-JETIA) | 2026-10-05 | doi:10.5935/jetia.v12i61.3553 | score 13*
+  <br>Patchala, Pilli, Babu, Gorintla et al.
+
+  Precision agriculture needs better pest monitoring. Current traps send many images to the cloud. This uses much energy and needs human review. The paper presents a smart trap that runs deep learning on the node. The trap uses a Raspberry Pi and an Intel Neural Compute Stick. It captures images inside pheromone traps. It runs neural networks to detect codling moths. Three models were trained and compared: LeNet-5, VGG16 and MobileNetV2. The system selects models that balance accuracy and power use. The trap only sends small alerts not full images. This reduces data transfer and power needs. The device uses a solar harvester and a battery. Energy harvesting lets the trap run for long periods....
+
+  `matched: neural network, deep learning, battery`
+
+
+- **[ECAR and PM processing of AA2014 aerospace scrap, machine learning-parameter optimization](https://doi.org/10.1680/jemmr.26.00014)**
+  <br>*Emerging Materials Research | 2026-10-05 | doi:10.1680/jemmr.26.00014 | score 9*
+  <br>Seeram, Gurugubelli
+
+  This study investigates the recycling of aerospace aluminum scrap obtained from a decommissioned aircraft using equal channel angular rolling (ECAR) and powder metallurgy (PM) processing routes. ECAR was performed using dies with channel angles of 90°, 105°, and 120°, along with multiple passes and varying copper shielding thicknesses, to promote grain refinement and enhance strength. The wear and mechanical behavior of the alloy processed through both routes was evaluated. Mechanical characterization revealed a significant improvement in hardness and tensile strength with an increase in the number of passes, with the highest enhancement observed in samples processed using 1 mm copper shield...
+
+  `matched: machine learning, alloy`
+
+
+- **[AI expert collaborative generative model for predicting pathologic response to neoadjuvant chemoimmunotherapy in NSCLC](https://doi.org/10.1038/s43856-026-01938-3)**
+  <br>*Communications Medicine | 2026-10-05 | doi:10.1038/s43856-026-01938-3 | score 9*
+  <br>Hu, Liu, Nie, Wang et al.
+
+  `matched: generative model`
+
+
+- **[Spatially resolved reaction–diffusion modeling reveals effects of intracellular spatial heterogeneity on yeast galactose network dynamics](https://doi.org/10.1371/journal.pcbi.1014811)**
+  <br>*PLOS Computational Biology | 2026-10-05 | doi:10.1371/journal.pcbi.1014811 | score 9*
+  <br>Wu, Spindler, Apsley, Earnest et al.
+
+  Eukaryotic cells are spatially organized into functionally-distinct compartments. This three-dimensional (3D) organization generates intracellular heterogeneities that can modulate regulatory dynamics. Despite this knowledge of subcellular organization, most quantitative gene-regulation models still assume a well-mixed environment in which molecules can react regardless of their spatial positions. Here, we use the well-established galactose switch in budding yeast ( Saccharomyces cerevisiae ) to develop spatially-resolved models that integrate experimentally-derived intracellular architectures, including chromosome organization, the endoplasmic reticulum (ER) and spatially distinct ribosome...
+
+  `matched: diffusion model`
+
+
+- **[Data-driven and feature-sifting based state-of-health estimation for li-ion batteries using KPCA and NRBO-optimized transformer-LSTM hybrid model](https://doi.org/10.1371/journal.pone.0359015)**
+  <br>*PLOS One | 2026-10-05 | doi:10.1371/journal.pone.0359015 | score 8*
+  <br>Luo, Chen, Zhang, Hu et al.
+
+  Electrochemical energy storage technologies, such as lithium-ion batteries, are widely used in various scenarios, but their capacity, lifespan, and state-of-health (SOH) are susceptible to numerous influencing factors. To improve the accuracy of state-of-health (SOH) prediction for lithium-ion battery cells, this paper builds up a feature-based analysis framework, and proposes an enhanced predicting model, which integrates the principles of incremental capacity analysis (ICA) and differential voltage analysis (DVA), and the ideas of kernel principal component analysis (KPCA), and Pearson correlation analysis. The former ones are used to extract a set of health related features (HFs) from the...
+
+  `matched: transformer, battery`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Machine Learning-Accelerated Inverse Design of Sequence-Controlled Terpolymers](https://doi.org/10.26434/chemrxiv.15009833/v1)**
+  <br>*Crossref | 2026-10-05 | doi:10.26434/chemrxiv.15009833/v1 | score 29*
+  <br>Foster
+
+  Sequence-controlled polymers hold immense potential for advanced materials design, yet discovering their experimental recipes is bottlenecked by the high-dimension kinetic parameter space of multicomponent copolymerization. Traditional ordinary differential equation (ODE) solvers provide rapid macrokinetic predictions but are fundamentally blind to explicit backbone microstructures. To bridge this gap, we use a stochastic simulation algorithm (SSA) engine to generate high-throughput terpolymer sequence data from a physically constrained parametric sweep across a 9-dimensional kinetic space, charting how feed stoichiometry and kinetic propensities dictate macromolecular structure. Information...
+
+  `matched: machine learning, materials design, inverse design, polymer`
+
+
+- **[Equivariant Flow Matching for Electron Density Prediction](http://arxiv.org/abs/2610.02651v1)**
+  <br>*arXiv | 2026-10-02 | score 22*
+  <br>Chenxing Liang, Chengdong Wang, Yuchao Lin, Xiaofeng Qian et al.
+
+  Machine learning surrogates for density functional theory (DFT) have been increasingly used to reduce the cost of first-principles calculations. In this arena, predicting real-space electron densities offers a scalable and transferable initialization for self-consistent field (SCF) procedures. However, current methods face a clear dilemma. That is, grid-based architectures incur a high computational cost, while basis-set methods fail to capture the structural correlations inherent in the coefficient space. Here, we develop OrbFlow, an $\mathrm{SE}(3)$-equivariant generative model that predicts Gaussian-type orbital (GTO) coefficients via flow matching. OrbFlow retains the efficiency of a com...
+
+  `matched: density functional theory, generative model, machine learning, equivariant, dft`
+
+
+- **[Coercivity-Aware Machine Learning Discovery of Rare-Earth-Free Soft Magnetic Alloys with First-Principles Magnetic Benchmarks](http://arxiv.org/abs/2610.03171v1)**
+  <br>*arXiv | 2026-10-02 | score 21*
+  <br>Avik Mahata, David Priefer
+
+  Coercivity-aware machine learning is developed to screen rare-earth-free soft magnetic alloys using Curie temperature and coercivity as coupled design targets. A compiled experimental magnetic-material dataset is evaluated using composition-grouped partitioning to avoid overlap of identical compositions between training and testing, and elemental fractions and composition-weighted elemental descriptors are examined for prediction of the two magnetic properties. Residual-based prediction intervals and distance-to-training filters are then incorporated to screen Fe-Co-Ni-Mn-Al-Si compositions. Composition-grouped evaluation shows lower predictive accuracy than conventional random partitioning,...
+
+  `matched: machine learning, benchmark, dataset, magnet, alloy`
+
+
+- **[Machine Learned Interatomic Potentials and MultiobjectiveBayesian Optimization for Hydroxylamine Electrosynthesis overSubstituted COF-366](https://doi.org/10.26434/chemrxiv.15009355/v2)**
+  <br>*Crossref | 2026-10-05 | doi:10.26434/chemrxiv.15009355/v2 | score 17*
+  <br>Yu, Zhang, Zhao
+
+  Electrochemical nitrogen oxide reduction to hydroxylamine (NH2OH) couples substrate entry, branching among nitrogen–oxygen intermediates, and product release. This study develops a catalyst discovery workflow combining machine-learning interatomic potentials (MLIPs) with multiobjective Bayesian optimization (MOBO). The candidate space comprises 40 substituted COF-366 structures formed from eight metal centers and five linkers. Three thermodynamic quantities jointly define the optimization objectives: formation of the nitrite-derived *NO2 surface state, the first hydrogenation branch of *NO, and release of *NH2OH. The Universal Model for Atoms (UMA) evaluates candidate structures and key reac...
+
+  `matched: interatomic potential, catalyst`
+
+
+- **[From Computation-Ready to Claim-Ready: An Evidence Framework for MOF Machine Learning](https://doi.org/10.26434/chemrxiv.15009825/v1)**
+  <br>*Crossref | 2026-10-05 | doi:10.26434/chemrxiv.15009825/v1 | score 17*
+  <br>Papadantonaki, Abaei, Emptoz, Asgari et al.
+
+  Scientific data are routinely transformed so they can be stored, joined and used by machine-learning models. These steps enable scale, but they can also remove the context that tells us what a prediction means and how far it can be trusted. Metal–organic frameworks (MOFs) make this problem especially clear: one nominal material may appear as an experimental crystal, an activated simulation structure, a charge-assigned model or a row of descriptors, while information about protonation, counterions, coordination environment or measurement conditions may disappear along the way. We introduce claim readiness: a framework for asking whether the evidence preserved through a data pipeline is suffic...
+
+  `matched: machine learning, crystal, mof`
+
+
+- **[Preservice Early Childhood Educators’ Engagement with Generative AI in Science Activity Design: The Case of Magnetism](https://doi.org/10.35542/osf.io/m5erf_v1)**
+  <br>*Crossref | 2026-10-05 | doi:10.35542/osf.io/m5erf_v1 | score 16*
+  <br>Efthimiou
+
+  The use of generative artificial intelligence (Gen AI) in early childhood teacher education provides logistical support in lesson planning but poses challenges about developmental appropriateness. This mixed-methods study aims to understand how Large Language Models (LLMs) are used by 131 preservice educators to design science activities on the topic of magnetism, drawing on the concepts of Cultural-Historical Activity Theory (CHAT) and didactic transformation. A post-interaction reflection instrument containing Likert scale items and open-ended questions was used to collect the data and descriptive statistics, ANOVA and inductive thematic analysis were used to analyze the data. The results...
+
+  `matched: artificial intelligence, large language model, generative ai, magnet`
+
+
+- **[A time-dependent mesoscopic stochastic fracture model for concrete subjected to sulfate attack](https://doi.org/10.2139/ssrn.7566457)**
+  <br>*Crossref | 2026-10-05 | doi:10.2139/ssrn.7566457 | score 6*
+  <br>Lyu, Li
+
+  Sulfate attack induces time-dependent changes in the mechanical behavior of concrete, posing significant challenges for the prediction of long-term performance of concrete structures. This study develops a sulfate-attacked mesoscopic stochastic fracture model (SA-MSFM) by extending the original MSFM to incorporate sulfate-induced mechanical evolution. Unlike conventional empirical deterioration models, the proposed framework incorporates the effects of sulfate ingress into the stochastic constitutive description of concrete while retaining the stochastic characteristics of damage evolution. A sulfate chemo-diffusion model is coupled with the MSFM, where the local sulfate concentration and ex...
+
+  `matched: diffusion model`
+
+
+---
+
+
 ## 2026-10-04
 
 9 new item(s). Top hit: **Interatomic potentials for ionic liquids: A comparative case study** (score 19, Izvestia. Ural Federal University Journal. Series 2. Humanities and Arts (Ural Federal University)).
