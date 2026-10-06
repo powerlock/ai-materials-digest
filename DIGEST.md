@@ -6,6 +6,134 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-06
+
+13 new item(s). Top hit: **Predicting Thermophysical Properties of Halide Salts Using On-the-Fly Machine-Learned Interatomic Potentials A** (score 32, Crossref).
+
+### Journal articles
+
+- **[DFT training data and fine-tuned MACE model for lithium storage and transport in Cu8B14 monolayers](https://doi.org/10.5281/zenodo.23158509)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-05 | doi:10.5281/zenodo.23158509 | score 18*
+  <br>Subhasis Sarkar, Rajnendra Singh, Brahmananda Chakraborty, Sridhar Sahu
+
+  This dataset accompanies the manuscript “Unraveling Lithium Storage and Defect-Modulated Transport in 2D Copper Boride: From First Principles to Machine-Learned Molecular Dynamics”. The archive contains the DFT-labelled configurations used to fine-tune a MACE-MP-0 interatomic potential for Cu-B-Li systems, including the complete 1000-configuration dataset and the corresponding training, validation, and held-out test subsets. It also contains the final fine-tuned MACE model used for the reported machine-learning-interatomic-potential molecular-dynamics simulations, together with the principal training parameters. An independent 6000-frame DFT-AIMD dataset for the line-defected Cu-B structure...
+
+  `matched: interatomic potential, molecular dynamics, dataset, dft`
+
+
+- **[DFT training data and fine-tuned MACE model for lithium storage and transport in Cu8B14 monolayers](https://doi.org/10.5281/zenodo.23158510)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-05 | doi:10.5281/zenodo.23158510 | score 18*
+  <br>Subhasis Sarkar, Rajnendra Singh, Brahmananda Chakraborty, Sridhar Sahu
+
+  This dataset accompanies the manuscript “Unraveling Lithium Storage and Defect-Modulated Transport in 2D Copper Boride: From First Principles to Machine-Learned Molecular Dynamics”. The archive contains the DFT-labelled configurations used to fine-tune a MACE-MP-0 interatomic potential for Cu-B-Li systems, including the complete 1000-configuration dataset and the corresponding training, validation, and held-out test subsets. It also contains the final fine-tuned MACE model used for the reported machine-learning-interatomic-potential molecular-dynamics simulations, together with the principal training parameters. An independent 6000-frame DFT-AIMD dataset for the line-defected Cu-B structure...
+
+  `matched: interatomic potential, molecular dynamics, dataset, dft`
+
+
+- **[Frozen interatomic-potential features under label budgets on WBM: code, frozen protocol, splits, scores and results](https://doi.org/10.5281/zenodo.23151416)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-05 | doi:10.5281/zenodo.23151416 | score 18*
+  <br>Won-Cheol Jeong
+
+  Code, frozen analysis protocol (venue-neutral public copy with a transformation record), chemical-system partition and split manifests, out-of-fold score arrays, bootstrap draws and result tables for a chemical-system-held-out evaluation of light heads on frozen features of universal machine-learning interatomic potentials (MACE-MP-0 medium, CHGNet 0.3.0, SevenNet-0, MatterSim v1.0.0 5M) against the same potentials' zero-label energy pipelines (fixed-MP-hull stability) and against non-pretrained controls (PBE band gap of at least 1 eV) on the WBM data set. See README_zenodo.md for the contents. Code: MIT; data files: CC BY 4.0. Version 1.1 added post-hoc descriptive stability learners, withi...
+
+  `matched: interatomic potential, mattersim, band gap`
+
+
+- **[A Machine Learning Approach for Classifying Rheological Behavior and Stability of Polymer Solutions Using a Naive Bayes Classifier](https://doi.org/10.69882/adba.iscms.2026071)**
+  <br>*Intelligent Systems for Chemical and Materials Science | 2026-10-06 | doi:10.69882/adba.iscms.2026071 | score 13*
+  <br>Türkoğlu, Türkoğlu, Akkaya Selçin
+
+  The rheological characterization of polymer solutions is critical for optimizing their performance in various industrial applications, including enhanced oil recovery, food processing, and biomedical engineering. Traditional experimental methods for classifying flow behavior, viscosity, shear-thinning degree, and system stability are often time-consuming and require expert interpretation. This study presents a data-driven approach to automate these classifications using a Gaussian Naive Bayes (GNB) classifier. A comprehensive dataset comprising 420 experimental measurements of polymer solutions, sourced from Kaggle, was used. The dataset includes key physicochemical features: shear rate, pol...
+
+  `matched: machine learning, polymer, dataset`
+
+
+- **[Explainable AI in Computational Materials Science: Mapping the Landscape of CALPHAD-Based Design](https://doi.org/10.69882/adba.iscms.2026074)**
+  <br>*Intelligent Systems for Chemical and Materials Science | 2026-10-06 | doi:10.69882/adba.iscms.2026074 | score 11*
+  <br>İlgazi, İlgazi
+
+  The integration of explainable artificial intelligence (XAI) with computational materials science has emerged as a transformative paradigm for accelerating materials discovery and understanding structure--property relationships. This investigation executes an exhaustive bibliometric evaluation to map the scholarly convergence of computational materials science and explainable artificial intelligence (XAI). Using a systematic search in the Web of Science Core Collection, 157 relevant articles published between 2019 and 2026 were identified. VOSviewer software was employed to map co-authorship networks (authors, organizations, countries), keyword co-occurrence, and citation networks (documents...
+
+  `matched: artificial intelligence, materials discovery`
+
+
+- **[A Feasible Machine Learning Approach to Improve Cognitive Screening in Multiple Sclerosis](https://doi.org/10.3390/biomedicines14102262)**
+  <br>*Biomedicines | 2026-10-06 | doi:10.3390/biomedicines14102262 | score 10*
+  <br>Dini, Turchi, Gamberini, Caporali et al.
+
+  Background: Cognitive impairment is a frequent manifestation of multiple sclerosis (MS). Although the Brief International Cognitive Assessment for Multiple Sclerosis (BICAMS) is the recommended screening battery, the Montreal Cognitive Assessment (MoCA) is more commonly used in routine clinical practice. The ability of published MoCA cutoffs to detect MS-specific cognitive impairment remains unclear. Objective: This study aimed to evaluate the diagnostic performance of published Italian MoCA cutoffs for MS-specific cognitive impairment and develop a machine learning (ML) pipeline to improve screening accuracy. Methods: We prospectively enrolled 222 people with MS who underwent both MoCA and...
+
+  `matched: machine learning, battery`
+
+
+- **[A generative diffusion framework for physically consistent 3D turbulence](https://doi.org/10.1038/s41467-026-78265-7)**
+  <br>*Nature Communications | 2026-10-06 | doi:10.1038/s41467-026-78265-7 | score 9*
+  <br>Li, Buzzicotti, Bonaccorso, Biferale et al.
+
+  Abstract Synthesizing fully developed three-dimensional turbulence remains a long-standing problem in fluid mechanics and an open challenge for generative modeling. This difficulty arises from extreme dimensionality, multiscale fluctuations, strong intermittency, and the need to satisfy exact physical constraints, including incompressibility and prescribed mass and momentum fluxes under given boundary conditions. We propose a physics-constrained diffusion model in which some a priori constraints can be incorporated directly into the generative dynamics. Using rotating turbulence as a paradigmatic system with key geophysical applications, we assess the proposed framework. Here, we show that i...
+
+  `matched: generative model, diffusion model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Predicting Thermophysical Properties of Halide Salts Using On-the-Fly Machine-Learned Interatomic Potentials Across Multiple Exchange-Correlation Functionals](https://doi.org/10.26434/chemrxiv.15008809/v2)**
+  <br>*Crossref | 2026-10-06 | doi:10.26434/chemrxiv.15008809/v2 | score 32*
+  <br>Rudra, Vijay, Mohan
+
+  In silico modeling of molten salts is pivotal for the development of emerging carbon-free energy technologies, where accurate knowledge of thermophysical properties is essential for understanding and predicting material behavior under operating conditions. However, the accurate prediction of these properties using first-principles methods remains computationally intractable because of the large length scales and long timescales required to adequately describe molten-salt systems. In addition to these computational limitations, the choice of exchange-correlation (XC) functional is crucial for accurately predicting thermophysical properties. Here, we employ machine-learning interatomic potenti...
+
+  `matched: machine-learned interatomic potential, interatomic potential`
+
+
+- **[FlashCart: Fast Cartesian Tensor Products for Equivariant Interatomic Potentials](http://arxiv.org/abs/2610.06409v1)**
+  <br>*arXiv | 2026-10-05 | score 30*
+  <br>Viktor Zaverkin, Payman Goodarzi, Sergey V. Sukhomlinov, Davit Hovhannisyan et al.
+
+  Machine-learned interatomic potentials extend atomistic simulations beyond the length- and timescales accessible to electronic-structure methods. However, the computational cost of equivariant architectures limits the local correlations they can represent in practice and therefore their achievable accuracy. Here we introduce FlashCart, which makes higher-order correlations affordable by combining generated GPU kernels with an architecture that recursively builds equivariant features and compresses them to a fixed width at each step. We express tensor products in independent Cartesian components and symbolically simplify them and their derivatives, producing fused kernels that often outperfor...
+
+  `matched: machine-learned interatomic potential, interatomic potential, equivariant`
+
+
+- **[Molecular Crystal Structure Prediction from Conditional Flow on the Unit Cells](http://arxiv.org/abs/2610.04193v1)**
+  <br>*arXiv | 2026-10-03 | score 23*
+  <br>Qiang Zhu, Yihan Weng
+
+  A molecular crystal structure is jointly described by its space group symmetry, unit cell, and the molecular alignment within the asymmetric unit. Concurrently predicting all three variables is a daunting task, as it mixes discrete symmetry choices with a high-dimensional search in the continuous space. To address this challenge, we decouple these variables using a three-step generation process. Specifically, we train a flow model to learn the conditional distribution of invariant lattice descriptors (e.g. direct- and reciprocal-lattice successive minima and Selling scalars) from a molecular graph, a Hall setting, and the number of molecules in the asymmetric unit ($Z'$). Using a two sequent...
+
+  `matched: crystal structure prediction, crystal`
+
+
+- **[ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching](http://arxiv.org/abs/2610.04510v1)**
+  <br>*arXiv | 2026-10-03 | score 16*
+  <br>Prashant Pandey, Devineni Sri Venkatraya Chowdary, Brejesh Lall
+
+  Diffusion models for structured scientific generation must produce samples satisfying hard geometric constraints imposed by physics, chemistry, or biology, yet inference in these settings is prohibitively slow, demanding hundreds to thousands of neural-function evaluations per sample. We unify eight state-of-the-art models spanning medical volumetrics, molecular conformations, protein backbone design, crystal structure prediction, and multi-view 3D scenes under a single abstraction, Constraint-Manifold Diffusion Models (CMDMs), in which the target distribution is supported on a manifold defined by an externally specified constraint map. All existing acceleration families fail on this class:...
+
+  `matched: crystal structure prediction, diffusion model, crystal`
+
+
+- **[Dielectric Response of Short and Long Range Models of Nonuniform Liquids and Implications for Machine Learned Interatomic Potentials](http://arxiv.org/abs/2610.04224v1)**
+  <br>*arXiv | 2026-10-03 | score 13*
+  <br>Atul C. Thakur, Harender S. Dhattarwal, Richard C. Remsing
+
+  Dielectric screening of electric fields is modified by interfaces and confinement, and any accurate description of interfacial chemistry necessitates properly modeling the nonuniform dielectric tensor. However, models with short range interactions, such as local machine learned interatomic potentials (MLIPs), are increasingly used in simulations of molecular interfaces without quantitative understanding of their nonuniform dielectric response. To build this understanding, we use the framework provided by local molecular field (LMF) theory to quantify the roles of short and long range electrostatics in confined water. Short and long range models predict the same transverse dielectric profile...
+
+  `matched: interatomic potential`
+
+
+- **[Beyond Visual Fidelity: Distribution Shift and Morphological Bias in Diffusion-Based Synthesis of CT-Derived Composite Microstructures](https://doi.org/10.2139/ssrn.7571501)**
+  <br>*Crossref | 2026-10-06 | doi:10.2139/ssrn.7571501 | score 8*
+  <br>Khan, Balzani
+
+  Generative models offer a potential route to expand experimentally acquired microstructural datasets in computational materials science, but synthetic microstructures intended for mechanics applications must reproduce more than visual appearance. This work investigates denoising diffusion probabilistic models for computed tomography-derived microstructures of fibre-reinforced structural adhesives used in wind-turbine blades. Two experimental datasets are considered, representing porosity-dominated adhesive specimens and short-fibre-reinforced adhesive microstructures. Unconditional generation is first evaluated using porosity distributions, extreme pore morphology, directional spatial correl...
+
+  `matched: generative model, dataset`
+
+
+---
+
+
 ## 2026-10-05
 
 14 new item(s). Top hit: **Machine Learning-Accelerated Inverse Design of Sequence-Controlled Terpolymers** (score 29, Crossref).
