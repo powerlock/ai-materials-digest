@@ -6,6 +6,149 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-07
+
+15 new item(s). Top hit: **Modeling Phase Separation in Polymer-Derived Silicon Carbonitride Ceramics through Extended Machine Learning M** (score 43, ACS Nano).
+
+### Journal articles
+
+- **[Modeling Phase Separation in Polymer-Derived Silicon Carbonitride Ceramics through Extended Machine Learning Molecular Dynamics](https://doi.org/10.1021/acsnano.6c11958)**
+  <br>*ACS Nano | 2026-10-06 | doi:10.1021/acsnano.6c11958 | score 43*
+  <br>Fabien Mortier, Sylvian Cadars, Olivier Masson, Mauro Boero
+
+  Abstract Polymer-derived ceramics combine the thermal stability of ceramics with the versatile properties of carbon domains, but modeling their atomic-scale evolution during processing remains elusive because of the limitations of traditional computational methods. To address this issue, here, we develop and apply a machine learning interatomic potential for hydrogen-containing silicon carbonitride-based (SiCNH) ceramics, trained on a diversified database of over 9000 configurations─including amorphous models, high-temperature states, surfaces, and crystal structure predictions─to capture the full complexity of these materials. This potential enables large-scale molecular dynamics simulation...
+
+  `matched: machine learning interatomic potential, crystal structure prediction, interatomic potential, molecular dynamics, machine learning, polymer`
+
+
+- **[Data-driven inverse design of biodegradable Zn–Mg–Li alloys using explainable machine learning and multi-objective optimization](https://doi.org/10.1007/s10853-026-13880-9)**
+  <br>*Journal of Materials Science | 2026-10-07 | doi:10.1007/s10853-026-13880-9 | score 23*
+  <br>Zhang, Han, Zhou, Gao et al.
+
+  `matched: machine learning, inverse design, alloy`
+
+
+- **[Targeted fine-tuning of machine-learning interatomic potentials for phonons and phase transitions](https://www.nature.com/articles/s41524-026-02338-w)**
+  <br>*npj Computational Materials | 2026-10-07 | doi:10.1038/s41524-026-02338-w | score 21*
+
+  `matched: interatomic potential, phonon`
+
+
+- **[Research on optimization design of fully integrated magnetic structure for dual Buck/Boost–CLLC four-port topology](https://doi.org/10.1063/5.0352018)**
+  <br>*AIP Advances | 2026-10-07 | doi:10.1063/5.0352018 | score 7*
+  <br>Liu, Yang, Zhu, Chen et al.
+
+  A dual Buck/Boost-CLLC four-port DC/DC converter conventionally requires two energy-storage inductors, two resonant inductors, and one isolation transformer, which limits power density. This paper proposes a fully integrated magnetic component that combines all five magnetic functions in one planar assembly. The primary- and secondary-side transformer leakage inductances are intentionally prescribed as the CLLC resonant inductances, while independent center-limb air gaps regulate the transformer and Buck/Boost inductor branches. A magnetic-circuit model and an inductance-matrix model relate the core geometry, winding turns, air gaps, and residual coupling. ANSYS Maxwell finite-element optimi...
+
+  `matched: transformer, magnet`
+
+
+- **[Enhancing the Efficiency and Flexibility of AutoMeKin: Integrating ORCA and Machine-Learning Potentials](https://doi.org/10.1021/acs.jctc.6c01565)**
+  <br>*Journal of Chemical Theory and Computation | 2026-10-06 | doi:10.1021/acs.jctc.6c01565 | score 7*
+  <br>Omar Rodríguez López, Emilio Martı́nez-Núñez, Berta Fernández, Saulo A. Vázquez
+
+  Abstract Automated reaction discovery is often limited by the cost of high-level refinement of large reaction networks. Here, we extend AutoMeKin, an automated reaction-discovery program, by presenting a complete integration of ORCA 6 into its high-level refinement workflow, providing access to a broad range of electronic-structure methods through a package freely available to academic users. We also integrate the UMA and MACE-OMOL-0 machine-learning interatomic potentials and Δ-ML energy corrections, enabling automated refinement of reaction networks using conventional electronic-structure methods, foundation ML potentials, or ML-corrected quantum-mechanical approaches within a unified fram...
+
+  `matched: interatomic potential`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[CrystalJev: thinking fast and slow with atomistic foundation models for materials discovery](http://arxiv.org/abs/2610.06985v1)**
+  <br>*arXiv | 2026-10-04 | score 37*
+  <br>Peng Kang, Zhen Li, Yu Liu, Lei Zheng et al.
+
+  Atomistic foundation models triage millions of hypothetical materials but are used as slow simulators, their thresholded energies taken at face value. They are better read as fast decision-makers. CrystalJev queries a frozen interatomic potential once per unrelaxed structure and answers typed questions with calibrated probabilities, finite-sample guarantees and a rule for when to think slowly. Across 65 Matbench Discovery models, a 'stable' call is a probability in disguise, explained by a model's errors and the candidate population. Once trained, one forward pass decides nearly as well as a relaxation at a thirtieth of its cost, and a value-of-information theory sends slower computation onl...
+
+  `matched: interatomic potential, materials discovery, foundation model, crystal`
+
+
+- **[Graph-based machine learning model for adsorption energy prediction of CO2 hydrogenation intermediates on metal oxide catalysts](https://doi.org/10.26434/chemrxiv.15010002/v1)**
+  <br>*Crossref | 2026-10-07 | doi:10.26434/chemrxiv.15010002/v1 | score 31*
+  <br>Risansyauqi, Villa-Arpi, Prats, Comas-Vives et al.
+
+  Mixed metal oxide catalysts are highly active for CO2 hydrogenation to methanol and typically more selective than classical Cu-based catalysts. Adsorption energies of key reaction intermediates can serve as activity descriptors for high-throughput screening of metal oxide-dopant combinations, but this requires numerous computationally demanding density functional theory (DFT) calculations. Machine-learning interatomic potentials (MLIPs) and adsorption energy prediction models offer faster alternatives, yet current architectures struggle with the structural and electronic complexity of mixed metal oxides introduced by dopants, oxygen vacancies, and diverse adsorption motifs. In this work, a g...
+
+  `matched: high-throughput screening, density functional theory, interatomic potential, machine learning, catalyst, dft`
+
+
+- **[OxiGen: Oxidation-State-Aware Crystal Generation](http://arxiv.org/abs/2610.08296v1)**
+  <br>*arXiv | 2026-10-06 | score 31*
+  <br>Dylan John, Kim E. Jelfs, Alex M. Ganose, Eleonora Giunchiglia
+
+  Generative models have the potential to accelerate inorganic materials discovery by enabling inverse design, but generating experimentally realisable crystals remains challenging. Oxidation states are widely used to assess the compositional validity of crystals and guide inorganic materials discovery. While existing generative models for crystals can generate materials with charge-neutral oxidation-state assignments, they poorly reproduce the distributions of oxidation states observed in synthesised materials. To address this limitation, we propose OxiGen, an oxidation-state-aware crystal diffusion model that explicitly represents oxidation states during generation. OxiGen enforces global ch...
+
+  `matched: materials discovery, generative model, diffusion model, inverse design, inorganic, crystal`
+
+
+- **[Mechanical properties of V-4Ti-4Cr alloy from molecular dynamics with a neural-network potential](http://arxiv.org/abs/2610.08291v1)**
+  <br>*arXiv | 2026-10-06 | score 29*
+  <br>G. S. Demyanov, D. V. Minakov, S. B. Saltykov, P. R. Levashov et al.
+
+  Machine-learning interatomic potentials enable large-scale atomistic simulations of vanadium alloys relevant to fusion applications, but reliable training and validation remain challenging in multicomponent systems. Here, we develop a descriptor-based DeepMD-DPA1 potential for the V-Ti-Cr system using a two-stage workflow: broad configuration sampling driven by the MatterSim foundation model followed by fine-tuning to density-functional-theory data computed with VASP. The model achieves root-mean-square errors of 9.2 meV/atom for energies and 0.23 eV/angstrom for force components. Using this potential in large-cell LAMMPS simulations, we compute Young's modulus, bulk modulus, and Poisson's r...
+
+  `matched: interatomic potential, molecular dynamics, foundation model, mattersim, alloy`
+
+
+- **[Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials](http://arxiv.org/abs/2610.08013v1)**
+  <br>*arXiv | 2026-10-06 | score 24*
+  <br>Minseok Moon, Wonjun Choi, Seungwu Han, Youngho Kang
+
+  Aluminum nitride (AlN) is an important thermal management material whose high lattice thermal conductivity is strongly suppressed by oxygen impurities. We investigate phonon scattering by oxygen-related defects using pretrained universal machine-learning interatomic potentials (MLIPs), molecular dynamics (MD), and phonon Boltzmann transport calculations. Several pretrained MLIPs are benchmarked against density functional theory for phonon dispersions and pristine thermal conductivity. To balance accuracy and computational speed, we use a fine-tuned version of the compact SevenNet-Nano model for MD simulations. Monte Carlo annealing supports the formation of bound $V_{\mathrm{Al}}(\mathrm{O_N...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics, benchmark, phonon`
+
+
+- **[Base-Dependent Lewis Acidity in Substituted Boranes: Revisiting Intrinsic Acidity through DFT and Machine Learning](https://doi.org/10.26434/chemrxiv.15010041/v1)**
+  <br>*Crossref | 2026-10-07 | doi:10.26434/chemrxiv.15010041/v1 | score 19*
+  <br>Mahdian, Laasonen, Farshadfar
+
+  The Lewis acidity of boranes is strongly influenced by the electronic nature of their substituents and is commonly assessed through interactions with representative Lewis bases. However, the extent to which the relative Lewis acidity ordering of substituted boranes depends on the identity of the interacting Lewis base has not been systematically investigated. In this work, Density Functional Theory (DFT) calculations combined with machine learning (ML) analysis were employed to quantify substituent effects and base dependence in borane–Lewis base interactions. A dataset comprising 816 trisubstituted boranes generated from 16 representative substituents was examined in interaction with five L...
+
+  `matched: density functional theory, machine learning, dataset, dft`
+
+
+- **[Machine Learning-Powered Simulations of Confinement-Driven 129 Xe Nuclear Spin Relaxation](https://doi.org/10.26434/chemrxiv.15009993/v1)**
+  <br>*Crossref | 2026-10-06 | doi:10.26434/chemrxiv.15009993/v1 | score 17*
+  <br>Zakary, Lantto
+
+  The rate at which a nuclear spin returns to equilibrium encodes the dynamics of its surroundings, information the chemical shift, a time-averaged quantity, cannot provide. Building on a previous dual-model machine learning framework, combining a fine-tuned atomistic foundation model (FT-AFM) for molecular dynamics (MD) with an NMR-ML model predicting the 129 Xe magnetic shielding tensor, we compute the chemical shift anisotropy-driven 129 Xe spin-lattice ( T 1 ) and spin-spin ( T 2 ) relaxation times of xenon confined in carbon nanotubes by extending the Redfield theory treatment to arbitrary nanotube orientations relative to the external magnetic field. Across various temperatures, nanotube...
+
+  `matched: molecular dynamics, machine learning, foundation model, magnet`
+
+
+- **[Improved electrostatic machine learning embedding ML/MM scheme for a phosphoryl transfer reaction](https://doi.org/10.26434/chemrxiv.15010047/v1)**
+  <br>*Crossref | 2026-10-07 | doi:10.26434/chemrxiv.15010047/v1 | score 12*
+  <br>Kantin, Tuñón, Zinovjev, Duboué Dijon et al.
+
+  The promise of hybrid machine learning/molecular mechanics (ML/MM) simulations is to provide QM/MM-quality free energy profiles at a fraction of the cost. One of the challenges is to accurately treat the interaction between the ML subsystem and the MM environment. Here we test the Electrostatic ML Embedding (EMLE) scheme on a minimal model of RNA cleavage in water, which is already challenging due to a doubly charged reactant dissociating into two anions. The original scheme, a MACE potential embedded by an independent EMLE model, is compared with a new EMLE–MACE architecture, in which a single equivariant network predicts the gas-phase energy together with the atomic charges, valence widths...
+
+  `matched: machine learning, equivariant`
+
+
+### Conference papers
+
+- **[Learning consistent molecular mechanics force fields from first principles](http://arxiv.org/abs/2610.08020v1)**
+  <br>*arXiv | 2026-10-06 | score 22*
+  <br>Accepted/presented: NeurIPS | Berkay Günes, Leif Seute, Jigyasa Nigam, Frauke Gräter
+
+  Classical force fields (FFs) remain the workhorse for large-scale simulations even as machine-learned interatomic potentials (MLIPs) approach ab initio accuracy. They decompose total configuration energies into simple effective interactions whose parameters are traditionally assigned based on atom or bond types, enabling efficient simulations but also limiting their ability to adapt across configurations. Recent machine learning approaches have improved the accuracy and transferability of bonded parameters in these FFs by inferring them as functions of local atomic environments, but still rely on empirical nonbonded parameters for practical simulations. In this work, we introduce a unified a...
+
+  `matched: machine-learned interatomic potential, interatomic potential, machine learning`
+
+
+- **[Steering Diffusion Models to Rare Events with Sequential Monte Carlo](http://arxiv.org/abs/2610.08652v1)**
+  <br>*arXiv | 2026-10-06 | score 20*
+  <br>Accepted/presented: NeurIPS | Aavash Subedi, Tim Reichelt, Christopher Williams, Philip Stier et al.
+
+  Diffusion models are increasingly used as surrogates for expensive simulators in weather prediction, molecular dynamics, and materials design. In these models, computing the probability $p_0[E]$ of an event $E$ is difficult, especially when the event of interest is rare. A stable estimate using Monte Carlo becomes computationally intractable, requiring a growing sample size $\propto\!1/p_0[E]$ to compensate for an increasing rarity. In this paper, we present Diffusion Importance Sampling of Rare Events or DireSMC, a sequential Monte Carlo scheme that guides a population of weighted samples towards the rare event, giving access not only to samples but also to a calibrated estimate of its prob...
+
+  `matched: molecular dynamics, materials design, diffusion model`
+
+
+---
+
+
 ## 2026-10-06
 
 13 new item(s). Top hit: **Predicting Thermophysical Properties of Halide Salts Using On-the-Fly Machine-Learned Interatomic Potentials A** (score 32, Crossref).
