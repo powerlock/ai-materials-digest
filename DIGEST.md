@@ -6,6 +6,172 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-08
+
+18 new item(s). Top hit: **Accelerating dynamic polarizability calculations of organic molecules using equivariant graph neural networks** (score 31, arXiv).
+
+### Journal articles
+
+- **[The road to self-driving laboratories in industry](https://www.nature.com/articles/s44160-026-01194-2)**
+  <br>*Nature Synthesis | 2026-10-08 | doi:10.1038/s44160-026-01194-2 | score 21*
+
+  `matched: self-driving lab`
+
+
+- **[Graph neural network-based visual design element association analysis and style transfer model](https://doi.org/10.1007/s43926-026-00464-x)**
+  <br>*Discover Internet of Things | 2026-10-08 | doi:10.1007/s43926-026-00464-x | score 17*
+  <br>Gao
+
+  `matched: graph neural network, neural network`
+
+
+- **[Experimental and machine learning analysis on Mn doped Fe2O3@Bi2S3 heterojunctions for visible light photocatalytic degradation of Rhodamine B](https://doi.org/10.1016/j.jenvman.2026.131093)**
+  <br>*Journal of Environmental Management | 2026-10-07 | doi:10.1016/j.jenvman.2026.131093 | score 12*
+  <br>Kübra Köşe Kaya, Muhammed Furkan Gül, Halit Bakır, Ceren Orak
+
+  In this study, Mn-doped Fe 2 O 3 @Bi 2 S 3 nanocomposite heterojunctions were synthesized, characterized, and evaluated for their photocatalytic performance in the degradation of Rhodamine B (RhB) dye under visible light. A strong heterojunction structure was formed by combining Fe 2 O 3 and Bi 2 S 3 semiconductors through a hydrothermal method, and a series of composites were prepared by incorporating 1–10% Mn dopant into the Bi 2 S 3 phase. Structural (XRD) and optical (UV-Vis DRS) characterization results confirmed the successful formation of the Fe 2 O 3 @Bi 2 S 3 heterojunction and revealed that Mn doping was integrated into the crystal structure, modifying its band configuration. Contr...
+
+  `matched: machine learning, semiconductor, crystal`
+
+
+- **[An audit-ready EHR foundation model for order-time medication-safety auditing across health systems](https://doi.org/10.1038/s41746-026-03243-8)**
+  <br>*npj Digital Medicine | 2026-10-08 | doi:10.1038/s41746-026-03243-8 | score 9*
+  <br>Cao, Li, Liu, Duprey et al.
+
+  `matched: foundation model`
+
+
+- **[Kenzie Robotics: A Review of the Production Cycle through Active Learning](https://doi.org/10.2308/issues-2023-083)**
+  <br>*Issues in Accounting Education | 2026-10-08 | doi:10.2308/issues-2023-083 | score 7*
+  <br>Sidgman, Brown
+
+  ABSTRACT This case employs active learning through role-playing to effectively teach the production cycle in an accounting course. Students engage in experiential learning by individually documenting and collaboratively simulating the manufacturing steps required to build one unit of a toy robot, following directives from a fictional company’s management. These hands-on activities foster classroom discussion and promote critical thinking. The case also supports key competencies outlined in the American Institute of Certified Public Accountants (AICPA) Pre-Certification Core Competencies Framework (AICPA 2022) and the Institute of Management Accountants (IMA) IMA management accounting compete...
+
+  `matched: active learning`
+
+
+- **[IoT-Enabled PocketLabs and the Instructional Model for Active Learning in Control Systems Education](https://doi.org/10.28945/5884)**
+  <br>*Journal of Information Technology Education: Research | 2026-10-08 | doi:10.28945/5884 | score 7*
+  <br>Enrique Bermeo Clavijo, Hernando Sepúlveda-Oviedo, J Ramírez-Echeverry
+
+  Aim/Purpose: This study investigates how integrating Internet of Things (IoT)-enabled Pocket Laboratories (PocketLabs) with the 5E instructional model can support active learning in undergraduate Control Systems education. Background: Traditional Control Systems laboratories face challenges related to cost, availability, and access to hands-on experimentation. Although PocketLabs and IoT technologies offer promising alternatives, their pedagogical integration within structured instructional frameworks remains underexplored. Methodology: An exploratory mixed-methods case study was conducted. A total of 55 undergraduate engineering students participated in the laboratory activities, and data f...
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Accelerating dynamic polarizability calculations of organic molecules using equivariant graph neural networks](http://arxiv.org/abs/2610.09389v1)**
+  <br>*arXiv | 2026-10-07 | score 31*
+  <br>Houssam Metni, Maria Kraus, Marie Louise Schubert, Marjan Krstic et al.
+
+  Predicting the dynamic polarizability tensor of organic molecules is essential for simulating light-matter interactions in optoelectronic devices, yet conventional quantum-chemical methods such as time-dependent density functional theory (TD-DFT) are computationally expensive and limit large-scale screening. We present an equivariant graph neural network architecture that predicts frequency-dependent, complex-valued dynamic polarizability tensors directly from readily available molecular information, such as 3D geometry and UV-vis spectra. The model learns to approximate the shape and magnitude of the dynamic polarizability tensor, capturing both dispersive and absorptive features that defin...
+
+  `matched: density functional theory, graph neural network, neural network, equivariant, dft`
+
+
+- **[Accelerating discovery of phosphorescent blue OLED emitters using chemical foundation models](https://doi.org/10.26434/chemrxiv.15003869/v2)**
+  <br>*ChemRxiv | 2026-10-07 | doi:10.26434/chemrxiv.15003869/v2 | score 30*
+  <br>Alexander Davis, Ihor Neporozhnii, Félix Therrien, Suhas Mahesh
+
+  In OLED displays, phosphorescent emitter molecules are used for red and green but not for blue pixels. Iridium organometallics are promising phosphorescent emitters, but a molecule satisfying the requirements of color, brightness, and stability has not yet been developed. One strategy to discover an emitter is virtual screening, in which computational predictions are used to prioritize candidates for synthesis. Due to the computational difficulty of screening with first-principles methods such as density functional theory (DFT), empirical machine-learning methods have been used for virtual screening. Recently, machine-learned interatomic potentials (MLIPs) have provided fast proxies for DFT...
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, foundation model, dft`
+
+
+- **[Physics-Aligned Electronic Ground-State Learning Improves Generalization](http://arxiv.org/abs/2610.10298v1)**
+  <br>*arXiv | 2026-10-07 | score 22*
+  <br>Eike S. Eberhard, Xaver Kainz, Viktor Kotsev, Abdulrahman Aldossary et al.
+
+  Machine-learned interatomic potentials (MLIPs) excel at in-distribution tasks, accelerating drug and material development, yet they struggle to generalize out-of-distribution. We propose to push the cost-accuracy Pareto frontier by designing observable-agnostic electronic ground-state descriptor models (GSMs) with computational costs situated between MLIPs and Kohn-Sham density functional theory (KS-DFT). We align the learning objectives and architectures of GSMs with the governing equations of KS-DFT by enforcing physical constraints and removing optimization pressure on unphysical or irrelevant degrees of freedom. In our size-extrapolation experiments from QM9 to QM40, our combined contrib...
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, dft`
+
+
+- **[Physics-Informed Machine Learning for Accelerated Synthesis Optimization of the Lead-Free Layered Double Perovskite (BA) 4 AgBiBr 8](https://doi.org/10.2139/ssrn.7583498)**
+  <br>*Crossref | 2026-10-08 | doi:10.2139/ssrn.7583498 | score 20*
+  <br>Tadesse, Dulla
+
+  Lead-free halide double perovskites are promising alternatives to toxic lead-based perovskites for optoelectronic applications, yet their synthesis optimization remains challenging due to the complex, multidimensional parameter space. Here, we present a physics-informed machine learning (PIML) framework for accelerated synthesis optimization of the lead-free layered double perovskite (BA) 4 AgBiBr 8 and its compositional variants. The approach integrates physical constraints derived from crystallization kinetics with data-driven surrogate modeling, achieving high predictive accuracy with a bandgap mean absolute error (MAE) of 0.0157 eV, purity MAE of 0.0240, and crystallinity MAE of 0.0219....
+
+  `matched: machine learning, surrogate model, perovskite, crystal`
+
+
+- **[Automatically Building and Updating a Knowledge Graph of MLIP Models](http://arxiv.org/abs/2610.09644v1)**
+  <br>*arXiv | 2026-10-07 | score 19*
+  <br>Alexis Beer, Liudmyla Klochko, Mathieu d'Aquin
+
+  Complementing the many efforts in providing semantic representations of concepts, notions, and entities in materials science, we report and illustrate a process by which we can automatically build a knowledge graph of the fast evolving field of machine learning applied to the prediction of material properties, focusing on MLIP (Machine Learning Interatomic Potential). This LLM-based process relies on multiple steps, from information extraction in documents and articles to a validation loop using SHACL constraints to detect and correct errors. It is carried out on a model-by-model basis, focusing on the consistency of representation, therefore enabling an iterative construction where the addi...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Polymer Property Prediction via an Automated Molecular Dynamics Pipeline and Transfer Learning](https://doi.org/10.26434/chemrxiv.15010097/v1)**
+  <br>*Crossref | 2026-10-08 | doi:10.26434/chemrxiv.15010097/v1 | score 15*
+  <br>Law, Lazarenko, Bernat, Knott et al.
+
+  For many existing and emerging applications, there is a great need to develop novel polymeric materials with highly tuned properties. In the quest to design materials from highly abundant natural resources or waste materials, there is a vast design space that has remained substantially unexplored. Machine learning approaches can help guide toward improved properties, but these approaches often suffer from a lack of high quality data, the acquisition of which can be tedious, time-consuming, and expensive. In silico atomistic simulations are a promising approach to generate data that are highly correlated to real polymer properties, but simulations of polymers present myriad challenges includi...
+
+  `matched: molecular dynamics, machine learning, polymer`
+
+
+- **[YB_Mol Studio: an agent-integrated visual editing platform for molecular and materials design](https://doi.org/10.26434/chemrxiv.15010106/v1)**
+  <br>*Crossref | 2026-10-08 | doi:10.26434/chemrxiv.15010106/v1 | score 14*
+  <br>Zhao, Zhang, Li, Miao et al.
+
+  Molecular and materials design requires researchers to inspect structures, edit molecular objects and connect each change to computation. Artificial intelligence (AI) agents add another operating mode: they need executable molecular operations, visible intermediate states and a way to continue from prior results. Here we present YB_Mol Studio, an agent-integrated visual editing platform for molecular and materials design. Its molecular design core, yb_mol, represents atoms, bonds, coordinates, structural hierarchy and periodic information in editable molecular objects. Studio connects this core to direct visual editing, YB_Agent execution, a persistent Live workspace and local or remote scie...
+
+  `matched: artificial intelligence, materials design`
+
+
+- **[Deep learning driven framework for optimization of polycrystalline microstructures under competing strength requirements](http://arxiv.org/abs/2610.09461v1)**
+  <br>*arXiv | 2026-10-07 | score 13*
+  <br>Ashwini Gupta, Indrashish Saha, Lori Graham-Brady, Tamer A. Zaki
+
+  Computational design of polycrystalline microstructures for enhanced mechanical performance requires repeated high-fidelity simulations over stochastic morphologies, rendering conventional crystal plasticity finite element (CPFE) approaches prohibitively expensive for optimization. Here, we develop a deep learning-driven framework for optimizing polycrystalline microstructures under competing quasi-static and dynamic performance requirements. A 3D U-Net surrogate maps polycrystalline copper microstructures directly to full-field velocity histories from plate-impact simulations, preserving the spatial and temporal resolution needed to evaluate dynamic performance and interrogate underlying wa...
+
+  `matched: deep learning, crystal`
+
+
+- **[Origins of Universal Machine Learning Force-Field Errors in Multicomponent Materials](http://arxiv.org/abs/2610.09837v1)**
+  <br>*arXiv | 2026-10-07 | score 12*
+  <br>Hongwei Du, Dingyang Lv, Baole Wei, Yu Ren et al.
+
+  Universal machine learning force-field generalization to multicomponent environments generated by compositional design remains insufficiently assessed. We construct a benchmark of 7,599 multicomponent configurations inspired by high-entropy design, elemental substitution and anion mixing. Eleven pretrained models are evaluated against density functional theory for energies, forces and stresses, with assessment extended to elastic, vibrational and adsorption-related properties. Force errors are analysed through training-reference coverage, local geometric heterogeneity, distance directionality and elemental response. Distances to training-reference environments reveal a qualitative associatio...
+
+  `matched: density functional theory, machine learning, benchmark`
+
+
+- **[ScolioLDM: Towards Accurate Postoperative Radiograph Synthesis for Scoliosis with Morphology-Guided Latent Diffusion Model](https://doi.org/10.2139/ssrn.7570288)**
+  <br>*Crossref | 2026-10-08 | doi:10.2139/ssrn.7570288 | score 10*
+  <br>Chen, Li, Zhao, Nie et al.
+
+  Estimating likely postoperative morphology is important for understanding expected outcomes in adolescent idiopathic scoliosis (AIS). Current planning workflows predominantly rely on quantitative indices, which provide numerical references but limited intuitive visualization of postoperative spinal alignment and implant configuration. Image-level postoperative outcome prediction from preoperative radiographs offers a complementary way to visualize likely postoperative appearance, but remains challenging because of non-rigid spinal deformation and the complex geometry of instrumentation. To address these challenges, we propose ScolioLDM, a morphology-guided conditional latent diffusion framew...
+
+  `matched: diffusion model`
+
+
+- **[Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control](http://arxiv.org/abs/2610.10054v1)**
+  <br>*arXiv | 2026-10-07 | score 10*
+  <br>Boya Hou, Shane Wang, Siddharth Ambekar, Maxim Raginsky et al.
+
+  Sampling transitions between metastable states is a central problem in dynamical systems theory and molecular dynamics in particular. A key challenge is the existence of high free-energy barriers that separate the states, making transitions extremely rare. Recent machine learning-based methods cast transition path sampling (TPS) as an optimal stochastic control (OSC) problem over a fixed time horizon, and parameterize the drift bias via a neural network trained by simulation-in-the-loop, requiring repeated biased rollouts. To address computational and performance guarantee issues of these models, we propose a new approach for the problem based on Koopman operators. Because Koopman operators...
+
+  `matched: molecular dynamics, machine learning, neural network`
+
+
+- **[PEACE: Covariant learning of nonadiabatic manifolds with parity-resolved Hamiltonians](http://arxiv.org/abs/2610.09576v1)**
+  <br>*arXiv | 2026-10-07 | score 8*
+  <br>Rongzhi Gao, Shuguang Chen, Yang Zhou, GuanHua Chen et al.
+
+  Nonadiabatic molecular dynamics provides mechanistic insight into light-driven processes and informs the design of molecules and materials for solar energy conversion, photocatalysis and photo switching. Accurately describing these processes requires a representation that respects electronic symmetry and consistently relates energies to interstate couplings. Here we introduce PEACE, which combines a parity-equivariant latent Hamiltonian with a learned electronic connection. Controlled ablations reveal the complementary roles of symmetry-allowed state mixing and electronic-frame variation in reproducing crossing structures and relaxation dynamics. PEACE closely reproduces excited-state popula...
+
+  `matched: molecular dynamics, equivariant`
+
+
+---
+
+
 ## 2026-10-07
 
 15 new item(s). Top hit: **Modeling Phase Separation in Polymer-Derived Silicon Carbonitride Ceramics through Extended Machine Learning M** (score 43, ACS Nano).
