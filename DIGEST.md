@@ -6,6 +6,191 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-10
+
+20 new item(s). Top hit: **Interaction-Aware Machine Learning Interatomic Potential Guidance for Diffusion-Based 3D Ligand Generation in ** (score 41, Zenodo (CERN European Organization for Nuclear Research)).
+
+### Journal articles
+
+- **[Interaction-Aware Machine Learning Interatomic Potential Guidance for Diffusion-Based 3D Ligand Generation in Protein Pockets](https://doi.org/10.5281/zenodo.23253725)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-09 | doi:10.5281/zenodo.23253725 | score 41*
+  <br>Hejing Huo, Jinfeng Liu
+
+  Protein-conditioned three-dimensional (3D) generative models can directlyconstruct ligands in target binding pockets, but learning the structuraldistribution of known complexes does not ensure that sampled poses occupyfavorable regions of the underlying energy landscape. Recent guidancestrategies have begun to introduce affinity or force-field information duringgeneration, yet a key issue remains unresolved, i.e. the force acting on ligandatoms mixes ligand-intrinsic conformational relaxation withprotein-environment-induced interactions, and these contributions need not beequally informative for target-oriented molecular design. Here, a training-free, inference-time framework integrates the...
+
+  `matched: machine learning interatomic potential, interatomic potential, generative model, machine learning`
+
+
+- **[Distilling First-Principles Accuracy into Compact Machine Learning Potentials for Condensed-Phase Chemistry](https://doi.org/10.1021/acs.jctc.6c01131)**
+  <br>*Journal of Chemical Theory and Computation | 2026-10-09 | doi:10.1021/acs.jctc.6c01131 | score 26*
+  <br>Sijia Chen, Niamh O'Neill, Benjamin X. Shi, Venkat Kapil
+
+  Abstract Accurate machine learning interatomic potentials (MLIPs) have made first-principles-quality potential energy surfaces increasingly accessible for condensed-phase chemistry, but their inference cost can still limit the sampling needed to compute experimentally relevant observables. In this work, we use knowledge distillation to construct compact “student” models that retain the accuracy of much larger “teacher” models obtained through either finetuning of foundation models or Δ-learning. The resulting students reduce production simulation cost by approximately an order of magnitude, making high-accuracy sampling practical for challenging condensed-phase problems. We demonstrate this...
+
+  `matched: machine learning interatomic potential, interatomic potential, foundation model, machine learning`
+
+
+- **[Symbolic ensemble learning enables discovery of fast accurate physics-based interatomic potentials](https://doi.org/10.1103/gkpd-gtzp)**
+  <br>*Physical Review Materials | 2026-10-09 | doi:10.1103/gkpd-gtzp | score 25*
+  <br>Bilvin Varughese, Aditya Koneru, Adil Muhammad, Troy D. Loeffler
+
+  Machine learning has transformed materials simulation by delivering force fields with ab initio accuracy, yet bridging the gap between high-dimensional regression and physical interpretability remains a grand challenge. Conventional analytical potentials offer transparency but often fail to capture the complexity of far-from-ground state regimes. Here, we introduce a hybrid symbolic-neural framework that unifies the interpretability of the Embedded Atom Method (EAM) with the adaptability of data-driven learning. Using Equation Learner Neural Networks (EqNNs) trained on density functional theory (DFT) data, we obtain interpretable models for aluminum through three distinct training protocols:...
+
+  `matched: density functional theory, interatomic potential, machine learning, neural network, dft`
+
+
+- **[Tuning Pore Confinement and Chemistry of Fluorine-Free Membranes](https://doi.org/10.1021/jacs.6c15621)**
+  <br>*Journal of the American Chemical Society | 2026-10-09 | doi:10.1021/jacs.6c15621 | score 25*
+  <br>Muhammad Saad Naeem, Zan Lian, Jordi Guardià, Ranga Rohit Seemakurthi
+
+  Abstract The design of low-temperature fuel cells and electrolyzers involving proton exchange membranes (PEMs) has been dominated by the exceptional performance and industrial dominance of Nafion. With emerging regulations banning the use of fluorinated compounds, the search for F-free alternatives must be accelerated. Here, we optimize a fluorine-free, sustainable, and low-cost liquid crystalline poly(epichlorohydrin)membrane, based on the identification of key descriptors for proton mobility obtained using machine learning interatomic potentials (MLIPs) derived from first-principles calculations for extensive molecular dynamics. Proton transfer is controlled by the interplay between water...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, crystal`
+
+
+- **[Machine learning accelerated exploration of the global high pressure phase diagram](https://doi.org/10.1016/j.mattod.2026.103523)**
+  <br>*Materials Today | 2026-10-09 | doi:10.1016/j.mattod.2026.103523 | score 24*
+  <br>Paulo Pires, Pierre-Paul De Breuck, Hai‐Chen Wang, Théo Cavignac
+
+  Pressure reshapes electronegativity, chemical hardness, and bonding, stabilizing compounds and crystal symmetries inaccessible at ambient conditions, yet accurate phase diagrams at high pressure exist for only a small fraction of elemental combinations, and their exploration across broad chemical space has been up to now computationally prohibitive. We develop a machine-learning accelerated workflow for the exploration of the phase diagrams under pressure, that combines a generative transformer for candidate proposal, universal interatomic potentials for rapid pre-screening and relaxation, and density functional theory (DFT) for the relaxation and the formation enthalpy of every entry. Since...
+
+  `matched: density functional theory, interatomic potential, machine learning, transformer, crystal, dft`
+
+
+- **[sarashzi/graphene-oxide-mechanics-mlip: Graphene Oxide Mechanics with Machine-Learning Interatomic Potentials — Version 1.0](https://doi.org/10.5281/zenodo.23262749)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-09 | doi:10.5281/zenodo.23262749 | score 24*
+  <br>Sara Shahbazi Fashtali
+
+  Version 1.0 — Initial Research Release This repository contains research code, simulation inputs, and supporting materials associated with the study: "Oxidation-dependent mechanical response of graphene oxide: Improving the reliability of atomistic modelling by ab initio machine learning simulations" Authors: Sara Shahbazi Fashtali, Pablo M. Piaggi, and Giuseppe Zollo. Journal: Physical Review Materials (2026). The repository includes materials related to: Molecular dynamics simulations using MACE. DFT dataset generation using Quantum ESPRESSO. Dataset preparation and processing. Fine-tuning of machine-learning interatomic potentials. Production molecular dynamics simulations. Example graphe...
+
+  `matched: interatomic potential, molecular dynamics, machine learning, dataset, dft`
+
+
+- **[Machine-Learning-Driven Simulations of Hyperthermal Atomic Oxygen Impacts on (0001) Al2O3 for Low-Altitude Satellite Design](https://doi.org/10.1021/acsami.6c14110)**
+  <br>*PubMed | 2026-10-08 | doi:10.1021/acsami.6c14110 | score 22*
+  <br>Nico Segreto, Јован Бошковић, Andrea Beck, Johannes Kästner
+
+  In Very Low Earth Orbit (VLEO), spacecraft encounter residual atmosphere primarily composed of atomic oxygen (AO). The drag and operational lifetime of these spacecraft are determined by the interaction between AO and the surface, which for aluminum is a passivation layer of Al2O3. We present a blueprint for developing machine-learned interatomic potentials for reactive gas-surface systems. Gaussian-Moment Neural Networks, implemented in apax, are trained using an active learning workflow that incorporates a spin-state switching scheme. This approach accounts for the triplet-to-singlet transition that AO undergoes upon adsorption, a process usually neglected in machine-learned potential stud...
+
+  `matched: machine-learned interatomic potential, interatomic potential, active learning, neural network`
+
+
+- **[General-purpose LLMs as constrained crystal composition generators](https://doi.org/10.1038/s41524-026-02339-9)**
+  <br>*npj Computational Materials | 2026-10-09 | doi:10.1038/s41524-026-02339-9 | score 19*
+  <br>Hedda Oschinski, Maximilian L. Ach, Konstantin S. Jakob, Christian Carbogno
+
+  Abstract The targeted discovery of inorganic materials remains challenging due to the vastness of compositional design spaces and the high cost of exhaustive screening. Task-specific generative artificial intelligence represents a particularly efficient alternative to screening, yet demands tedious collection of training data before providing real benefit. General-purpose large language models (LLMs) have recently shown tremendous potential for the targeted generation of single, optimal materials compositions without the need for task-specific fine-tuning. However, it is unclear whether LLMs generally pose an advantage compared to specialized generative models, in particular in large design...
+
+  `matched: artificial intelligence, large language model, generative model, inorganic, crystal`
+
+
+- **[Atomic-Scale Mechanisms of Nanovoid-Mediated Spallation and Ignition Precursors in a TiZrWV High-Entropy Alloy under Shock Loading](https://doi.org/10.6084/m9.figshare.34291431)**
+  <br>*Figshare | 2026-10-09 | doi:10.6084/m9.figshare.34291431 | score 14*
+  <br>wei
+
+  Understanding how nanoscale defects regulate energy localization and trigger chemical activity under extreme dynamic loading is critical for designing impact-resistant and reactive materials. Here, we use large-scale molecular dynamics simulations with a machine-learning interatomic potential to reveal the atomic-scale mechanisms of nanovoid-mediated spallation and ignition precursors in an equiatomic TiZrWV high-entropy alloy. We uncover a coupled collapse–spallation–thermal-saturation pathway, in which shock-driven nanovoid collapse first generates a collapse-induced amorphous region (CIAR) accompanied by intense localized heating. During unloading, rarefaction wave interaction concentrate...
+
+  `matched: interatomic potential, molecular dynamics, alloy`
+
+
+- **[Resource-aware local quantum generative modeling for few-shot visual representations](https://doi.org/10.1016/j.chaos.2026.119308)**
+  <br>*Chaos, Solitons &amp; Fractals | 2026-10-10 | doi:10.1016/j.chaos.2026.119308 | score 9*
+  <br>Cheng, Wang, Zhao, Wan et al.
+
+  `matched: generative model`
+
+
+- **[An efficient conditional diffusion model for meteorological data super-resolution based on stochastic differential equations over Eastern China](https://doi.org/10.1016/j.jclepro.2026.149688)**
+  <br>*Journal of Cleaner Production | 2026-10-10 | doi:10.1016/j.jclepro.2026.149688 | score 9*
+  <br>Mu, Wang, Xiang, Fan et al.
+
+  `matched: diffusion model`
+
+
+- **[Streamline pathology foundation model by cross-magnification distillation](https://doi.org/10.1016/j.media.2026.104352)**
+  <br>*Medical Image Analysis | 2026-10-10 | doi:10.1016/j.media.2026.104352 | score 9*
+  <br>Su, Akbar, Sajjad, Parwani et al.
+
+  `matched: foundation model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Specialized machine learning force fields for materials dynamics](https://doi.org/10.48550/arxiv.2610.12151)**
+  <br>*arXiv (Cornell University) | 2026-10-08 | doi:10.48550/arxiv.2610.12151 | score 34*
+  <br>Yue Wu, Haoyu Wan, Yuan Tian, Deng Pan
+
+  Machine learning interatomic potentials (MLIPs) are transforming atomistic simulations by accessing unprecedented length and time scales. While pretrained equivariant graph neural networks achieve robust zero-shot performance for near-equilibrium properties across broad chemical spaces, their translation to complex materials dynamics remains fundamentally challenged by out-of-distribution reactive states, representation biases, and computational scaling limits. In this Review, we examine how physics-driven specialization extends the applicability of MLIPs to complex dynamical systems. We systematically evaluate the structural trade-offs in MLIP design: the undersampling of highly strained co...
+
+  `matched: machine learning interatomic potential, interatomic potential, graph neural network, machine learning, neural network, equivariant`
+
+
+- **[NEMORA: Neural Equivariant Multipole Operators for Long-Range Atomistic Learning](https://doi.org/10.48550/arxiv.2610.10776)**
+  <br>*arXiv (Cornell University) | 2026-10-07 | doi:10.48550/arxiv.2610.10776 | score 32*
+  <br>Jay L. Kaplan, Samuel Varner, Rebecca Willett, Juan Pablo
+
+  Equivariant graph neural networks have emerged as foundational architectures for machine-learned interatomic potentials, approaching quantum-chemical accuracy at a fraction of the computational cost. These models describe local atomic environments accurately, but finite spatial cutoffs truncate long-range information flow, and stacking message-passing layers can lead to over-smoothing and over-squashing. Existing long-range extensions either prescribe a fixed analytical propagation kernel, restrict long-range communication to scalars or degree-preserving channels, are only approximately equivariant, or incur super-linear computational cost. Combining learnable long-range equivariant transpor...
+
+  `matched: machine-learned interatomic potential, interatomic potential, graph neural network, neural network, equivariant`
+
+
+- **[Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides](https://doi.org/10.48550/arxiv.2610.11878)**
+  <br>*arXiv (Cornell University) | 2026-10-08 | doi:10.48550/arxiv.2610.11878 | score 20*
+  <br>M. Lebeda, Jan Drahokoupil, Šimon Svoboda, Petr Vlčák
+
+  Accurate prediction of temperature-dependent elasticity is important for assessing refractory carbides under high-temperature conditions, but the computational cost of ab initio molecular dynamics (AIMD) limits systematic investigations across compositions and temperatures. Universal machine-learning interatomic potentials (uMLIPs) offer an efficient alternative, yet their accuracy for this task remains insufficiently established. Here, we benchmark nine uMLIPs against consistent AIMD reference data for five binary and two high-entropy (HE) carbides between 300 and 1200 K. Elastic constants and the corresponding bulk, shear, and Young's moduli are obtained using stress-strain molecular dynam...
+
+  `matched: interatomic potential, molecular dynamics, benchmark`
+
+
+- **[Assessing the Reliability of Foundational Machine Learning Potentials for Evaluating the Veracity of the Crystallography Open Database](https://doi.org/10.48550/arxiv.2610.11246)**
+  <br>*arXiv (Cornell University) | 2026-10-08 | doi:10.48550/arxiv.2610.11246 | score 19*
+  <br>Justinas Šlepavičius, Antanas Vaitkus, Andrius Merkys, S. Gražulis
+
+  The Crystallography Open Database (COD) contains over half a million experimentally determined crystal structures. Validation of crystallographic data proceeds at three hierarchical levels, the third of which assesses the physical plausibility of structures. This level has typically relied on empirical heuristics or expert judgment, which are slow and error-prone given the size of crystallographic databases and the rate at which new structures are deposited. Here we assess whether universal machine-learning interatomic potentials (MLIPs) can automate this level of validation. Of the 522 086 COD entries, 317 457 (60.8\%) passed a data-quality filter removing disordered structures, formula mis...
+
+  `matched: interatomic potential, machine learning, crystal`
+
+
+- **[Overcoming the limitations of body-ordered potentials for atomistic machine learning](https://doi.org/10.48550/arxiv.2610.10830)**
+  <br>*arXiv (Cornell University) | 2026-10-07 | doi:10.48550/arxiv.2610.10830 | score 17*
+  <br>Filippo Bigi, Michelangelo Domina, Maximilian Lloyd Ach, Sergey N. Pozdnyakov
+
+  Machine-learning interatomic potentials have become indispensable tools in atomistic simulations. The most popular models rely heavily on physical priors, such as locality, smoothness and symmetry, that are assumed to improve the accuracy and transferability of the trained models. However, recent evidence suggests that, in the data-rich regime, unconstrained models that learn symmetry from the data can achieve very competitive accuracy and computational efficiency, without sacrificing stability and generalization power. Many equivariant symmetric architectures historically rely on the assumption that the interatomic potential can be approximated well by a convergentcluster expansion, i.e., a...
+
+  `matched: interatomic potential, machine learning, equivariant`
+
+
+- **[Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains](https://doi.org/10.48550/arxiv.2610.11454)**
+  <br>*arXiv (Cornell University) | 2026-10-08 | doi:10.48550/arxiv.2610.11454 | score 15*
+  <br>Miruna Cretu, Alex Abrudan, Antonia Panescu, Tynan Perez
+
+  Unified atomistic modeling has the potential to accelerate discovery in chemistry, materials science, and biology by bridging data-rich chemical domains and data-scarce biological contexts. However, existing generative approaches to atomistic modeling remain highly specialized to scientific disciplines (chemistry vs. biology) or do not leverage both high-volume organic (molecule) and inorganic (material) data for general-purpose pretraining. To this end, we introduce Zatom-2, an atomistic generative model pretrained on approximately five million structures from the OMol25 and OMat24 electronic structure datasets. Zatom-2 features a multiscale Transformer architecture coupled with conditional...
+
+  `matched: generative model, transformer, inorganic, dataset`
+
+
+- **[Generative inverse design steers human hematopoietic cell fate in vitro](https://doi.org/10.64898/2026.10.07.756550)**
+  <br>*bioRxiv (Cold Spring Harbor Laboratory) | 2026-10-09 | doi:10.64898/2026.10.07.756550 | score 13*
+  <br>Licyel Paulas-Condori, Alessandro Palma, Lorenzo Consoli, Juan A. Rubio-Lara
+
+  Inverse design has advanced the discovery of molecules and materials. Yet it remains largely unexplored for steering cell fate, where inputs are continuous, combinatorial culture conditions and outputs are distributions of cell states. Human hematopoiesis, in which combinations and doses of growth factors steer stem cells toward each blood lineage, is a demanding test case. While forward models can evaluate discrete conditions, the vast combinatorial space renders searching for a specific, target-producing design an intractable inverse problem. Here, we introduce LabCompass, an inverse-modeling framework that optimizes experimental designs toward candidates expected to produce specified targ...
+
+  `matched: inverse design`
+
+
+- **[Comprehensive study of massively overlapping cascades in common elemental metals](https://doi.org/10.48550/arxiv.2610.11910)**
+  <br>*arXiv (Cornell University) | 2026-10-08 | doi:10.48550/arxiv.2610.11910 | score 10*
+  <br>Aslak Fellman, Jesper Byggmästar, Fredric Granberg
+
+  Massively overlapping cascades simulations were carried out in 21 elemental metals: Be, Al, Ti, V, Cr, Fe, Co, Ni, Cu, Zr, Nb, Mo, Rh, Pd, Ag, Hf, Ta, W, Pt, Au and Pb. These elements have simple FCC, BCC and HCP lattice structures. For each element, 2000 cumulative 5 keV cascades were simulated using molecular dynamics. The overlapping cascades were simulated using various classical analytical interatomic potentials as well as with machine-learning interatomic potentials for many of the elements. The general conclusion is that results from massively overlapping cascades simulations are very sensitive to the choice of interatomic potential across the periodic table. Furthermore, we see that...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+---
+
+
 ## 2026-10-09
 
 29 new item(s). Top hit: **Amorphous TiO 2 from a statistical view based on molecular dynamics using machine learning interatomic potenti** (score 53, Chinese Physics B).
