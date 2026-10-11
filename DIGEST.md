@@ -6,6 +6,62 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-11
+
+5 new item(s). Top hit: **Thermal and mechanical modulation of interfacial thermal resistance in GaN/diamond heterostructures based on m** (score 22, International Journal of Heat and Mass Transfer).
+
+### Journal articles
+
+- **[Thermal and mechanical modulation of interfacial thermal resistance in GaN/diamond heterostructures based on machine learning potentials](https://doi.org/10.1016/j.ijheatmasstransfer.2026.129697)**
+  <br>*International Journal of Heat and Mass Transfer | 2026-10-09 | doi:10.1016/j.ijheatmasstransfer.2026.129697 | score 22*
+  <br>Shengnan Ji, Qing Ai, Bowei Zeng, Jialong Chen
+
+  Heterogeneous integration of high-thermal-conductivity diamond with gallium nitride (GaN) represents a compelling paradigm to break through the thermal dissipation bottlenecks in high-power electronics. However, the intrinsic acoustic mismatch between GaN and diamond gives rise to a non-negligible interfacial thermal resistance (ITR). This ITR severely limits the heat dissipation efficiency. In this work, a high-fidelity neuroevolution potential (NEP) machine learning interatomic potential is developed. This potential demonstrates markedly superior predictive accuracy compared with the conventional Tersoff empirical potential. Driven by this validated framework, non-equilibrium molecular dyn...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Machine Learning-accelerated Discovery of Broadband Electromagnetic Absorbers: Uncovering Structural-functional Correlations in Large-scale Heterogeneous Coating Materials](https://doi.org/10.25073/2588-1124/vnumap.5160)**
+  <br>*VNU Journal of Science: Mathematics - Physics | 2026-10-11 | doi:10.25073/2588-1124/vnumap.5160 | score 13*
+  <br>Anh Duc, Ngoc Minh
+
+  The rapid proliferation of high-frequency electronic devices and the increasing demand for stealth capabilities in aerospace and satellite systems necessitate the development of advanced electromagnetic (EM) wave absorbers. Traditional discovery methods, reliant on Edisonian trial-and-error or computationally intensive full-wave simulations (e.g., Finite Element Analysis), are severely bottlenecked by the vast chemical and structural design space. In this work, we introduce a paradigm shift from conventional screening to a data-driven materials informatics framework strictly focused on the thermodynamic screening of candidate materials. Leveraging a massive dataset of 51,182 unique material...
+
+  `matched: machine learning, dataset, magnet`
+
+
+- **[Designing Trustworthy AI Output Interfaces: A UX Framework for Graceful Handling of Generative Model Uncertainty in Consumer Applications](https://doi.org/10.63125/4m5fjb12)**
+  <br>*American Journal of Scholarly Research and Innovation | 2026-10-11 | doi:10.63125/4m5fjb12 | score 9*
+  <br>Arifin
+
+  Generative models now write, summarise, search, code and advise inside consumer applications with fluent confidence whether or not they are right. How an interface handles the model's uncertainty shapes whether users rely on it appropriately, verify when they should, and keep realistic trust after errors. This article develops a UX framework for graceful handling of generative-model uncertainty and evaluates its design choices analytically. Following a design-science approach, the framework is derived from the literatures on trust in automation, human–AI decision-making, uncertainty quantification for language models, risk communication and human–AI interaction guidelines. It comprises a six...
+
+  `matched: generative model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Online Construction of Small-Signal Stability Regions for Hybrid Grid-Following/Grid-Forming Photovoltaic Plants via Eigenvalue Localization and Machine Learning](https://doi.org/10.2139/ssrn.7597387)**
+  <br>*Crossref | 2026-10-11 | doi:10.2139/ssrn.7597387 | score 14*
+  <br>Li, Lin, Li, Lin et al.
+
+  Small-signal stability of a hybrid grid-following/grid-forming photovoltaic plant depends jointly on the grid-following control parameters and the grid-forming power-sharing ratio, with their feasible ranges varying with plant output and grid strength. Online construction of the small-signal stability region quantifies these ranges under changing operating conditions and supports operational decisions. However, varying the grid-forming power-sharing ratio shifts the steady-state operating point, so conventional stability region construction requires repeated small-signal model regeneration when the ratio is used as a coordinate. Moreover, existing construction methods are computationally bur...
+
+  `matched: machine learning, photovoltaic`
+
+
+- **[Data-efficient machine learning for the detection of duodenal neoplasia: a multi-centre study](https://doi.org/10.64898/2026.10.08.26365053)**
+  <br>*Crossref | 2026-10-11 | doi:10.64898/2026.10.08.26365053 | score 14*
+  <br>Di Lisio, Soilleux, Jaeckle
+
+  Background: Machine Learning (ML) has shown promise in histopathological diagnosis, but rare tumours, like duodenal epithelial neoplasms, are challenging because large, labelled datasets are difficult to assemble. We propose a data-efficient ML pipeline for detecting duodenal epithelial neoplasia in whole-slide images. Methods: We assembled a five-hospital dataset of haematoxylin and eosin-stained duodenal biopsy whole slide images (WSIs) at 10x magnification, comprising 8,027 normal and 401 neoplastic biopsies, including adenomas, carcinomas and neuroendocrine tumours. WSIs were divided into patches and encoded using the Hibou-B foundation model. We compared global standardisation with unsu...
+
+  `matched: foundation model, machine learning, dataset`
+
+
+---
+
+
 ## 2026-10-10
 
 20 new item(s). Top hit: **Interaction-Aware Machine Learning Interatomic Potential Guidance for Diffusion-Based 3D Ligand Generation in ** (score 41, Zenodo (CERN European Organization for Nuclear Research)).
