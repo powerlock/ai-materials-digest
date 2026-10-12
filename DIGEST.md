@@ -6,6 +6,87 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-12
+
+8 new item(s). Top hit: **Atomic Edge Resonators Flatten Phonon Bands in Biphenylene Nanoribbons** (score 22, arXiv).
+
+### Journal articles
+
+- **[Graph Neural Network–Enhanced Semantic Representation Learning for Document-Level Relation Extraction](https://doi.org/10.1109/iccmrai67732.2026.11723456)**
+  <br>*2026 1st International Conference on Computer, Mechatronics, Robotics &amp; Artificial Intelligence (ICCMRAI) | 2026-10-12 | doi:10.1109/iccmrai67732.2026.11723456 | score 17*
+  <br>Chaudhari, Kokane, Dhawas, Deotare et al.
+
+  `matched: graph neural network, neural network`
+
+
+- **[Self-regenerating photocatalytic water treatment systems: integrating cognitive AI control, bio-inspired self-healing, and thermoelectric energy harvesting](https://doi.org/10.1016/j.apenergy.2026.128984)**
+  <br>*Applied Energy | 2026-10-11 | doi:10.1016/j.apenergy.2026.128984 | score 13*
+  <br>Ali Zourif, Konouz Hamidallah, Chaima Assamadi, Boutaina Moumni
+
+  Conventional photocatalytic water treatment systems face persistent limitations in terms of catalyst deactivation, energy consumption, and adaptability to variable influent quality. This review examines the integration of three emerging technological domains, machine learning driven process optimization, bio-inspired self-healing material strategies, and thermoelectric energy recovery, as a framework for developing more autonomous and resource-efficient photocatalytic treatment systems. A systematic literature search was conducted in Web of Science, Scopus, IEEE Xplore, and PubMed (January 2001 to June 2024), following PRISMA guidelines. After multi-step screening, 104 peer-reviewed studies...
+
+  `matched: machine learning, thermoelectric, catalyst`
+
+
+- **[PrOMet: Accurate and Robust Metal‐Binding Site and Type Prediction](https://doi.org/10.1002/advs.78003)**
+  <br>*Advanced Science | 2026-10-11 | doi:10.1002/advs.78003 | score 7*
+  <br>박강은, Chaok Seok, Hahnbeom Park
+
+  ABSTRACT Metal binding to proteins is crucial for many biological functions, yet the prediction of metal‐binding sites and metal types remains underexplored compared to other biomolecular interactions. Despite advances in deep learning, computational methods have achieved limited success in this area; even the best‐reported approaches reach only moderate localization accuracy on high‐resolution crystal structures, and even worse when applied to medium‐resolution data. We hypothesize that the main challenge lies in the nature of metal binding. While the putative sites span the entire protein surface, actual binding requires the atomic‐level coordination geometry. We present a structure‐based...
+
+  `matched: deep learning, crystal`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Atomic Edge Resonators Flatten Phonon Bands in Biphenylene Nanoribbons](http://arxiv.org/abs/2610.13342v1)**
+  <br>*arXiv | 2026-10-09 | score 22*
+  <br>V. L. Katkov, N. M. Chtchelkatchev, V. A. Osipov
+
+  We show that H--F edge complexes in biphenylene nanoribbons act as intrinsic atomic resonators, flattening low-frequency phonon branches. With increasing wave vector, flexural and twisting vibrations concentrate at the edges while motion of the carbon backbone is suppressed. Displacement profiles and edge-mass tuning identify a local-resonance mechanism, an atomic counterpart of a tuned mass damper. Combining machine-learned interatomic potentials, frozen-phonon calculations, and density-functional tight binding, we find that weakly dispersive modes contribute substantially to thermal band-gap narrowing. Zero-point motion shifts the calculated gap closure toward the experimentally observed r...
+
+  `matched: machine-learned interatomic potential, interatomic potential, phonon`
+
+
+- **[Dislocation mediated twin boundary faceting in $β$-Sn](http://arxiv.org/abs/2610.13714v1)**
+  <br>*arXiv | 2026-10-09 | score 21*
+  <br>John Israel, Ian Chesser, Khanh Dang, Vinamra Agrawal
+
+  Grain boundaries (GBs), including twin boundaries (TBs), play a critical role in plastic deformation by interacting with dislocations. The deformation and strengthening mechanisms in $β$-Sn are of significant interest because Sn-based alloys are widely used as solder materials. Recent experiments have shown deformation-induced faceting in $β$-Sn arising from twin-dislocation interactions. Using molecular dynamics (MD) simulations informed by a recently developed machine-learned interatomic potential (MLIP), we demonstrate a $\langle c\rangle$ dislocation-absorption mediated faceting reaction along $(301)$ TBs in $β$-Sn in which facet length grows with the number of absorbed dislocations. We...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics, alloy`
+
+
+- **[Improved screening of doped ZrO$_2$ catalysts for CO$_2$ hydrogenation from graph-based machine learning](http://arxiv.org/abs/2610.13795v1)**
+  <br>*arXiv | 2026-10-09 | score 19*
+  <br>Karsten Walz Jensen, Mie Andersen, Raffaele Cheula
+
+  Dopants can tune the activity of zirconia-based CO$_2$ hydrogenation catalysts through changes in adsorbate and transition-state (TS) energetics. Computing these quantities with density functional theory (DFT) becomes expensive when several dopants, reaction intermediates, and TSs must be screened. Here, we further develop the graph-based machine learning method Wasserstein Weisfeiler-Lehman Gaussian Process Regression (WWL-GPR): we introduce additional electronic-structure and local-environment features relevant for oxide surfaces and use the resulting model to predict adsorption and TS energies on ZrO$_2$(101) surfaces doped with Al$^{3+}$, Cd$^{2+}$, Ga$^{3+}$, In$^{3+}$, and Zn$^{2+}$. A...
+
+  `matched: density functional theory, machine learning, catalyst, dft`
+
+
+- **[VN-GraphGG: von Neumann--Mullins--based graph grain growth simulation](http://arxiv.org/abs/2610.13418v1)**
+  <br>*arXiv | 2026-10-09 | score 12*
+  <br>Yuntong Huang, Zhihao Li, Shuyang Dai, Chang Ma et al.
+
+  Efficient simulations of grain growth are essential for investigating the process-structure-property relationships in polycrystalline materials. We introduce a two-dimensional von Neumann-Mullins-based graph grain growth simulation (VN-GraphGG), which couples the grain-scale kinetics with microstructure reconstruction. The polycrystalline microstructure is represented as a graph with grain and junction nodes. The grain-area evolution on the grain graph is governed by the von Neumann--Mullins (VN) law, while a graph neural network is trained to reconstruct the microstructure from the graph. This separation allows kinetic coefficients to be varied without retraining the neural reconstruction m...
+
+  `matched: graph neural network, neural network, crystal`
+
+
+- **[Electron-Density-Informed Molecular Property Prediction Using Surrogate Functionals](http://arxiv.org/abs/2610.13649v1)**
+  <br>*arXiv | 2026-10-09 | score 7*
+  <br>Manuel V. Klockow, Simon Wagner, Roman Remme, Dominic Plein et al.
+
+  Machine learning methods are increasingly used to predict chemical properties directly from the molecular structure to bypass the often prohibitive cost of quantum mechanical calculations. Recent work has shown that including the ground-state electron density as input to the machine learning model can improve accuracy in this setting. This work employs the recent surrogate functional framework originally developed for orbital-free density functional theory and extends it to predicting molecular properties. We show that passing the ground-state density as input to the model, while simultaneously enforcing it to be the minimum of the surrogate functional, surpasses state-of-the-art performance...
+
+  `matched: density functional theory, machine learning`
+
+
+---
+
+
 ## 2026-10-11
 
 5 new item(s). Top hit: **Thermal and mechanical modulation of interfacial thermal resistance in GaN/diamond heterostructures based on m** (score 22, International Journal of Heat and Mass Transfer).
