@@ -6,6 +6,102 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-13
+
+10 new item(s). Top hit: **Leveraging Machine Learning Interatomic Potentials for Fast and Accurate AMBER-Compatible Force Field Paramete** (score 38, Crossref).
+
+### Journal articles
+
+- **[HIP: Hessian Interatomic Potentials without derivatives](https://www.nature.com/articles/s43588-026-01066-x)**
+  <br>*Nature Computational Science | 2026-10-13 | doi:10.1038/s43588-026-01066-x | score 15*
+
+  `matched: interatomic potential`
+
+
+- **[Machine Learning and Life Cycle Assessment for Geopolymer Construction Materials: From Precursor Variability to Scalable Low-Carbon Deployment](https://doi.org/10.1016/j.cesys.2026.100492)**
+  <br>*Cleaner Environmental Systems | 2026-10-13 | doi:10.1016/j.cesys.2026.100492 | score 11*
+  <br>KINDA, ZAIDA, MALBILA, ZOMA et al.
+
+  `matched: machine learning, polymer`
+
+
+- **[Hybrid optimised CatBoost model for accurate prediction of geopolymer concrete strength](https://doi.org/10.1680/jensu.25.00142)**
+  <br>*Proceedings of the Institution of Civil Engineers - Engineering Sustainability | 2026-10-13 | doi:10.1680/jensu.25.00142 | score 10*
+  <br>Beshara, Elshaboury, Refaie
+
+  Geopolymer concrete (GPC) represents a significant advancement in sustainable construction due to its low energy consumption and reduced carbon footprint. Therefore, developing a reliable model to predict the compressive strength of GPC is essential for saving time, energy and cost. In this study, experimental data were collected from Egyptian literature, resulting in a dataset comprising 195 samples with 14 input variables used to predict compressive strength. Six machine learning models were employed, including categorical boosting (CatBoost), extreme gradient boosting, gradient boosting, light gradient boosting machine, bagged tree and random forest. Among all models, the CatBoost algorit...
+
+  `matched: machine learning, dataset, polymer`
+
+
+- **[mlmm-toolkit](https://doi.org/10.5281/zenodo.23316379)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-12 | doi:10.5281/zenodo.23316379 | score 10*
+  <br>Takuto Ohmura
+
+  [0.4.0] — 2026-10-12 mlmm-toolkit is a Python CLI toolkit for analyzing reaction mechanisms in enzyme complexes with ML/MM, an ONIOM combination of machine-learning interatomic potentials (MLIPs) and molecular mechanics (MM), starting from PDB/mmCIF structures. Adds a PySCF/GPU4PySCF DFT/MM backend, RFO relaxation in scans and path searches, and angle and dihedral scans; simplifies result status and exit codes. Breaking changes The MCP server (mlmm-mcp) and the [mcp] extra are removed; AI agents run the CLI directly with the bundled skills. Result JSON keeps execution_status and scientific_status and drops the generic status and duplicate reason fields (JSON schema 4.0); exit codes are 0 for...
+
+  `matched: interatomic potential, dft`
+
+
+- **[pdb2reaction](https://doi.org/10.5281/zenodo.23316378)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-12 | doi:10.5281/zenodo.23316378 | score 7*
+  <br>Takuto Ohmura
+
+  [0.5.0] — 2026-10-12 pdb2reaction is a Python CLI toolkit for analyzing reaction mechanisms in enzyme complexes and small molecules with machine-learning interatomic potentials (MLIPs), starting from PDB/mmCIF/XYZ/GJF structures. Adds a PySCF/GPU4PySCF calculator backend, Hessian files, and angle and dihedral scans; simplifies result status and exit codes. Breaking changes The MCP server (pdb2reaction-mcp / p2r-mcp) and the [mcp] extra are removed; AI agents run the CLI directly with the bundled skills. Result JSON keeps execution_status and scientific_status and drops the generic status and duplicate reason fields (JSON schema 4.0); exit codes are 0 for success or a usable partial result, 1...
+
+  `matched: interatomic potential`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Leveraging Machine Learning Interatomic Potentials for Fast and Accurate AMBER-Compatible Force Field Parameterization](https://doi.org/10.26434/chemrxiv.15008812/v2)**
+  <br>*Crossref | 2026-10-13 | doi:10.26434/chemrxiv.15008812/v2 | score 38*
+  <br>Zhou, Wang, Xie, Zhang et al.
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Certifying the Kinetics of Machine-Learned Interatomic Potentials from Single-Point Energies](https://doi.org/10.26434/chemrxiv.15010329/v1)**
+  <br>*Crossref | 2026-10-13 | doi:10.26434/chemrxiv.15010329/v1 | score 32*
+  <br>Yu
+
+  Machine-learned interatomic potentials are validated by force errors on equilibrium configurations, yet activated rates depend on transition regions that equilibrium sampling rarely visits. In a onedimensional metastable double well, the worst-case rate sensitivity to force error grows as eβB/2 with barrier height B; a path-space bound valid at any friction shows that force error certifies rare-event frequencies only to within a factor that grows at the same rate. The leverage density weights energy errors by their influence on reactive transport: it is the normalised dissipation density of the reactive current. For reversible overdamped dynamics, the Dirichlet and Thomson principles give tw...
+
+  `matched: machine-learned interatomic potential, interatomic potential`
+
+
+- **[Smart Portable Electrochemical Sensor for Rutin Detection Using a CNT-Ionic Liquid-Polyaspartic Acid Composite with Machine Learning-Enhanced Accuracy](https://doi.org/10.2139/ssrn.7607966)**
+  <br>*Crossref | 2026-10-13 | doi:10.2139/ssrn.7607966 | score 10*
+  <br>Zhang, Wang, Zhang, Zhou et al.
+
+  A ternary composite of graphitized hydroxylated carbon nanotubes, an ionic liquid and polyaspartic acid (G-MWCNT-OH-[BMIM]Cl/PolyAsp) was fabricated via electropolymerization and ultrasonication for use as an electrochemical sensing platform. The synergistic combination of high surface area, superior conductivity and abundant active sites endowed the modified electrode with significantly enhanced electrocatalytic activity and adsorption toward Rutin. The conventional GCE-based sensor showed a linear response of 0.7–120 μmol/L wtih LOD of 0.12 μmol/L, while the portable SPCE-based sensor achieved 0.3–20 μmol/L wtih LOD of 0.016 μmol/L. A GBDT machine learning model integrated into the system...
+
+  `matched: machine learning, polymer`
+
+
+- **[A Historically Validated Multiphysics MOOSE Model of the XE-Prime Nuclear Thermal Rocket Engine](https://doi.org/10.2139/ssrn.7607805)**
+  <br>*Crossref | 2026-10-13 | doi:10.2139/ssrn.7607805 | score 6*
+  <br>Demuth, Hanson, Fang, Reynolds et al.
+
+  A high-fidelity coupled neutronics and thermal-hydraulics model of the XE-Prime nuclear thermal rocket engine was developed using MOOSE-based multiphysics tools. The model combines continuous-energy Monte Carlo transport in OpenMC, transient multigroup diffusion in Griffin, and coupled thermal-hydraulic simulations within the MOOSE framework. Its purpose is to establish a historically validated multiphysics reference model for future nuclear thermal propulsion analysis.The neutronics methodology employs a two-step approach in which OpenMC generates multigroup cross sections for a Griffin diffusion model. Full-core superhomogenization (SPH) correction and de-cusping methods preserve agreement...
+
+  `matched: diffusion model`
+
+
+### Industry labs and code releases
+
+- **[NVIDIA/nvalchemi-toolkit-ops v0.5.0](https://github.com/NVIDIA/nvalchemi-toolkit-ops/releases/tag/v0.5.0)**
+  <br>*GitHub: NVIDIA/nvalchemi-toolkit-ops | 2026-10-13 | score 22*
+  <br>Code release
+
+  # v0.5.0 Release Notes This release adds a batched L-BFGS geometry optimizer, periodic Fourier-space DFT-D3 dispersion, and a shared prepared-state workflow for Torch and JAX neighbor lists, with compiled and CUDA-graph-replayable cluster-tile execution in PyTorch and fixed-capacity `jax.jit` support in JAX. It also changes several defaults that can move numerical results (PME spline order, float32 electrostatics precision, automatic neighbor-list strategy selection), raises minimum dependency versions, and includes a correctness pass over Torch stream handling, multipole electrostatics, and the dynamics cell/stress conventions. ## Breaking Changes and Behavior Changes - **Minimum dependency...
+
+  `matched: alchemi, dft`
+
+
+---
+
+
 ## 2026-10-12
 
 8 new item(s). Top hit: **Atomic Edge Resonators Flatten Phonon Bands in Biphenylene Nanoribbons** (score 22, arXiv).
