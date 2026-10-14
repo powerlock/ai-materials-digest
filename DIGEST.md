@@ -6,6 +6,168 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-14
+
+17 new item(s). Top hit: **LunaTP: Enabling Efficient and Scalable Tensor Product for Equivariant MLIPs** (score 27, arXiv).
+
+### Journal articles
+
+- **[Physical AI for Autonomous Materials Discovery: Integrating Robotic Experimentation, Machine Learning, and Real-Time Materials Characterization](https://doi.org/10.62802/jhci.82)**
+  <br>*Human Computer Interaction | 2026-10-14 | doi:10.62802/jhci.82 | score 23*
+  <br>Kıran
+
+  `matched: materials discovery, machine learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[LunaTP: Enabling Efficient and Scalable Tensor Product for Equivariant MLIPs](http://arxiv.org/abs/2610.18393v1)**
+  <br>*arXiv | 2026-10-13 | score 27*
+  <br>Yuanchang Zhou, Mingzhen Li, Chen Wang, Xiangyu Zhang et al.
+
+  Equivariant machine learning interatomic potentials (MLIPs) promise atomistic simulations with accuracy approaching that of quantum-mechanical calculations. However, the high computational cost of their core Clebsch--Gordan tensor product (CGTP) convolutions severely limits model scalability and efficiency. In this paper, we rethink the parallel execution of CGTP convolutions and introduce LunaTP. Built on node-centric execution, LunaTP exploits path-group parallelism and multi-level reuse to accelerate CGTP convolutions and higher-order derivative computation while preserving the underlying mathematical formulation. On an NVIDIA H100 GPU, LunaTP achieves kernel speedups of up to 250.0$\time...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, equivariant`
+
+
+- **[High-throughput screening of Heusler alloys for thermoelectrics combining machine-learned densities of states and first-principles transport](http://arxiv.org/abs/2610.18179v1)**
+  <br>*arXiv | 2026-10-13 | score 24*
+  <br>Shivam Randive, Ayana Ghosh, Rahul Dixit, Himanshu Pandey
+
+  Thermoelectrics turn waste heat into electricity, but finding new ones requires transport calculations too costly for whole databases. Searches therefore choose what to calculate from the electronic density of states (DOS), increasingly predicted by machine learning, yet such choices are rarely tested. We test them on all 106,235 Heusler structures in the DXMag database, screening 51,257 on density-functional spectra and 54,978 on neural-network predictions, and judging both by 3,625 band-structure and transport calculations. A DOS-derived Seebeck indicator ranks most compounds passing every transport and stability test within the top 1% of their population, and ten of the eleven established...
+
+  `matched: high-throughput screening, machine learning, thermoelectric, alloy`
+
+
+- **[Knowledge-Guided Construction of Machine Learning Potentials for Reactive Behavior in Energetic Materials](http://arxiv.org/abs/2610.17987v1)**
+  <br>*arXiv | 2026-10-13 | score 21*
+  <br>Guanchen Dong, Huanrong Liu, Lin Wang, Yuxuan Chen et al.
+
+  Energetic materials involve multiple interactions, making reliable machine-learning potentials (MLPs) difficult to construct without extensive datasets. Here, we enhance the ability of the neural network interatomic potential (NNAP) to describe molecular systems using sphmulti, a refined spherical-harmonic basis set that combines extra radial basis with element-specific chemical weighting in each radial channel. We further integrate hyperactive learning, farthest-point sampling, and iterative sufficiency criteria with knowledge-guided key events, enabling the NNAP to retain essential information for describing the material system. For 3,3'-diamino-4,4'-azoxyfurazan, the resulting NNAP is tra...
+
+  `matched: interatomic potential, machine learning, active learning, neural network, dataset`
+
+
+- **[Solvating machine-learning interatomic potentials for solution-phase chemistry](http://arxiv.org/abs/2610.17226v1)**
+  <br>*arXiv | 2026-10-12 | score 21*
+  <br>Anton Z. Ni, Joonho Lee
+
+  Most machine-learning interatomic potentials (MLIPs) are trained on gas-phase data, which limits their use for chemistry in solution. Here, we introduce AnySolv, a transferable implicit solvation potential that provides solvent-dependent energy and force corrections to existing gas-phase potentials without retraining them. It is trained on 1.4 million solvation energies and forces computed with density functional theory (DFT) and SMD in 36 solvents, spanning charged, open-shell, and transition-state structures. Because solvents are represented by continuous physical descriptors, AnySolv supports 179 solvents, including those absent from training. On external benchmarks, AnySolv reproduces DF...
+
+  `matched: density functional theory, interatomic potential, benchmark, dft`
+
+
+- **[Theoretical Investigation of Oxygen-Vacancy Diffusion in SrTiO$_3$ using Neural Network Potentials](http://arxiv.org/abs/2610.16521v1)**
+  <br>*arXiv | 2026-10-12 | score 18*
+  <br>Kazutaka Nishiguchi, Ryota Yamamoto, Seiichiro Ten-no
+
+  Oxygen-vacancy formation and diffusion play important roles in determining the electronic and atomic transport properties of SrTiO$_3$ (STO). Accurate analysis of such point defects requires sufficiently large-scale and long-time molecular dynamics (MD) simulations; however, direct investigations of oxygen-vacancy dynamics using {\it ab initio} MD (AIMD) based on density functional theory (DFT) are limited to relatively small systems and short time scales because of their high computational cost. In this study, we develop a neural network potential (NNP) for pristine and oxygen-deficient STO using a reference dataset generated from AIMD simulations. The trained NNP model accurately reproduce...
+
+  `matched: density functional theory, molecular dynamics, neural network, dataset, dft`
+
+
+- **[Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides](http://arxiv.org/abs/2610.17352v1)**
+  <br>*arXiv | 2026-10-12 | score 17*
+  <br>Vladislav Korostelev, Pjotrs Žguns, Konstantin Klyukin
+
+  Small polarons, formed when excess electrons become localized through lattice distortions, play a critical role in charge transport, catalysis, and degradation processes in transition-metal (TM) oxides. Whether universal machine-learning interatomic potentials (uMLIPs), which lack explicit electronic degrees of freedom, can describe them remains unclear. Here, we investigate H-induced electron localization across a range of TM oxides using a geometric descriptor based on TM-O bond-length expansion (Z-score) to identify polaronic distortions. We find that uMLIPs exhibit varying degrees of electron localization, from delocalized states to metastable small polarons, with their behavior strongly...
+
+  `matched: interatomic potential, benchmark`
+
+
+- **[Provincial photovoltaic power forecasting based on hierarchical optimization of a time-series foundation model and selective heterogeneous fusion](https://doi.org/10.2139/ssrn.7611053)**
+  <br>*Crossref | 2026-10-14 | doi:10.2139/ssrn.7611053 | score 16*
+  <br>Liu, Shan
+
+  Full-month direct multi-step forecasting of provincial photovoltaic (PV) power is challenged by insufficient regional task adaptation, redundant meteorological inputs, limited responsiveness to critical operating states, inadequate matching of cross-year historical information, and the risk of additional errors from unconditional heterogeneous fusion. To address these challenges, this study proposes a PV power forecasting method based on hierarchical optimization of a time-series foundation model and selective heterogeneous fusion. First, meteorological covariate ablation identifies the effective input set, while staged parameter search and full-parameter fine-tuning adapt the pretrained mod...
+
+  `matched: foundation model, photovoltaic`
+
+
+- **[PXRD-Bench: How Close Are We to Determining Crystal Structures from Powder Diffraction?](http://arxiv.org/abs/2610.16480v1)**
+  <br>*arXiv | 2026-10-12 | score 16*
+  <br>Dongyeop Woo, Nofit Segal, Nayoung Kim, Minkyu Kim et al.
+
+  Determining crystal structures from powder X-ray diffraction (PXRD) would enable routine characterization of newly synthesized materials, including those absent from reference databases. Generative models offer a promising approach, but existing evaluations remain fragmented and largely assume single-phase samples with known composition. To fill this gap, we introduce PXRD-Bench, a unified benchmark that extends evaluation to unknown per-element atom counts and recovery of both structures in two-phase mixtures. It provides approximately 4.1 million training structures with simulated PXRD, tests generalization to unseen compositions and structural prototypes, and evaluates recovery from exper...
+
+  `matched: x-ray diffraction, generative model, benchmark, crystal`
+
+
+- **[Tersoff-NN: Hybrid Machine-Learned Bond-Order Extension of the Tersoff Potential](http://arxiv.org/abs/2610.15591v1)**
+  <br>*arXiv | 2026-10-11 | score 15*
+  <br>Yusuke Nishimura, Sho Kubota, Kotaro Takematsu, Kentaro Hirai et al.
+
+  Accurate, robust, and efficient interatomic potentials are highly desirable for large-scale molecular dynamics simulations. Although machine-learning interatomic potentials can reproduce first-principles potential-energy surfaces with high accuracy, they typically incur higher computational costs than conventional empirical potentials and may be less reliable outside their training domains. We developed Tersoff-NN, a hybrid machine-learning potential for Si, which retains the analytical radial interactions and cutoff structure of the Tersoff potential while representing its environment-dependent bond-order factor using compact neural networks (NNs). Benchmarks for 32,768-atom systems show th...
+
+  `matched: interatomic potential, molecular dynamics, neural network, benchmark`
+
+
+- **[Linear inductive bias boosts extrapolative molecular discovery by Bayesian active learning in the small-data limit](https://doi.org/10.26434/chemrxiv.15010454/v1)**
+  <br>*Crossref | 2026-10-14 | doi:10.26434/chemrxiv.15010454/v1 | score 14*
+  <br>Ha
+
+  Bayesian active learning is widely used for molecular discovery, yet surrogate selection remains challenging when scarce initial data must guide the search beyond the observed property range. Here we benchmark diverse Gaussian process (GP) configurations across ten small-molecule and polymer datasets, focusing on the extrapolative regime where the initial labeled samples are drawn exclusively from below the median of the target property distribution. We identify explicit linear structure as an effective inductive bias for data-scarce extrapolative discovery: linear-kernel GPs provide a strong baseline, while adding linear components to a stationary kernel helps mitigate poor outcomes in the...
+
+  `matched: active learning, benchmark, dataset, polymer`
+
+
+- **[All-electron machine-learned orbital-free density functional for periodic CHNO systems](http://arxiv.org/abs/2610.17975v1)**
+  <br>*arXiv | 2026-10-13 | score 14*
+  <br>Marc K. Ickler, Andreas Hermann, Fred A. Hamprecht
+
+  We introduce STRUCTURES-P, a machine-learned all-electron orbital-free density functional for periodic CHNO systems. Electrostatics are evaluated analytically in an atom-centered Gaussian basis, while an equivariant network learns the kinetic and exchange-correlation energy from energies and gradients of non-ground-state densities. Minimizing the functional from a superposition of atomic densities recovers the Kohn-Sham ground state: on held-out crystals, the density error falls from 6.7% to 0.4% of the electron count and the energy error reaches 0.25 mHa per atom, half that of a same-architecture interatomic potential. A single functional can be trained for both isolated molecules and perio...
+
+  `matched: interatomic potential, equivariant, crystal`
+
+
+- **[Accurately Generalizing Deep-Learning Hamiltonian Methods to Plane-Wave Density Functional Theory](http://arxiv.org/abs/2610.18317v1)**
+  <br>*arXiv | 2026-10-13 | score 13*
+  <br>Chuntian Wu, Jiaxiang Li, Qiang Xu, Xuecheng Shao et al.
+
+  Deep neural networks that predict density functional theory (DFT) Hamiltonians from material structures offer a route to efficient electronic-structure calculations. However, extending localized atomic-orbital (AO) Hamiltonian learning to plane-wave (PW) calculations with hybrid functionals requires a compact AO representation that preserves the effects of nonlocal operators. Here we propose a projectability-guided construction of nonorthogonal AO Hamiltonians from a small, selected set of PW eigenstates and eigenvalues. High-projectability states are retained, and selected higher-energy states complete the AO subspace, avoiding an empirical shift and its arbitrary contribution to the learni...
+
+  `matched: density functional theory, neural network, dft`
+
+
+- **[Extreme anharmonicity determines the superionic transition in the prototypical antifluorite Li$_2$O](http://arxiv.org/abs/2610.15986v1)**
+  <br>*arXiv | 2026-10-11 | score 13*
+  <br>Lorenzo Bastonero, Chiara Cignarella, Nicola Marzari, Lorenzo Monacelli
+
+  Superionic conductors are promising electrolyte candidates for all-solid-state batteries, thanks to their liquid-like ionic mobility. In the prototypical lithium-ion oxide superionic conductor with antifluorite structure, the high-temperature transition to the fast-ion regime has long been attributed to volume-driven harmonic phonon softening. However, this quasi-harmonic picture neglects the strong lattice anharmonicity inherent to the fast-ion regime, leaving the microscopic origin of the transition unresolved. Here, we apply non-perturbative lattice dynamics combined with a first-principles-accurate machine-learning interatomic potential to study the phase transition in Li$_2$O. We demons...
+
+  `matched: interatomic potential, electrolyte, phonon`
+
+
+- **[Indirect prediction and screening of frustrated magnetic materials using machine learning](http://arxiv.org/abs/2610.15683v1)**
+  <br>*arXiv | 2026-10-11 | score 13*
+  <br>Regina Burganova, Irina Piyanzina, Ruslan Akhmerov, Alexander Sigov et al.
+
+  Magnetic frustration is commonly quantified by the frustration index, calculated from the Curie-Weiss and Neel temperatures. Because both quantities are not simultaneously available for most materials, direct prediction of the magnetic frustration index remains challenging. Here, we propose a machine learning workflow for indirect prediction of the frustration index and consequent screening of potential frustrated magnetic compounds through independent prediction of Curie-Weiss and Neel temperatures. In our work, composition-based models implemented via the CatBoost algorithm, trained on experimental data were optimized using chemically informed dataset subdivision. The highest predictive ac...
+
+  `matched: machine learning, dataset, magnet`
+
+
+- **[Depth-aware machine learning for 3D reconstruction of fibrous porous electrodes by FIB-SEM tomography](https://doi.org/10.26434/chemrxiv.15003357/v3)**
+  <br>*Crossref | 2026-10-14 | doi:10.26434/chemrxiv.15003357/v3 | score 10*
+  <br>Bozal-Ginesta, Bissattini Alessi, Zeng, Ruellou et al.
+
+  Quantitative three-dimensional reconstruction of porous polymers with sub-micrometer feature sizes is central to understanding and designing electrochemical interfaces and membranes. However, focused ion beam–scanning electron microscopy tomography combined with conventional segmentation techniques cannot readily recon-struct complex disordered morphologies such as fibers. Standard segmentation workflows misclassify out-ofplane material as in-plane material, distorting the reconstructed pore network, fiber connectivity, and interfacial area. Here, we introduce an annotation-free, depth-aware machine-learning framework that combines monocular depth estimation, trained on real-scale images, wi...
+
+  `matched: machine learning, polymer`
+
+
+- **[Intrinsic Geometry Matching: learning observation-equivariant process geometry](http://arxiv.org/abs/2610.16995v1)**
+  <br>*arXiv | 2026-10-12 | score 9*
+  <br>Manuel Lecha, Michael Bronstein, Iolo Jones
+
+  Real data are often arbitrary, indirect observations of an unknown underlying process, and those observations can distort its geometry. Existing geometric methods equip data with the induced geometry of the ambient space, but this entangles the true geometry of the process with the distortion of the observation. To address this, we introduce Intrinsic Geometry Matching (IGM): a scalable approach to learn the intrinsic geometry of the underlying process. Specifically, we learn the carré du champ operator of the process, allowing us to recover its diffusion geometry. Our method uses the fact that data often come with natural perturbations, like steps in a time series, to recover the intrinsic...
+
+  `matched: equivariant`
+
+
+---
+
+
 ## 2026-10-13
 
 10 new item(s). Top hit: **Leveraging Machine Learning Interatomic Potentials for Fast and Accurate AMBER-Compatible Force Field Paramete** (score 38, Crossref).
