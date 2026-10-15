@@ -6,6 +6,236 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-15
+
+25 new item(s). Top hit: **Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials** (score 48, arXiv).
+
+### Journal articles
+
+- **[SoLiD26: A first principles solid-liquid interface dataset for machine-learned interatomic potentials](https://doi.org/10.24435/materialscloud:vc-v8)**
+  <br>*NCCR MARVEL | 2026-10-13 | doi:10.24435/materialscloud:vc-v8 | score 47*
+  <br>Jonas Busk, Tejs Vegge
+
+  SoLiD26 is a curated solid–liquid interface dataset, containing approximately 15.4 million first-principles atomic structures with up to 576 atoms and 15 chemical elements for training and evaluating machine-learned interatomic potentials (MLIPs). The structures were compiled from density functional theory (DFT) calculations performed in studies of solid–liquid interfaces, with most configurations originating from ab initio molecular dynamics (AIMD) simulations. Each record contains atomic species, positions, simulation cell, periodic boundary condition flags, total energy and atomic forces. The dataset includes aqueous metal interfaces, electrode–electrolyte systems and selected bulk refere...
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, molecular dynamics, electrolyte, dataset`
+
+
+- **[Noise-resilient training of machine learning interatomic potentials](https://doi.org/10.1063/5.0327092)**
+  <br>*The Journal of Chemical Physics | 2026-10-13 | doi:10.1063/5.0327092 | score 39*
+  <br>Terry C. W. Lam, Niamh O’Neill, Christoph Schran, Lars L. Schaaf
+
+  The accuracy of machine learning interatomic potentials suffers from reference data that contain numerical noise. Often originating from unconverged or inconsistent electronic-structure calculations, this noise is challenging to identify. Existing mitigation strategies, such as manual filtering or iterative refinement of outliers, require either substantial expert effort or multiple expensive retraining cycles, making them difficult to scale to large datasets. Here, we introduce a noise-resilient training method that automatically down-weighs noisy samples, without requiring additional reference calculations. By tracking the loss distribution via an exponential moving average, this unsupervi...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, dataset`
+
+
+- **[Benchmarking of fast and interpretable UF machine learning potentials](https://doi.org/10.1016/j.commatsci.2026.115112)**
+  <br>*Computational Materials Science | 2026-10-14 | doi:10.1016/j.commatsci.2026.115112 | score 35*
+  <br>Pawan Prakash, Sam Dong, Richard G. Hennig
+
+  Machine learning interatomic potentials (MLIPs) have emerged as a powerful alternative to density functional theory (DFT) for molecular dynamics simulations, offering near-DFT accuracy at a fraction of the computational cost. However, many state-of-the-art MLIPs remain computationally demanding and act as black boxes, limiting physical interpretability. In this work, we evaluate the ultra-fast force field (UF 3 ) potential, which employs linear regression with a cubic B-spline basis to represent effective two- and three-body interactions. We show that UF 3 displays accuracy comparable to established models such as GAP, MTP, NNP (Behler–Parrinello), and qSNAP MLIPs. We further investigate the...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, molecular dynamics, machine learning, benchmark`
+
+
+- **[Gold-water nanoparticle interface DFT dataset](https://doi.org/10.11583/dtu.33543838)**
+  <br>*DTU Data | 2026-10-14 | doi:10.11583/dtu.33543838 | score 32*
+  <br>Emil Jermiin Pedersen Frost, Alexander Bagger, Tejs Vegge
+
+  This dataset contains ab initio calculations of gold-water interfaces of extended surfaces and nanoparticles (NPs). It is meant for training machine learning interatomic potentials (MLIPs).The dataset contains the total energy, interatomic forces, and stress tensor of 3391 atomic structures of gold and water evaluated with Density Functional Theory (DFT) at the generalized gradient approximation level (PBE). The dataset contains 521 bulk gold and 330 bulk water systems, 1080/195 gold slabs interfaced with water/vacuum, and 764/501 NPs surrounded by vacuum/water.The AuNP1000 dataset (https://doi.org/10.11583/DTU.30480380) is a subset of this larger dataset but with the dispersion correction r...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, machine learning, dataset, dft`
+
+
+- **[Breaking Bottlenecks in Solid Electrolyte Discovery With Large Artificial Intelligence Models](https://doi.org/10.1002/adma.75354)**
+  <br>*Advanced Materials | 2026-10-13 | doi:10.1002/adma.75354 | score 31*
+  <br>Eric Jianfeng Cheng, Min Hong, Zhiquan Zeng, Chuanyu Liu
+
+  Solid electrolytes (SEs) are central to next-generation metal batteries, yet their discovery remains constrained by fragmented data, limited transferability of simulations, and slow experimental iteration. Unlike catalysis, where surface reactivity dominates, SEs require simultaneous optimization of bulk ion transport, defect chemistry, mechanical integrity, and interfacial stability. Here, we outline a framework for autonomous SE discovery enabled by large artificial intelligence (AI) models, including machine learning interatomic potentials (MLIPs) and large language models (LLMs). We discuss the evolution from static materials databases to dynamic, self-updating knowledge systems, the rol...
+
+  `matched: machine learning interatomic potential, artificial intelligence, interatomic potential, large language model, machine learning, electrolyte`
+
+
+- **[Prediction of solvent aggregation in CO2-loaded aqueous amines using machine learning molecular dynamics simulations](https://doi.org/10.1063/5.0351180)**
+  <br>*The Journal of Chemical Physics | 2026-10-14 | doi:10.1063/5.0351180 | score 27*
+  <br>Jiwon Yu, Gyeong Soon Hwang
+
+  Aggregation of ion pairs formed during CO2 capture may govern absorption thermodynamics and kinetics, but it is often overestimated by fixed-charge classical force fields. Here, we demonstrate the promise of graph neural network interatomic potentials, which offer quantum-level accuracy, for directly evaluating the aggregation tendencies of ionic products in CO2-loaded aqueous amine solutions.
+
+  `matched: interatomic potential, graph neural network, molecular dynamics, machine learning, neural network`
+
+
+- **[Prediction of Solvent Aggregation in CO2-Loaded Aqueous Amines Using Machine Learning Molecular Dynamics Simulations](https://doi.org/10.60893/figshare.jcp.c.8735266)**
+  <br>*AIP Publishing | 2026-10-14 | doi:10.60893/figshare.jcp.c.8735266 | score 27*
+  <br>Jiwon Yu, Gyeong Hwang
+
+  Aggregation of ion pairs formed during CO2 capture may govern absorption thermodynamics and kinetics, but it is often overestimated by fixed-charge classical force fields. Here, we demonstrate the promise of graph neural network interatomic potentials, which offer quantum-level accuracy, for directly evaluating the aggregation tendencies of ionic products in CO2-loaded aqueous amine solutions.
+
+  `matched: interatomic potential, graph neural network, molecular dynamics, machine learning, neural network`
+
+
+- **[Supplementary Information for "Prediction of Solvent Aggregation in CO2-Loaded Aqueous Amines Using Machine Learning Molecular Dynamics Simulations"](https://doi.org/10.60893/figshare.jcp.33985822)**
+  <br>*AIP Publishing | 2026-10-14 | doi:10.60893/figshare.jcp.33985822 | score 27*
+  <br>Jiwon Yu, Gyeong Hwang
+
+  Computational details for training data generation, graph neural network-based interatomic potentials (GNN-IP) development and validation. The file also includes system compositions, aggregate spatial distributions, pair distribution functions, aggregation energy estimation, and mean squared displacements for CO2-loaded aqueous monoethanolamine (MEA) solutions.
+
+  `matched: interatomic potential, graph neural network, molecular dynamics, machine learning, neural network`
+
+
+- **[MLIP Studio](https://doi.org/10.5281/zenodo.23377766)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-14 | doi:10.5281/zenodo.23377766 | score 21*
+  <br>Manas Sharma, Sudeep N. Punnathanam, Ananth Govind Rajan
+
+  MLIP Studio is an open platform for interactive benchmarking and simulations using machine learning interatomic potentials (MLIPs). It brings more than 60 pretrained universal MLIPs into a single graphical interface and a Python API, so users can evaluate structures, compare models, run common simulation tasks, and benchmark against reference data for molecules and materials.
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, benchmark`
+
+
+- **[A hybrid quantum mechanics machine learning forcefield framework for accurate solute-dislocation interaction simulations](https://doi.org/10.1038/s41524-026-02341-1)**
+  <br>*npj Computational Materials | 2026-10-13 | doi:10.1038/s41524-026-02341-1 | score 21*
+  <br>Junting Zhang, Colleen Reynolds, R.S. Stroud, J. Smutna
+
+  Abstract Solute–dislocation interactions play a central role in controlling microstructural evolution and mechanical behaviour of structural materials, yet conventional atomistic modelling approaches struggle to combine the chemical accuracy with computational scalability. In the nuclear industry, these challenges become particularly acute, as experiments reveal strong correlations between solute segregation and irradiation-induced dislocation loops. However, theoretical insight remains limited because density functional theory (DFT) simulations are prohibitively expensive at relevant length scales, while traditional semi-empirical interatomic potentials lack the chemical fidelity required f...
+
+  `matched: density functional theory, interatomic potential, machine learning, dft`
+
+
+- **[Inverse materials design via joint generation of crystal structures and local electronic descriptors](https://www.nature.com/articles/s41524-026-02322-4)**
+  <br>*npj Computational Materials | 2026-10-15 | doi:10.1038/s41524-026-02322-4 | score 19*
+
+  `matched: materials design, crystal`
+
+
+- **[Multiscale Digital-Twin Modeling of Energy-Storage Materials by Integrating First-Principles Calculations and Machine-Learning Interatomic Potentials](https://doi.org/10.4108/ew.14196)**
+  <br>*EAI Endorsed Transactions on Energy Web | 2026-10-14 | doi:10.4108/ew.14196 | score 19*
+  <br>Yan Li, Duochang Tang
+
+  Conventional modeling of energy-storage materials is constrained by the computational cost of first-principles calculations, limited electrochemical-state awareness in machine-learning interatomic potentials, and weak coupling between materials-scale models and online battery decision-making. This study proposes a first-principles-constrained electrochemically conditioned machine-learning interatomic potential (FP-EMLP) integrated with a multiscale digital-twin framework (FP-EMLP-DT). A multistate configuration space spanning ion concentration, temperature, defects, strain, and phase boundaries is combined with active learning based on committee uncertainty, structural novelty, and physics-b...
+
+  `matched: interatomic potential, active learning, battery`
+
+
+- **[A Hybrid Graph Neural Network–Deep Reinforcement Learning Framework for Robust Multi-Modal Sensor Fusion and Real-Time Dynamic Obstacle Detection in Autonomous Environments](https://doi.org/10.25258/ijddt.16.69s.46)**
+  <br>*International Journal of Drug Delivery Technology | 2026-10-15 | doi:10.25258/ijddt.16.69s.46 | score 17*
+
+  `matched: graph neural network, neural network`
+
+
+- **[Two-Atom Interaction Potential Database Supporting Physics-Informed Features for Machine Learning and Material Property Prediction](https://doi.org/10.60893/figshare.jcp.c.8737578)**
+  <br>*AIP Publishing | 2026-10-14 | doi:10.60893/figshare.jcp.c.8737578 | score 16*
+  <br>Cheewawut Na Talang, Asawin Sinsarp, Sujin Suwanna, Suraphong Yuma
+
+  Accurately predicting the energy and relevant properties of molecules and complex crystalline systems remains a cornerstone of computational materials science. While Density Functional Theory (DFT) offers high accuracy, its computational cost scales prohibitively for large-scale materials. In this work, we present a comprehensive, first-principles-derived database of two-atom interaction potentials and interatomic forces to accelerate the property prediction via physics-informed machine learning (ML). Computed using spin-polarized DFT via the GPAW package, the database encompasses all 2346 possible atomic pairs generated from 68 unique elements as a function of interatomic distance. The prac...
+
+  `matched: density functional theory, machine learning, crystal, dft`
+
+
+- **[Two-atom interaction potential database supporting physics-informed features for machine learning and material property prediction](https://doi.org/10.1063/5.0350327)**
+  <br>*The Journal of Chemical Physics | 2026-10-14 | doi:10.1063/5.0350327 | score 16*
+  <br>Aniwat Kesorn, Cheewawut Na Talang, Asawin Sinsarp, Sujin Suwanna
+
+  Accurately predicting the energy and relevant properties of molecules and complex crystalline systems remains a cornerstone of computational materials science. While density functional theory (DFT) offers high accuracy, its computational cost scales prohibitively for large-scale materials. In this work, we present a comprehensive, first-principles-derived database of two-atom interaction potentials and interatomic forces to accelerate the property prediction via physics-informed machine learning. Computed using spin-polarized DFT via the GPAW package, the database encompasses all 2346 possible atomic pairs generated from 68 unique elements as a function of interatomic distance. The practical...
+
+  `matched: density functional theory, machine learning, crystal, dft`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials](http://arxiv.org/abs/2610.19630v1)**
+  <br>*arXiv | 2026-10-14 | score 48*
+  <br>Kun Ryu, Yeo Jin Jung, Shyue Ping Ong, Claire Donnat et al.
+
+  Automated materials discovery requires evaluating large pools of candidate configurations, with density functional theory (DFT) as a major throughput bottleneck. Pretrained machine-learned interatomic potentials (MLIPs) approximate DFT cheaply, but their errors vary by orders of magnitude across configurations, making it difficult to decide when to trust the MLIP predictions and when to fall back to DFT. We frame this decision as a risk-controlled selection problem and solve it within a conformal risk control (CRC) framework. Each configuration is mapped from atomic numbers and Cartesian coordinates to a fixed geometric descriptor, which a lightweight predictor uses to estimate an MLIP-DFT d...
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, materials discovery, dft`
+
+
+- **[Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential](http://arxiv.org/abs/2610.20063v1)**
+  <br>*arXiv | 2026-10-14 | score 34*
+  <br>Nils-Ruben Skogemyr, Albin Sjöstedt, Isak Wernroth, Isak Häggqvist et al.
+
+  Defect engineering is a crucial tool for tuning and tailoring the properties of two-dimensional (2D) materials. A key challenge is identifying which defects are kinetically stable at room temperature and sufficiently promising to warrant further investigation. However, identifying stable defects with suitable properties using first-principles calculations, such as density functional theory (DFT) is computationally demanding, effectively limiting the scope of high-throughput studies. In this work, we investigate whether the machine learning interatomic potential MACE can reproduce sorption trends (adsorption vs. absorption) previously obtained from high-throughput DFT calculations and extend...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, molecular dynamics, machine learning, dft`
+
+
+- **[LunaTP: Enabling Efficient and Scalable Tensor Product for Equivariant MLIPs](https://doi.org/10.48550/arxiv.2610.18393)**
+  <br>*arXiv (Cornell University) | 2026-10-13 | doi:10.48550/arxiv.2610.18393 | score 27*
+  <br>Yuanchang Zhou, Mingzhen Li, Chen Wang, Xiangyu Zhang
+
+  Equivariant machine learning interatomic potentials (MLIPs) promise atomistic simulations with accuracy approaching that of quantum-mechanical calculations. However, the high computational cost of their core Clebsch--Gordan tensor product (CGTP) convolutions severely limits model scalability and efficiency. In this paper, we rethink the parallel execution of CGTP convolutions and introduce LunaTP. Built on node-centric execution, LunaTP exploits path-group parallelism and multi-level reuse to accelerate CGTP convolutions and higher-order derivative computation while preserving the underlying mathematical formulation. On an NVIDIA H100 GPU, LunaTP achieves kernel speedups of up to 250.0$\time...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, equivariant`
+
+
+- **[AutoSolvate 2.0: Automated Preparation of Chemically Diverse Explicit-Solvent Systems for Multiscale Molecular Simulation](https://doi.org/10.26434/chemrxiv.15007305/v2)**
+  <br>*ChemRxiv | 2026-10-13 | doi:10.26434/chemrxiv.15007305/v2 | score 21*
+  <br>Sangni Xun, Fangning Ren, Pinyuan Li, Xu Chen
+
+  Advanced quantum mechanics/molecular mechanics (QM/MM), machine-learned interatomic potentials (MLIPs), and hybrid methods provide powerful engines for modeling solution-phase chemistry. Yet before production begins, chemically diverse explicit-solvent systems must be parameterized, assembled at the desired composition, relaxed, equilibrated, and sampled. This preparatory “first mile” remains labor-intensive, requiring multiple software packages and manual customization, particularly for transition-metal complexes, solvent mixtures, and multicomponent electrolytes. Here, we present AutoSolvate 2.0, a modular, open-source framework that converts molecular structures and solution compositions...
+
+  `matched: machine-learned interatomic potential, interatomic potential, electrolyte, open-source`
+
+
+- **[Knowledge-Guided Construction of Machine Learning Potentials for Reactive Behavior in Energetic Materials](https://doi.org/10.48550/arxiv.2610.17987)**
+  <br>*arXiv (Cornell University) | 2026-10-13 | doi:10.48550/arxiv.2610.17987 | score 21*
+  <br>Guanchen Dong, Huanrong Liu, Lin Wang, Yuxuan Chen
+
+  Energetic materials involve multiple interactions, making reliable machine-learning potentials (MLPs) difficult to construct without extensive datasets. Here, we enhance the ability of the neural network interatomic potential (NNAP) to describe molecular systems using sphmulti, a refined spherical-harmonic basis set that combines extra radial basis with element-specific chemical weighting in each radial channel. We further integrate hyperactive learning, farthest-point sampling, and iterative sufficiency criteria with knowledge-guided key events, enabling the NNAP to retain essential information for describing the material system. For 3,3'-diamino-4,4'-azoxyfurazan, the resulting NNAP is tra...
+
+  `matched: interatomic potential, machine learning, active learning, neural network, dataset`
+
+
+- **[Solvating machine-learning interatomic potentials for solution-phase chemistry](https://doi.org/10.48550/arxiv.2610.17226)**
+  <br>*arXiv (Cornell University) | 2026-10-12 | doi:10.48550/arxiv.2610.17226 | score 21*
+  <br>Anton Z. Ni, Joonho Lee
+
+  Most machine-learning interatomic potentials (MLIPs) are trained on gas-phase data, which limits their use for chemistry in solution. Here, we introduce AnySolv, a transferable implicit solvation potential that provides solvent-dependent energy and force corrections to existing gas-phase potentials without retraining them. It is trained on 1.4 million solvation energies and forces computed with density functional theory (DFT) and SMD in 36 solvents, spanning charged, open-shell, and transition-state structures. Because solvents are represented by continuous physical descriptors, AnySolv supports 179 solvents, including those absent from training. On external benchmarks, AnySolv reproduces DF...
+
+  `matched: density functional theory, interatomic potential, benchmark, dft`
+
+
+- **[Predicting Glass Transition Temperature of Polyimide Homopolymers and Copolymers Using Interpretable QSPR-Based Machine Learning: The MFKit Framework](https://doi.org/10.26434/chemrxiv.15010512/v1)**
+  <br>*Crossref | 2026-10-15 | doi:10.26434/chemrxiv.15010512/v1 | score 19*
+  <br>Averochkin, Kirpal, Khina, Bulkatov et al.
+
+  In this work, we address the problem of predicting the glass transition temperature of polyimides, a class of high-performance engineering thermoplastics, with an emphasis on both homopolymer and copolymer systems. While machine learning approaches have been widely applied to polymer property prediction, their extension to copolymers remains limited and often lacks the interpretability required for rational materials design. To overcome these limitations, we develop an interpretable QSPR-based framework (MFKit) that combines physically grounded descriptors for monomer featurization with Gaussian Process Regression (GPR). The model is trained on a dataset of polyimide homopolymers from PoLyIn...
+
+  `matched: materials design, machine learning, dataset, polymer`
+
+
+- **[Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides](https://doi.org/10.48550/arxiv.2610.17352)**
+  <br>*arXiv (Cornell University) | 2026-10-12 | doi:10.48550/arxiv.2610.17352 | score 17*
+  <br>Vladislav O. Korostelev, Pjotrs Žguns, Konstantin Klyukin
+
+  Small polarons, formed when excess electrons become localized through lattice distortions, play a critical role in charge transport, catalysis, and degradation processes in transition-metal (TM) oxides. Whether universal machine-learning interatomic potentials (uMLIPs), which lack explicit electronic degrees of freedom, can describe them remains unclear. Here, we investigate H-induced electron localization across a range of TM oxides using a geometric descriptor based on TM-O bond-length expansion (Z-score) to identify polaronic distortions. We find that uMLIPs exhibit varying degrees of electron localization, from delocalized states to metastable small polarons, with their behavior strongly...
+
+  `matched: interatomic potential, benchmark`
+
+
+- **[Wisevolve Potential Engine: Machine-Learning Molecular Dynamics at 100 Million Atom-Steps per Second on a Single GPU](https://doi.org/10.48550/arxiv.2610.17366)**
+  <br>*arXiv (Cornell University) | 2026-10-12 | doi:10.48550/arxiv.2610.17366 | score 13*
+  <br>Hekai Bu, Zheyong Fan
+
+  General-purpose molecular dynamics software supports diverse interatomic potentials and simulation requirements. Within a simulation stage, the loaded potential model and the required calculations typically remain fixed as the atomic configuration evolves. We present the Wisevolve Potential Engine (WPE), which uses this information from GPUMD to select and reuse a GPU execution policy tailored to the model and simulation stage. GPUMD retains simulation control and ownership of the simulation data. On a single NVIDIA RTX 5090, WPE-enabled GPUMD (GPUMD-WPE) achieves a median throughput of 109 million atom-step/s across 106 neuroevolution potential (NEP) workloads. For a 15.1-million-atom diamo...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Advancing Targeted Nanoparticle mRNA Delivery Using Machine Learning](https://doi.org/10.26434/chemrxiv.15010224/v2)**
+  <br>*Crossref | 2026-10-15 | doi:10.26434/chemrxiv.15010224/v2 | score 10*
+  <br>Kausas, Schastlivaia
+
+  Effective delivery remains a major barrier to translating nucleic acid therapeutics into the clinic. A successful delivery system must cross biological barriers, target the tissue of interest, deliver the potent payload to the cell, and be manufactured with ease at scale. The three clinically relevant carrier classes involve trade-offs with one another: viral vectors are limited by payload capacity and limited redosing; lipid nanoparticles are a clinical standard for mRNA delivery, but default to liver tropism; polymeric nanoparticles have lower immunogenicity and offer shelf-stable manufacturing, but fewer candidates have reached clinical trials. The design of effective nanomedicines requir...
+
+  `matched: machine learning, polymer`
+
+
+---
+
+
 ## 2026-10-14
 
 17 new item(s). Top hit: **LunaTP: Enabling Efficient and Scalable Tensor Product for Equivariant MLIPs** (score 27, arXiv).
