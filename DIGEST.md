@@ -6,6 +6,67 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-18
+
+6 new item(s). Top hit: **Unveiling the atomic scale synthesis dynamics of lithium thiophosphate electrolytes via machine learning inter** (score 43, Chemical Engineering Journal).
+
+### Journal articles
+
+- **[Unveiling the atomic scale synthesis dynamics of lithium thiophosphate electrolytes via machine learning interatomic potentials](https://doi.org/10.1016/j.cej.2026.183130)**
+  <br>*Chemical Engineering Journal | 2026-10-15 | doi:10.1016/j.cej.2026.183130 | score 43*
+  <br>Seonhye Park, Joonhee Kang
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, electrolyte`
+
+
+- **[GA-Optimized machine learning surrogate models for aerodynamic prediction using wind tunnel data](https://doi.org/10.22441/sinergi.2026.3.017)**
+  <br>*SINERGI | 2026-10-18 | doi:10.22441/sinergi.2026.3.017 | score 18*
+  <br>Sukadji, Syafaruddin, Ahmad, Zuhdi Pane et al.
+
+  Wind tunnel testing is essential for obtaining accurate aerodynamic coefficients but remains costly and time-consuming due to the large number of required test configurations. This study proposes a robust surrogate modeling framework by integrating Genetic Algorithm (GA)-based hyperparameter optimization with GroupKFold cross-validation using an Indonesian Low-Speed Tunnel (ILST) dataset containing 13,200 samples from a 20-passenger aircraft. After data preprocessing, five regression models, Support Vector Regressor (SVR), Artificial Neural Network (ANN), Decision Tree (DT), Random Forest (RF), and XGBoost, were optimized to predict six aerodynamic coefficients (K1–K6). The optimized ANN ach...
+
+  `matched: machine learning, surrogate model, neural network, dataset`
+
+
+- **[Data for: Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides](https://doi.org/10.5281/zenodo.23437745)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-17 | doi:10.5281/zenodo.23437745 | score 17*
+  <br>M. Lebeda, Jan Drahokoupil, Šimon Svoboda, Petr Vlčák
+
+  Input structures, calculation scripts, and results for the article "Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides" (arXiv:2610.11878). elastic.zip (9 files, one per model) – the 153 elastic-constant calculations, 17 per model (five binary carbides and six SQS of each high-entropy carbide).sqs_generation.zip – the 12 special quasirandom structures used, with their ICET search records.speed_tests.zip – MD throughput and GPU-memory benchmarks on an RTX 4090 and an H100.
+
+  `matched: interatomic potential, benchmark`
+
+
+- **[Foundation Model‐Enabled Pathology‐Informed MRI Model for Preoperative Prediction of Vessels Encapsulating Tumor Clusters in Resectable Hepatocellular Carcinoma: A Multicenter Retrospective Study](https://doi.org/10.1002/advs.78135)**
+  <br>*Advanced Science | 2026-10-18 | doi:10.1002/advs.78135 | score 11*
+  <br>Shen, Liu, Li, Zou et al.
+
+  ABSTRACT Vessels encapsulating tumor clusters (VETC) are an aggressive vascular phenotype of hepatocellular carcinoma that is usually determined after surgery. A foundation model‐enabled framework for pathology‐informed VETC prediction on pretreatment magnetic resonance imaging (MRI), termed PIVOT, uses paired preoperative multiparametric MRI, postoperative hematoxylin and eosin whole‐slide images, and CD34 immunohistochemistry during model development, while inference requires only preoperative MRI. PIVOT‐MRI uses morphologic and vascular embedding alignment, and PIVOT‐Clinical combines the PIVOT‐MRI score with tumor size and alpha‐fetoprotein. The multicenter retrospective study includes 2...
+
+  `matched: foundation model, magnet`
+
+
+- **[Developing stacking models for interacting biopolymers using quantum mechanical calculations and machine learning](https://doi.org/10.1016/j.xcrp.2026.103608)**
+  <br>*Cell Reports Physical Science | 2026-10-17 | doi:10.1016/j.xcrp.2026.103608 | score 11*
+  <br>Anik Brinckerhoff, Malav Champaneria, Creston A. Singer, Julie Nguyen
+
+  Biopolymers are long-chain molecules with significant potential for developing sustainable, renewable, and environmentally friendly materials. Agarose, a biopolymer derived from red algae, is widely used in bioengineering and biomedical applications because of its biocompatibility and biodegradability. Understanding how agarose chains interact and assemble is essential for explaining its gelation behavior and material properties. For decades, scientists have debated whether agarose chains primarily form double-helical structures or other arrangements. In this study, researchers used high-throughput quantum mechanical calculations and machine-learning models to investigate the interactions be...
+
+  `matched: machine learning, polymer`
+
+
+- **[Design of a visual hierarchy generation method for dynamic posters based on diffusion models](https://doi.org/10.1117/12.3129501)**
+  <br>*Third International Conference on Optical Communication and Optoelectronic Technology (OCOT 2026) | 2026-10-18 | doi:10.1117/12.3129501 | score 9*
+  <br>Xiu
+
+  In order to improve the generative ability of dynamic posters for structural expression and visual guidance, this study makes use of a diffusion model-based stepwise reconstruction mechanism. Proposes a visual hierarchy modeling strategy and creates a multimodal control path to explicitly build and keep primary and secondary information. The design incorporates prompt semantics, layout sketches, and hierarchical masks, accompanied by conditional guidance to perform two tasks: style transfer and structural consistency. The results show better performance in the three tasks of predicting visual focus, stabilizing style expression, and accuracy of structural restoration compared to the current...
+
+  `matched: diffusion model`
+
+
+---
+
+
 ## 2026-10-17
 
 6 new item(s). Top hit: **On phase separation and crystallization of Ge-rich GeSbTe alloys from atomistic simulations with a machine lea** (score 55, NCCR MARVEL).
