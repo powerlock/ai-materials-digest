@@ -6,6 +6,153 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-19
+
+15 new item(s). Top hit: **Scalable long-range machine learning interatomic potentials with electrical response for atomistic material mo** (score 37, arXiv).
+
+### Journal articles
+
+- **[An Adaptive Machine Learning Framework for Early Lithium-Ion Battery Lifetime Prediction Under Heterogeneous Operating Conditions](https://doi.org/10.3390/technologies14100679)**
+  <br>*Technologies | 2026-10-19 | doi:10.3390/technologies14100679 | score 18*
+  <br>Yessirkepova, Azykanov, Kadirkulov, Ismailova et al.
+
+  This study presents PAGER-Life, an adaptive hybrid framework for the early prediction of lithium-ion battery service life under heterogeneous operating conditions. The system integrates physically interpretable degradation features and standardized charge–discharge curves using linear regression, decision tree-based models, and neural networks. An error-aware routing mechanism combines expert predictions based on out-of-fold errors, while conformal prediction enables uncertainty quantification. The framework was evaluated using the MATR and HUST datasets with observation horizons of 20, 50, and 100 cycles, following a protocol that accounts for the grouped data structure and prevents informa...
+
+  `matched: machine learning, neural network, battery, dataset`
+
+
+- **[Atomic cluster expansion potentials for screw dislocations in BCC refractory metals](https://doi.org/10.1103/ppqn-x4c8)**
+  <br>*Physical Review Materials | 2026-10-19 | doi:10.1103/ppqn-x4c8 | score 13*
+  <br>Zhang, Maresca
+
+  Accurate atomistic modeling of screw dislocations in body-centered cubic (BCC) metals remains challenging because their plasticity is governed by complex dislocation glide behavior due to their compact threefold symmetric core structure and a strongly temperature-dependent flow stress induced by the large Peierls barrier. In the context of group 5 (V, Nb, and Ta) and group 6 (Mo and W) refractory metals (RMs), both classical interatomic potentials and some machine-learning potentials consistently fail to reproduce density functional theory (DFT) Peierls barriers and the glide plane. Here, we developed an array of atomic cluster expansion (ACE) potentials for these RMs by extending an existin...
+
+  `matched: density functional theory, interatomic potential, dft`
+
+
+- **[A Multimodal Geometric Learning Framework for Interpretable Peptide Toxicity Prediction](https://doi.org/10.1021/acs.jcim.6c02423)**
+  <br>*Journal of Chemical Information
+and Modeling | 2026-10-19 | doi:10.1021/acs.jcim.6c02423 | score 13*
+  <br>Li, Wu, Wang, He et al.
+
+  Abstract Peptide therapeutics are promising drug candidates because of their high activity and specificity. However, their potential toxicity poses a major hurdle, making accurate computational toxicity predictions urgently necessary for early safety screening. Existing methods largely rely on sequence data or simple graph representations, thereby limiting their ability to capture higher-order physicochemical interactions. To address this, we propose MBFGNK, an interpretable multimodal geometric learning framework, for peptide toxicity prediction. It integrates sequence representations from pretrained protein language models, 3D structural features via an equivariant graph neural network (EG...
+
+  `matched: graph neural network, neural network, equivariant`
+
+
+- **[A Pathway-Driven Computational Drug Discovery Framework Integrating Machine Learning and Virtual Screening for Identification of Anti-Rheumatoid Arthritis Natural Small Molecules](https://doi.org/10.3390/ph19101651)**
+  <br>*Pharmaceuticals | 2026-10-19 | doi:10.3390/ph19101651 | score 12*
+  <br>Sun, Wang, Ye, Chen et al.
+
+  Objective: This study aimed to establish a pathway-driven computational drug discovery framework integrating machine learning, target prioritization, virtual screening, molecular dynamics (MD) simulations, and in vitro evaluation to identify natural small molecules with potential anti-rheumatoid arthritis (RA) activity. Methods: Sixteen RA-related Gene Expression Omnibus (GEO) datasets were included, with 15 cohorts used for model development and one reserved for independent external validation. Pathway features quantified by gene set variation analysis (GSVA) were subjected to cohort-aware feature selection using a leave-one-dataset-out framework across seven machine-learning algorithms. Pr...
+
+  `matched: molecular dynamics, machine learning, dataset`
+
+
+- **[Mapping the Evolution of Machine Learning in Functional Magnetic Resonance Imaging Research: A Comprehensive Scientometric Analysis](https://doi.org/10.1097/rmr.0000000000000325)**
+  <br>*Topics in Magnetic Resonance Imaging | 2026-10-19 | doi:10.1097/rmr.0000000000000325 | score 11*
+  <br>Sadeghi-Bazargani, Ghojazadeh, Ahmadi Bonabi, Narimani et al.
+
+  Abstract Objectives: Coupled with functional magnetic resonance imaging (fMRI), machine learning (ML), enables advanced pattern recognition and predictive modeling, driving progress in cognitive neuroscience and clinical diagnostics. Scientometrics offers a framework for examining the evolving intersection of fMRI and ML, uncovering knowledge gaps, trends, and collaborations. Materials and Methods: A scientometric analysis was conducted using data from the Scopus database, focusing on studies combining fMRI and ML. After filtering for peer-reviewed articles, reviews, and editorials, eligible studies were preprocessed using KNIME tools to standardize text. Data were analyzed with the Bibliome...
+
+  `matched: machine learning, magnet`
+
+
+- **[DNA-BFN: Bayesian Flow Networks for Generative Modeling of Regulatory DNA Sequences](https://doi.org/10.1093/bioinformatics/btag785)**
+  <br>*Bioinformatics | 2026-10-19 | doi:10.1093/bioinformatics/btag785 | score 9*
+  <br>Yu, Du, Wei, Wang et al.
+
+  Abstract Motivation Designing regulatory DNA sequences is challenging due to their discrete nucleotide alphabet and complex higher-order dependencies underlying regulatory function. Many existing generative models, particularly diffusion-based approaches, learn by injecting stochastic noise into sequences and training denoising processes, which can distort discrete sequence structure and weaken biological constraints. Results Here, we introduce DNA Bayesian Flow Networks (DNA-BFN), a generative framework that models regulatory DNA sequences through iterative Bayesian updates of per-position nucleotide distributions. By directly modeling per-position categorical beliefs, DNA-BFN realizes a di...
+
+  `matched: generative model`
+
+
+- **[Autonomous Laboratories and Foundry Scientific Discovery at the Limit A machine does not discover a mechanism until it creates evidence that could defeat it Core coupling Autonomous experiment x active learning x scientific falsification Research scale 30 linked derivations x 82 chapters x 410 resea](https://doi.org/10.5281/zenodo.23452112)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-18 | doi:10.5281/zenodo.23452112 | score 9*
+  <br>33
+
+  Autonomous Laboratories and Foundry Scientific Discovery at the Limit A machine does not discover a mechanism until it creates evidence that could defeat it Core coupling Autonomous experiment x active learning x scientific falsification Research scale 30 linked derivations x 82 chapters x 410 research sections x 200 detailed Research Gates Main result A falsifiable framework for generating, attacking and eliminating process mechanisms rather than confusing recipe optimization with scientific discovery. Series lineage Semiconductor Foundry Technologies x Intelligent Nanomanufacturing - Flagship 20 Publication Abstract This monograph asks whether an autonomous foundry laboratory can do more t...
+
+  `matched: active learning, semiconductor`
+
+
+- **[<b>Digital and Interactive Learning Tools for Oral Health Education in Schools: Global Innovations and Scalable Strategies for Sub-Saharan Africa</b>](https://doi.org/10.15367/6vmwkm31)**
+  <br>*CommonHealth | 2026-10-19 | doi:10.15367/6vmwkm31 | score 7*
+  <br>Babalola, Williams, Johnson, Bolarinwa et al.
+
+  Background: Using digital tools for learning and interactive school sessions is a growing trend. School children are a good source for grassroots oral health education for long-term population-based results. This narrative review explores the effectiveness of digital and interactive tools in promoting oral health education among school-aged children, focusing on their application and potential scalability within sub-Saharan Africa (SSA). Methods: A narrative review was conducted by searching PubMed, Google Scholar, the Cochrane Library, and African Journals Online to identify existing literature on digital oral health tools for school-aged children. The review emphasized the types of tools u...
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Scalable long-range machine learning interatomic potentials with electrical response for atomistic material modeling](http://arxiv.org/abs/2610.23643v1)**
+  <br>*arXiv | 2026-10-16 | score 37*
+  <br>Yicheng Chen, Xiaoyun Yu, Hyejeong Song, Xintian Wang et al.
+
+  Accurate atomistic simulations of materials under electric fields require long-range electrostatics and electrical-response modeling at length scales beyond the reach of conventional first-principles methods. Yet these capabilities remain difficult to reconcile with the scalability of machine-learning interatomic potentials (MLIPs). Strictly local models enable efficient spatial parallelization but neglect long-range interactions, whereas existing electrostatic extensions introduce global dependencies that hinder distributed computation. Here, we overcome this limitation by analytically separating the long-range electrostatic forces and Born effective charges (BECs) into a global electrostat...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Linear response for machine-learned interatomic potentials: phonons at arbitrary wave vectors from the primitive cell](http://arxiv.org/abs/2610.23545v1)**
+  <br>*arXiv | 2026-10-16 | score 37*
+  <br>Thalis H. B. da Silva, Hai-Chen Wang, Miguel A. L. Marques
+
+  Phonon calculations with machine-learned interatomic potentials are almost exclusively performed with finite displacements in supercells, an approach that is exact only at wave vectors commensurate with the supercell and whose error depends on the range of the force constants. In message-passing networks this range grows with the number of layers, and reaches 140 angstrom for the deepest universal models. Here we show that the dynamical matrix of a message-passing potential can be obtained exactly in the primitive cell, at any wave vector, as the linear response of the forces to a displacement modulated by a Bloch phase, in the spirit of density-functional perturbation theory. The phase ente...
+
+  `matched: machine-learned interatomic potential, interatomic potential, phonon`
+
+
+- **[Active Learning for Interatomic Potentials: A Review of Uncertainty-Driven Data Efficiency](http://arxiv.org/abs/2610.23776v1)**
+  <br>*arXiv | 2026-10-16 | score 31*
+  <br>Ilya V. Chepkasov, Alexander V. Shapeev, Alexander G. Kvashnin
+
+  Developing a machine learning interatomic potential (MLIP) that is accurate for the specific conditions under which it will be applied, rather than simply for the predefined configurations chosen by the model developer, is a significant challenge in atomistic simulation. Active learning (AL) addresses this challenge by closing the loop between candidate generation, data selection, reference calculation, and model updating. Here, we survey more than seventy studies, with an emphasis on work from 2020 to 2026, to understand how active learning has evolved from a niche, on-the-fly training technique for query-by-committee and Gaussian process force fields into a diverse family of data-efficient...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, active learning`
+
+
+- **[Foundation-Model Supervision of Distilled Potentials for Million-Atom Molecular Dynamics](http://arxiv.org/abs/2610.23371v1)**
+  <br>*arXiv | 2026-10-16 | score 30*
+  <br>Xiaoqing Liu, Yangshuai Wang, Lei Shen
+
+  Machine-learned interatomic potentials distilled from foundation models enable fast large-scale molecular dynamics (MD), but they can fail locally in chemical environments that their training data did not sample. System-averaged error metrics and small random audits often miss such sparse or isolated failures. Here we use an exact equivariant foundation model, MACE-MPA-0, to check every atom of million-atom production simulations. Reorganizing two-layer MACE inference into a receiver-chunked three-pass schedule that keeps no per-edge intermediates resident reduces the marginal memory per atom 340-fold, evaluates up to $2.86\times10^{7}$ atoms on a single H200 GPU, and supervises $10^{6}$-ato...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics, foundation model, equivariant`
+
+
+- **[Learning the self-energy through equivariant neural networks](http://arxiv.org/abs/2610.23717v1)**
+  <br>*arXiv | 2026-10-16 | score 15*
+  <br>Wudong Shen, Yang Zhong, Min-Ye Zhang, Xinyang Dong et al.
+
+  The electronic self-energy determines the single-particle Green's function and, through it, quasiparticle energies and spectral functions, but computing it from first principles is expensive and it is a difficult machine-learning target: complex-valued, matrix-valued in a local-orbital basis, and dependent on a continuous frequency. We predict the dynamical correlation part of the imaginary-frequency G_0W_0 self-energy matrix of molecules from atomic species and coordinates with an E(3)-equivariant message-passing network, the rotational covariance of the orbital-space matrix being imposed by the architecture itself and the static exchange part taken from the density-functional reference. Fr...
+
+  `matched: neural network, equivariant`
+
+
+- **[Self-Building Labs](http://arxiv.org/abs/2610.23826v1)**
+  <br>*arXiv | 2026-10-16 | score 10*
+  <br>Jiaru Bai, Yuchi Zhao, Han Hao, Miroslav Bogdanovic et al.
+
+  Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures they were built for. Adapting them to a new experiment still takes extensive manual engineering, which makes laboratory flexibility the bottleneck for scaling discovery. We introduce the self-building laboratory (SBL), which designs, configures, and operates its own laboratory setup given a high-level scientific goal. SBL starts from whatever already exists, from an empty room to a working SDL, and builds the missing capabilities: the lab layout, its digital twin, robot skills,...
+
+  `matched: self-driving lab`
+
+
+- **[From Surface Reactions to Inhibitor Coverage: A Machine-Learning-Assisted Computational Study of Area-Selective Atomic Layer Deposition](http://arxiv.org/abs/2610.22911v1)**
+  <br>*arXiv | 2026-10-16 | score 9*
+  <br>Gijin Kim, Seungwu Han, Youngho Kang
+
+  Area-selective atomic layer deposition (AS-ALD) enables selective material growth for the fabrication of nanoscale semiconductor devices. Predicting inhibitor coverage is essential for understanding and optimizing surface blocking in AS-ALD. Here, we present a computational workflow combining a pretrained universal machine-learning interatomic potential with off-lattice grand canonical Monte Carlo simulations and apply it to inhibitor adsorption and precursor blocking on amorphous SiO2. Realistic surface models reveal substantial site-dependent variations in reaction energies and activation barriers, with silanol groups serving as the primary adsorption sites for aminosilane and related inhi...
+
+  `matched: interatomic potential, semiconductor`
+
+
+---
+
+
 ## 2026-10-18
 
 6 new item(s). Top hit: **Unveiling the atomic scale synthesis dynamics of lithium thiophosphate electrolytes via machine learning inter** (score 43, Chemical Engineering Journal).
