@@ -6,6 +6,177 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-20
+
+18 new item(s). Top hit: **Challenging Atomistic Foundation Models on Disordered Carbons** (score 36, arXiv).
+
+### Journal articles
+
+- **[Dataset and MLIP model for Mg/S-doped NMO cathodes](https://doi.org/10.5281/zenodo.23470162)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-19 | doi:10.5281/zenodo.23470162 | score 23*
+  <br>Anonymous Researchers
+
+  # MLIP-Phase-Transition-NNMO [![CHGNet](https://img.shields.io/badge/CHGNet-Fine--Tuned-blue.svg)](https://chgnet.lbl.gov/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) **Accelerating structural evolution modeling of Mg- and S-doped P2-Na2/3Ni1/3Mn2/3O2 cathodes via combined DFT and machine-learning interatomic potentials** This repository contains the fine-tuned Machine-Learning Interatomic Potential (MLIP) based on the **CHGNet** architecture, along with the complete Density Functional Theory (DFT) datasets (training, validation, and testing sets) in extended XYZ format. This model is specifically developed to investigate the P2...
+
+  `matched: density functional theory, interatomic potential, cathode, dataset, dft`
+
+
+- **[LEYLA: data-Labelling Engine, energy-Yielding, and active-Learning Automation](https://doi.org/10.5281/zenodo.23473441)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-19 | doi:10.5281/zenodo.23473441 | score 21*
+  <br>Alessandro Morittu
+
+  LEYLA: data-Labelling Engine, energy-Yielding, and active-Learning Automation Leyla is an automated tool designed to build datasets for training machine learning interatomic potentials. Starting from a LAMMPS trajectory, Leyla checks (if an ensemble of models trained on the same dataset with different SEEDs is already available) for which trajectory configurations model predictions exhibit an uncertainty higher than a user-specified threshold using MACE CALCULATOR. Subsequently, from all uncertain configurations, Leyla extracts unique structures using SOAP (Smooth Overlap of Atomic Positions) descriptors. Once unique structures are selected, Leyla computes their energies and forces using CP2...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, dataset`
+
+
+- **[Microscopic origin of polytype-dependent melting in SiC revealed by machine-learning molecular dynamics](https://doi.org/10.1063/5.0350682)**
+  <br>*The Journal of Chemical Physics | 2026-10-19 | doi:10.1063/5.0350682 | score 19*
+  <br>Ljiljana Stojanović, S. J. Magorrian, Lara Kabalan, R.N. White
+
+  Predicting how crystal structure influences high-temperature stability remains a key challenge in materials modeling and design. Silicon carbide (SiC), one of the most thermally and chemically stable materials known, provides an ideal system for studying this problem because its many polytypes preserve similar local tetrahedral bonding while differing in long-range stacking geometry. To determine the impact of polytype structure on the high-temperature stability of SiC, we combine phase-coexistence machine-learning molecular dynamics with finite-temperature phonon analysis, enabled by a fine-tuned MACE interatomic potential that accurately describes crystalline, high-temperature, and disorde...
+
+  `matched: interatomic potential, molecular dynamics, crystal, phonon`
+
+
+- **[Optimized machine learning approach for intelligent dust contamination prediction in solar photovoltaic systems](https://doi.org/10.1038/s41598-026-75987-y)**
+  <br>*Scientific Reports | 2026-10-20 | doi:10.1038/s41598-026-75987-y | score 13*
+  <br>Sairaj, Pasi, Sheela, O.V. et al.
+
+  `matched: machine learning, photovoltaic`
+
+
+- **[Decoding diverse pressure–composition–temperature behavior of hydrogen storage alloys via physics-constrained machine learning](https://doi.org/10.1016/j.jechem.2026.10.007)**
+  <br>*Journal of Energy Chemistry | 2026-10-20 | doi:10.1016/j.jechem.2026.10.007 | score 11*
+  <br>Gan, Li, Hu, Luo et al.
+
+  `matched: machine learning, alloy`
+
+
+- **[Designing High-Entropy Alloys: From Physical Metallurgy to Machine Learning Enabled Discovery](https://doi.org/10.3390/alloys5040029)**
+  <br>*Alloys | 2026-10-18 | doi:10.3390/alloys5040029 | score 11*
+  <br>Manish Mandal, Mohd Bilal Khan
+
+  High-entropy alloys (HEAs) are characterized by having more than one principal element, in contrast to a traditional alloy with only one base element; this provides a much wider composition space compared to traditional alloys; hence, HEAs have been the most studied metal alloys in the last couple of decades. This review links the fundamentals of these materials to the data-driven methods now used to design them. The first part of this review describes the fundamentals of these materials, including the thermodynamic and kinetic basis of these materials and an entropy-based classification. The subsequent parts of this review describe the synthesis routes of these materials via liquid-state, s...
+
+  `matched: machine learning, alloy`
+
+
+- **[A Cross-Sectional Study and Machine-Learning-Based Risk Profiling of Salmonella and Escherichia Coli in Some Chicken Farms](https://doi.org/10.5455/ajvs.323691)**
+  <br>*Alexandria Journal of Veterinary Sciences | 2026-10-20 | doi:10.5455/ajvs.323691 | score 7*
+  <br>Mohamed, Hassan, Hassan
+
+  Gram-negative bacterial infections, particularly Salmonella and Escherichia coli (E. coli) represent significant threats to poultry production worldwide, causing substantial economic losses and public health concerns. Therefore, this study was carried out to investigate the prevalence of these pathogens in some broiler farms and assessing associated risk factors using machine learning. A cross-sectional study was conducted from August 2021 to March 2023, collecting 764 samples (284 environmental and 480 non-environmental) from Sharkia, Ismailia, Damietta, and Mansoura Governorates, Egypt, from broiler farms with two different housing systems (deep litter and battery systems).Bacterial isolat...
+
+  `matched: machine learning, battery`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Crystal Structure Based Graph Neural Network And LLM Multi-Modal Approach for Material Magnetic Ordering Prediction](http://arxiv.org/abs/2610.25775v1)**
+  <br>*arXiv | 2026-10-19 | score 29*
+  <br>Adam Zheng, April Zheng, Sheng Ran
+
+  AI/ML models are useful for the prediction of materials' properties. Recently, there has been great progress in developing Neural Network models to predict the properties of solids, molecules, and crystals, avoiding expensive and time-consuming laboratory testing. This study presents a novel AI/ML-based multi-modal approach to predict material magnetic ordering using material crystal structure information as input to a Graph Neural Network model (GNN) and semantic text descriptions of the material's properties and structure as input to a Large Language Model (LLM), before performing information fusion of the GNN and LLM outputs to predict material magnetic ordering in four classes (Non-magne...
+
+  `matched: large language model, graph neural network, neural network, crystal, magnet`
+
+
+- **[Machine Learning-Assisted Discovery of Carbon-Related Defect Formation Mechanisms in Diamond](http://arxiv.org/abs/2610.26301v1)**
+  <br>*arXiv | 2026-10-19 | score 27*
+  <br>Grace Huang, Christopher Fivecoat, Xun Xu, Mengen Wang
+
+  Diamond is an important host material for functional defects such as solid-state spin qubits. During the defect creation by irradiation and subsequent thermal annealing, carbon-related defects, including vacancies and interstitials, are generated and can migrate to form new defect complexes. To investigate this kinetically driven process and reveal the formation mechanisms of the di-interstitials and di-vacancies in the neutral charge state, we fine-tuned a universal machine learning interatomic potential using a small dataset generated from density functional theory calculations. We obtained a barrier of 1.84 eV for mono-interstitial migration and found that two initially separated mono-int...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, machine learning, dataset`
+
+
+- **[Reticulating Local Dynamics in Three-Dimensional Covalent Organic Frameworks](http://arxiv.org/abs/2610.24418v1)**
+  <br>*arXiv | 2026-10-17 | score 22*
+  <br>Francesco Tavani, Saber Mirzaei, M. Saeed Mirzaei, Jian Yin et al.
+
+  In covalent organic frameworks (COFs), the geometry of the building units predetermines the structure of the framework, yet comparable design principles relating the COF linkers to the local motions that govern guest adsorption and diffusion as well as mechanical response have remained beyond reach. Here, we combine synchrotron X-ray pair distribution function (PDF) analysis with molecular dynamics (MD) simulations accelerated by machine learning interatomic potentials to resolve and compare the local dynamics of two three-dimensional imine-linked COFs, chosen to differ in the geometry and rigidity of one of their two building units. Both are constructed from the same 4-connected square plan...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning`
+
+
+- **[Autonomous adaptive spectral analysis with an LLM agent for self-driving laboratories](http://arxiv.org/abs/2610.25619v1)**
+  <br>*arXiv | 2026-10-19 | score 21*
+  <br>Yuki K. Wakabayashi, Yui Ogawa
+
+  Self-driving laboratories accelerate materials exploration through autonomous closed-loop integration of synthesis, characterization, and next-experiment selection. However, characterization does not always directly provide the target property; measured spectra or images often require automated analysis to extract quantitative descriptors based on physically motivated assumptions and predefined criteria. Such procedures can fail for measurements outside these criteria, requiring a decision on whether a reliable value can be recovered or no numerical value should be reported. Here, we implemented an autonomous adaptive spectral-analysis agent using a large language model (LLM) to supervise a...
+
+  `matched: large language model, self-driving lab`
+
+
+- **[Evaluating transfer across modalities in autonomous materials systems](https://doi.org/10.26434/chemrxiv.15001271/v2)**
+  <br>*Crossref | 2026-10-19 | doi:10.26434/chemrxiv.15001271/v2 | score 21*
+  <br>Ackölf, Sparks
+
+  A power device needs a wide-gap semiconductor and a heat-treated Al–Mg–Si alloy to cool it, and both draw on sources that disagree: band gaps from several levels of density functional theory (DFT) and from measurement, alloy formation energies from DFT and interatomic potentials. Multi-fidelity methods combine such sources only through paired values on a common scale and do not state in advance whether one source’s guidance holds in another. We test whether the relative differences between candidates, which lead and by how much, are preserved across sources whose values disagree. PEGKi infers relative ratings of decision bodies (any rule that ranks candidates) from comparison outcomes within...
+
+  `matched: density functional theory, interatomic potential, semiconductor, band gap, alloy, dft`
+
+
+- **[How the fruit fly connectome can help autonomous materials discovery](https://doi.org/10.26434/chemrxiv.15010667/v1)**
+  <br>*Crossref | 2026-10-19 | doi:10.26434/chemrxiv.15010667/v1 | score 20*
+  <br>Ackölf, Sparks
+
+  Autonomous laboratories for two-dimensional semiconductors pair a recipe planner with instruments that return in situ spectra every few seconds. Some decisions are too fast for the planner: stop a failing selenization anneal, flag a flake that is not the logged material, or end an ion irradiation at a set vacancy density, from a few examples, on a small computer at the instrument. The fruit fly takes decisions of this form with two structures whose wiring is measured at synapse level: the mushroom body, a one-shot memory for odours, and the ventral nerve cord, which turns a few descending commands into local reflexes. We asked which instrument jobs models wired from these connectomes do bett...
+
+  `matched: materials discovery, semiconductor`
+
+
+- **[NEP-kappa 2.0: A unified framework for phonon transport and nonequilibrium thermalization with machine-learning interatomic potentials](http://arxiv.org/abs/2610.25477v1)**
+  <br>*arXiv | 2026-10-18 | score 19*
+  <br>Shixian Liu, Bin Liu, Fei Yin, Gang Wang et al.
+
+  We present NEP-kappa 2.0, a unified framework that integrates density-functional theory, material-specific machine-learning interatomic potentials, and pretrained force models for advanced phonon calculations. A common workflow enables harmonic lattice dynamics, quasi-harmonic and stochastic self-consistent phonon treatments, three- and four-phonon transport, Wigner population--coherence transport, and time-dependent phonon dynamics. Applications to 3C-SiC, BAs, and Cs$_2$AgInCl$_6$ demonstrate consistent force-model comparisons, finite-temperature renormalization, higher-order scattering, and intermode coherence. Beyond steady-state transport, mode-resolved simulations of selectively excite...
+
+  `matched: interatomic potential, phonon`
+
+
+- **[Understanding compression-extension error asymmetry in universal machine-learning interatomic potentials](http://arxiv.org/abs/2610.24514v1)**
+  <br>*arXiv | 2026-10-17 | score 19*
+  <br>Hongwei Du, Dingyang Lv, Boyan Zhang, Yu Ren et al.
+
+  Universal machine-learning interatomic potentials are increasingly used across diverse materials, yet their reliability under directional deformation remains unclear. We compare compression and extension along paired deformation paths from the same parent structures for eleven pretrained potentials. The benchmark comprises 1,963 Materials Project trajectory (MPtrj) parents and 1,286 experimental-source MinX-Eq parents at six strain magnitudes from 1% to 10%. Density-functional theory provides references for isotropic, uniaxial and biaxial loading in MPtrj and isotropic loading in MinX-Eq. At $\pm 10\%$, every model has a larger median force error under compression, with pooled isotropic comp...
+
+  `matched: interatomic potential, materials project, benchmark`
+
+
+- **[Machine Learning Prediction Model for Metal Ion-Catalyzed Decomposition of Peroxyacids and Storage Strategy Optimization](https://doi.org/10.2139/ssrn.7642287)**
+  <br>*Crossref | 2026-10-20 | doi:10.2139/ssrn.7642287 | score 13*
+  <br>Chen, Zhang, Zhu, Xu et al.
+
+  Peroxypropionic acid (PPA) is a highly reactive peroxycarboxylic acid. In this study, PPA decomposition was investigated by integrating experimental kinetics, molecular simulations, electronic-structure descriptors, and machine-learning (ML) modeling. Increasing temperature markedly accelerated PPA decomposition, while metal ions exhibited pronounced ion-specific and concentration-dependent catalytic effects following the order Fe³⁺>Mn²⁺>Ni²⁺≈ Fe²⁺>Cr³⁺. A dataset was constructed using temperature, concentration, metal-ion identity/concentration, and DFT-derived descriptors. ML-guided virtual screening further identified favorable storage conditions of 15 °C, 16% PPA, and 0.5% EDTA, yielding...
+
+  `matched: machine learning, dataset, dft`
+
+
+- **[Atomistic prediction of magnetic behaviour across chemistry, structure and temperature](http://arxiv.org/abs/2610.24407v1)**
+  <br>*arXiv | 2026-10-17 | score 9*
+  <br>Ruosong Shi, Chengbing Chen, Bicheng Liu, Daye Zheng et al.
+
+  Controlling magnetic phases and properties through composition and external conditions is central to the development of magnetic materials. Atomistic foundation models offer a route to predicting such behaviour across diverse materials, but magnetic materials remain challenging because their atomic structure and local moments are strongly coupled, while temperature and disorder drive magnetic moments into non-collinear states with evolving orientations and magnitudes. Broadly pretrained atomistic models still sample only limited magnetic diversity, while finite-temperature descriptions of coupled lattice and magnetic fluctuations remain largely material-specific. Here we introduce MagPT, pre...
+
+  `matched: foundation model, magnet`
+
+
+### Conference papers
+
+- **[Challenging Atomistic Foundation Models on Disordered Carbons](http://arxiv.org/abs/2610.26701v1)**
+  <br>*arXiv | 2026-10-19 | score 36*
+  <br>Accepted/presented: NeurIPS | Joseph Hart, Samuel G. H. Brookes, Fabian L. Thiemann, Christoph Schran
+
+  Foundation machine-learned interatomic potentials (MLIPs) promise broad transferability, yet their out-of-domain reliability is hard to establish. Here, we use pure and O/H-containing disordered carbon spanning multiple phases, competing hybridisations and porous frameworks to stress-test six popular foundation MLIPs. We first screen all six on density functional theory (DFT) energy and force errors and binding curves, then subject four to melt-quench-anneal molecular dynamics and evaluate the resulting structural observables. Binding curves and O/H-containing trajectories reveal unphysical extrapolation and dynamical failures that low DFT energy and force errors fail to reveal. Of the model...
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, molecular dynamics, foundation model, dft`
+
+
+---
+
+
 ## 2026-10-19
 
 15 new item(s). Top hit: **Scalable long-range machine learning interatomic potentials with electrical response for atomistic material mo** (score 37, arXiv).
