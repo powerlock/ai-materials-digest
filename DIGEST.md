@@ -6,6 +6,199 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-21
+
+22 new item(s). Top hit: **Breaking Bottlenecks in Solid Electrolyte Discovery With Large Artificial Intelligence Models** (score 31, KITopen).
+
+### Journal articles
+
+- **[Breaking Bottlenecks in Solid Electrolyte Discovery With Large Artificial Intelligence Models](https://doi.org/10.5445/ir/1000198180)**
+  <br>*KITopen | 2026-10-20 | doi:10.5445/ir/1000198180 | score 31*
+  <br>Eric Jianfeng Cheng, Min Hong, Zhiquan Zeng, Chuanyu Liu
+
+  Solid electrolytes (SEs) are central to next-generation metal batteries, yet their discovery remains constrained by fragmented data, limited transferability of simulations, and slow experimental iteration. Unlike catalysis, where surface reactivity dominates, SEs require simultaneous optimization of bulk ion transport, defect chemistry, mechanical integrity, and interfacial stability. Here, we outline a framework for autonomous SE discovery enabled by large artificial intelligence (AI) models, including machine learning interatomic potentials (MLIPs) and large language models (LLMs). We discuss the evolution from static materials databases to dynamic, self-updating knowledge systems, the rol...
+
+  `matched: machine learning interatomic potential, artificial intelligence, interatomic potential, large language model, machine learning, electrolyte`
+
+
+- **[Artificial intelligence in diabetic retinopathy: From deep learning to foundation models, clinical translation, and real-world deployment](https://doi.org/10.1016/j.survophthal.2026.10.008)**
+  <br>*Survey of Ophthalmology | 2026-10-21 | doi:10.1016/j.survophthal.2026.10.008 | score 19*
+  <br>Haobijam, Singh, Singh, Wu et al.
+
+  `matched: artificial intelligence, foundation model, deep learning`
+
+
+- **[Convolutional neural network based inverse design of a broadband endfire hybrid plasmonic leaky wave antenna](https://doi.org/10.1007/s42452-026-09754-z)**
+  <br>*Discover Applied Sciences | 2026-10-21 | doi:10.1007/s42452-026-09754-z | score 19*
+  <br>Rezaei, Nooramin
+
+  `matched: inverse design, neural network`
+
+
+- **[Explainable Machine Learning Modeling for Predicting Carbon Yield in Catalytic Methane Decomposition Using Multi‑Component Catalyst Systems](https://doi.org/10.1016/j.mtcomm.2026.116453)**
+  <br>*Materials Today Communications | 2026-10-21 | doi:10.1016/j.mtcomm.2026.116453 | score 13*
+  <br>Srivastava, Al-khreisat, Patel, Jayaprakash et al.
+
+  `matched: machine learning, catalyst`
+
+
+- **[Understanding compression-extension error asymmetry in universal machine-learning interatomic potentials](https://doi.org/10.13140/rg.2.2.21920.14089)**
+  <br>*OpenAlex | 2026-10-20 | doi:10.13140/rg.2.2.21920.14089 | score 13*
+  <br>Hongwei Du, Dingyang Lv, Boyan Zhang, Yu Ren
+
+  `matched: interatomic potential`
+
+
+- **[Vibrational dynamics of TODD-graphene nanosheets via molecular dynamics simulations and machine-learning surrogate models: implications for adaptive nanomechanical devices](https://doi.org/10.1007/s00894-026-06942-x)**
+  <br>*Journal of Molecular Modeling | 2026-10-20 | doi:10.1007/s00894-026-06942-x | score 13*
+  <br>Yaobin Ke, Bowen Wei
+
+  `matched: molecular dynamics, surrogate model`
+
+
+- **[Towards Intelligent Membrane Systems: A Critical Analysis of Digital Twin–ML Integration for Real–Time Process Optimization, Fouling Management, and Autonomous Design](https://doi.org/10.3390/membranes16100348)**
+  <br>*Membranes | 2026-10-20 | doi:10.3390/membranes16100348 | score 12*
+  <br>Olawumi O. Sadare, Samuel P. Alonge, A. O. Akinyemi, Abass A. Adesina
+
+  Membrane separation is central to potable water production, wastewater reclamation, desalination, gas separation, and decarbonization, yet its economics remain constrained by fouling and by a gap between process data and timely operating decisions. Digital twins (DTs) offer live, bidirectionally coupled virtual representations of physical assets, while machine learning (ML) extracts predictive and prescriptive insights from operational data. Together, they are promising computational approaches for membrane systems. However, their applications have largely evolved independently across fouling prediction, DT development, and ML-based materials discovery. This review argues that these are conv...
+
+  `matched: materials discovery, machine learning`
+
+
+- **[Physics-informed deep generative model for longitudinal phase space reconstruction during beam merging at HIAF](https://doi.org/10.1016/j.net.2026.104788)**
+  <br>*Nuclear Engineering and Technology | 2026-10-21 | doi:10.1016/j.net.2026.104788 | score 9*
+  <br>Qiao, Yang, Ma, Liu et al.
+
+  `matched: generative model`
+
+
+- **[Generative prediction of rock discontinuities with a tabular foundation model](https://doi.org/10.1016/j.jrmge.2026.06.052)**
+  <br>*Journal of Rock Mechanics and Geotechnical Engineering | 2026-10-21 | doi:10.1016/j.jrmge.2026.06.052 | score 9*
+  <br>Meng, Mei, Tian, Xu et al.
+
+  `matched: foundation model`
+
+
+- **[Thermal-safety-constrained cooling energy optimization for data centers using a physics-informed graph surrogate model](https://doi.org/10.1016/j.energy.2026.142880)**
+  <br>*Energy | 2026-10-21 | doi:10.1016/j.energy.2026.142880 | score 7*
+  <br>Wang, Peng, Liu, Shen et al.
+
+  `matched: surrogate model`
+
+
+- **[Navigating sparse singlet fission chemical space: an intelligent generative-predictive paradigm](https://doi.org/10.24435/materialscloud:mh-pv)**
+  <br>*NCCR MARVEL | 2026-10-20 | doi:10.24435/materialscloud:mh-pv | score 7*
+  <br>Longfei Lv, Fu Li, Si Zhou, Lingzhi Zhao
+
+  Singlet fission (SF) offers a promising route to surpass the Shockley-Queisser limit by converting a photoexcited singlet exciton into two triplet excitons, thereby enhancing photovoltaic energy conversion efficiency. However, realizing efficient SF requires the stringent energetic requirements among low-lying excited states that render SF molecules intrinsically rare within the vast chemical space. This extreme sparsity presents a fundamental challenge for molecular discovery. Due to low hit rates and trial-and-error computational waste on nonviable structures, conventional high-throughput virtual screening faces significant constraints, even when accelerated by machine learning models. Her...
+
+  `matched: machine learning, photovoltaic`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[MOFFieldBench: A Machine Learning Benchmark for Continuous Electronic Fields in Metal-Organic Frameworks](http://arxiv.org/abs/2610.27036v1)**
+  <br>*arXiv | 2026-10-19 | score 28*
+  <br>Zhaolin Hu, Hehe Fan, Chenhao Rao, Wangyihan Guo et al.
+
+  Machine-learning models for metal-organic frameworks (MOFs) predominantly rely on atomic structures, whereas electron-density (ED) and electrostatic-potential (ESP) fields remain underexplored as scalable learning representations. These continuous fields encode complementary spatial and electronic information relevant to structure-property relationships, particularly pore geometry and guest-framework interactions, but costly first-principles calculations, storage requirements and the scarcity of systematically aligned datasets limit their broader use. Here we introduce MOFFieldBench, a multimodal benchmark comprising approximately 46,000 MOFs with one-to-one aligned crystallographic structur...
+
+  `matched: metal-organic framework, machine learning, benchmark, crystal, dataset, mof`
+
+
+- **[Machine Learning-Assisted Discovery of Carbon-Related Defect Formation Mechanisms in Diamond](https://doi.org/10.48550/arxiv.2610.26301)**
+  <br>*arXiv (Cornell University) | 2026-10-19 | doi:10.48550/arxiv.2610.26301 | score 27*
+  <br>Grace Huang, Christopher Fivecoat, Xun Xu, Mengen Wang
+
+  Diamond is an important host material for functional defects such as solid-state spin qubits. During the defect creation by irradiation and subsequent thermal annealing, carbon-related defects, including vacancies and interstitials, are generated and can migrate to form new defect complexes. To investigate this kinetically driven process and reveal the formation mechanisms of the di-interstitials and di-vacancies in the neutral charge state, we fine-tuned a universal machine learning interatomic potential using a small dataset generated from density functional theory calculations. We obtained a barrier of 1.84 eV for mono-interstitial migration and found that two initially separated mono-int...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, machine learning, dataset`
+
+
+- **[Machine Learning for Ionic Conductivity Prediction in Polymer Electrolytes: A Benchmark on Lithium Systems and a Feasibility Study on the Data-Scarce Multivalent (Mg, Zn, Na) Frontier](https://doi.org/10.26434/chemrxiv.15010742/v1)**
+  <br>*Crossref | 2026-10-21 | doi:10.26434/chemrxiv.15010742/v1 | score 24*
+  <br>Dokku
+
+  Solid and gel polymer electrolytes are central to safer, more flexible batteries, and machine learning has been used to predict their ionic conductivity directly from composition and processing variables. Almost all of this work targets lithium-ion systems, for which large, curated datasets exist. Polymer electrolytes conducting multivalent or non-lithium cations (magnesium, zinc, sodium) are promising lower-cost alternatives but remain comparably underexplored, in part because no public, ML-ready dataset of their measured ionic conductivities exists. Here we validate a standard composition-to-conductivity pipeline (Random Forest and XGBoost regression) on OBELiX, a published dataset of 599...
+
+  `matched: machine learning, electrolyte, benchmark, polymer, dataset`
+
+
+- **[Autonomous adaptive spectral analysis with an LLM agent for self-driving laboratories](https://doi.org/10.48550/arxiv.2610.25619)**
+  <br>*arXiv (Cornell University) | 2026-10-19 | doi:10.48550/arxiv.2610.25619 | score 21*
+  <br>Yuki K. Wakabayashi, Yui Ogawa
+
+  Self-driving laboratories accelerate materials exploration through autonomous closed-loop integration of synthesis, characterization, and next-experiment selection. However, characterization does not always directly provide the target property; measured spectra or images often require automated analysis to extract quantitative descriptors based on physically motivated assumptions and predefined criteria. Such procedures can fail for measurements outside these criteria, requiring a decision on whether a reliable value can be recovered or no numerical value should be reported. Here, we implemented an autonomous adaptive spectral-analysis agent using a large language model (LLM) to supervise a...
+
+  `matched: large language model, self-driving lab`
+
+
+- **[NEP-kappa 2.0: A unified framework for phonon transport and nonequilibrium thermalization with machine-learning interatomic potentials](https://doi.org/10.48550/arxiv.2610.25477)**
+  <br>*arXiv (Cornell University) | 2026-10-18 | doi:10.48550/arxiv.2610.25477 | score 19*
+  <br>Shixian Liu, Bin Liu, Fei Yin, Gang Wang
+
+  We present NEP-kappa 2.0, a unified framework that integrates density-functional theory, material-specific machine-learning interatomic potentials, and pretrained force models for advanced phonon calculations. A common workflow enables harmonic lattice dynamics, quasi-harmonic and stochastic self-consistent phonon treatments, three- and four-phonon transport, Wigner population--coherence transport, and time-dependent phonon dynamics. Applications to 3C-SiC, BAs, and Cs$_2$AgInCl$_6$ demonstrate consistent force-model comparisons, finite-temperature renormalization, higher-order scattering, and intermode coherence. Beyond steady-state transport, mode-resolved simulations of selectively excite...
+
+  `matched: interatomic potential, phonon`
+
+
+- **[Toward Interpretable Graph-Based Machine Learning for Combustion Kinetic Model Generation](https://doi.org/10.26434/chemrxiv.15010767/v1)**
+  <br>*Crossref | 2026-10-21 | doi:10.26434/chemrxiv.15010767/v1 | score 16*
+  <br>Du, Ramachandran, Yang
+
+  This work presents an atom-conserving and interpretable graph neural network (GNN) for combustion kinetic model generation, where atoms are represented as nodes, covalent bonds are represented as edges, and reactions are represented as bond-rearrangement operations. Its artificial-intelligence (AI) contribution is a reaction generator that extends a standard Graph Isomorphism Network with Edges (GINE) architecture through reaction-context embeddings, reaction branching & third-body reaction inputs, Arrhenius-rate-parameter prediction, pairwise decoding, and stochastic inference over evolving reactant pools. Trained on the Li–Dryer hydrogen combustion kinetic model (8 species and 21 reactions...
+
+  `matched: graph neural network, machine learning, neural network`
+
+
+- **[Ammonia-Hydrogen Phase Equilibria in Planetary Envelopes from First-Principles-Based Machine-Learning Molecular Dynamics](http://arxiv.org/abs/2610.27136v1)**
+  <br>*arXiv | 2026-10-19 | score 16*
+  <br>Akash Gupta, Austin Guo, Jie Deng
+
+  Ammonia and hydrogen are major constituents of planets within and beyond the solar system, yet how they interact in planetary envelopes is poorly known. We perform large-scale two-phase coexistence simulations of the ammonia-hydrogen system from 500 to 4000 K and 0.1 to 100 GPa, driven by machine-learning interatomic potentials trained on density functional theory calculations. From these we map the compositions of coexisting hydrogen-rich and ammonia-rich phases, and the critical curve that separates conditions of complete miscibility from those of phase separation. The critical temperature increases with pressure, from 500 K at 0.1 GPa to 2000 K near 30 GPa, and we find no phase separation...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics`
+
+
+- **[CrystalAR: Autoregressive Modeling for Symmetric Crystal Generation](http://arxiv.org/abs/2610.27762v1)**
+  <br>*arXiv | 2026-10-20 | score 11*
+  <br>Ziqiao Meng, Rongsheng Chen, Zhi Zheng, Nikita Kazeev et al.
+
+  Deep generative modeling has achieved remarkable progress in crystal generation. Given the rich symmetries inherent in crystalline structures, recent work has sought to explicitly incorporate space-group symmetry into generative models, enabling more effective exploration of novel symmetry templates. Yet introducing symmetry templates increases the combinatorial complexity of stoichiometric relationships between atomic species and crystallographic sites, while creating a fundamental tension between flexible exploration of discrete crystallographic templates and faithful realization of these templates as continuous three-dimensional structures. To address these challenges, we propose CrystalA...
+
+  `matched: generative model, crystal`
+
+
+- **[TexFlow: learning crystallographic texture on SO(3) manifold via normalizing flows](http://arxiv.org/abs/2610.28363v1)**
+  <br>*arXiv | 2026-10-20 | score 10*
+  <br>Gowtham Nimmal Haribabu, Tarakram Ramgopal, Divakar Vetriveeran, Siddhant Kumar
+
+  Crystallographic texture is an important microstructural feature that statistically describes the orientations of grains in polycrystalline materials. Conventional texture analysis relies on the orientation distribution functions and pole figures, which are essential for interpreting the texture of a given material specimen but do not, by themselves, provide a direct framework for predictive modeling of process-structure-property linkages. Data- and machine learning-based approaches offer a means to address this gap; however, a key challenge lies in developing representations and learning frameworks that account for the manifold structure of rotations. In particular, many existing machine le...
+
+  `matched: machine learning, crystal`
+
+
+- **[An Explicit Chebyshev Surrogate Model for the Compressibility Factor of Multicomponent Hydrogen-Blended Natural Gas](https://doi.org/10.2139/ssrn.7649946)**
+  <br>*Crossref | 2026-10-21 | doi:10.2139/ssrn.7649946 | score 8*
+  <br>Zhang, Gao, Wu, XU et al.
+
+  Accurate and efficient calculation of the compressibility factor is important for the metering and simulation of hydrogen-blended natural gas pipeline networks. Some existing models focus primarily on CH4-H2 binary mixtures, whereas high-accuracy equations of state can be computationally demanding in large-scale calculations. This study develops an explicit Chebyshev surrogate model for multicomponent hydrogen-blended natural gas. Using Hit-and-Run sampling, 10,000 eleven-component mixtures were generated. The development domain covers hydrogen mole fractions of 0-30%, temperatures of (273.15-323.15) K, and pressures of (1-10) MPa, with GERG-2008 calculations as reference values. Reduced tem...
+
+  `matched: surrogate model`
+
+
+- **[Relation-calibrated supervision for causal representation learning from sparse measurements](https://doi.org/10.2139/ssrn.7650005)**
+  <br>*Crossref | 2026-10-21 | doi:10.2139/ssrn.7650005 | score 6*
+  <br>Zhu
+
+  Causal representation learning can recover latent structure without producing the named numerical coordinates needed for measurement. When images are abundant but continuous labels are scarce, point supervision constrains only a small part of the training set. We introduce relation-calibrated supervision: sparse measured rows fit a relation that can be evaluated across samples, while measured targets remain unchanged wherever they are available. For an informative but incomplete relation center, the Calibrated Relation Tube combines that center with an image-conditioned residual. Delete-one-fit errors set the residual radius, and a sign-equivariant projection bounds the correction without ad...
+
+  `matched: equivariant`
+
+
+---
+
+
 ## 2026-10-20
 
 18 new item(s). Top hit: **Challenging Atomistic Foundation Models on Disordered Carbons** (score 36, arXiv).
