@@ -6,6 +6,123 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-22
+
+12 new item(s). Top hit: **Symmetry-Based Parameter Efficient Low-Rank Fine-Tuning for High-Throughput Calculation of Lattice Thermal Con** (score 35, arXiv).
+
+### Journal articles
+
+- **[Anharmonic lattice dynamics and superconductivity in strained bulk and surface niobium](https://doi.org/10.1103/tn2d-vjy1)**
+  <br>*Physical review. B./Physical review. B | 2026-10-21 | doi:10.1103/tn2d-vjy1 | score 13*
+  <br>Mihir Ranjan Sahoo, Roman Lucrezi, Pedro Nunes Ferreira, Chia‐Nien Tsai
+
+  Using first-principles calculations, we investigate how homogeneous strain and crystallographic surface orientation modify the vibrational and superconducting properties of niobium. For bulk Nb, tensile strain strongly softens the phonon spectrum and enhances the electron--phonon coupling, increasing the superconducting transition temperature from 9.5 K at equilibrium to 14.5 K at $\sim\!6\%$ lattice expansion. For the low-index Nb(001), Nb(110), and Nb(111) surfaces, harmonic phonon calculations exhibit imaginary modes, showing that anharmonic lattice effects are essential. To treat these effects efficiently, we train Nb-specific machine-learning interatomic potentials on bulk and slab firs...
+
+  `matched: interatomic potential, crystal, phonon`
+
+
+- **[Machine Learning Analysis of Magnetic Oldroyd-B Bioconvective Nanofluid Flow in Biomedical Systems](https://doi.org/10.1016/j.apradiso.2026.113026)**
+  <br>*Applied Radiation and Isotopes | 2026-10-22 | doi:10.1016/j.apradiso.2026.113026 | score 11*
+  <br>Abdalrahem, Talha, Shah, Raja et al.
+
+  `matched: machine learning, magnet`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Symmetry-Based Parameter Efficient Low-Rank Fine-Tuning for High-Throughput Calculation of Lattice Thermal Conductivity](http://arxiv.org/abs/2610.29634v1)**
+  <br>*arXiv | 2026-10-21 | score 35*
+  <br>Rustam Arabov, Konstantin Sozykin, Nikita Rybin, Alexander Shapeev
+
+  Accurate and efficient prediction of lattice thermal conductivity (LTC) is essential for developing materials for thermoelectric, microelectronic, and photovoltaic applications. Here, we present a methodology for high-throughput calculation of LTC across large datasets of compounds sharing a common crystal symmetry. Our approach combines fine-tuning of the MatterSim 1M universal machine-learned interatomic potential with LTC calculations based on the solution of the Boltzmann transport equation. We introduce a symmetry-based few-shot fine-tuning strategy (SBFS-FT) based on low-rank adaptation. In this approach, MatterSim 1M is fine-tuned on a small, carefully selected set of compounds that s...
+
+  `matched: machine-learned interatomic potential, interatomic potential, thermoelectric, photovoltaic, mattersim, crystal`
+
+
+- **[Accelerating Mechanistic Understanding and Prediction of Chemical Selectivity with Foundation Machine-Learned Interatomic Potentials](https://doi.org/10.26434/chemrxiv.15010828/v1)**
+  <br>*Crossref | 2026-10-22 | doi:10.26434/chemrxiv.15010828/v1 | score 34*
+  <br>Manoj, Pounder, Ahmed, Bhadauria et al.
+
+  Selectivity in chemical reactions is often dictated by small energetic differences between competing transition states of less than 2 kcal mol -1 . Computational predictions of selectivity for organic and organometallic reactions must reach these levels of quantitative accuracy, while simultaneously navigating the mechanistic and conformational complexity involved. Here, we assess the suitability of foundation machine-learned interatomic potentials (MLIPs) for this task. We introduce the SELECT50 dataset, a chemically diverse collection of paired selectivity-determining transition state structures, evaluated at the ωB97M-V/def2-TZVPD//ωB97X-D3(BJ)/def2-TZVP level of theory, spanning represen...
+
+  `matched: machine-learned interatomic potential, interatomic potential, dataset`
+
+
+- **[The Illusion of Chemical Continuity Limits Machine Learning Generalization](https://doi.org/10.26434/chemrxiv-2025-vj4fk/v2)**
+  <br>*Crossref | 2026-10-22 | doi:10.26434/chemrxiv-2025-vj4fk/v2 | score 29*
+  <br>Wang, Davis, Dutta, Tomut et al.
+
+  The central dogma of materials informatics is the "Scaling Hypothesis": the assumption that chemical space is a continuous manifold, and that, with sufficient data, deep learning models can approximate any structure-property relationship. While this strategy has achieved near-DFT accuracy for thermodynamic properties like formation energy, prediction accuracy for bandgaps suffers from a fundamental, non-converging error floor (~0.4 eV). By analyzing a comprehensive dataset of binary semiconductors and state-of-the-art Graph Neural Networks (including coGN and foundational embeddings), this work isolates the root cause: unlike the smooth, transferable landscape of total energy, the electronic...
+
+  `matched: graph neural network, machine learning, formation energy, neural network, deep learning, semiconductor`
+
+
+- **[Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models](http://arxiv.org/abs/2610.29895v1)**
+  <br>*arXiv | 2026-10-21 | score 23*
+  <br>Aravindan Kamatchi Sundaram, B. Pabitramohan Prusty, Rohit Batra
+
+  Over the past decade, substantial efforts have been devoted to developing machine learning (ML) methods for extracting materials data and, where possible, materials knowledge directly from the scientific literature. This review traces the evolution of these methods from heuristic, rule-based pipelines through natural language processing (NLP) models and transformer-based encoders to, lastly, large language models (LLMs) and agentic systems capable of extracting materials information across multiple modalities, including text, tables, and figures. Beside construction of large, queryable materials databases and knowledge graphs that support downstream materials discovery, we discuss how these...
+
+  `matched: large language model, materials discovery, machine learning, transformer, agentic`
+
+
+- **[From Materials Discovery to Deployment: A Critical Review of Artificial Intelligence Methods Across the Sensor Development Pipeline](https://doi.org/10.21203/rs.3.rs-11017799/v1)**
+  <br>*Research Square | 2026-10-21 | doi:10.21203/rs.3.rs-11017799/v1 | score 21*
+  <br>K Sudheendra Rao, Sanjeev Kumar Shrivastava, Amritha Abdul Salam, N Sandhya
+
+  `matched: artificial intelligence, materials discovery`
+
+
+- **[Generative discovery, symmetry-aware membership screening, and device-level evaluation of six-member-ring MoS2 polytypes](https://doi.org/10.26434/chemrxiv.15010769/v1)**
+  <br>*ChemRxiv | 2026-10-21 | doi:10.26434/chemrxiv.15010769/v1 | score 21*
+  <br>Michael Chin
+
+  Six-membered-ring (SMR) inorganic materials were recently unified into a class, but the class-level perspective lacks two enabling tools: an operational test of “SMR-ness” and a path from newly generated crystals to device-level figures of merit. Here we couple conditional generative modelling (MatterGen; Mo–S, Ti–S, W–Se; 512 cells per system) to a novelty/stability funnel, a symmetry-aware membership checker that casts the SMR definition as three calibrated criteria (6/6 positives, 6/6 trap negatives), full DFT relaxation with composition-anchored hull analysis, and a contract-based device evaluation injecting literature-anchored OCV and diffusivity into an electrochemical cell model. The...
+
+  `matched: generative model, mattergen, inorganic, crystal, dft`
+
+
+- **[Flexible force field-based screening and machine learning predictions for CO2 sorption and diffusion in MOFs](https://doi.org/10.26434/chemrxiv.15010813/v1)**
+  <br>*Crossref | 2026-10-22 | doi:10.26434/chemrxiv.15010813/v1 | score 17*
+  <br>Martin, Budhathoki, Steckel
+
+  Machine learning offers an efficient route for screening metal–organic frameworks (MOFs), but most existing models rely on rigid-framework simulations that neglect framework flexibility. In this work, DFT-derived flexible force fields were used to calculate CO2 sorption and self-diffusion for 5,418 MOFs, providing the training data for machine-learning models capable of rapidly predicting these properties. We investigated different ML algorithms, featurization methods, and the role of physical descriptors in predicting CO2 sorption and self-diffusion in MOFs. For CO2 sorption, a categorical boosting classifier coupled with Stoichiometric-45 featurization method used with scalar descriptors p...
+
+  `matched: machine learning, dft, mof`
+
+
+- **[Ammonia-Hydrogen Phase Equilibria in Planetary Envelopes from First-Principles-Based Machine-Learning Molecular Dynamics](https://doi.org/10.48550/arxiv.2610.27136)**
+  <br>*arXiv (Cornell University) | 2026-10-19 | doi:10.48550/arxiv.2610.27136 | score 16*
+  <br>Akash Gupta, Austin Guo, Jie Deng
+
+  Ammonia and hydrogen are major constituents of planets within and beyond the solar system, yet how they interact in planetary envelopes is poorly known. We perform large-scale two-phase coexistence simulations of the ammonia-hydrogen system from 500 to 4000 K and 0.1 to 100 GPa, driven by machine-learning interatomic potentials trained on density functional theory calculations. From these we map the compositions of coexisting hydrogen-rich and ammonia-rich phases, and the critical curve that separates conditions of complete miscibility from those of phase separation. The critical temperature increases with pressure, from 500 K at 0.1 GPa to 2000 K near 30 GPa, and we find no phase separation...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics`
+
+
+- **[Mechanical versus thermal amorphization of ZIF-4: from local rearrangements to network disorder](https://doi.org/10.26434/chemrxiv.15010773/v1)**
+  <br>*ChemRxiv | 2026-10-21 | doi:10.26434/chemrxiv.15010773/v1 | score 13*
+  <br>Léna Triestram, François‐Xavier Coudert
+
+  There is mounting evidence that different amorphization routes can produce metalorganic framework (MOF) glasses with distinct structures and properties, yet the microscopic origins of these differences remain difficult to establish experimentally. Focusing on the two main synthesis methods, which are melt-quenching and ball-milling, we use molecular dynamics simulations with a machine-learning interatomic potential to compare different glasses obtained from ZIF-4. While both routes largely preserve tetrahedral zinc coordination, mechanical deformation generally produces more distorted local environments, showing that average coordination numbers alone do not capture the structural difference...
+
+  `matched: interatomic potential, molecular dynamics, mof`
+
+
+### Conference papers
+
+- **[SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism](http://arxiv.org/abs/2610.29111v1)**
+  <br>*arXiv | 2026-10-21 | score 24*
+  <br>Accepted/presented: NeurIPS | Erh-Wei Sheng, Beom Seok Kang, Yuchao Lin, Danish Khan et al.
+
+  Predicting molecular magnetism often requires electronic-structure calculations with spin-orbit coupling (SOC), which are costly to repeat across many molecules. The underlying electronic states can transform as spinors, yet equivariant surrogates typically use only integer-rank features. Inspired by the spinor nature of these electronic states, we develop eSpinor, an SU(2)-equivariant graph neural network that propagates spinor features. We initialize spinor features from eigenvectors of an approximate SOC Hamiltonian and use gauge-covariant message passing with a gauge-invariant readout to make predictions independent of the arbitrary eigenbasis choice. On cobalt single-molecule magnet can...
+
+  `matched: graph neural network, neural network, equivariant, magnet`
+
+
+---
+
+
 ## 2026-10-21
 
 22 new item(s). Top hit: **Breaking Bottlenecks in Solid Electrolyte Discovery With Large Artificial Intelligence Models** (score 31, KITopen).
