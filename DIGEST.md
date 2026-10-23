@@ -6,6 +6,107 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-23
+
+10 new item(s). Top hit: **Unconstrained learning of equivariant atomistic properties** (score 34, arXiv).
+
+### Journal articles
+
+- **[Thermal stabilization of defect charge states and finite-temperature charge transition levels](https://doi.org/10.1038/s41524-026-02369-3)**
+  <br>*npj Computational Materials | 2026-10-23 | doi:10.1038/s41524-026-02369-3 | score 18*
+  <br>Hainer, Berger, Berger, Hildeberg et al.
+
+  Abstract Point defects introduce localized electronic states that critically affect carrier trapping, recombination, and transport in functional materials. The associated charge transition level (CTLs) can depend on temperature, requiring accurate treatment of vibrational free energy contributions. In this work, we use machine-learned interatomic potentials to efficiently compute temperature-dependent (CTLs) for vacancies in MgO, LiF, and CsSnBr 3 . Using thermodynamic integration, we quantify free energy differences between charge states and calculate the vibrational entropy contributions at finite temperatures. We find that temperature significantly affects the (CTLs) across all three mate...
+
+  `matched: machine-learned interatomic potential, interatomic potential`
+
+
+- **[Artificial Intelligence and Copyright in Media: The Lawfulness of Using Journalistic Content to Train Generative Models in Comparative Perspective](https://doi.org/10.37750/2616-6798.2026.3(58).375438)**
+  <br>*INFORMATION AND LAW | 2026-10-23 | doi:10.37750/2616-6798.2026.3(58).375438 | score 16*
+  <br>Kodynets, Horska, Danylchenko
+
+  The article examines the legal regulation of the unauthorized use of journalistic content for training generative AI systems as of mid-2026 in the European Union, the United States, the United Kingdom, Canada, and Japan, with a separate analysis of Ukraine's position. The author argues that, unlike the EU's static legislative opt-out mechanism supplemented by the training-data transparency obligation under Article 53 of the AI Act, English-speaking jurisdictions have been developing their responses primarily through case law, which as of 2025-2026 remains inconsistent even within a single jurisdiction. More than twenty lawsuits filed by media organisations in the US, Canada, and Japan are sy...
+
+  `matched: artificial intelligence, generative model, generative ai`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Unconstrained learning of equivariant atomistic properties](http://arxiv.org/abs/2610.31183v1)**
+  <br>*arXiv | 2026-10-22 | score 34*
+  <br>Joseph W. Abbott, Paolo Pegolo, Pol Febrer, Michelangelo Domina et al.
+
+  Machine-learned interatomic potentials based on graph neural networks (GNNs) have made first-principles accuracy routine for the potential energy surface (PES). Their backbones, often O(3)-equivariant by design, are increasingly used to learn other atomistic properties. Many of these are of high angular order or pseudotensorial character, defined per atom, or expanded on large atom-centered basis sets. Such targets strain equivariant GNNs, whose tensor products grow steeply in cost with angular order and can fail to represent the target if truncated, forcing difficult trade-offs between hyperparameters. Unconstrained models like the Point-Edge Transformer (PET) instead replace explicit O(3)...
+
+  `matched: machine-learned interatomic potential, interatomic potential, graph neural network, neural network, transformer, equivariant`
+
+
+- **[How good are universal MLIPs for alloys? A benchmark is only as trustworthy as its controls](http://arxiv.org/abs/2610.30641v1)**
+  <br>*arXiv | 2026-10-22 | score 27*
+  <br>Gus L. W. Hart, Jacob N. Pursley
+
+  Universal machine-learned interatomic potentials (uMLIPs) are ranked by their formation-energy error against a DFT database, as if that database were ground truth, but independent DFT databases disagree. We benchmark fourteen uMLIPs on 1.45 million ordered intermetallics against AFLOW, which none trained on, and compare every energy and stability error with that disagreement. For half the structures, AFLOW, Alexandria, and OQMD differ by less than 6-8 meV/atom, but a minority differ by far more, raising the average to 16-30. That disagreement sets a floor on any model's measurable error. Re-referenced, the best uMLIP agrees with AFLOW as closely as Alexandria does, and the next four sit 2-7...
+
+  `matched: machine-learned interatomic potential, interatomic potential, benchmark, alloy, dft`
+
+
+- **[Concentration-Dependent Speciation in ZnCl2 Electrolyte Solutions: Transferability of Machine-Learning Interatomic Potentials and Speciation Sensitivity of EXAFS](http://arxiv.org/abs/2610.30513v1)**
+  <br>*arXiv | 2026-10-21 | score 24*
+  <br>Junhan Chen, Luke D. Gibson, Nadia N. Intan, Darren M Driscoll et al.
+
+  Predicting speciation in concentrated electrolytes requires accurate ion interactions and adequate sampling of slowly interconverting coordination environments. We combine Zn K-edge extended X-ray absorption fine structure (EXAFS) measurements with long-timescale molecular dynamics (MD) using machine-learning interatomic potentials to study aqueous ZnCl2 from dilute conditions to 30 m. We train revPBE-based DeepMD models with D3 corrections included or excluded for Zn-containing pairs and compare them with DPMD-SCAN, classical MD (CMD), and MACE-MATPES-r2SCAN. EXAFS calculations are benchmarked against hydrated and chloride-coordinated Zn reference complexes, then applied to MD ensembles alo...
+
+  `matched: interatomic potential, molecular dynamics, electrolyte, benchmark`
+
+
+- **[Factorised Cartesian Atomic Cluster Expansion for Low-Cost Machine-Learning Interatomic Potentials](https://doi.org/10.26434/chemrxiv.15010957/v1)**
+  <br>*Crossref | 2026-10-23 | doi:10.26434/chemrxiv.15010957/v1 | score 21*
+  <br>Linda
+
+  Machine-learning interatomic potentials can reach the accuracy of density functional theory at a fraction of its cost, but the most accurate equivariant models remain expensive, mainly because of the tensor operations they perform for every pair of neighbouring atoms. We present FACE, a factorised Cartesian atomic cluster expansion that removes this bottleneck. Each neighbour contributes only a small set of radial functions and messages, and all mixing of feature channels is done once per atom, so the cost per neighbour no longer grows with the size of the model. Custom GPU kernels evaluate the remaining steps, and long-range electrostatics, dispersion and short-range repulsion attach throug...
+
+  `matched: density functional theory, interatomic potential, equivariant`
+
+
+- **[Reactive Machine-Learned Potentials Improve Predictions of Water Diffusion Behaviour in Defective Industrial Zeolite HY](https://doi.org/10.26434/chemrxiv.15010947/v1)**
+  <br>*Crossref | 2026-10-23 | doi:10.26434/chemrxiv.15010947/v1 | score 20*
+  <br>Saha, Porter, Erlebach, Ollivier et al.
+
+  Dealuminated HY (USY) zeolites are of major industrial catalytic importance, and the defects they contain, such as extraframework aluminum (EFAL) and silanol groups, strongly influence the behaviour of adsorbed species. Here, we show that reactive neural network-based machine learned interatomic potentials (MLIPs) provide a substantial improvement in the simulation of water diffusion in these catalysts. They yield markedly improved agreement with quasielastic neutron scattering (QENS) measurements of mobility for models of intact framework regions, refined further once EFAL and silanol defects are included explicitly, capturing the additional hindrance these sites impose on water motion. The...
+
+  `matched: interatomic potential, neural network, catalyst, zeolite`
+
+
+- **[Toward Interpretable Graph-Based Machine Learning for Combustion Kinetic Model Generation](https://doi.org/10.26434/chemrxiv.15010767/v2)**
+  <br>*Crossref | 2026-10-23 | doi:10.26434/chemrxiv.15010767/v2 | score 16*
+  <br>Du, Ramachandran, Yang
+
+  This work presents an atom-conserving and interpretable graph neural network (GNN) for combustion kinetic model generation, where atoms are represented as nodes, covalent bonds are represented as edges, and reactions are represented as bond-rearrangement operations. Its artificial-intelligence (AI) contribution is a reaction generator that extends a standard Graph Isomorphism Network with Edges (GINE) architecture through reaction-context embeddings, reaction branching & third-body reaction inputs, Arrhenius-rate-parameter prediction, pairwise decoding, and stochastic inference over evolving reactant pools. Trained on the Li–Dryer hydrogen combustion kinetic model (8 species and 21 reactions...
+
+  `matched: graph neural network, machine learning, neural network`
+
+
+- **[A Review of Creep Rupture Life Prediction Models Based on Machine Learning](https://doi.org/10.2139/ssrn.7661577)**
+  <br>*Crossref | 2026-10-23 | doi:10.2139/ssrn.7661577 | score 10*
+  <br>Mathew
+
+  Creep rupture is a life-limiting phenomenon in high-temperature structural materials used in thermal power plants, gas turbines, nuclear reactors, petrochemical units, aerospace engines, and advanced energy systems. Components operating under sustained stress at elevated temperature undergo time-dependent deformation and damage accumulation, eventually leading to creep rupture. Conventional time-temperature parameter-based creep rupture life prediction methods have been widely used to extrapolate stress–temperature–rupture data. Although these approaches are simple, interpretable, and useful for design practice, their reliability is limited when applied to advanced engineering alloys with co...
+
+  `matched: machine learning, alloy`
+
+
+- **[Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials](http://arxiv.org/abs/2610.30591v1)**
+  <br>*arXiv | 2026-10-22 | score 7*
+  <br>Yunyeong Choi, Hasindhi H. Lokuge, Joshua D. Bocarsly, Pieremanuele Canepa
+
+  Layered sodium transition-metal (TM) oxides, Na$_x$TMO$_2$, are among the most promising sodium-ion positive electrode materials, yet their Na/vacancy orderings, layer stacking sequences, and cooperative Jahn--Teller distortions are known only for a few single-TM compounds. We compile the Na/vacancy orderings reported in earlier studies into a single library of 41 unique orderings and apply this uniformly to five single-TM and all ten Na$_x$TM$_{0.5}$TM$'_{0.5}$O$_2$ oxides (TM = Ti, Mn, Fe, Co, Ni), screening more than 120,000 structures with machine-learning interatomic potentials prior to 1,025 accurate first-principles calculations. The phase diagrams explain the observed O3/P3/O1 sequen...
+
+  `matched: interatomic potential`
+
+
+---
+
+
 ## 2026-10-22
 
 12 new item(s). Top hit: **Symmetry-Based Parameter Efficient Low-Rank Fine-Tuning for High-Throughput Calculation of Lattice Thermal Con** (score 35, arXiv).
