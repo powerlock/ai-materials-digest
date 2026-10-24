@@ -6,6 +6,119 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-24
+
+13 new item(s). Top hit: **Navigating compositional space in palladium hydride: benchmarking machine learning interatomic potentials** (score 41, Computational Materials Science).
+
+### Journal articles
+
+- **[Navigating compositional space in palladium hydride: benchmarking machine learning interatomic potentials](https://doi.org/10.1016/j.commatsci.2026.115195)**
+  <br>*Computational Materials Science | 2026-10-23 | doi:10.1016/j.commatsci.2026.115195 | score 41*
+  <br>Poonam Parkar, Sourabh Singha, Sudarshan Vijay, Abhijit Chatterjee
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, benchmark`
+
+
+- **[Machine‐Learning‐Potential‐Driven Volcano Relationship in Grain Boundary Amorphicity and Ionic Transport of Antiperovskite Solid Electrolytes](https://doi.org/10.1002/adma.75492)**
+  <br>*Advanced Materials | 2026-10-23 | doi:10.1002/adma.75492 | score 34*
+  <br>Abdullah Bin Faheem, Haobo Li
+
+  ABSTRACT Ionic transport in solid‐state electrolytes is governed by interfacial disorder and local chemical environments, yet their microscopic design principles remain challenging because large‐scale interfacial kinetics are simulated using molecular dynamics (MD), where predictive design requires quantum‐level accuracy. Here, we use an actively learned machine learning interatomic potential (MLIP) to bridge this scale‐accuracy gap in halide‐tunable antiperovskite solid electrolytes. By varying the local Cl − /Br − ratio and quantifying interfacial amorphicity and ion flux, we identify an MLIP‐driven volcano relationship between structural disorder and ionic transport. Cl‐enriched grain bou...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, electrolyte, perovskite`
+
+
+- **[Mechanistic Insights of Jahn–Teller Effect Suppression in High-Entropy Prussian Blue Analogue Cathodes](https://doi.org/10.1021/jacs.6c15227)**
+  <br>*Journal of the American Chemical Society | 2026-10-23 | doi:10.1021/jacs.6c15227 | score 28*
+  <br>Bangjun Wu, Xiaorui Dong, Hongliang Dong, Shuyang Bian
+
+  Abstract The Jahn–Teller (J-T) effect, as discovered by Hermann Jahn and Edward Teller in 1937, often causes lattice distortion and structural instability in Mn-based battery materials. Recent studies suggest that high-entropy design may help suppress J-T distortion, yet the underlying mechanism remains largely elusive due to their compositional complexity and structural disorder. Herein, using a Mn-based Prussian blue analogue as a case study, we employed a machine learning interatomic potential combined with synchrotron extended X-ray absorption fine structure spectroscopy (EXAFS) to elucidate the fundamental mechanism of the J-T suppression in high-entropy materials. Unexpectedly, EXAFS s...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, battery, cathode`
+
+
+- **[Minimum-pressure-conditioned diffusion model for hydrofoil inverse design](https://doi.org/10.1016/j.oceaneng.2026.128904)**
+  <br>*Ocean Engineering | 2026-10-24 | doi:10.1016/j.oceaneng.2026.128904 | score 21*
+  <br>Zhao, Song, Liu, Ju et al.
+
+  `matched: diffusion model, inverse design`
+
+
+- **[Automatically Building and Updating a Knowledge Graph of MLIP Models](https://openalex.org/W7221486292)**
+  <br>*HAL (Le Centre pour la Communication Scientifique Directe) | 2026-10-25 | score 19*
+  <br>Alexis Beer, L. Klochko, Mathieu d’Aquin
+
+  Complementing the many efforts in providing semantic representations of concepts, notions, and entities in materials science, we report and illustrate a process by which we can automatically build a knowledge graph of the fast evolving field of machine learning applied to the prediction of material properties, focusing on MLIP (Machine Learning Interatomic Potential). This LLM-based process relies on multiple steps, from information extraction in documents and articles to a validation loop using SHACL constraints to detect and correct errors. It is carried out on a model-by-model basis, focusing on the consistency of representation, therefore enabling an iterative construction where the addi...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Atomic-scale mechanisms of SiO2 plasma-enhanced chemical vapor deposition revealed by molecular dynamics with a machine-learning interatomic potential](https://doi.org/10.1016/j.apsusc.2026.168654)**
+  <br>*Applied Surface Science | 2026-10-21 | doi:10.1016/j.apsusc.2026.168654 | score 19*
+  <br>Jaehoon Kim, Minseok Moon, Hyunsung Cho, Kim Hyeon‐Deuk
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Four decades of classical interatomic potentials for silicon: Benchmarking thermal, defect and mechanical performance for tribology, wear and machining](https://doi.org/10.1016/j.commatsci.2026.115190)**
+  <br>*Computational Materials Science | 2026-10-24 | doi:10.1016/j.commatsci.2026.115190 | score 17*
+  <br>Goel, Zhou, Katiyar, Yin et al.
+
+  `matched: interatomic potential, benchmark`
+
+
+- **[Deep Learning-Based Virtual Screening and Molecular Dynamics Studies of JAK2/FLT3 Dual-Target Inhibitors Derived from Traditional Chinese Medicine](https://doi.org/10.1145/3816325.3843652)**
+  <br>*Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine | 2026-10-24 | doi:10.1145/3816325.3843652 | score 13*
+  <br>Zou, Liu
+
+  `matched: molecular dynamics, deep learning`
+
+
+- **[Integrating network toxicology, machine learning and molecular dynamics simulation: Revealing the dynamic molecular mechanism by which 6PPD regulates lung cancer progression](https://doi.org/10.1007/s10565-026-10317-6)**
+  <br>*Cell Biology and Toxicology | 2026-10-24 | doi:10.1007/s10565-026-10317-6 | score 13*
+  <br>Zhen, Liu, Li, Lin et al.
+
+  `matched: molecular dynamics, machine learning`
+
+
+- **[When active learning fails, uncalibrated out of distribution uncertainty quantification might be the problem](https://www.nature.com/articles/s41524-026-02368-4)**
+  <br>*npj Computational Materials | 2026-10-24 | doi:10.1038/s41524-026-02368-4 | score 9*
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Unconstrained learning of equivariant atomistic properties](https://doi.org/10.48550/arxiv.2610.31183)**
+  <br>*arXiv (Cornell University) | 2026-10-22 | doi:10.48550/arxiv.2610.31183 | score 34*
+  <br>Joseph William Abbott, Paolo Pegolo, Pol Febrer, Michelangelo Domina
+
+  Machine-learned interatomic potentials based on graph neural networks (GNNs) have made first-principles accuracy routine for the potential energy surface (PES). Their backbones, often O(3)-equivariant by design, are increasingly used to learn other atomistic properties. Many of these are of high angular order or pseudotensorial character, defined per atom, or expanded on large atom-centered basis sets. Such targets strain equivariant GNNs, whose tensor products grow steeply in cost with angular order and can fail to represent the target if truncated, forcing difficult trade-offs between hyperparameters. Unconstrained models like the Point-Edge Transformer (PET) instead replace explicit O(3)...
+
+  `matched: machine-learned interatomic potential, interatomic potential, graph neural network, neural network, transformer, equivariant`
+
+
+- **[Concentration-Dependent Speciation in ZnCl2 Electrolyte Solutions: Transferability of Machine-Learning Interatomic Potentials and Speciation Sensitivity of EXAFS](https://doi.org/10.48550/arxiv.2610.30513)**
+  <br>*arXiv (Cornell University) | 2026-10-21 | doi:10.48550/arxiv.2610.30513 | score 24*
+  <br>Junhan Chen, Luke Douglas Gibson, Nadia N. Intan, Darren M. Driscoll
+
+  Predicting speciation in concentrated electrolytes requires accurate ion interactions and adequate sampling of slowly interconverting coordination environments. We combine Zn K-edge extended X-ray absorption fine structure (EXAFS) measurements with long-timescale molecular dynamics (MD) using machine-learning interatomic potentials to study aqueous ZnCl2 from dilute conditions to 30 m. We train revPBE-based DeepMD models with D3 corrections included or excluded for Zn-containing pairs and compare them with DPMD-SCAN, classical MD (CMD), and MACE-MATPES-r2SCAN. EXAFS calculations are benchmarked against hydrated and chloride-coordinated Zn reference complexes, then applied to MD ensembles alo...
+
+  `matched: interatomic potential, molecular dynamics, electrolyte, benchmark`
+
+
+- **[Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials](https://doi.org/10.48550/arxiv.2610.30591)**
+  <br>*arXiv (Cornell University) | 2026-10-22 | doi:10.48550/arxiv.2610.30591 | score 7*
+  <br>Yunyeong Choi, Hasindhi H. Lokuge, Joshua D. Bocarsly, Pieremanuele Canepa
+
+  Layered sodium transition-metal (TM) oxides, Na$_x$TMO$_2$, are among the most promising sodium-ion positive electrode materials, yet their Na/vacancy orderings, layer stacking sequences, and cooperative Jahn--Teller distortions are known only for a few single-TM compounds. We compile the Na/vacancy orderings reported in earlier studies into a single library of 41 unique orderings and apply this uniformly to five single-TM and all ten Na$_x$TM$_{0.5}$TM$'_{0.5}$O$_2$ oxides (TM = Ti, Mn, Fe, Co, Ni), screening more than 120,000 structures with machine-learning interatomic potentials prior to 1,025 accurate first-principles calculations. The phase diagrams explain the observed O3/P3/O1 sequen...
+
+  `matched: interatomic potential`
+
+
+---
+
+
 ## 2026-10-23
 
 10 new item(s). Top hit: **Unconstrained learning of equivariant atomistic properties** (score 34, arXiv).
