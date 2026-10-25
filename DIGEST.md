@@ -6,6 +6,80 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-25
+
+8 new item(s). Top hit: **An Ontology for Machine Learning Interatomic Potentials** (score 37, ceur-ws.org).
+
+### Journal articles
+
+- **[An Ontology for Machine Learning Interatomic Potentials](https://doi.org/10.83095/ceurws_04299_001)**
+  <br>*ceur-ws.org | 2026-10-24 | doi:10.83095/ceurws_04299_001 | score 37*
+  <br>Daniel Hernández, Jong Hyun Jung, Yuji Ikeda, Yongliang Ou
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Investigation of an inverse design method for acoustic metastructures based on a physically constrained deep neural network](https://doi.org/10.1016/j.apacoust.2026.111641)**
+  <br>*Applied Acoustics | 2026-10-25 | doi:10.1016/j.apacoust.2026.111641 | score 19*
+  <br>Sun, Wang, Fan, Zhao et al.
+
+  `matched: inverse design, neural network`
+
+
+- **[A numerical re-look at the partial separation model for stacking fault energy](https://doi.org/10.1007/s10853-026-13976-2)**
+  <br>*Journal of Materials Science | 2026-10-25 | doi:10.1007/s10853-026-13976-2 | score 12*
+  <br>Tang, Yi, Barnett
+
+  Abstract Stacking fault energies (SFEs) are fundamental to deformation mechanisms in crystalline materials, yet discrepancies between theoretical predictions and experiment remain. Here we evaluate the Olson–Cohen (OC), Ising, and partial separation (PS) models using a unified EAM/MEAM interatomic potential framework to enable a controlled comparison of the different approaches. For most fcc metals, the PS model predicts SFEs consistent with the OC and Ising models, whereas larger deviations occur when equilibrium partial separations are too small for the model to remain valid. Similar material-dependent behavior is observed for concentrated alloys. Simulations of Ni reveal that finite speci...
+
+  `matched: interatomic potential, crystal, alloy`
+
+
+- **[Adaptive active learning and metaheuristic-optimized transformer framework for robust intrusion detection in software-defined networks](https://doi.org/10.1038/s41598-026-76361-8)**
+  <br>*Scientific Reports | 2026-10-25 | doi:10.1038/s41598-026-76361-8 | score 11*
+  <br>Shareef, Chinthakunta, Vijayan, Aditya et al.
+
+  Abstract Existing intrusion detection systems largely rely on static supervised learning models that require extensive labeled data and periodic retraining. Such approaches struggle to adapt to evolving attack patterns in dynamic software-defined networks. To address these limitations, this study proposes an adaptive intrusion detection framework that integrates uncertainty-driven active learning, metaheuristic-based feature selection, Transformer-based attack classification, and adaptive hyperparameter optimization within a unified software-defined networking architecture. Unlike conventional adaptive intrusion detection systems that rely on static feature representations or fixed learning...
+
+  `matched: active learning, transformer`
+
+
+- **[Emergence of diffusion models from associative memory through memorization and generalization](https://www.nature.com/articles/s41467-026-78727-y)**
+  <br>*Nature Communications | 2026-10-25 | doi:10.1038/s41467-026-78727-y | score 9*
+
+  `matched: diffusion model`
+
+
+- **[A stable, high-order time-stepping scheme for the drift-diffusion model in modern solar cell simulation](https://doi.org/10.1007/s10825-026-02656-8)**
+  <br>*Journal of Computational Electronics | 2026-10-25 | doi:10.1007/s10825-026-02656-8 | score 9*
+  <br>Du, Yan
+
+  `matched: diffusion model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Data-driven topology reconstruction for particle swarm optimizationvia graph neural networks and reinforcement learning](https://doi.org/10.2139/ssrn.7669292)**
+  <br>*Crossref | 2026-10-25 | doi:10.2139/ssrn.7669292 | score 18*
+  <br>Chai, Xia, Qi, Yang et al.
+
+  Although PSO has been successfully applied to a wide range of engineering problems, it often suffers from premature convergence when solving rugged and multimodal optimization problems. Because the communication topology governs information propagation across the swarm, itdirectly controls the trade-off between exploration and refinement. Existing topology schemes rely on manually designed open-loop rules, whereas learning-based PSO variants typically tune only scalar parameters or select from a finite set of operators. This paper reformulates topology reconstructionas online link prediction on a dynamic graph. At each generation, a graph neural network (GNN)encodes a four-dimensional partic...
+
+  `matched: graph neural network, neural network`
+
+
+- **[CLDBA: Clean-Label Distributed Backdoor Attacks on Federated Graph Learning](https://doi.org/10.2139/ssrn.7669288)**
+  <br>*Crossref | 2026-10-25 | doi:10.2139/ssrn.7669288 | score 10*
+  <br>Wang, Zhao, Zhang, Guo et al.
+
+  Federated graph learning (FedGL) enables multiple clients to collaboratively train graph neural networks (GNNs) without directly sharing their local graph data. However, malicious clients can inject triggers during training to manipulate the predictions of the global model. Representative backdoor attacks against FedGL typically rely on label flipping. Under the clean-label constraint, however, the inherent discriminative information in target-class samples may impede the model from learning the additional signal introduced by the trigger, while local backdoor signals may be diluted through federated aggregation. To address these challenges, we propose CLDBA, a distributed clean-label backdo...
+
+  `matched: graph neural network, neural network`
+
+
+---
+
+
 ## 2026-10-24
 
 13 new item(s). Top hit: **Navigating compositional space in palladium hydride: benchmarking machine learning interatomic potentials** (score 41, Computational Materials Science).
