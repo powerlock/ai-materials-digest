@@ -6,6 +6,134 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-26
+
+14 new item(s). Top hit: **Al-QP: a quadratic-program-optimized interatomic potential for aluminium** (score 18, Zenodo (CERN European Organization for Nuclear Research)).
+
+### Journal articles
+
+- **[Al-QP: a quadratic-program-optimized interatomic potential for aluminium](https://doi.org/10.5281/zenodo.23634743)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-25 | doi:10.5281/zenodo.23634743 | score 18*
+  <br>Yue Wu
+
+  Al-QP is a MACE-based machine-learning interatomic potential developed for strain-coupled fault, twin and interface responses in aluminium. Following conventional fitting, the shared representation was fixed and the readout weights were optimized by constrained quadratic programming. This model-only deposit provides the native MACE checkpoint, the serialized LAMMPS MLIAP deployment used in the principal molecular-dynamics calculations, loading instructions and SHA-256 checksums. Al-QP is identified as QP17 in the original development records. Training datasets, complete training-data membership, trajectories and supporting DFT data are not included in this deposit.
+
+  `matched: interatomic potential, dataset, dft`
+
+
+- **[Inductive Link Prediction on Traditional Chinese Medicine Knowledge Graphs with Complex Hyperbolic Graph Neural Networks](https://doi.org/10.1016/j.eswa.2026.134865)**
+  <br>*Expert Systems with Applications | 2026-10-26 | doi:10.1016/j.eswa.2026.134865 | score 17*
+  <br>Dong, Du, Zhang
+
+  `matched: graph neural network, neural network`
+
+
+- **[Machine learning-assisted screening of doped ZnO for piezo-photocatalytic applications: Combining public DFT databases with device-level FEM simulation](https://doi.org/10.1016/j.mtcomm.2026.116492)**
+  <br>*Materials Today Communications | 2026-10-26 | doi:10.1016/j.mtcomm.2026.116492 | score 13*
+  <br>Arucu
+
+  `matched: machine learning, dft`
+
+
+- **[Industrial centrifuge dewatering: From two-dimensional mechanistic simulation to deep learning surrogate modelling](https://doi.org/10.1016/j.cjche.2026.10.005)**
+  <br>*Chinese Journal of Chemical Engineering | 2026-10-26 | doi:10.1016/j.cjche.2026.10.005 | score 13*
+  <br>Jiang, Chen, Glassey, Byrne et al.
+
+  `matched: surrogate model, deep learning`
+
+
+- **[Machine Learning Surrogate Modeling of MHD Nanofluid Heat and Mass Transfer in a Partially Porous Channel Using Levenberg–Marquardt Backpropagation](https://doi.org/10.1016/j.cam.2026.118288)**
+  <br>*Journal of Computational and Applied Mathematics | 2026-10-26 | doi:10.1016/j.cam.2026.118288 | score 13*
+  <br>Akbar, Jan, Alanazi, Anja et al.
+
+  `matched: machine learning, surrogate model`
+
+
+- **[Data-Driven Optimization of the Solid-Solution Ratio of Stannite-Type Cu x Ag2-xZnGe y Sn1-yS4 Photocatalysts Using Machine Learning with Chemically Similar Out-of-Plane Data](https://doi.org/10.1021/acs.jpcc.6c04875)**
+  <br>*The Journal of Physical
+Chemistry C | 2026-10-26 | doi:10.1021/acs.jpcc.6c04875 | score 13*
+  <br>Takahara, Ogano, Yamaguchi, Harashima et al.
+
+  Abstract The optimal solid-solution ratio of the stannite-type CuxAg2–xZnGeySn1–yS4 photocatalyst for sacrificial H2 evolution under visible light (λ ≥ 420 nm) was predicted using a machine learning approach. The prediction mapping indicated that the region around (x, y) = (0.6, 0.3) was the optimal solid-solution ratio. Based on the mapping, we experimentally investigated the activities of the CuxAg2–xZnGeySn1–yS4 photocatalyst, and the ratio around (x = 0.8, y = 0.6) was found to be optimal. Notably, the formation of the solid solution guided by the machine learning prediction enabled both a response to visible light with long wavelength and improvement in the activity of the CuxAg2–xZnGey...
+
+  `matched: machine learning, catalyst`
+
+
+- **[Guide-conditioned inverse design of curved beams with target nonlinear mechanical responses](https://doi.org/10.1016/j.tws.2026.115846)**
+  <br>*Thin-Walled Structures | 2026-10-26 | doi:10.1016/j.tws.2026.115846 | score 13*
+  <br>Phi, Wang, Yuan
+
+  `matched: inverse design`
+
+
+- **[Predictive Inorganic Synthesis Based on Machine Learning Using Small Data Sets: A Case Study of Hydrodynamic Diameter-Controlled Copper Nanoparticles](https://doi.org/10.1021/acs.chemmater.6c01699)**
+  <br>*Chemistry of Materials | 2026-10-26 | doi:10.1021/acs.chemmater.6c01699 | score 11*
+  <br>Motmans, Ghogare, van Wijk, Van Herck et al.
+
+  Abstract Copper nanoparticles (Cu NPs) have a broad applicability, yet their synthesis is sensitive to subtle changes in reaction parameters. This sensitivity, combined with the time- and resource-intensive nature of experimental optimization, poses a major challenge in achieving reproducible and size-controlled synthesis. While machine learning (ML) shows promise in materials research, its application is often limited by scarcity of large high-quality experimental data sets. This study explores ML to predict the DLS-derived hydrodynamic diameter of Cu NPs from microwave-assisted polyol synthesis using a small data set of 25 in-house performed syntheses. Latin hypercube sampling is used to e...
+
+  `matched: machine learning, inorganic`
+
+
+- **[Toward full-cycle automation of closed-loop molecular discovery – a case study on JAK targets](https://doi.org/10.1039/d6dd00404k)**
+  <br>*Digital Discovery | 2026-10-26 | doi:10.1039/d6dd00404k | score 10*
+  <br>Born, Baldassari, Grabocka, Cardinale et al.
+
+  Combining AI and self-driving laboratories unlocks closed-loop molecular discovery by automation across all stages of the Design-Make-Test-Analyze (DMTA) cycle.
+
+  `matched: self-driving lab`
+
+
+- **[EDGE AI-BASED REAL-TIME BATTERY MANAGEMENT SYSTEMS: TECHNOLOGY TRENDS AND DESIGN FRAMEWORK](https://doi.org/10.30574/ijsra.2026.21.1.1871)**
+  <br>*International Journal of Science and Research Archive | 2026-10-26 | doi:10.30574/ijsra.2026.21.1.1871 | score 9*
+  <br>Kim
+
+  Battery management systems (BMSs) increasingly require low-latency, reliable, and intelligent processing capabilities to support the rapid expansion of electric vehicles and stationary energy storage systems. Conventional centralized and cloud-dependent BMS architectures can provide advanced analytics but may face limitations associated with communication latency, network dependence, data transmission overhead, and privacy. Edge artificial intelligence (Edge AI) provides an alternative approach by performing data processing and intelligent inference close to the battery system. This review examines major technology trends in real-time BMSs and proposes a reference design framework for Edge A...
+
+  `matched: artificial intelligence, battery`
+
+
+- **[DESIGN AND ANALYTICAL PERFORMANCE EVALUATION OF A LOW-COST MICROCONTROLLER-BASED DIGITAL OSCILLOSCOPE](https://doi.org/10.30574/ijsra.2026.21.1.1923)**
+  <br>*International Journal of Science and Research Archive | 2026-10-26 | doi:10.30574/ijsra.2026.21.1.1923 | score 6*
+  <br>Ukibe, Amadiegwu, Okolie, Franklin Ike et al.
+
+  Commercial digital storage oscilloscopes remain costly for many teaching laboratories in developing countries. This study presents the design, construction and analytical performance evaluation of a low-cost digital oscilloscope based on the ATmega328P microcontroller, a 128 × 64 graphical liquid crystal display and a switched-mode power supply, built in 2023 at a component cost of ₦51,810 (about US$110). The instrument accepts signals of up to 250 V AC directly through an on-board attenuator, removing the external step-down transformer required by an earlier design. Performance was evaluated from the firmware source code, the design records and recorded functional tests. Although the analog...
+
+  `matched: transformer, crystal`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Combining Simulations and Spectroscopy to Design Protective Coatings on Sulfide Solid Electrolytes](http://arxiv.org/abs/2610.32905v1)**
+  <br>*arXiv | 2026-10-23 | score 13*
+  <br>Zhiyi Wang, Leonie Braks, Michele Ceriotti, Ali Coskun et al.
+
+  Sulfide solid electrolytes are attractive for all-solid-state batteries because of their high Li-ion conductivity and favorable processability, but their practical use is limited by electrochemical instability and moisture-induced degradation. Molecular surface coatings offer a scalable strategy to improve humidity tolerance and interfacial stability, yet there is limited understanding of the molecular-level factors governing surface interactions. By combining large-scale atomistic simulations enabled by a machine-learning potential with targeted experiments, we present a comprehensive framework for designing molecular coatings on Li$_6$PS$_5$Cl (LPSCl). Using a PET-MAD interatomic potential...
+
+  `matched: interatomic potential, electrolyte`
+
+
+- **[Low-variance force estimators for nuclear quantum mean forces](http://arxiv.org/abs/2610.32652v1)**
+  <br>*arXiv | 2026-10-23 | score 10*
+  <br>Venkat Kapil
+
+  Quantum equilibrium structure can be sampled using classical molecular dynamics with a learned effective potential for a single path-integral replica, but the primitive mean-force estimates obtained from path-integral molecular dynamics with that replica held fixed are noisy. We derive a scaled-gradient estimator with zero sampling variance for a one-dimensional harmonic oscillator and an estimated 4.7--57.5-fold reduction in constrained-sampling time for the molecular tests. The resulting potentials can be trained on these forces like standard machine-learning interatomic potentials and yield stable production simulations from which quantum expectation values of position-dependent observabl...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[When do machine-learning potentials need a configuration-dependent kernel? Learning long-range interactions with Fourier neural operators](https://doi.org/10.26434/chemrxiv.15011048/v1)**
+  <br>*Crossref | 2026-10-26 | doi:10.26434/chemrxiv.15011048/v1 | score 8*
+  <br>Chen, Rignanese
+
+  Long-range interactions in machine-learning interatomic potentials are commonly treated by coupling learned sources through either a prescribed electrostatic kernel or a learned but configurationindependent one. Whether such a kernel suffices depends on the underlying screened interaction. We address this question by using Fourier neural operators (FNOs) to learn how latent source fields, built from the descriptors of a local backbone (here MACE), interact across the simulation cell. For a synthetic ionic system with tunable screening, a prescribed Coulomb kernel underestimates the longwavelength charge fluctuations by 43% under strong screening, whereas the FNO reproduces them within 3% and...
+
+  `matched: interatomic potential`
+
+
+---
+
+
 ## 2026-10-25
 
 8 new item(s). Top hit: **An Ontology for Machine Learning Interatomic Potentials** (score 37, ceur-ws.org).
