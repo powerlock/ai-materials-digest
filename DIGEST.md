@@ -6,6 +6,113 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-27
+
+11 new item(s). Top hit: **A thermodynamic correction layer for machine learning interatomic potentials** (score 41, arXiv).
+
+### Journal articles
+
+- **[MgGNN-SS: An efficient surrogate model for high-throughput screening of Mg alloy solid-solution windows](https://doi.org/10.1016/j.jmst.2026.10.040)**
+  <br>*Journal of Materials Science &amp; Technology | 2026-10-27 | doi:10.1016/j.jmst.2026.10.040 | score 21*
+  <br>Zhao, Wang, Qin, Zhang et al.
+
+  `matched: high-throughput screening, surrogate model, alloy`
+
+
+- **[Evolutionary machine learning for thermophysical property modeling and materials design of CNT–metal oxide hybrid nanofluids](https://doi.org/10.1016/j.matdes.2026.117322)**
+  <br>*Materials &amp; Design | 2026-10-27 | doi:10.1016/j.matdes.2026.117322 | score 17*
+  <br>Bourazza, Alizadeh, Altayeb, Singh et al.
+
+  `matched: machine learning, materials design`
+
+
+- **[Extended Active Learning-Guided Design of Multi-Component Electrolytes with Opposing Cosolvent Properties for Aqueous Zinc-Ion Batteries](https://doi.org/10.1021/jacs.6c20703)**
+  <br>*Journal of the American
+Chemical Society | 2026-10-27 | doi:10.1021/jacs.6c20703 | score 16*
+  <br>Jeong, Lee, Byun, Kim et al.
+
+  Abstract Multi-component electrolytes offer expanded tunability over electrochemical properties, yet their rational design is constrained by a lack of generalizable principles. Intricate intercomponent interactions obscure the relationship between the molecular properties and battery performance, rendering material selection and compositional optimization intractable. Here, we present an extended active learning-guided framework to efficiently navigate the vast materials space and refine formulations for tri-solvent-based electrolytes in aqueous zinc-ion batteries with minimal experimental workload. Specifically, co-solvent candidates are clustered by molecular properties; co-solvents are th...
+
+  `matched: active learning, electrolyte, battery`
+
+
+- **[Performance of the RETFound Foundation Model in Detecting Diabetes: A Multimodal Fusion Analysis of the AI-READI Dataset](https://doi.org/10.1016/j.xops.2026.101446)**
+  <br>*Ophthalmology Science | 2026-10-27 | doi:10.1016/j.xops.2026.101446 | score 13*
+  <br>Djulbegovic, Marshall, Antonietti, Taylor Gonzalez et al.
+
+  `matched: foundation model, dataset`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[A thermodynamic correction layer for machine learning interatomic potentials](http://arxiv.org/abs/2610.34551v1)**
+  <br>*arXiv | 2026-10-25 | score 41*
+  <br>Sarath Menon, Braulio Sanchez Ortega, Ralf Drautz
+
+  Machine learning interatomic potentials enable atomistic simulations with near \textit{ab initio} accuracy over large length and time scales. Foundation models extend this capability across the periodic table but inherit the thermodynamic description of the electronic structure methods used to generate their training data. Small errors in relative phase stability can therefore produce large errors in transformation temperatures. We introduce an additive thermodynamic correction layer that shifts phase free energies towards an assessed reference without retraining or modifying the base potential. A first order thermodynamic construction converts the required phase free energy shifts directly...
+
+  `matched: machine learning interatomic potential, interatomic potential, foundation model, machine learning`
+
+
+- **[High-efficiency solid-state electrochemical thermal switching through phonon engineering of 2D materials](http://arxiv.org/abs/2610.35547v1)**
+  <br>*arXiv | 2026-10-26 | score 28*
+  <br>Harry Mclean, Steven Paul Hepplestone
+
+  Reversible solid-state thermal switches with large thermal contrasts remain rare, yet are essential for advanced thermal management. Using universal machine-learned interatomic potentials (uMLIPs) and density functional theory (DFT), we screen 57 transition metal dichalcogenides (TMDCs), spanning the 1T and 2H phases with Li and Mg intercalation. Among the candidates, Li$_a$ZrS$_2$ combines exceptional thermal conductivity switching with low heat capacity. Lithiation to Li$_{0.125}$ZrS$_2$ reduces the cross-plane thermal conductivity from approximately 3.7 to 0.05 W m$^{-1}$ K$^{-1}$. The switching behaviour exceeds that of previously reported solid-state electrochemical thermal switches. De...
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, phonon, dft`
+
+
+- **[Phase field dislocation dynamics prediction of stacking fault widths in Cu-Al Alloys using generalised stacking fault energy from DFT and interatomic potentials](http://arxiv.org/abs/2610.34420v1)**
+  <br>*arXiv | 2026-10-25 | score 26*
+  <br>Arjun Varma R., Ankosh D. Deshmukh, Sushil Kumar, Vaishali Shah et al.
+
+  The equilibrium width of intrinsic stacking faults is an important material parameter affecting key deformation phenomena. Here, we perform a comparative assessment of $γ$-surfaces generated using MD -- with a classical embedded-atom potential (ZW) and a machine-learned Gaussian Approximation Potential (GAP) -- and density functional theory (DFT), for Cu-Al alloys of varying Al content, and incorporate them as an energy term in PFDD simulations to obtain the equilibrium SFW. All three methods reproduce the lattice parameter and elastic moduli of Cu and Cu-Al alloys in reasonable agreement with each other and with experimental measurements from literature, but the MD-derived $γ$-surfaces, for...
+
+  `matched: density functional theory, interatomic potential, alloy, dft`
+
+
+- **[TCSP3.0: Template-Based Crystal Structure Prediction with Coefficient-Preserving Element Substitution and Structural Diversity](http://arxiv.org/abs/2610.34029v1)**
+  <br>*arXiv | 2026-10-25 | score 25*
+  <br>Ying Feng, Jeffrey Hu, Lai Wei, Liang Tao et al.
+
+  Template-based crystal structure prediction (CSP) transfers a known crystal structure to a new composition by element substitution, so its accuracy depends on retrieving suitable templates, mapping elements and ranking the resulting candidates correctly. Auditing the original TCSP2.0 implementation on the T180 benchmark, we found that 469 of its 2,347 selected structures (20%) have the wrong composition, caused by element mappings that ignore stoichiometric coefficients and by sequential text substitution that cascades or corrupts element symbols. We propose TCSP3.0, which enforces coefficient-preserving mappings, substitutes species simultaneously on parsed structures and validates every ca...
+
+  `matched: crystal structure prediction, benchmark, crystal`
+
+
+- **[Accelerating SO(2)-Equivariant Materials Models through Low-Precision Emulation](http://arxiv.org/abs/2610.35164v1)**
+  <br>*arXiv | 2026-10-26 | score 17*
+  <br>Denghui Lu, Alexander Maeder, Alexandros Nikolaos Ziogas, Mathieu Luisier et al.
+
+  Rotationally equivariant architectures improve the physical fidelity of machine-learned (ML) universal materials models based on graph neural networks (GNNs). However, their scalability is limited by the use of non-trivial, high-precision tensor operations during both training and inference. Adopting the reduced-precision formats of matrix multiplication units (MMUs), e.g., FP8 instead of FP32, provides massive increases in throughput, up to 30x (60x) on NVIDIA Hopper (Blackwell) GPUs, but may lead to drastic loss of accuracy. Here, we introduce tailored 'emulated' low-precision operations under the integer Ozaki scheme to accelerate the 'SO(2)-equivariant' processing layers of GNNs, which d...
+
+  `matched: graph neural network, neural network, equivariant`
+
+
+- **[Retention-constrained fine-tuning of a pre-trained aluminium MACE potential for non-equilibrium defect dynamics and plasticity](http://arxiv.org/abs/2610.35653v1)**
+  <br>*arXiv | 2026-10-26 | score 7*
+  <br>Yue Wu, Yuan Tian, Deng Pan, Mingwei Chen
+
+  Adapting a pre-trained machine-learning interatomic potential for non-equilibrium defect dynamics and plasticity requires improving defect accuracy without degrading the near-equilibrium elastic and vibrational response. Here we achieve this balance for the aluminium MACE potential QP17 by integrating conditional readout uncertainty, iterative full-parameter updates and protocol-compatible relative-energy anchoring. Sensitivities over 144 linear readout weights guide acquisition, with within-batch covariance updates and evolving neural representations. After four active-learning rounds (32 acquired configurations and 400 gradient updates), force-uncertainty acquisition reduces mean developme...
+
+  `matched: interatomic potential`
+
+
+### Conference papers
+
+- **[Deep Scientific Reasoning under Physical Constraints: Structure-Aware Spectrum Prediction](http://arxiv.org/abs/2610.34021v1)**
+  <br>*arXiv | 2026-10-25 | score 12*
+  <br>Accepted/presented: ICML | Yingheng Wang, Tao Yu, Shufeng Kong, Francesco Ricci et al.
+
+  Structured scientific spectra encode rich physical information while obeying hard constraints, such as conservation laws and characteristic spectral geometry. Accurate prediction of these spectra is central to materials discovery, yet existing methods often treat them as unconstrained sequences and therefore fail to enforce the underlying physical structure. Taking electronic density of states (eDOS) as the prototypical example, we introduce DeepSciReasoner, a general paradigm for predicting scientific spectra under physical constraints. The framework combines structure-aware spectrum decoding with constraint-preserving physical reasoning, allowing predictions to capture rich spectral struct...
+
+  `matched: materials discovery`
+
+
+---
+
+
 ## 2026-10-26
 
 14 new item(s). Top hit: **Al-QP: a quadratic-program-optimized interatomic potential for aluminium** (score 18, Zenodo (CERN European Organization for Nuclear Research)).
