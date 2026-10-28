@@ -6,6 +6,243 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-28
+
+26 new item(s). Top hit: **A thermodynamic correction layer for machine learning interatomic potentials** (score 41, arXiv (Cornell University)).
+
+### Journal articles
+
+- **[Constructing machine learning interatomic potentials for two-dimensional materials](https://doi.org/10.1016/s1872-5813(26)60713-x)**
+  <br>*Journal of Fuel Chemistry and Technology | 2026-10-28 | doi:10.1016/s1872-5813(26)60713-x | score 37*
+  <br>LI, WANG, MENG, LUO et al.
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Tangent-plane evidential uncertainty in active learning for magnetic interatomic potentials](https://doi.org/10.1103/9hcx-wmmm)**
+  <br>*Physical Review Materials | 2026-10-27 | doi:10.1103/9hcx-wmmm | score 23*
+  <br>Yang Cheng, Hongyu Yu, Hongjun Xiang
+
+  Magnetic interatomic potentials need to account for coupled lattice and spin degrees of freedom, yet constructing reliable training sets remains costly because noncollinear first-principles labels are expensive. Active learning can mitigate this cost, provided that the uncertainty estimate is physically meaningful for the magnetic-response targets that drive spin reorientation. Here we extend the $\mathrm{e}^2\mathrm{IP}$ evidential framework to magnetic machine-learning interatomic potentials by formulating the projected spin-force likelihood and the corresponding epistemic uncertainty in the tangent plane orthogonal to the local spin direction. This construction prevents the uncertainty mo...
+
+  `matched: interatomic potential, active learning, magnet`
+
+
+- **[Machine-learning interatomic potentials for battery materials: Defect-dependent lithium adsorption and local transferability on graphene](https://doi.org/10.1016/j.commatsci.2026.115133)**
+  <br>*Computational Materials Science | 2026-10-27 | doi:10.1016/j.commatsci.2026.115133 | score 19*
+  <br>Yuhan Sun, Xiao Huang
+
+  `matched: interatomic potential, battery`
+
+
+- **[Artificial Intelligence and Big Data in Chemistry: From Molecular Data to Autonomous Discovery](https://doi.org/10.3390/chemistry8110147)**
+  <br>*Chemistry | 2026-10-27 | doi:10.3390/chemistry8110147 | score 17*
+  <br>Valentine P. Ananikov, Jun Li, Tong Zhu
+
+  Artificial intelligence and big data are transforming chemistry: the field is shifting from a discipline in which observations are mainly interpreted after experiments into a domain in which data, models, and experimental research form a unified, interconnected system of scientific discovery. This Perspective defines the chemical data-to-knowledge cycle and examines molecular representation, predictive modeling, synthesis planning, drug and materials discovery, large language models, and autonomous (self-driving) laboratories. The central message is that progress will depend not so much on the nominal size of a dataset or model as on chemical meaning, data provenance, uncertainty estimation,...
+
+  `matched: artificial intelligence, large language model, materials discovery, dataset`
+
+
+- **[Artificial Intelligence for Advanced Materials Modeling in Thermal, Energy, and Aerodynamic Systems: A Systematic Review](https://doi.org/10.3390/ai7110443)**
+  <br>*AI | 2026-10-26 | doi:10.3390/ai7110443 | score 16*
+  <br>Martínez Ángeles Hugo, Cesar Augusto Navarro Rubio, Margarita Guadalupe García-Barajas, Leonel Díaz-Tato
+
+  Artificial Intelligence (AI) is increasingly transforming the development and analysis of advanced materials and engineering systems by enabling data-driven prediction, materials discovery, simulation acceleration, and optimization. However, the rapidly expanding literature remains fragmented across materials science, thermofluid modeling, Computational Fluid Dynamics (CFD), physics-informed learning, reduced-order modeling, and digital twins. This study presents a systematic review of AI applications in advanced materials, thermal and energy systems, and aerodynamic engineering using a PRISMA-based methodology. A systematic search was conducted in the Scopus database for peer-reviewed studi...
+
+  `matched: artificial intelligence, materials discovery, mof`
+
+
+- **[Learning optimized sampling patterns for accelerated MRI reconstruction via diffusion models](https://doi.org/10.1117/1.jmi.13.s1.s11210)**
+  <br>*Journal of Medical Imaging | 2026-10-28 | doi:10.1117/1.jmi.13.s1.s11210 | score 15*
+  <br>Ravula, Levac, Arefeen, Dimakis et al.
+
+  PurposeMagnetic resonance imaging (MRI) is a powerful medical imaging modality, but long acquisition times limit throughput, patient comfort, and clinical accessibility. Diffusion-based generative models serve as strong image priors for reducing scan time with accelerated MRI reconstruction and offer robustness across variations in the acquisition model. However, most existing diffusion-based approaches do not exploit the unique ability in MRI to jointly design both the sampling pattern and the reconstruction method. Although prior learning-based approaches have optimized sampling patterns for end-to-end unrolled networks, analogous methods for diffusion-based reconstruction have not been es...
+
+  `matched: generative model, diffusion model, magnet`
+
+
+- **[Creative Design Transformations: From plain to Stylized Cloth Patterns Using SAM and Stable Diffusion Generative Model](https://doi.org/10.1142/s0218126626503147)**
+  <br>*Journal of Circuits, Systems and Computers | 2026-10-28 | doi:10.1142/s0218126626503147 | score 13*
+  <br>Uma Rani, Kaladevi, Jebamalar Tamil Selvi, Senthamizh Selvi et al.
+
+  Advances in image processing and artificial intelligence have brought about a substantial revolution in the design industry, particularly in image inpainting techniques, which have improved accuracy, originality, and creative patterns. Image inpainting restores blurred or corrupted areas of an image while enabling the creation of diverse visual patterns. This research focuses on transforming plain fabric designs into stylized cloth patterns using text-based prompts. It leverages a Vision Transformer- based pretrained Segment Anything Model (SAM) and the Stable Diffusion (SD) inpainting model to achieve precise, high-quality pattern generation. SAM ensures accurate object segmentation by prec...
+
+  `matched: artificial intelligence, generative model, transformer`
+
+
+- **[Gaussian Approximation Potentials for Functionalized AuRh Nanoparticles](https://doi.org/10.17776/csj.1856712)**
+  <br>*Cumhuriyet Science Journal | 2026-10-27 | doi:10.17776/csj.1856712 | score 13*
+  <br>Tuğbey Kocabaş, İlker Demiroğlu
+
+  Bimetallic Au–Rh nanoparticles are promising catalysts for oxidation and (de)hydrogenation reactions, however running first-principles simulations at realistic sizes and temperatures is too expensive. We build machine-learning based interatomic potentials for Au–Rh nanoparticles covered by O₂ and CO that keep density-functional accuracy while making longer and larger simulations possible. The training data comes from ab initio molecular dynamics at several temperatures which covers a wide range of particle sizes and common morphologies. We carefully filter and balance the snapshots so that the models contain diverse but physically meaningful structures. Validation tests show that the potenti...
+
+  `matched: interatomic potential, molecular dynamics, catalyst`
+
+
+- **[In-plane thermal transport in graphene/quasi-hexagonal phase C60 heterostructure: insight from machine learning molecular dynamics](https://doi.org/10.1016/j.icheatmasstransfer.2026.112873)**
+  <br>*International Communications in Heat and Mass Transfer | 2026-10-26 | doi:10.1016/j.icheatmasstransfer.2026.112873 | score 13*
+  <br>Muhammad Asif Shakoori, Misbha Khan, Baiqiu Liu, Haipeng Li
+
+  `matched: molecular dynamics, machine learning`
+
+
+- **[A workflow-aligned framework for AI literacy in materials-informatics education: scientific judgment, equity, and curriculum design](https://doi.org/10.3389/feduc.2026.1957429)**
+  <br>*Frontiers in Education | 2026-10-26 | doi:10.3389/feduc.2026.1957429 | score 11*
+  <br>梅东明, Katherine Moore, Ben Sayler
+
+  Artificial intelligence (AI) is increasingly used to predict materials properties, prioritize experiments, and generate hypotheses in materials science. The limiting challenge is no longer only algorithmic capability, but also whether students and educators can use AI with domain-specific scientific judgment. This conceptual analysis argues that AI education for AI-powered materials discovery should move beyond tool access and surface-level interaction with generative systems toward a workflow-aligned model of AI literacy. The analysis links AI literacy to core materials-informatics competencies: data provenance, domain-specific featurization, model validation, uncertainty quantification, ph...
+
+  `matched: artificial intelligence, materials discovery`
+
+
+- **[RAVEN: a foundation model-based approach for predicting avian influenza outbreak risk with multi-source geospatial data](https://doi.org/10.1016/j.aiia.2026.10.003)**
+  <br>*Artificial Intelligence in Agriculture | 2026-10-28 | doi:10.1016/j.aiia.2026.10.003 | score 9*
+  <br>Soltani, Vergne, Farimani, Berke et al.
+
+  `matched: foundation model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[A thermodynamic correction layer for machine learning interatomic potentials](https://doi.org/10.48550/arxiv.2610.34551)**
+  <br>*arXiv (Cornell University) | 2026-10-25 | doi:10.48550/arxiv.2610.34551 | score 41*
+  <br>Sarath Kumar Menon, Braulio Sanchez Ortega, Ralf Drautz
+
+  Machine learning interatomic potentials enable atomistic simulations with near \textit{ab initio} accuracy over large length and time scales. Foundation models extend this capability across the periodic table but inherit the thermodynamic description of the electronic structure methods used to generate their training data. Small errors in relative phase stability can therefore produce large errors in transformation temperatures. We introduce an additive thermodynamic correction layer that shifts phase free energies towards an assessed reference without retraining or modifying the base potential. A first order thermodynamic construction converts the required phase free energy shifts directly...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, foundation model`
+
+
+- **[The Acridine Polymorph Landscape: Characterization and Selective Control by Additives](http://arxiv.org/abs/2610.37597v1)**
+  <br>*arXiv | 2026-10-27 | score 27*
+  <br>Adam Lahouari, Hengyu Zhou, Nikolaos Galanakis, Michael Kilgour et al.
+
+  Polymorphism in molecular crystals presents a major challenge for controlling crystallization. Here, we combine experiment and theory to characterize the polymorph landscape of acridine and investigate its selective control by additives. Melt crystallization experiments resolve the previously unknown structure of form VIII, while topological crystal structure prediction recovers all seven known unsolvated polymorphs with determined crystal structures. Combining a fine-tuned machine-learned interatomic potential with anharmonic free energy calculations reproduces the experimentally observed stability relationships and reveals a shallow free energy landscape. Finally, experimentally observed a...
+
+  `matched: machine-learned interatomic potential, crystal structure prediction, interatomic potential, crystal`
+
+
+- **[TCSP3.0: Template-Based Crystal Structure Prediction with Coefficient-Preserving Element Substitution and Structural Diversity](https://doi.org/10.48550/arxiv.2610.34029)**
+  <br>*arXiv (Cornell University) | 2026-10-25 | doi:10.48550/arxiv.2610.34029 | score 25*
+  <br>Ying Feng, Jeffrey Hu, Lai Wei, Liang Tao
+
+  Template-based crystal structure prediction (CSP) transfers a known crystal structure to a new composition by element substitution, so its accuracy depends on retrieving suitable templates, mapping elements and ranking the resulting candidates correctly. Auditing the original TCSP2.0 implementation on the T180 benchmark, we found that 469 of its 2,347 selected structures (20%) have the wrong composition, caused by element mappings that ignore stoichiometric coefficients and by sequential text substitution that cascades or corrupts element symbols. We propose TCSP3.0, which enforces coefficient-preserving mappings, substitutes species simultaneously on parsed structures and validates every ca...
+
+  `matched: crystal structure prediction, benchmark, crystal`
+
+
+- **[Mobilis: an open-source toolkit for charge transport in organic semiconductors, from crystal structures to temperaturedependent mobilities with dynamic disorder and active learning](https://doi.org/10.26434/chemrxiv.15011171/v1)**
+  <br>*Crossref | 2026-10-28 | doi:10.26434/chemrxiv.15011171/v1 | score 22*
+  <br>Shi, Shi
+
+  Computing a charge mobility for an organic semiconductor involves a chain of steps: monomer site energies, intermolecular couplings, the thermal fluctuation of those couplings, and a transport model whose validity depends on the ratio of coupling to reorganization energy. These steps are usually carried out with separate scripts and different quantum-chemistry codes, which makes results hard to reproduce and models hard to compare. Mobilis is an open-source Python package (GPL-3.0) with a graphical interface and a command-line interface that runs the whole chain from a CIF file or an MD morphology. It prepares and reads Gaussian and ADF calculations (and xtb from the command line), and conta...
+
+  `matched: active learning, semiconductor, open-source, crystal`
+
+
+- **[Magnetic crystal generation with site-resolved magnetic moments via Gaussian-mixture retargeting and finite-budget yield prediction](http://arxiv.org/abs/2610.37222v1)**
+  <br>*arXiv | 2026-10-27 | score 21*
+  <br>Wen-Chuang Shang, Chenyu Shen, Mikito Tsujimoto, Tomonori Tanaka et al.
+
+  We introduce GMMag, a workflow for generating crystal structures together with their site-resolved magnetic moments, built on a conditional variational autoencoder with a graph neural network encoder and a transformer decoder. Gaussian-mixture sampling redirects generation towards selected chemical and magnetic targets without retraining. We systematically investigate how encoder and decoder design, the representation of magnetic-moment magnitudes and relative signs, and sampling choices affect reconstruction, generation quality and diversity. Because a higher screening pass rate does not necessarily yield more qualifying candidates with distinct chemical formulas absent from the reference d...
+
+  `matched: graph neural network, neural network, transformer, crystal, magnet`
+
+
+- **[Learning the Chronology of Materials Discovery for Synthesizability Prediction](http://arxiv.org/abs/2610.36193v1)**
+  <br>*arXiv | 2026-10-26 | score 20*
+  <br>Junkil Park, Aron Walsh
+
+  High-throughput computational and generative approaches are proposing candidate materials far faster than they can be synthesized, making it increasingly important to identify which hypothetical materials are likely to be experimentally realizable. Positive-unlabeled (PU) learning has emerged as a representative framework for synthesizability prediction, yet existing approaches treat experimentally reported materials as a static collection, overlooking the historical trajectory of materials discovery and the diverse practical factors that have driven its progress. Here we introduce ChronoSyn, a chronology-aware machine learning model that jointly learns synthesizability and the relative repo...
+
+  `matched: materials discovery, machine learning`
+
+
+- **[Making Self-Driving Laboratories Auditable:A Unified Framework for Hybrid Actions,Measurements, and Safe Execution](http://arxiv.org/abs/2610.36761v1)**
+  <br>*arXiv | 2026-10-27 | score 19*
+  <br>Zihan Zhang, Zeyu Wu, Xin Zhang, Mingyu Luo et al.
+
+  Self-driving laboratories (SDLs) are laboratory systems that couple experimental planning, automated execution, and measurement feedback in a closed loop. Integrating flexible robot control with the typed application programming interfaces (APIs) and continuous measurements exposed by laboratory instruments remains an execution-interface challenge. To address this challenge, we propose a traceable framework comprising four components: LAM (Lab Action Model), OpenSDL, Safe-SDL, and L3-Bench. LAM is a proposed measurement-conditioned policy architecture that extends vision-language-action paradigms to generate both continuous robot trajectories and typed instrument API calls. OpenSDL is an exe...
+
+  `matched: self-driving lab`
+
+
+- **[Charge density-supervised real-space representations for atomistic energy prediction](http://arxiv.org/abs/2610.36779v1)**
+  <br>*arXiv | 2026-10-27 | score 15*
+  <br>Heting Liao, Masato Wakeda, Takahito Ohmura
+
+  Ground-state electron density contains sufficient information to determine ground-state energy, while providing spatial electronic information. This study developed a charge-density-informed graph neural network (hereafter CDGNN) that jointly learns energy and valence electron density from equivariant atomic graphs. This approach incorporates density-supervised real-space probe representations into the global energy regressor, allowing density-related spatial information to contribute to energy prediction. On the QM9 dataset, CDGNN reduced the energy prediction errors relative to an equivariant GNN baseline for interpolation and extrapolation to larger molecules. For small H-containing Fe an...
+
+  `matched: graph neural network, neural network, equivariant, dataset`
+
+
+- **[Multimodal Spectroscopy–Driven Reconstruction of Three-Dimensional Molecular Structures via Conditional Diffusion Model](https://doi.org/10.26434/chemrxiv.15011037/v1)**
+  <br>*ChemRxiv | 2026-10-26 | doi:10.26434/chemrxiv.15011037/v1 | score 15*
+  <br>Wenjie Du, Xiaohan Qin, Yixi Shen, Ledu Wang
+
+  Three-dimensional (3D) molecular structures underpin molecular function and dynamics. Spectroscopy can encode rich structural information via energy-level transitions, but existing data-driven approaches have largely focused on predicting symbolic representations such as SMILES, or molecular topology rather than reconstructing full 3D structures. Here, we introduce SpecDiffMol, the first generative framework to directly reconstruct full molecular 3D structures from molecular formulae and multimodal spectroscopic data, including infrared, Raman, UV–vis, and NMR spectra. SpecDiffMol integrates a Transformer-based topology inference module with an E(3)-equivariant conditional diffusion model, e...
+
+  `matched: diffusion model, transformer, equivariant`
+
+
+- **[Physical structure as an organizing principle for universal Hamiltonian learning](http://arxiv.org/abs/2610.36135v1)**
+  <br>*arXiv | 2026-10-26 | score 14*
+  <br>Mingkang Liu, Zhanghao Zhouyin, Guanghui Wang, Daye Zheng et al.
+
+  Density functional theory (DFT) gives the electronic structure of materials, but its cost limits large-supercell calculations and materials screening. Machine-learned Hamiltonians bypass the self-consistent cycle but are usually system-specific; universal ones could cover new compositions and disordered solids. Such models must generalize across chemistry and keep downstream properties physical, while staying inexpensive for large cells. Here we introduce UniTB, a universal E(3) equivariant Hamiltonian representation framework that integrates physical priors rooted in density-functional tight-binding theory with deep learning. UniTB's network, which corrects a prior Hamiltonian, generalizes...
+
+  `matched: density functional theory, deep learning, equivariant, dft`
+
+
+- **[Machine Learning Hamiltonians with Polarizations for Heterogeneous Systems](http://arxiv.org/abs/2610.36839v1)**
+  <br>*arXiv | 2026-10-27 | score 12*
+  <br>Jia-Yu Zhou, Wentao Zhang, Mouyi Weng, Zhao-Yi Yan et al.
+
+  Machine learning Hamiltonians use local atomic structures to determine local Hamiltonian matrix elements without carrying out self-consistent calculations. They have been used to study large systems and to carry out high-throughput screening for their electronic and optical properties. The prediction of the Hamiltonian is essentially the prediction of the electron electrostatic potential energy; however, for heterogeneous systems, this potential energy is often determined by faraway features, such as interface or surface dipoles, or even an applied voltage in a nanodevice. Thus, it cannot be determined by local atomic structures alone. In this sense, one needs to solve the electron electrost...
+
+  `matched: high-throughput screening, machine learning`
+
+
+- **[Autonomous discovery of reaction networks from active-learning-driven reactive molecular dynamics](https://doi.org/10.26434/chemrxiv.15011187/v1)**
+  <br>*Crossref | 2026-10-28 | doi:10.26434/chemrxiv.15011187/v1 | score 11*
+  <br>Meissner, Meisner
+
+  Reaction networks underlie complex chemical systems such as combustion, catalysis, and atmospheric chemistry and can comprise thousands of elementary reactions. Ab initio nanoreactor molecular dynamics explores such networks efficiently by accelerated sampling of the potential energy surface, but computational cost limits how far it can sample. This work presents a transferable methodology coupling nanoreactor molecular dynamics with active learning to autonomously generate reaction networks from starting molecules. An agentdeveloped parser extracts elementary reactions from trajectories, and a large-language-model coding agent improves transition-state search strategies. Applied to the atmo...
+
+  `matched: molecular dynamics, active learning`
+
+
+- **[When Can a Learned Design Surrogate Be Trusted in a Self-Driving Microfluidics Laboratory? An Offline Closed-Loop Framework Built and Tested on Six Public Tables](http://arxiv.org/abs/2610.36395v1)**
+  <br>*arXiv | 2026-10-26 | score 10*
+  <br>Zhiyuan Zhang
+
+  Self-driving laboratories couple a learned design surrogate to an instrument, and on every new target domain it must answer four questions: when it can be trusted, how many target measurements it needs, which to make first, and when to stop adapting, switch models or escalate. We state a framework making each measurable (a competence ratio, a budget $k^*(\varepsilon)$, a time-to-target and a priced decision) and instantiate it without wet experiments on six public droplet-microfluidic and liposome tables as offline laboratories: 107 leave-one-group tiers whose rows are hidden labels. A sealed, pre-registered programme (two sealed negative validations and a pre-registered test on three more t...
+
+  `matched: self-driving lab`
+
+
+- **[Retention-constrained fine-tuning of a pre-trained aluminium MACE potential for non-equilibrium defect dynamics and plasticity](https://doi.org/10.48550/arxiv.2610.35653)**
+  <br>*arXiv (Cornell University) | 2026-10-26 | doi:10.48550/arxiv.2610.35653 | score 7*
+  <br>Yue Wu, Yuan Tian, Deng Pan, Mingwei Chen
+
+  Adapting a pre-trained machine-learning interatomic potential for non-equilibrium defect dynamics and plasticity requires improving defect accuracy without degrading the near-equilibrium elastic and vibrational response. Here we achieve this balance for the aluminium MACE potential QP17 by integrating conditional readout uncertainty, iterative full-parameter updates and protocol-compatible relative-energy anchoring. Sensitivities over 144 linear readout weights guide acquisition, with within-batch covariance updates and evolving neural representations. After four active-learning rounds (32 acquired configurations and 400 gradient updates), force-uncertainty acquisition reduces mean developme...
+
+  `matched: interatomic potential`
+
+
+- **[Comprehensive QM/ML Study of Dislocation Loop Line Segments in α-Zr Part I: Loop Core Geometries, Solute Binding, and Transition Barriers](http://arxiv.org/abs/2610.36619v1)**
+  <br>*arXiv | 2026-10-27 | score 6*
+  <br>Junting Zhang, Andrew P. Horsfield, Mark R. Wenman
+
+  Zr cladding alloys in nuclear reactors are exposed to high neutron fluxes, making irradiation-induced defects and solute segregation central to understanding their in-service behaviour. Dislocation cores involve short-range chemistry and long-range elastic fields, which are difficult to describe simultaneously using conventional atomistic methods. Using a hybrid quantum mechanics/machine learning (QM/ML) framework, this part of work examines prismatic loops in hcp α-Zr. All three loop variants are considered, including faulted and perfect, interstitial- and vacancy-type, and first- and second-order prismatic configurations. Nine possible dislocation line segments are characterised in terms o...
+
+  `matched: machine learning, alloy`
+
+
+---
+
+
 ## 2026-10-27
 
 11 new item(s). Top hit: **A thermodynamic correction layer for machine learning interatomic potentials** (score 41, arXiv).
