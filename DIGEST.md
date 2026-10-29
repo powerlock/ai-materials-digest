@@ -6,6 +6,165 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-29
+
+17 new item(s). Top hit: **Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials** (score 39, NVIDIA Developer Blog).
+
+### Journal articles
+
+- **[Infrastructure-Aware Materials Discovery: Resource Allocation, Cost, and Carbon in AI-Driven Workflows](https://doi.org/10.1088/2515-7639/aebabe)**
+  <br>*Journal of Physics Materials | 2026-10-28 | doi:10.1088/2515-7639/aebabe | score 32*
+  <br>Naveen Goel, Tridip Das, William A. Goddard
+
+  Abstract Machine-learned interatomic potentials have converted materials-discovery campaigns from tens to hundreds of expensive density-functional calculations into populations of 10^4 to 10^6 short, independent evaluations, relocating the dominant constraint from the electronic-structure solver to the orchestration layer beneath it. We organize AI-driven materials-discovery workloads into four recurring classes—short independent screening tasks, long-running simulations, tightly coupled ab initio calculations, and iterative active-learning loops—and map spot and preemptible computing, checkpointing and workflow-level fault tolerance, autoscaling, cloud bursting, cost-aware Bayesian optimiza...
+
+  `matched: machine-learned interatomic potential, interatomic potential, materials discovery`
+
+
+- **[ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)](https://doi.org/10.5281/zenodo.23735890)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-28 | doi:10.5281/zenodo.23735890 | score 20*
+  <br>Raymundo Arróyave, James E. Saal, Dongwon Shin
+
+  ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD): binary formation-energy convex hulls from two DFT databases and isotherms of assessed CALPHAD descriptions, stored as ordered composition intervals (interval schema v1) so energy and the equilibrium phase set at any composition are a lookup. Part of the ORCHID data release v2026.10. Short name in the paper: Hulls. What hulls/dft-mp/: Materials Project release 2026.04.13 (GGA/GGA+U with the MP2020 compatibility corrections applied by the Materials Project; no further correction added), 3,828 binary systems of 88 elements, 12,829 hull vertices; above-hull entries within 0.05 eV/atom. hulls/dft-oqmd/: OQMD qmdb_v1_8_...
+
+  `matched: materials project, convex hull, dft`
+
+
+- **[Fast and transferable interatomic potential for alloys, compounds, and hydrides in the Fe–Cr–Ni–Ti–H system](https://doi.org/10.1016/j.commatsci.2026.115182)**
+  <br>*Computational Materials Science | 2026-10-28 | doi:10.1016/j.commatsci.2026.115182 | score 19*
+  <br>Sergey Starikov, Petr Grigorev, Daria Smirnova
+
+  Fast and transferable interatomic potentials are in high demand for atomistic simulations of multicomponent systems, particularly those involving compounds and hydrides. In this work, we present a new classical interatomic model for the Fe–Cr–Ni–Ti–H system in the form of an angular-dependent potential (ADP). The potential accurately reproduces key thermodynamic and kinetic properties, phase stability, elastic properties, defect energetics and migration behavior in different materials: alloys, compounds, and hydrides. Benchmark tests demonstrate that the reported classical potential achieves an accuracy comparable to that of modern machine-learning interatomic models. At the same time, its c...
+
+  `matched: interatomic potential, benchmark, alloy`
+
+
+- **[ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark](https://doi.org/10.5281/zenodo.23735942)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-28 | doi:10.5281/zenodo.23735942 | score 15*
+  <br>Raymundo Arróyave, James E. Saal, Dongwon Shin
+
+  ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark: formation enthalpies of binary compounds read from published papers (ORCHID-Values) paired with the lowest-energy Materials Project and OQMD entries at exactly the same composition, as separate sources that are never averaged. Part of the ORCHID data release v2026.10. Short name in the paper: Parity. Status. Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as...
+
+  `matched: materials project, benchmark, dft`
+
+
+- **[How Noisy is Automatic Annotation? Characterizing Label Noise from Generative Models in Multi-Dimensional Spanish Subjectivity Annotation](https://doi.org/10.18653/2026.wnut-1.10)**
+  <br>*Proceedings of the 11th Workshop on Natural User-generated Text | 2026-10-29 | doi:10.18653/2026.wnut-1.10 | score 9*
+  <br>Pérez-Montero, Lloret, Moreda Pozo
+
+  `matched: generative model`
+
+
+- **[Activation-Based Active Learning for In-Context Learning: Challenges and Insights](https://doi.org/10.18653/2026.insights-1.9)**
+  <br>*Proceedings of the Seventh Workshop on Insights from Negative Results in NLP | 2026-10-29 | doi:10.18653/2026.insights-1.9 | score 7*
+  <br>Osman, Merrett, Middleton
+
+  `matched: active learning`
+
+
+- **[Who Gets Annotated? Impact-Aware Active Learning for Robust Humanitarian Text Classification](https://doi.org/10.18653/2026.nlp4pi-1.44)**
+  <br>*Proceedings of the Fifth Workshop on NLP for Positive Impact (NLP4PI) | 2026-10-29 | doi:10.18653/2026.nlp4pi-1.44 | score 7*
+  <br>Singh
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Reference Conventions and Structure Types, Rather Than 4f Occupancy, Shape Lanthanide Errors in Universal Machine-Learning Interatomic Potentials](https://doi.org/10.26434/chemrxiv.15011235/v1)**
+  <br>*Crossref | 2026-10-29 | doi:10.26434/chemrxiv.15011235/v1 | score 22*
+  <br>Chakma, Hasan, Chowdhury
+
+  Compounds that pair a lanthanide with a d-block metal and a p-block anion sit behind permanent magnets, catalysts and energy-storage materials, yet large parts of this chemical space have not been computed. Universal machine-learning interatomic potentials now make it possible to screen such spaces for stability at a small fraction of the cost of density functional theory, and they are increasingly used to decide which candidates are worth calculating properly. Their training data, however, hold few lanthanide compounds, describe the same element with different pseudopotentials from one database to the next, and carry empirical energy corrections fitted on compound sets from which lanthanide...
+
+  `matched: density functional theory, interatomic potential, catalyst, magnet`
+
+
+- **[Learning the Chronology of Materials Discovery for Synthesizability Prediction](https://doi.org/10.48550/arxiv.2610.36193)**
+  <br>*arXiv (Cornell University) | 2026-10-26 | doi:10.48550/arxiv.2610.36193 | score 20*
+  <br>Junkil Park, Aron Walsh
+
+  High-throughput computational and generative approaches are proposing candidate materials far faster than they can be synthesized, making it increasingly important to identify which hypothetical materials are likely to be experimentally realizable. Positive-unlabeled (PU) learning has emerged as a representative framework for synthesizability prediction, yet existing approaches treat experimentally reported materials as a static collection, overlooking the historical trajectory of materials discovery and the diverse practical factors that have driven its progress. Here we introduce ChronoSyn, a chronology-aware machine learning model that jointly learns synthesizability and the relative repo...
+
+  `matched: materials discovery, machine learning`
+
+
+- **[Comparative Analysis of Basic Machine Learning and Rigorous Free-Energy Calculation on Benchmarking Datasets of Protein-Ligand Binding Affinity](https://doi.org/10.26434/chemrxiv.15011290/v1)**
+  <br>*Crossref | 2026-10-29 | doi:10.26434/chemrxiv.15011290/v1 | score 19*
+  <br>Chrin, Landrum, Riniker
+
+  Rigorous free-energy methods based on molecular dynamics simulations like free-energy perturbation (FEP) are nowadays widely applied in lead optimization in pharmaceutical companies. Due to sampling restrictions and potential force-field deficiencies, it is common practice to first validate the applicability of FEP to a target/chemical series using a small number of known compounds, before applying it prospectively. As rigorous methods require significant computational resources, we want to explore how basic machine learning (ML) methods perform under the same conditions, i.e., training on a small number of known compounds and estimating the affinity of novel variants in the same chemical se...
+
+  `matched: molecular dynamics, machine learning, benchmark, dataset`
+
+
+- **[Transfer learning on universal interatomic potential embeddings improves generalization in structure-property defect models](https://doi.org/10.26434/chemrxiv.15003938/v2)**
+  <br>*Crossref | 2026-10-29 | doi:10.26434/chemrxiv.15003938/v2 | score 17*
+  <br>Witman, Pujet, Rowberg, Sutton et al.
+
+  Oxygen vacancy formation energies govern the performance of metal oxides across energy conversion, catalysis, and electronics, yet predicting them accurately without density functional theory calculations for novel chemical systems remains challenging. Here, we show that frozen 256-dimensional embeddings extracted from a pretrained MACE universal machine-learning interatomic potential encode information sufficient to predict vacancy formation energies obtained from density functional theory without requiring supercell construction, vacancy creation, or geometry optimization. A lightweight multilayer perceptron trained on these embeddings (MACE-dGNN) achieves an element-wise cross-validation...
+
+  `matched: density functional theory, interatomic potential`
+
+
+- **[Correcting the Liquid Densities of Universal Machine-Learning Interatomic Potentials Using Local-Number-Density Repulsion](https://doi.org/10.26434/chemrxiv.15011258/v2)**
+  <br>*Crossref | 2026-10-29 | doi:10.26434/chemrxiv.15011258/v2 | score 14*
+  <br>Mieda
+
+  Universal machine-learning interatomic potentials (MLIPs) such as UMA, trained on reference data from meta-generalized gradient approximation or hybrid functionals that incorporate dispersion interactions, often overestimate molecular-liquid densities, thereby placing every property computed at constant pressure at the wrong state point. This study proposes a correction that adds to the MLIP a repulsive energy quadratic in the local number density of each atom, with two coefficients fitted only to the equations of state of water and ethanol; the forces and stresses follow analytically, so neither electronic-structure calculations nor retraining is required. For UMA, the correction reduces th...
+
+  `matched: interatomic potential`
+
+
+- **[Correcting the Liquid Densities of Universal Machine-Learning Interatomic Potentials Using Local-Number-Density Repulsion](https://doi.org/10.26434/chemrxiv.15011258/v1)**
+  <br>*Crossref | 2026-10-29 | doi:10.26434/chemrxiv.15011258/v1 | score 14*
+  <br>Mieda
+
+  Universal machine-learning interatomic potentials (MLIPs) such as UMA, trained on reference data from meta-generalized gradient approximation or hybrid functionals that incorporate dispersion interactions, often overestimate molecular-liquid densities, thereby placing every property computed at constant pressure at the wrong state point. This study proposes a correction that adds to the MLIP a repulsive energy quadratic in the local number density of each atom, with two coefficients fitted only to the equations of state of water and ethanol; the forces and stresses follow analytically, so neither electronic-structure calculations nor retraining is required. For UMA, the correction reduces th...
+
+  `matched: interatomic potential`
+
+
+- **[Machine Learning for NMR Observables Sensitive to Nuclear Quantum Effects](https://doi.org/10.26434/chemrxiv.15011276/v1)**
+  <br>*Crossref | 2026-10-29 | doi:10.26434/chemrxiv.15011276/v1 | score 13*
+  <br>Laurila, Zakary, Lantto
+
+  Nuclear quantum effects (NQEs) are essential for an accurate description of systems containing light elements. Their omission in classical simulations can lead to significant deviations between theoretical predictions and experimental measurements, particularly for nuclear magnetic resonance (NMR) observables that are highly sensitive to quantum nuclear motion. Although NQEs can be treated rigorously by using ab initio path-integral molecular dynamics (AI-PIMD), the substantial computational cost associated with these simulations continues to limit their applicability to large systems and long timescales. To address this limitation, we developed a machine learning-driven PIMD (MLPIMD) workfl...
+
+  `matched: molecular dynamics, machine learning, magnet`
+
+
+- **[Foldability Is an Intrinsic Property of Protein Sequences: A Lattice Model Study with Information-Theoretic Approach and Unsupervised Machine Learning](https://doi.org/10.26434/chemrxiv.15011236/v1)**
+  <br>*Crossref | 2026-10-29 | doi:10.26434/chemrxiv.15011236/v1 | score 10*
+  <br>Liu
+
+  Protein structure prediction has been largely solved, but why a given sequence is foldable has not. We address this question for 27-, 48- and 64-residue lattice heteropolymers with statistical thermodynamics, the informationtheoretic approach (ITA) and a variational autoencoder (VAE). Native populations, folding probabilities and freeenergy surfaces are reproducible and independent of the initial denatured ensemble, so foldability is an intrinsic property of the sequence at a given temperature and solvent. We then ask where the observed regularities come from. Stability is governed by an information balance: the information content (self-information) of the native energy relative to the maxi...
+
+  `matched: machine learning, polymer`
+
+
+- **[EVA-Flow: Learning Shared Chemistry for Unified Environment-Aware Molecular Conformation Generation](https://doi.org/10.48550/arxiv.2610.36280)**
+  <br>*arXiv (Cornell University) | 2026-10-26 | doi:10.48550/arxiv.2610.36280 | score 9*
+  <br>Bing Yan, Anuroop Sriram, Zachary Ward Ulissi, Kyunghyun Cho
+
+  Molecular 3D structures underpin simulations of thermodynamics, kinetics, crystallization, and nucleation, making their accurate prediction central to drug discovery and materials design. However, molecular geometry can change dramatically across environments. Existing models either ignore environmental effects or train separate models for each environment. We hypothesize that transfer learning across contexts is possible for conformer generation and that a general model will perform better when training data are limited, as in ligand binding and crystallization. We introduce EVA-Flow, a unified framework for environment-aware molecular conformation generation that learns shared chemical str...
+
+  `matched: materials design, crystal`
+
+
+### Industry labs and code releases
+
+- **[Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials](https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/)**
+  <br>*NVIDIA Developer Blog | 2026-10-29 | score 39*
+
+  Atomistic simulations help researchers understand how molecules and materials behave, from chemical reactions and phase transitions to mechanical failure. These...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+---
+
+
 ## 2026-10-28
 
 26 new item(s). Top hit: **A thermodynamic correction layer for machine learning interatomic potentials** (score 41, arXiv (Cornell University)).
