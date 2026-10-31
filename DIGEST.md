@@ -6,6 +6,131 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-10-31
+
+13 new item(s). Top hit: **Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport** (score 46, arXiv (Cornell University)).
+
+### Journal articles
+
+- **[Supporting Data for "Direct bicomponent Monte Carlo simulations for adsorption of CO2 and H2O in CALF-20 using machine learning interatomic potentials"](https://doi.org/10.5281/zenodo.23781733)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-29 | doi:10.5281/zenodo.23781733 | score 37*
+  <br>Logan M. Brabson, Lucas R. Timmerman, Andrew James Medford, David S. Sholl
+
+  Input, output, and workflow files for "Direct bicomponent Monte Carlo simulations for adsorption of CO2 and H2O in CALF-20 using machine learning interatomic potentials"
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Reactive Molecular Dynamics of Hydrogen Evolution at Charged Interfaces Using Effective Machine Learning Potentials](https://doi.org/10.1021/acselectrochem.6c00310)**
+  <br>*ACS Electrochemistry | 2026-10-31 | doi:10.1021/acselectrochem.6c00310 | score 26*
+  <br>Khan, Andreussi
+
+  Abstract Understanding electrochemical reaction mechanisms requires atomistic simulations that simultaneously capture charged interfaces, explicit solvent, and long-time dynamics, which remain beyond the reach of conventional ab initio molecular dynamics. Here, we develop an equivariant machine-learning interatomic potential trained on density functional theory data for electrochemically activated MoS2/water interfaces under charged conditions. The resulting model reproduces first-principles energetics with an error of 7 meV/atom, while enabling nanosecond molecular dynamics simulations of systems containing hundreds of atoms. The simulations reveal that hydrogen evolution is strongly govern...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics, machine learning, equivariant`
+
+
+- **[Field‐Driven Proton Transport in Water Revealed by Machine Learning Molecular Dynamics](https://doi.org/10.1002/advs.78513)**
+  <br>*Advanced Science | 2026-10-29 | doi:10.1002/advs.78513 | score 19*
+  <br>Alicia van Hees, Zhan-Yun Zhang, Linnéa Andersson, Chao Zhang
+
+  Excess-proton transport in water arises from the coupling of proton transfer (PT), hydrogen-bond rearrangement, and solvent polarization. While equilibrium Grotthuss diffusion has been widely studied, its response under strong electric fields remains difficult to resolve because simulations must capture both chemical reactivity and induced polarization over long time scales. Here, we have developed a reactive and polarizable machine-learning interatomic potential for molecular dynamics simulations of the hydrated excess proton in water. A fine-tuned PiNet2 model provides an accurate zero-field reference for structure and diffusion, while an AD(OS)-based finite-field coupling enables non-equi...
+
+  `matched: interatomic potential, molecular dynamics, machine learning`
+
+
+- **[Code and datasets for agent-driven closed-loop discovery of dual-band spectrally adaptive meta-emitters for energy-saving thermoregulation](https://doi.org/10.5281/zenodo.23311639)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-30 | doi:10.5281/zenodo.23311639 | score 18*
+  <br>Xing Lou, Mengzhuo Qin, Shaowen Chen, Han Zhou
+
+  Description DAM agent system is a materials design system for dual-band adaptive meta-emitters used in energy-saving thermoregulation. It integrates a large language model (LLM) with infrared metasurface inverse design, visible thermochromic formulation optimization, prediction-based screening, FDTD verification, and feedback optimization, achieving an end-to-end integrated closed loop of requirement input → design → screening → verification → optimization → candidate output. This guide describes the agent framework, scientific modules, computational data and execution conditions. The infrared branch designs Voronoi metasurfaces, while the visible branch searches microcapsule, filler and bin...
+
+  `matched: large language model, materials design, inverse design, dataset`
+
+
+- **[The role of solid-melt interfaces in self-catalyzed growth kinetics of III-nitride semiconductors](https://doi.org/10.1038/s41524-026-02371-9)**
+  <br>*npj Computational Materials | 2026-10-30 | doi:10.1038/s41524-026-02371-9 | score 16*
+  <br>Zhucong Xi, A. Liu, Xiaobo Chen, Catherine Huang
+
+  Solid-melt interfaces govern metal-mediated epitaxy of gallium nitride (GaN) and related III-nitride semiconductors, yet a quantitative connection between interfacial structure and growth kinetics has remained elusive. Using atomistic simulations based on machine-learning interatomic potentials, we show that crystal orientation determines the local atomic arrangement and electrostatic character at the interface, inducing facet-dependent ordering in the adjacent melt. This ordering reshapes the N-transport free-energy landscape, substantially lowering migration barriers relative to pristine surfaces. Kinetic Monte Carlo simulations reveal that under realistic Ga-mediated molecular beam epitax...
+
+  `matched: interatomic potential, semiconductor, crystal`
+
+
+- **[Multi-Scale Modeling and Environment-Safety-Economy Multi-Objective Optimization of Coke Dry Quenching System Based on Flow Fields Simulation and Deep Learning](https://doi.org/10.1021/acs.iecr.6c03476)**
+  <br>*Industrial &amp; Engineering
+Chemistry Research | 2026-10-31 | doi:10.1021/acs.iecr.6c03476 | score 10*
+  <br>Guo, Wang, Li, Zhao et al.
+
+  Abstract Optimizing coke dry quenching operation is critical for energy saving, emissions reduction, and safety. However, the trade-off between economic benefit and CO2 emissions is constrained by localized combustible-gas accumulation, which is difficult to characterize using macroscopic indicators. To address this issue, a multiscale modeling and environment-safety-economy collaborative optimization framework is proposed. High-fidelity computational particle fluid dynamics (CPFD) results are used to construct a surrogate model predicting flow fields and macroscopic indicators. The surrogate model is further coupled with boiler-turbine mechanistic models, while maximum local CO and H2 volum...
+
+  `matched: surrogate model, deep learning`
+
+
+- **[TCT-26 AngioDINO: A Coronary Angiography Foundation Model for Transferable AI-Assisted Cine Interpretation](https://doi.org/10.1016/j.jacc.2026.09.068)**
+  <br>*JACC | 2026-10-31 | doi:10.1016/j.jacc.2026.09.068 | score 9*
+  <br>Kim, Kang, Park, Ko et al.
+
+  `matched: foundation model`
+
+
+- **[Mathematical analysis of a reaction-diffusion gambling information diffusion model](https://doi.org/10.1038/s41598-026-76386-z)**
+  <br>*Scientific Reports | 2026-10-31 | doi:10.1038/s41598-026-76386-z | score 9*
+  <br>Mandume, Nuugulu, Shikongo
+
+  `matched: diffusion model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://doi.org/10.48550/arxiv.2610.39513)**
+  <br>*arXiv (Cornell University) | 2026-10-29 | doi:10.48550/arxiv.2610.39513 | score 46*
+  <br>Ishan Amin, Yue Jian, Nitesh Kumar, Christine Zhang
+
+  Accurately predicting the transport properties of liquid electrolytes is critical for next-generation battery design and requires force fields that are both quantum-mechanically accurate and fast enough for long-timescale simulation. Recent large-scale pretrained machine learning interatomic potentials (MLIPs) approach density-functional-theory accuracy, but remain too slow to access the necessary timescales to converge transport properties. We provide a knowledge distillation procedure to transfer the accuracy of a large-scale "teacher" MLIP into fast, system-specific "students", without any additional ab initio data. Our distilled models run ~40x faster, reproduce teacher-predicted structu...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, electrolyte, battery`
+
+
+- **[Learning Between the Lines: Interaction Interpolation in a Multi Element Machine Learning Interatomic Potential](https://doi.org/10.48550/arxiv.2610.38876)**
+  <br>*arXiv (Cornell University) | 2026-10-28 | doi:10.48550/arxiv.2610.38876 | score 42*
+  <br>Ademola Soyemi, Kipton M. Barros, Timothy Clark Germann, Benjamin Nebgen
+
+  The continuous development of machine learning inter-atomic potentials (MLIAPs)has greatly accelerated materials research in recent years. However, the need to con- struct custom MLIAPs for each unique problem remains a bottleneck which raises the question of the transferability of MLIAPs. While foundation MLIAPs can achieve transferability due to the broad coverage of chemical space represented in their training sets, their size and computational cost limits their routine use. We address this gap by developing a lightweight general-purpose MLIAP for metal alloys spanning twelve elements (Al, Sc, Ti, V, Cu, Zn, Zr, Nb, Mo, Hf, Ta, W). Here, we utilize a step-wise active learning (AL) approac...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, active learning, alloy`
+
+
+- **[Does System Size Matter in Uncertainty Quantification for Machine Learning Interatomic Potentials?](https://doi.org/10.48550/arxiv.2610.40126)**
+  <br>*arXiv (Cornell University) | 2026-10-29 | doi:10.48550/arxiv.2610.40126 | score 40*
+  <br>Chayaphol Lortaraprasert, Nontawat Charoenphakdee, Wenwen Li, Yong-Bin Zhuang
+
+  Machine-learning interatomic potentials (MLIPs) commonly use uncertainty estimates to flag out-of-distribution (OOD) configurations and select structures for active learning. A key question is whether the resulting structure-level uncertainty scores remain comparable across different system sizes. A common practice is to aggregate per-atom uncertainties by their mean or maximum and compare the resulting score against a fixed threshold, implicitly assuming such comparability. We test this assumption across several in-distribution (ID)/OOD pairs by characterizing both aggregations as a function of atom count. The two aggregations exhibit distinct size dependencies. Mean aggregation remains siz...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, active learning`
+
+
+- **[Development and application of a machine learning potential for diamond surfaces and their sliding interfaces with silicon nitride and silica: effect of passivation, orientation and load](https://doi.org/10.48550/arxiv.2610.38937)**
+  <br>*arXiv (Cornell University) | 2026-10-28 | doi:10.48550/arxiv.2610.38937 | score 24*
+  <br>Enrico Pedretti, Maria Clelia Righi
+
+  Friction and wear of diamond are controlled by its surface chemistry, which determines whether covalent bonds form across the sliding interface. First-principles simulations have explored the role of surface orientation and passivation, but are limited to a few hundred atoms and tens of picoseconds. To bridge this gap, we develop a reactive machine learning interatomic potential for the C/H/N/O/Si chemical space, covering diamond, silicon nitride, silicon oxide, their surfaces, interfaces, and environmental molecules. The potential is trained on a large dataset of diverse structures and is tested on multiple physical properties, including ab initio reaction barriers on diamond surfaces, and...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, dataset`
+
+
+- **[Framework-Conditional Open Materials Generation](https://doi.org/10.48550/arxiv.2610.40443)**
+  <br>*arXiv (Cornell University) | 2026-10-29 | doi:10.48550/arxiv.2610.40443 | score 7*
+  <br>Maya M. Martirossyan, Hillary Pan, Philipp Höllmer, Stefano Martiniani
+
+  Theoretical predictions of novel materials rely on a variety of techniques, from data-mining-based ion substitution methods to fully de novo generative models. Each approach imposes specific constraints and encounters unique challenges when extrapolating beyond the distribution of known materials to discover new ones. The foremost goal of materials generation is to produce stable, unique, and novel (S.U.N.) structures. Predicted structures that meet these criteria, however, typically result from novel chemical compositions mapped onto known structural prototypes or frameworks. We leverage this heuristic insight to present a new generative paradigm for the de novo prediction of inorganic crys...
+
+  `matched: generative model, inorganic`
+
+
+---
+
+
 ## 2026-10-30
 
 27 new item(s). Top hit: **Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport** (score 46, arXiv).
