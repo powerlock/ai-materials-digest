@@ -6,6 +6,104 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-01
+
+11 new item(s). Top hit: **Machine Learning-Based Estimation of Critical Current Density from Trapped Magnetic Field Measurements of Bulk** (score 19, Journal of Alloys and Compounds).
+
+### Journal articles
+
+- **[Machine Learning-Based Estimation of Critical Current Density from Trapped Magnetic Field Measurements of Bulk YBCO Superconductors](https://doi.org/10.1016/j.jallcom.2026.192137)**
+  <br>*Journal of Alloys and Compounds | 2026-11-01 | doi:10.1016/j.jallcom.2026.192137 | score 19*
+  <br>Çakır, Yeşilkanat, Duman, Başoğlu et al.
+
+  `matched: machine learning, superconductor, magnet`
+
+
+- **[Research on the inverse design of sine-type concave honeycomb structures based on WGAN](https://doi.org/10.1080/15397734.2026.2747825)**
+  <br>*Mechanics Based Design of Structures and Machines | 2026-11-01 | doi:10.1080/15397734.2026.2747825 | score 13*
+  <br>Su, Li, Ding
+
+  `matched: inverse design`
+
+
+- **[Application of machine learning to MRI biomarkers in predicting progression and PIRA in multiple sclerosis: a systematic review](https://doi.org/10.65034/anpabstract_cbn260467)**
+  <br>*ANPAbstract_CBN26 | 2026-11-01 | doi:10.65034/anpabstract_cbn260467 | score 11*
+  <br>Alheiros, Silva, Neves, Zambelli et al.
+
+  Background: Multiple Sclerosis (MS) is the leading cause of non-traumatic neurological disability in young adults. Structural magnetic resonance imaging (MRI), by focusing on lesion load, fails to reflect the patient's actual disability because it does not capture diffuse tissue damage and early atrophy. To monitor Progression Independent of Relapse Activity (PIRA), the application of Machine Learning (ML) and Artificial Intelligence (AI) algorithms to advanced MRI biomarkers emerges as a strategic advance. Objective: To evaluate the efficacy of ML/AI applied to MRI biomarkers in predicting MS progression, comparing their performance with conventional radiological analysis and traditional st...
+
+  `matched: artificial intelligence, machine learning, magnet`
+
+
+- **[An integrated GMR biosensor with magnetite/reduced graphene oxide nanotag labels and machine learning for differential albumin-creatinine recognition](https://doi.org/10.1016/j.flatc.2026.101146)**
+  <br>*FlatChem | 2026-11-01 | doi:10.1016/j.flatc.2026.101146 | score 11*
+  <br>Zurnansyah, Rahman, Jayanti, Firdaus et al.
+
+  `matched: machine learning, magnet`
+
+
+- **[Radiation Damage and Defect Recovery in Refractory High-Entropy Alloys from Atomistic Simulations and Machine Learning–Assisted Analysis](https://doi.org/10.1016/j.jnucmat.2026.157199)**
+  <br>*Journal of Nuclear Materials | 2026-11-01 | doi:10.1016/j.jnucmat.2026.157199 | score 11*
+  <br>Mamun, Wang, Rao, Su et al.
+
+  `matched: machine learning, alloy`
+
+
+- **[gcmc: Monte Carlo sampling with replica exchange and hybrid MC/MD for alloys and adsorbates](https://doi.org/10.5281/zenodo.23845456)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-10-31 | doi:10.5281/zenodo.23845456 | score 11*
+  <br>Wei Chen
+
+  gcmc provides Monte Carlo workflows for alloy and adsorbate sampling with ASE-compatible atomistic calculators, including machine-learning interatomic potentials. It supports canonical alloy and fixed-loading adsorbate sampling, grand-canonical adsorbate sampling, semi-grand alloy sampling, replica exchange, and hybrid Monte Carlo/molecular-dynamics proposals. The repository includes YAML-driven workflows, documentation, examples, tests, and analysis tools for alloy ordering and adsorption motifs. This record archives version 0.9.0 from GitHub commit ff4d50cafce3349fe637bf923a8fa67319612cdd (22 August 2026). The source ZIP is an unchanged archive of that commit. Python 3.10 or later is requi...
+
+  `matched: interatomic potential, alloy`
+
+
+- **[Adaptive and explainable machine learning for Indonesian SMS phishing detection: Few-shot prototype learning, simulated concept drift, and SHAP/LIME feature analysis](https://doi.org/10.59190/stc.v7i1.421)**
+  <br>*Science, Technology, and Communication Journal | 2026-11-01 | doi:10.59190/stc.v7i1.421 | score 10*
+  <br>Wartono, Abdillah
+
+  Phishing delivered through short text messages evolves quickly, producing scarce and imbalanced labelled data and shifting lexical patterns that challenge conventional supervised detectors. This study develops and audits a transparent detection framework on a private corpus of 15,950 Indonesian-language SMS messages, of which 13,411 unique messages (8,091 phishing, 5,320 normal) remain after removing 3,771 normalized duplicates. A class-weighted Logistic Regression over TF-IDF unigram–bigram features serves as the primary detector, and it is subjected to a battery of scenario evaluations: stratified five-fold cross-validation, a 2-way one/five/ten-shot episodic protocol, a controlled simulat...
+
+  `matched: machine learning, battery`
+
+
+- **[Structure, dynamics, and chemical ordering in multi-element metallic nanoparticles: an atomistic modeling and machine learning approach](https://openalex.org/W7225025960)**
+  <br>*CINECA IRIS Institutial Research Information System (University of Genoa) | 2026-11-13 | score 9*
+  <br>Luca Benzi
+
+  Over the past decades, the study of metallic nanoalloys has considerably broadened from initially monometallic, via bimetallic to increaslingly complex multimetallic systems. Initially focused on the structural, dynamical, and thermal properties of bimetallic alloys, the field has progressively expanded towards systems containing an increasing number of chemical components, including High-Entropy nanoalloys (HENA). HENAs are generally defined as multimetallic nanoparticles composed of at least five different metallic species at similar concentration, whose complex chemical interactions give rise to a rich configurational space and a variety of structural and chemical arrangements. However, n...
+
+  `matched: machine learning, alloy`
+
+
+- **[Toward cognitive design intelligence: a mixed-methods systematic review and an evidence-informed representation-reasoning-synthesis framework for complex product design in the era of foundation models](https://doi.org/10.1016/j.aei.2026.105446)**
+  <br>*Advanced Engineering Informatics | 2026-11-01 | doi:10.1016/j.aei.2026.105446 | score 9*
+  <br>Li, Fan, Nafei, Li et al.
+
+  `matched: foundation model`
+
+
+- **[Neuroimaging in medical education through active learning: integration between clinical reasoning and diagnostic decision-making](https://doi.org/10.65034/anpabstract_cbn260760)**
+  <br>*ANPAbstract_CBN26 | 2026-11-01 | doi:10.65034/anpabstract_cbn260760 | score 7*
+  <br>Ferreira, Monteiro, Silva
+
+  Background: The increasing incorporation of neuroimaging technologies has transformed the diagnostic process in neurology, requiring medical training capable of integrating technological precision with clinical judgment. In this context of growing diagnostic innovation, medical education must prepare professionals able to integrate technological resources with well-grounded clinical reasoning. In conditions such as traumatic brain injury, headaches, cerebrovascular diseases, epilepsy, and inflammatory disorders of the nervous system, the decision to request imaging examinations requires careful analysis of clinical presentation, time course, and impact on therapeutic management. Objective: T...
+
+  `matched: active learning`
+
+
+- **[Development of an artificial intelligence-based neuroimaging model for the optimization of Friedreich's ataxia diagnosis](https://doi.org/10.65034/anpabstract_cbn260010)**
+  <br>*ANPAbstract_CBN26 | 2026-11-01 | doi:10.65034/anpabstract_cbn260010 | score 7*
+  <br>Gomes, Shiraishi, Melo, Tomaselli et al.
+
+  Background: Friedreich ataxia (FRDA) is a rare hereditary neurodegenerative disease and the most common autosomal recessive ataxia. Its diagnosis, particularly in late-onset cases, is frequently delayed because its heterogeneous clinical manifestations may overlap with those of other hereditary ataxias, while access to confirmatory genetic testing remains limited. Notably, T1-weighted magnetic resonance imaging (MRI), routinely acquired during the diagnostic investigation of ataxia, captures characteristic neuroanatomical abnormalities associated with FRDA and has been successfully applied to characterize and support the clinical differentiation of neurodegenerative diseases. Objective: To d...
+
+  `matched: artificial intelligence, magnet`
+
+
+---
+
+
 ## 2026-10-31
 
 13 new item(s). Top hit: **Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport** (score 46, arXiv (Cornell University)).
