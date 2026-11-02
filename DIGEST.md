@@ -6,6 +6,146 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-02
+
+15 new item(s). Top hit: **UniMatSim Dataset for High-Throughput Screening of Two-Dimensional Lieb-Lattice Materials** (score 45, Zenodo (CERN European Organization for Nuclear Research)).
+
+### Journal articles
+
+- **[UniMatSim Dataset for High-Throughput Screening of Two-Dimensional Lieb-Lattice Materials](https://doi.org/10.5281/zenodo.23854426)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-01 | doi:10.5281/zenodo.23854426 | score 45*
+  <br>Yanjin Xiang, Yihan Nie, Yunzhi Gao, Haidi Wang
+
+  This dataset accompanies the study of UniMatSim, a unified framework for high-throughput materials simulations using universal machine learning interatomic potentials (UMLIPs). The dataset contains the initial crystal structures, high-throughput screening results, and subsequent density functional theory (DFT) calculation data for two-dimensional Lieb-lattice materials. The dataset is organized into the following main components: Initial candidate structures: 1,176 candidate compositions generated through elemental substitution of a two-dimensional Lieb-lattice template, provided in CIF and VASP formats. Uni2D screening results: Structural optimization, elastic stability, and phonon screenin...
+
+  `matched: machine learning interatomic potential, high-throughput screening, density functional theory, interatomic potential, machine learning, dataset`
+
+
+- **[Data and code for: Universal machine-learning interatomic potentials reduce magnetostructural energetics to elasticity: a benchmark on antiferromagnetic CrN and MnO](https://doi.org/10.5281/zenodo.23864936)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-01 | doi:10.5281/zenodo.23864936 | score 32*
+  <br>Tomás Rojas
+
+  Reference data (with per-row provenance), input structures, raw model outputs, derived statistics, relaxed geometries, analysis and scoring scripts, pinned environments and figure generators for a zero-shot benchmark of seven spin-blind universal machine-learning interatomic potentials (MACE-MP-0, CHGNet, SevenNet-0, M3GNet-MatPES, MatterSim, Orb-v3, GRACE-2L-OMAT) on the magnetic energetics of antiferromagnetic CrN and MnO. No new DFT calculations were performed; all reference values are taken from published work.
+
+  `matched: interatomic potential, benchmark, mattersim, magnet, dft`
+
+
+- **[Machine Learning based Surrogate Models of Inductors Integrated in BiCMOS Technologies](https://doi.org/10.23919/eumc69230.2026.11748352)**
+  <br>*2026 56th European Microwave Conference (EuMC) | 2026-11-02 | doi:10.23919/eumc69230.2026.11748352 | score 13*
+  <br>Demarchi, Gianesello, Foissey, Charbuillet et al.
+
+  `matched: machine learning, surrogate model`
+
+
+- **[Tracking the Progress of Generative Models in Artistic Style Imitation](https://doi.org/10.1145/3842673)**
+  <br>*Journal on Computing and Cultural Heritage | 2026-11-02 | doi:10.1145/3842673 | score 11*
+  <br>Asperti, Erpichini
+
+  Replicating the style of historical artistic traditions remains a notoriously challenging task for vision-based generative models, as artistic style encodes complex visual, cultural, and contextual dimensions that extend beyond surface-level appearance. Despite rapid advances in generative modeling, it remains unclear to what extent recent systems have achieved substantive improvements in stylistic emulation across diverse historical traditions. This article presents a systematic evaluation of contemporary generative models in artistic style imitation, comparing their outputs to those of earlier model generations. The study builds upon the AI-Pastiche dataset by incorporating six additional...
+
+  `matched: generative model, dataset`
+
+
+- **[One Framework for All: Cross-Modal Membership Inference for Generative Models](https://doi.org/10.1109/tdsc.2026.3748716)**
+  <br>*IEEE Transactions on Dependable and Secure Computing | 2026-11-02 | doi:10.1109/tdsc.2026.3748716 | score 9*
+  <br>Ye, Zhu, Gao, Liu et al.
+
+  `matched: generative model`
+
+
+- **[MPDiff: Multiscale Physics-Informed Diffusion Model for Crowd Simulation](https://doi.org/10.1109/tcsvt.2026.3749134)**
+  <br>*IEEE Transactions on Circuits and Systems for Video Technology | 2026-11-02 | doi:10.1109/tcsvt.2026.3749134 | score 9*
+  <br>Pan, Zhang, Sun, Hong et al.
+
+  `matched: diffusion model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Generative Design and Graph Neural Network Screening of Novel Bimetallic Alloy Catalysts for the Hydrogen Evolution Reaction](http://arxiv.org/abs/2610.41932v1)**
+  <br>*arXiv | 2026-10-30 | score 39*
+  <br>Vipin Kurian Elavunkel, Sylvain Le Tonquesse, Hadrien Vroylandt
+
+  Identifying earth-abundant catalysts for the hydrogen evolution reaction (HER) is a central challenge in scalable green hydrogen production. We present a computational pipeline that couples diffusion-based generative modelling, machine-learning force-field relaxation, and graph neural network (GNN) property prediction to discover bimetallic HER catalysts beyond the structures and stoichiometries covered by existing adsorption databases. A generative model (MatterGen) is fine-tuned on bulk alloy structures labelled with their minimum hydrogen adsorption energy and steered towards adsorption energies near zero. From the generated pool we retain the stable structures that are novel bimetallic a...
+
+  `matched: graph neural network, generative model, neural network, mattergen, catalyst, alloy`
+
+
+- **[A Hybrid Message-Passing and Electric-Field Representation for Electrostatic QM/MM Embedding with Machine Learning Interatomic Potentials](http://arxiv.org/abs/2610.41523v1)**
+  <br>*arXiv | 2026-10-30 | score 37*
+  <br>Raphael T. Husistein, Shobhit S. Chaturvedi, Thomas Weymuth, Beatriz Piniello et al.
+
+  Within a hybrid quantum mechanics/molecular mechanics approach a small region of a large atomistic system is described quantum mechanically, while the rest of the system is represented by a classical force field. Despite this, the computational cost of the quantum calculation severely limits the accessible simulation and sampling time. Replacing the quantum calculation with a machine learning interatomic potential (MLIP) trained on quantum reference data can greatly increase the accessible simulation time. However, the accuracy and efficiency strongly depend on the specific way in which the MLIP incorporates information about the classical (electrostatic) environment. Here, we demonstrate th...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Towards Out-of-Distribution Uncertainty Quantification for Machine-Learned Interatomic Potentials via Pre-Training](http://arxiv.org/abs/2610.41801v1)**
+  <br>*arXiv | 2026-10-30 | score 33*
+  <br>Stefan P. Schmid, Tobias Setzer, Maximilian Scheurer
+
+  Informative uncertainty quantification (UQ) is essential for the practical deployment of machine-learned interatomic potentials (MLIPs), as it provides insight into their reliability across chemical space. Although numerous post-hoc uncertainty estimation methods for MLIPs have recently been proposed, most have been trained in low-data regimes, restricting their applicability to narrow domains of interest. Inspired by the emergence of foundational MLIPs, we propose pre-training uncertainty estimators on large, diverse datasets to enable broader applicability. We pre-train several UQ models on large materials science datasets to quantify the uncertainty of different MLIPs, and evaluate their...
+
+  `matched: machine-learned interatomic potential, interatomic potential, dataset`
+
+
+- **[How the fruit fly mushroom body can help autonomous materials discovery](https://doi.org/10.26434/chemrxiv.15010667/v2)**
+  <br>*Crossref | 2026-11-02 | doi:10.26434/chemrxiv.15010667/v2 | score 29*
+  <br>Ackölf, Sparks
+
+  Self-driving laboratories plan well but react slowly: a failing run, finished conversion or odd reading needs a call within seconds, at the instrument. We built that reflex stage by stage from the fruit-fly odor circuit. Raman bands become odor channels; a fixed number of cells fire, keeping shape, not strength. An output compartment learns to stop after one failed and one good run, and keeps learning. In simulated selenization and argon-ion irradiation of 2D semiconductors (20 repeats), one fixed-setting layer made four calls. It needs no retraining over a campaign and its memory does not grow, yet a rare phase from one burst was recognized on an early return. The stop cut flakes lost from...
+
+  `matched: materials discovery, self-driving lab, semiconductor`
+
+
+- **[Machine learning–driven inverse design of nanofiltration membranes for selective Mg2+/Na+ separation](https://doi.org/10.26434/chemrxiv.15011431/v1)**
+  <br>*Crossref | 2026-11-02 | doi:10.26434/chemrxiv.15011431/v1 | score 24*
+  <br>Yan, Choi, Kumar, Li et al.
+
+  Desalination brine, a byproduct of seawater desalination, contains valuable resources, including magnesium. Recovering magnesium requires selectively retaining Mg 2+ while allowing the dominant monovalent cation, Na + , to permeate. Nanofiltration (NF) membranes fabricated by interfacial polymerization are promising for this Mg 2+ /Na + separation, but their performance depends on coupled formulation and processing variables that are inefficient to optimize through trial and error. Here, we demonstrate a workflow integrating dataset curation, forward prediction, and inverse design of thin-film composite NF membranes. A dataset of 1,253 entries, comprising literature and in-house records, was...
+
+  `matched: machine learning, inverse design, dataset, polymer`
+
+
+- **[Materials Property Prediction with a Site-Resolved Three-Dimensional Voxel Convolution Neural Network](https://doi.org/10.26434/chemrxiv.15011524/v1)**
+  <br>*Crossref | 2026-11-02 | doi:10.26434/chemrxiv.15011524/v1 | score 23*
+  <br>Kim, Min
+
+  Identifying low-energy atomic arrangements is central to the design of multicomponent materials such as high-entropy cathodes and perovskites, but the number of possible arrangements grows combinatorially with the number of elements. Calculating each arrangement with density functional theory (DFT) is impractical, and many machine-learning models require relaxed structures that become available only after such calculations. This study presents a site-resolved voxel three-dimensional convolutional neural network (SiVox) that maps each crystallographic site of a known prototype onto a voxel and encodes the occupying element by its physicochemical properties, so that only the site assignment is...
+
+  `matched: density functional theory, neural network, perovskite, cathode, crystal, dft`
+
+
+- **[Construction of a Curated Literature Dataset and Machine Learning-Guided Exploration of Supported Metal Catalysts for Low- to Intermediate-Temperature Reverse Water–Gas Shift Reaction](https://doi.org/10.26434/chemrxiv.15011499/v1)**
+  <br>*Crossref | 2026-11-02 | doi:10.26434/chemrxiv.15011499/v1 | score 18*
+  <br>Shin, Mine, Yamaguchi, Taira et al.
+
+  Literature-derived results on reverse water–gas shift (RWGS) catalysts contain extensive information about catalyst design, yet their fragmentation makes systematic, data-driven exploration difficult. Here, we establish a framework that connects a curated RWGS literature dataset to interpretable machine-learning (ML) models and a flexible catalyst-search algorithm. We compiled 607 experimental records from 42 publications on supported metal and metal oxide catalysts evaluated at 300–450 °C, integrating catalyst compositions, preparation and reaction conditions, and CO yields. By systematically comparing nine regression algorithms and nine input representations, we obtained mean cross-validat...
+
+  `matched: machine learning, catalyst, dataset`
+
+
+- **[Radial Kernel Attention for Long-Range Modeling in Polymer Machine Learning Force Fields](https://doi.org/10.26434/chemrxiv.15011478/v1)**
+  <br>*Crossref | 2026-11-02 | doi:10.26434/chemrxiv.15011478/v1 | score 12*
+  <br>Fu, Mao, Hu, Lv et al.
+
+  We introduce Radial Kernel Attention (RKA) for long-range modeling in polymer machine learning force fields. Local neighbor graphs constrain communication across polymer chains and their surrounding environments, while explicit all-pair attention incurs quadratic cost. RKA maps atomic distances from the cluster centroid to learned radial features and combines their overlap with content-dependent queries and keys. Factorized aggregation and readout enable global feature exchange at linear cost in atom count for fixed feature dimensions. We insert the invariant scalar update between EquiformerV3 local blocks and obtain conservative forces by differentiating the total energy, including its radi...
+
+  `matched: machine learning, polymer`
+
+
+- **[TS Second Opinion: catching, repairing and triaging mirror-image errors in machine-learned transition states](https://doi.org/10.26434/chemrxiv.15011459/v1)**
+  <br>*Crossref | 2026-11-02 | doi:10.26434/chemrxiv.15011459/v1 | score 10*
+  <br>Sisodiya
+
+  Generative models now predict a reaction’s transition state (TS) in milliseconds, but they cannot say when a guess is wrong. On the RDB7 benchmark, 17.7% of the TS guesses from GoFlow, a flow-matching TS generator, have a stereocentre the wrong way round, and 85% of those still count as accurate by the usual distance-based score. 90% of these errors are whole mirror images, which have the same energy and vibrational frequencies as the correct TS, so they also pass a frequency check. We present TS Second Opinion, a model-agnostic layer that runs after generation. Chemists state checks in plain English; a large language model (Claude) writes each check as Python, and a gate keeps it only if it...
+
+  `matched: large language model, generative model, benchmark`
+
+
+---
+
+
 ## 2026-11-01
 
 11 new item(s). Top hit: **Machine Learning-Based Estimation of Critical Current Density from Trapped Magnetic Field Measurements of Bulk** (score 19, Journal of Alloys and Compounds).
