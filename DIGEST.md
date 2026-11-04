@@ -6,6 +6,137 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-04
+
+14 new item(s). Top hit: **Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes** (score 31, arXiv).
+
+### Journal articles
+
+- **[Interatomic Potentials in Catalysis](https://doi.org/10.5281/zenodo.23923187)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-03 | doi:10.5281/zenodo.23923187 | score 28*
+  <br>Xuewei Hao, Yanguang Li
+
+  Interatomic potentials enable atomistic simulations of catalytic reactions by supplying energies and forces at a lower cost than repeated electronic structure calculations. This chapter reviews their development and applications in catalysis. It begins with potential energy surfaces, molecular dynamics, and reaction free energies, then introduces classical force fields, reactive force fields with an emphasis on ReaxFF, and machine learning interatomic potentials. The discussion explains how these approaches represent bonding, atomic coordination, and charge redistribution, and how model assumptions and reference data affect their range of applicability. Applications cover gas–surface reactio...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning`
+
+
+- **[Machine Learning Nonadiabatic Molecular Dynamics Reveals Key Influence of Topology of Oxygen Vacancies on Carrier Trapping and Recombination in SrTiO3](https://doi.org/10.1021/jacs.6c18952)**
+  <br>*Journal of the American
+Chemical Society | 2026-11-04 | doi:10.1021/jacs.6c18952 | score 13*
+  <br>Wang, Liu, Liu, Vasenko et al.
+
+  Abstract Common defects in numerous systems, oxygen-vacancies (VO) shape trap states and govern charge carrier recombination, yet the role of their spatial topology remains poorly understood. We demonstrate, using machine-learning nonadiabatic molecular dynamics, a strong influence of VO dimer connectivity on charge carrier trapping and recombination in a widely used SrTiO3 oxide. Focusing on discrete (2 VO-D), bent (2 VO-B), and linear (2 VO-L) vacancy dimers, we show that strong interactions between VO vacancy complexes at high VO concentrations perturb the defect-state wave functions. All three configurations form shallow traps near the conduction-band minimum (CBM) and exhibit similar no...
+
+  `matched: molecular dynamics, machine learning`
+
+
+- **[A deep neural network as surrogate model for chemistry integration of a detailed soot mechanism](https://doi.org/10.1016/j.proci.2026.106824)**
+  <br>*Proceedings of the Combustion Institute | 2026-11-04 | doi:10.1016/j.proci.2026.106824 | score 13*
+  <br>Liu, Kronenburg, Zirwes
+
+  `matched: surrogate model, neural network`
+
+
+- **[An open structure-guided RNA foundation model for generalizable prediction](https://www.nature.com/articles/s41586-026-11210-2)**
+  <br>*Nature | 2026-11-04 | doi:10.1038/s41586-026-11210-2 | score 12*
+
+  `matched: foundation model`
+
+
+- **[Deep Learning Prediction of Crack Propagation in Ductile Materials using Surface Displacements Fields](https://doi.org/10.21741/9781644904459-52)**
+  <br>*Materials Research Proceedings | 2026-11-04 | doi:10.21741/9781644904459-52 | score 11*
+  <br>BENABOU
+
+  Abstract. This study presents a deep learning framework for predicting incremental crack propagation in ductile materials using only surface displacement measurements. A synthetic dataset is generated via the eXtended Finite Element Method (XFEM), enabling the simulation of diverse crack paths under various mixed-mode loading conditions on an Arcan specimen made of aluminum alloy 6061-T6. From each simulation, sequences of displacement fields (ux,uy) are extracted over a regular grid within the region of interest, together with the corresponding crack-path maps, to form the training dataset. Three convolutional-recurrent architectures are developed in Python using the Keras library to captur...
+
+  `matched: deep learning, dataset, alloy`
+
+
+- **[A Review of Surrogate Model in Aircraft Life Cycle: Methods, Applications, and Challenges](https://doi.org/10.1016/j.dte.2026.100150)**
+  <br>*Digital Engineering | 2026-11-04 | doi:10.1016/j.dte.2026.100150 | score 7*
+  <br>Ding, Hu, Liu, Su et al.
+
+  `matched: surrogate model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes](http://arxiv.org/abs/2611.04558v1)**
+  <br>*arXiv | 2026-11-03 | score 31*
+  <br>Øystein Gullbrekken, Sondre Kvalvåg Schnell
+
+  Proton transfer is responsible for the anomalous high conductivity in acidic or basic aqueous solutions. Yet, the contribution of the proton transfer mechanism to the conductivity of concentrated aqueous solutions is unknown. In this work, we compute the transport properties of KOH(aq) systems with different concentrations, using Molecular Dynamics simulations with a Machine Learning Interatomic Potential (MLIP), which includes proton transfer. We quantify the contribution of the proton transfer mechanism to the diffusivities of hydroxide ions and water molecules, and the ionic conductivity and transport numbers of the electrolytes. The contribution is substantial at lower concentrations, bu...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, electrolyte`
+
+
+- **[Machine learning–driven inverse design of nanofiltration membranes for selective Mg2+/Na+ separation](https://doi.org/10.26434/chemrxiv.15011431/v2)**
+  <br>*Crossref | 2026-11-04 | doi:10.26434/chemrxiv.15011431/v2 | score 24*
+  <br>Yan, Choi, Kumar, Li et al.
+
+  Desalination brine, a byproduct of seawater desalination, contains valuable resources, including magnesium. Recovering magnesium requires selectively retaining Mg 2+ while allowing the dominant monovalent cation, Na + , to permeate. Nanofiltration (NF) membranes fabricated by interfacial polymerization are promising for this Mg 2+ /Na + separation, but their performance depends on coupled formulation and processing variables that are inefficient to optimize through trial and error. Here, we demonstrate a workflow integrating dataset curation, forward prediction, and inverse design of thin-film composite NF membranes. A dataset of 1,253 entries, comprising literature and in-house records, was...
+
+  `matched: machine learning, inverse design, dataset, polymer`
+
+
+- **[PaddleMaterials: An End-to-End Deep Learning Toolkit for Materials Science](https://doi.org/10.48550/arxiv.2611.03154)**
+  <br>*arXiv (Cornell University) | 2026-11-02 | doi:10.48550/arxiv.2611.03154 | score 23*
+  <br>Xuwei Liu, Zhimin Zhang, Xiaoguang Hu, Zhongwei Liu
+
+  Machine learning supports materials design, atomistic simulation and experimental characterization, yet models and workflows remain fragmented. We present PaddleMaterials, an open-source framework integrating heterogeneous materials-learning tasks while preserving task-specific representations and scientific semantics. It unifies data processing, training, evaluation, pretrained-model management and workflows across six task classes: property prediction, structure generation, machine-learning interatomic potentials, electronic-structure fields, spectrum elucidation and microscopy image processing. Task interfaces record physical quantities, units, aggregation conventions and references, maki...
+
+  `matched: interatomic potential, machine learning, materials design, deep learning, open-source`
+
+
+- **[Site-orbit masked twin-branch Transformer for symmetry-constrained crystal generation](https://doi.org/10.48550/arxiv.2611.02906)**
+  <br>*arXiv (Cornell University) | 2026-11-02 | doi:10.48550/arxiv.2611.02906 | score 23*
+  <br>Junchi Liu, Haoran Si, Yan Luo, Sergei Tretiak
+
+  Generative models for crystal structure prediction (CSP) have expanded the search space for novel materials and improved screening efficiency. However, simultaneously generating stable and novel structures remains challenging because of the complex structural and physical constraints governing crystals. To address this challenge, we propose site-orbit masked twin-branch Transformer model (ST2M), a symmetry-guided discrete--continuous diffusion framework incorporating degree-of-freedom masks and conditioned on Wyckoff patterns. ST2M represents crystal structures as sequences of independent occupied Wyckoff orbits and employs a twin-branch Transformer to jointly denoise discrete and continuous...
+
+  `matched: crystal structure prediction, generative model, transformer, crystal`
+
+
+- **[Anion Engineering Enables Concurrent Optimization of Phonon and Carrier Transport in AMg$_2$X$_2$ Zintl Thermoelectrics](https://doi.org/10.48550/arxiv.2611.02961)**
+  <br>*arXiv (Cornell University) | 2026-11-02 | doi:10.48550/arxiv.2611.02961 | score 22*
+  <br>Ning Wang, Jincheng Yue, Hui Zhang, Xingchen Shen
+
+  The simultaneous suppression of lattice heat transport and enhancement of carrier transport is central to the development of high-performance thermoelectric materials. Here, we investigate the microscopic mechanisms governing phonon and carrier transport in CaAl$_2$Si$_2$-type AMg$_2$X$_2$ (A = Ca, Sr, Ba; X = P, As, Sb, Bi) Zintl compounds using first-principles calculations, machine-learning interatomic potentials, and Boltzmann transport theory. As X changes from P to Bi, the widening phonon band gap restricts three-phonon scattering channels and increases the relative importance of four-phonon processes. In CaMg$_2$Bi$_2$ and BaMg$_2$Bi$_2$, four-phonon scattering dominates the relaxatio...
+
+  `matched: interatomic potential, thermoelectric, band gap, phonon`
+
+
+- **[Isothermal-Isobaric Molecular Dynamics with a Foundation Interatomic Potential in LAMMPS across NVIDIA and Intel GPUs](http://arxiv.org/abs/2611.03892v1)**
+  <br>*arXiv | 2026-11-02 | score 19*
+  <br>Xiaoli Yan, Eliu Huerta
+
+  Foundation machine-learning interatomic potentials (MLIPs) offer one model for many chemistries, but their deep, globally coupled architectures do not fit the spatial decomposition that scales classical and short-ranged MLIPs. We present pair_style uma, a LAMMPS pair style that evaluates the Universal Model for Atoms (UMA) through LibTorch on NVIDIA and Intel GPUs from a single source tree. It reimplements FairChem's edge-sharded graph parallelism in C++ over exported TorchScript modules, with one MPI rank per device, NCCL or oneCCL collectives, and the whole energy and force path in double precision. The strain-gradient virial is carried through the exported modules and the cross-device red...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Quantifying out-of-distribution data severity with Wasserstein distances: benchmarking large language models for alloy property prediction](http://arxiv.org/abs/2611.03767v1)**
+  <br>*arXiv | 2026-11-02 | score 13*
+  <br>YuJie Liu, Dezhen Xue, Jun Sun, Xiangdong Ding et al.
+
+  As general-purpose Large Language Models (LLMs), such as Gemini and DeepSeek, exhibit increasingly advanced reasoning capabilities, a critical question arises: how do their property prediction abilities compare to those of domain-specific pretrained materials models? In this study, we evaluate predictions for Ti, steels, high-entropy alloy (HEA) and Al, demonstrating that general-purpose LLMs surprisingly outperform SteelBERT, MatSciBERT, and SciBERT. To further enhance performance, we introduce a hybrid approach that utilizes numerical priors from a prior model, such as CatBoost or SteelBERT, to guide the general LLMs (Deepseek V3.1, Gemini-2.5-Flash). By inputting these initial estimates f...
+
+  `matched: large language model, benchmark, alloy`
+
+
+- **[Large Language Model-Assisted Zoning for Heterogeneous Automatic Voltage Control in Renewable-Rich Regional Power Grids](https://doi.org/10.21203/rs.3.rs-11301328/v1)**
+  <br>*Crossref | 2026-11-04 | doi:10.21203/rs.3.rs-11301328/v1 | score 9*
+  <br>Zhao, Nan, Zhang
+
+  Abstract High penetration of wind and photovoltaic generation complicates reactive power and voltage regulation in regional power grids. A uniform automatic voltage control (AVC) mode may not meet differing regional requirements, while independent control by electrically coupled renewable energy stations can produce poorly coordinated reactive power responses. This paper proposes a heterogeneous AVC framework assisted by a large language model (LLM). First, the LLM uses structured operating features and AVC constraints to group renewable energy stations into control regions, assign control modes, and recommend initial parameters. Then, constant reactive power (CQP) and conventional constant-...
+
+  `matched: large language model, photovoltaic`
+
+
+---
+
+
 ## 2026-11-03
 
 28 new item(s). Top hit: **Data and trained machine learning interatomic potentials supporting publication "Modeling the inner electric d** (score 56, Zenodo (CERN European Organization for Nuclear Research)).
