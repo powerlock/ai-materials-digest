@@ -6,6 +6,202 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-05
+
+21 new item(s). Top hit: **The Thiolate Shell as a Dynamic Gold Reservoir: Size-Dependent Thermal Restructuring of Gold Nanoclusters from** (score 35, Crossref).
+
+### Journal articles
+
+- **[Gentle push: Fine-tuning foundation models for complex oxide surface reconstructions](https://doi.org/10.1103/vh5b-6ks5)**
+  <br>*Physical Review Research | 2026-11-04 | doi:10.1103/vh5b-6ks5 | score 31*
+  <br>Ralf Wanzenböck, Eva Doloszeski, Georg K. H. Madsen
+
+  Structure-prediction methods routinely sample highly distorted, far-from-equilibrium configurations. Conventional workflows based on machine learning interatomic potentials (MLIPs) therefore require the inclusion of unphysical local atomic environments in the training data to ensure stability during the search. We show that foundation MLIPs, fine-tuned on minimal datasets containing only physically reasonable structures, can serve as robust backbones for evolutionary structure prediction of complex surface reconstructions. We systematically benchmark fine-tuning strategies and identify that freezing all layers except the readouts as the most effective strategy in the low-data regime. Fine-tu...
+
+  `matched: machine learning interatomic potential, interatomic potential, foundation model, machine learning, benchmark, dataset`
+
+
+- **[Graph Neural Networks Versus Descriptor-Based Machine Learning for Blood–Brain Barrier Permeability Prediction: A Matched-Split Evaluation](https://doi.org/10.3390/pharmaceutics18111441)**
+  <br>*Pharmaceutics | 2026-11-05 | doi:10.3390/pharmaceutics18111441 | score 23*
+  <br>Vattikuti, Mądra-Gackowska, Gackowski, Tiwari et al.
+
+  Background/Objectives: Predicting blood–brain barrier (BBB) permeability from structure remains challenging. We evaluated whether graph neural networks (GNNs) improve experimental logBB prediction over descriptor-based machine learning and whether GNN attention agrees with earlier descriptor-based findings. Methods: Graph Convolutional Network (GCN) and Graph Attention Network (GAT) models were trained on 1058 B3DB compounds and compared with LightGBM using 209 RDKit 2D descriptors under identical random and Murcko scaffold splits. Analyses comprised a primary split, 10 repeated random and scaffold splits with nested hyperparameter optimization and paired tests, descriptor-augmented GNNs, cl...
+
+  `matched: graph neural network, machine learning, neural network`
+
+
+- **[GNN-HA-MTRC: An Intelligent Prediction Model for 3D Geological Properties Based on Graph Neural Networks](https://doi.org/10.1016/j.aiig.2026.100291)**
+  <br>*Artificial Intelligence in Geosciences | 2026-11-05 | doi:10.1016/j.aiig.2026.100291 | score 17*
+  <br>Mu, Zhang, Hu, Sheng et al.
+
+  `matched: graph neural network, neural network`
+
+
+- **[HGMamba: dual-path heterogeneous graph neural network with selective state space model](https://doi.org/10.1007/s10115-026-02930-y)**
+  <br>*Knowledge and Information Systems | 2026-11-05 | doi:10.1007/s10115-026-02930-y | score 17*
+  <br>Fu, Song, Liu, Li et al.
+
+  `matched: graph neural network, neural network`
+
+
+- **[Superior directional thermal conductivity and stiffness in rectangular γ-graphyne revealed by neuroevolution machine-learning potentials](https://doi.org/10.1016/j.ijheatmasstransfer.2026.129810)**
+  <br>*International Journal of Heat and Mass Transfer | 2026-11-04 | doi:10.1016/j.ijheatmasstransfer.2026.129810 | score 16*
+  <br>Jhionathan de Lima, Cristiano Francisco Woellner
+
+  Graphynes have emerged as promising carbon allotropes for next-generation nanoelectronics and thermoelectric devices due to their unique combination of porous frameworks, tunable bandgaps, and unconventional thermal transport. In this work we comprehensively investigate the thermal, vibrational, and mechanical properties of hexagonal ( γ -GY) and rectangular (r γ -GY) graphynes by developing an accurate and efficient machine-learning interatomic potential trained via an active learning framework. The developed neuroevolution potential closely captures the potential energy surfaces of both structures, showing excellent agreement with reference first-principles calculations. Molecular dynamics...
+
+  `matched: interatomic potential, molecular dynamics, active learning, thermoelectric`
+
+
+- **[Microstructure associated macro-cracking of superalloys with various film-hole designs and cracking criteria: Prediction by machine learning assisted concurrent multi-scale simulations](https://doi.org/10.1016/j.ijplas.2026.104873)**
+  <br>*International Journal of Plasticity | 2026-11-05 | doi:10.1016/j.ijplas.2026.104873 | score 11*
+  <br>Zhang, Zeng, Wu, Li et al.
+
+  `matched: machine learning, alloy`
+
+
+- **[Analysis of the machine learning approach to investigate the Hall and Soret-Dufour effects of Williamson fluid over a stretching cylinder](https://doi.org/10.69644/ivk-2026-02-0266)**
+  <br>*Structural Integrity and Life | 2026-11-05 | doi:10.69644/ivk-2026-02-0266 | score 9*
+  <br>Kumar Chaurasiya, Tanwar, Mehta
+
+  This work explores how non-Newtonian Williamson fluids behave when flowing around stretching cylinders under magnetic field influence. We examine several important physical factors - Hall currents, thermal production, varying thermal conductivity, and convective heating effects - all within a radially applied magnetic field. The study also accounts for thermophoretic forces, Brownian particle movement, and Soret-Dufour effects that connect heat and mass transfer processes. These combined factors make the study particularly relevant for industrial applications using nanofluids. To solve this complex problem, we transform the original nonlinear partial differential equations using similarity m...
+
+  `matched: machine learning, magnet`
+
+
+- **[A GNN-Enhanced PINN Framework Driven by Constrained Graph-Point Coupling for Two-Dimensional Material Wavefield Propagation](https://doi.org/10.3390/ma19214714)**
+  <br>*Materials | 2026-11-05 | doi:10.3390/ma19214714 | score 9*
+  <br>Qiu, Liu, Ademiloye, Xiang et al.
+
+  Physics-informed neural networks (PINNs) have difficulty fully exploiting discrete spatial neighborhood information, while conventional graph neural networks (GNNs) cannot readily compute higher-order partial derivatives directly at arbitrary continuous collocation points. To address these challenges, this study proposes a GNN-enhanced PINN framework based on constrained graph-to-point coupling for two-dimensional wavefield propagation in materials. The framework uses a PINN to represent the continuous base wavefield and a GNN to extract local spatial information. Interpolation, constrained residual correction, and learnable gating are integrated into the graph-to-point coupling process, com...
+
+  `matched: graph neural network, neural network`
+
+
+- **[OptiMat Alloys: a FAIR-aligned living database of multi-principal element alloys enabled by a conversational agent](https://doi.org/10.1038/s41524-026-02377-3)**
+  <br>*npj Computational Materials | 2026-11-04 | doi:10.1038/s41524-026-02377-3 | score 9*
+  <br>Yang Hu, Vladyslav Turlo
+
+  Abstract Existing FAIR materials repositories can only serve pre-computed entries, so broad coverage is perpetually incomplete and cannot adapt to new questions on demand. We present OptiMat Alloys, a large language model-powered conversational agent for multi-principal element alloy exploration. Its central contribution is LLM-based workflow orchestration coupled to a living database : every calculation is performed on demand and persisted automatically with provenance in a local database, so asking a question produces provenance-rich, FAIR-aligned records without a separate deposition step. The agent is accessible through a web interface that requires no programming expertise ( low-barrier...
+
+  `matched: large language model, alloy`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[The Thiolate Shell as a Dynamic Gold Reservoir: Size-Dependent Thermal Restructuring of Gold Nanoclusters from MACE-Based Machine-Learning Molecular Dynamics](https://doi.org/10.26434/chemrxiv.15011712/v1)**
+  <br>*Crossref | 2026-11-05 | doi:10.26434/chemrxiv.15011712/v1 | score 35*
+  <br>Le-Vu, Minh, Domin, Marinica et al.
+
+  Atomically precise thiolate-protected gold nanoclusters are used in catalysis, sensing and nanomedicine, where thermal activation, reaction conditions or local heating can change their atomic structure. Whether the gold–thiolate shell remains a fixed protective layer at elevated temperature, or takes part in the restructuring of the cluster, is still an open question, because first-principles molecular dynamics is limited to small clusters and short times. Here we train MACE-AuSCH, an equivariant machine-learned interatomic potential, on a published density functional theory dataset and validate it against 16 crystallographically characterised clusters (cohesive-energy RMSE of 2.1 meV/atom)....
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, molecular dynamics, equivariant, crystal`
+
+
+- **[Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes](https://doi.org/10.48550/arxiv.2611.04558)**
+  <br>*arXiv (Cornell University) | 2026-11-03 | doi:10.48550/arxiv.2611.04558 | score 31*
+  <br>Øystein Gullbrekken, Sondre K. Schnell
+
+  Proton transfer is responsible for the anomalous high conductivity in acidic or basic aqueous solutions. Yet, the contribution of the proton transfer mechanism to the conductivity of concentrated aqueous solutions is unknown. In this work, we compute the transport properties of KOH(aq) systems with different concentrations, using Molecular Dynamics simulations with a Machine Learning Interatomic Potential (MLIP), which includes proton transfer. We quantify the contribution of the proton transfer mechanism to the diffusivities of hydroxide ions and water molecules, and the ionic conductivity and transport numbers of the electrolytes. The contribution is substantial at lower concentrations, bu...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, electrolyte`
+
+
+- **[Machine Learning the Complete Active-Space Wavefunction Reconstruction](http://arxiv.org/abs/2611.06779v1)**
+  <br>*arXiv | 2026-11-04 | score 25*
+  <br>Aniruddha Seal, Bhavnesh Jangid, Helen S. Clifford, Andrew L. Ferguson et al.
+
+  Machine-learned interatomic potentials enable multireference-quality reaction dynamics but do not retain the electronic structure underlying the predicted energies and forces. Recovering this information by independently performing complete active space self-consistent field (CASSCF) calculations is both expensive and potentially inconsistent. We introduce the Complete Active-Space Wave Function Reconstruction (CAS-WR) model, which learns the geometry-dependent electronic structure from CASSCF data and reconstructs the CAS wave function without repeated orbital optimization. Combined with uncertainty-based active learning, CAS-WR is demonstrated for the Diels--Alder reaction and \ce{TiC+}-ca...
+
+  `matched: machine-learned interatomic potential, interatomic potential, machine learning, active learning`
+
+
+- **[Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model](http://arxiv.org/abs/2611.05946v1)**
+  <br>*arXiv | 2026-11-04 | score 23*
+  <br>Jack Yang, Lei Ao, Sean Li
+
+  The rapid growth of machine-learning interatomic potentials (MLIP), particularly the foundational models for materials chemistry, such as MACE, has significantly strengthened our capabilities in studying the complex dynamics of materials through statistical sampling. Here, by performing molecular dynamics with a fine-tuned MACE model, that are further combined with essential dynamics analysis, a tool that is commonly applied in (bio)molecular simulations, we examine the temperature-dependent ion dynamics in a prototypical inorganic solid superionic conductor, namely argyrodite Li$_{6}$PS$_{5}$Cl. Our analyses show clear localised phonon-like dynamics for Li$^+$ ions below 500 K with trajecto...
+
+  `matched: interatomic potential, molecular dynamics, foundation model, inorganic, phonon`
+
+
+- **[Explicit pore pre-conditioning and inverse design of amorphous nanoporous carbon](http://arxiv.org/abs/2611.06614v1)**
+  <br>*arXiv | 2026-11-04 | score 22*
+  <br>Matteo Alberghini, Giacomo Pierotti, Maryam Amini, Mauro Sgroi et al.
+
+  Porous carbons store energy, capture gases and purify water, and their performance depends strongly on the geometry of their pores. Atomistic models mostly simulate their synthesis by molecular dynamics, with results that depend on the interatomic potential, and return the pore network as an output rather than as a specification. Here we show that the pore network can be an input: pores drawn from a target size distribution fill a prescribed volume fraction, carbon is grown around them by stochastic ring placement, and a particle swarm recovers the construction parameters from a structural fingerprint. The search reproduces the density, surface area and pore volume of a carbon produced by qu...
+
+  `matched: interatomic potential, molecular dynamics, inverse design`
+
+
+- **[Achieving Accurate Prediction of Water Adsorption in Mildly Hydrophobic MOFs](https://doi.org/10.26434/chemrxiv.15011663/v1)**
+  <br>*ChemRxiv | 2026-11-04 | doi:10.26434/chemrxiv.15011663/v1 | score 19*
+  <br>Sabrina Grigoletto, Ruben Goeminne, Mohammad Wahiduzzaman, Louis Vanduyfhuys
+
+  Accurately predicting the steep, S-shaped water adsorption isotherms of mildly hydrophobic MOFs and other hydrophobic porous materials remains challenging. This difficulty stems from the delicate balance between framework–water and water–water interactions that governs cooperative pore filling. Here, we develop a machine-learning interatomic potential (MLIP), trained on reliable density functional theory reference data, for the prototypical mildly hydrophobic channel MOF MIP-211(Al). Combined with a Molecular Dynamics-based transition-matrix Monte Carlo (MD-TMMC) scheme, this accurate MLIP enables to predict the sorption isotherm in excellent agreement with the corresponding experimental dat...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics, mof`
+
+
+- **[Isothermal-Isobaric Molecular Dynamics with a Foundation Interatomic Potential in LAMMPS across NVIDIA and Intel GPUs](https://doi.org/10.48550/arxiv.2611.03892)**
+  <br>*arXiv (Cornell University) | 2026-11-02 | doi:10.48550/arxiv.2611.03892 | score 19*
+  <br>Xiaoli Yan, Eliu A. Huerta
+
+  Foundation machine-learning interatomic potentials (MLIPs) offer one model for many chemistries, but their deep, globally coupled architectures do not fit the spatial decomposition that scales classical and short-ranged MLIPs. We present pair_style uma, a LAMMPS pair style that evaluates the Universal Model for Atoms (UMA) through LibTorch on NVIDIA and Intel GPUs from a single source tree. It reimplements FairChem's edge-sharded graph parallelism in C++ over exported TorchScript modules, with one MPI rank per device, NCCL or oneCCL collectives, and the whole energy and force path in double precision. The strain-gradient virial is carried through the exported modules and the cross-device red...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Subtle Energy Corrections Reshape Condensed-Phase Property Predictions from a Machine-Learning Interatomic Potential](http://arxiv.org/abs/2611.06109v1)**
+  <br>*arXiv | 2026-11-04 | score 13*
+  <br>Haihui Wang, Xinyan Wang, Jiashu Liang, Yuanheng Wang et al.
+
+  Accurate reproduction of electronic-structure labels by machine-learning interatomic potentials does not necessarily ensure reliable condensed-phase properties. We investigate the effects of basis-set superposition error (BSSE) and an explicit Axilrod-Teller-Muto (ATM) three-body dispersion contribution on molecular-liquid predictions. Starting from MACELES-OFF, we fine-tune a baseline potential at the $ω$B97M-V/def2-TZVPD level. A separate branch learns counterpoise (CP) energy and force corrections with the baseline frozen, while a D4-parametrized ATM term is added during molecular-dynamics inference. Mean atom-normalized CP and ATM contributions are 0.222 and 0.205 meV/atom, respectively,...
+
+  `matched: interatomic potential`
+
+
+- **[Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials](http://arxiv.org/abs/2611.06843v1)**
+  <br>*arXiv | 2026-11-04 | score 10*
+  <br>Eliane Younes, Elie Hachem, Marc Bernacki
+
+  Grain growth during heat treatment strongly affects the microstructure of polycrystalline materials and, consequently, their mechanical properties. Although numerical methods such as front-tracking or front-capturing simulations can accurately describe grain growth, their high computational cost limits their use for long or non-isothermal thermal cycles. In previous work, grain growth was successfully predicted under isothermal conditions by treating grain size distributions as time series and forecasting their evolution using recurrent neural networks, allowing complete grain growth trajectories to be generated in seconds rather than through costly PDE-based simulations. In the present work...
+
+  `matched: neural network, crystal`
+
+
+- **[Exact periodic electrostatics for latent-charge machine-learning potentials](http://arxiv.org/abs/2611.06575v1)**
+  <br>*arXiv | 2026-11-04 | score 7*
+  <br>Eslam Ibrahim
+
+  Machine-learning interatomic potentials of the latent Ewald summation (LES) type learn atomic charges from energies and forces and evaluate their electrostatic energy in reciprocal space. I formulate this long-range term as a smeared Epstein-Hurwitz lattice sum and derive its exact periodic structure: a decomposition isolating a net-charge artefact and a local self-energy, an image theorem for cells of any shape, and the forces and virial. Full charge equilibration, LES with induced charges, constrained and unconstrained LES models and fixed-charge force fields follow as successive approximations of one variational problem, whose diagonal-hardness limit is a projection of the latent charges...
+
+  `matched: interatomic potential`
+
+
+- **[Neural Stochastic Forecasting for Lateral Molecular Diffusion Simulations](http://arxiv.org/abs/2611.06157v1)**
+  <br>*arXiv | 2026-11-04 | score 6*
+  <br>Jacob Ede Levine, Mario Hidalgo-Soria, Chen Yun Wen, Yun Lyna Luo et al.
+
+  Predicting the long-time diffusion of membrane proteins is challenging because molecular dynamics (MD) simulations are computationally expensive, while experimental single-particle tracking is often limited by finite observation times. Here, we introduce a neural stochastic (NS) model for forecasting the collective diffusion of membrane proteins from coarse-grained MD trajectories. The model combines a transformer-based representation of protein configurations, recurrent networks operating at multiple temporal scales, and a stochastic latent process with learned memory. A cross-attention decoder then generates correlated protein displacements while accounting for the instantaneous system geo...
+
+  `matched: molecular dynamics, transformer`
+
+
+### Industry labs and code releases
+
+- **[NVIDIA/nvalchemi-toolkit v0.3.0](https://github.com/NVIDIA/nvalchemi-toolkit/releases/tag/v0.3.0)**
+  <br>*GitHub: NVIDIA/nvalchemi-toolkit | 2026-11-04 | score 25*
+  <br>Code release
+
+  Third public-beta release of NVIDIA ALCHEMI Toolkit. The headline is **distillation**: teacher scoring, offline and on-policy training loops that run data-parallel, and an acceptance evaluation suite. This release also adds enhanced sampling, batched minimum-energy paths, a generative model API, L-BFGS optimizers, and LoRA fine-tuning. ### Distillation Train a compact student potential against a larger teacher, from a fixed dataset or from the student's own trajectories. - **Teacher scoring and offline labeling** — a `TeacherScorer` protocol and public `TeacherSignal` specs; built-in signals (`energy`, `forces`, `stress`, `atomic_energies`, `embeddings`, `hessian`) are requested by name. `la...
+
+  `matched: generative model, alchemi, dataset`
+
+
+---
+
+
 ## 2026-11-04
 
 14 new item(s). Top hit: **Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes** (score 31, arXiv).
