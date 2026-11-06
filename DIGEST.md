@@ -6,6 +6,263 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-06
+
+30 new item(s). Top hit: **Applicability Domain of Universal Machine Learning Interatomic Potentials at Solid-State Battery Interfaces** (score 53, Crossref).
+
+### Journal articles
+
+- **[Interaction Embedding via Factorized Linear Models for Multi-element Machine Learning Interatomic Potentials](https://doi.org/10.60893/figshare.jcp.c.8788854)**
+  <br>*AIP Publishing | 2026-11-05 | doi:10.60893/figshare.jcp.c.8788854 | score 40*
+  <br>Sung Jung, Ilgar Baghishov, Graeme Henkelman
+
+  Linear machine-learning interatomic potentials (MLIPs) such as the Ultra-Fast Force Field (UF3) deliver near-DFT accuracy at low computational cost. Their number of parameters, however, grows combinatorially with the number of chemical species, limiting their use on multi-element systems. We address this scaling problem with pseudo-interaction UF3 (PI-UF3), a factorized linear model in which the Z⁽ᵏ⁾ real k-body potentials are expressed as linear combinations of a small number P⁽ᵏ⁾ ≪ Z⁽ᵏ⁾ of shared pseudo-interactions. Learned element embeddings are standard in nonlinear potentials; inside a linear model, the embedding becomes a rank constraint on the coefficient matrix of each body order, a...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, dft`
+
+
+- **[Interaction embedding via factorized linear models for multi-element machine learning interatomic potentials](https://doi.org/10.1063/5.0345011)**
+  <br>*The Journal of Chemical Physics | 2026-11-05 | doi:10.1063/5.0345011 | score 40*
+  <br>Sung Hoon Jung, Ilgar Baghishov, Graeme Henkelman
+
+  Linear machine-learning interatomic potentials, such as the Ultra-Fast Force Field (UF3), deliver near-density functional theory accuracy at low computational cost. Their number of parameters, however, grows combinatorially with the number of chemical species, limiting their use on multi-element systems. We address this scaling problem with pseudo-interaction UF3 (PI-UF3), a factorized linear model in which the Z(k) real k-body potentials are expressed as linear combinations of a small number P(k) ≪ Z(k) of shared pseudo-interactions. Learned element embeddings are standard in nonlinear potentials; inside a linear model, the embedding becomes a rank constraint on the coefficient matrix of ea...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, machine learning`
+
+
+- **[Supplementary Material for "Interaction Embedding via Factorized Linear Models for Multi-element Machine Learning Interatomic Potentials"](https://doi.org/10.60893/figshare.jcp.34740843)**
+  <br>*AIP Publishing | 2026-11-05 | doi:10.60893/figshare.jcp.34740843 | score 39*
+  <br>Sung Jung, Ilgar Baghishov, Graeme Henkelman
+
+  Supplementary material containing the element symmetries of standard UF3, the parameter counts of both models, the regularization modes and gauge freedom of PI-UF3, an L1 (LASSO) extension of its alternating least squares (ALS) training, a reference Python implementation of the ALS subroutines, the HEA data split and the cross-validation of both datasets, a comparison of ALS with L-BFGS and Adam, the restart and convergence statistics behind every figure, the training and evaluation cost of both models, a post-hoc SVD compression of the trained UF3 models, the MD22 three-body sweep at a three-body ridge of 10^-7, and a description of the tutorial notebook.
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, dataset`
+
+
+- **[Raw trajectory and configuration data for interfacial Li+ transport in argyrodite Li6PS5Cl solid-state electrolytes](https://doi.org/10.5281/zenodo.23969269)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-05 | doi:10.5281/zenodo.23969269 | score 27*
+  <br>Yu-Lin Hu
+
+  This repository provides the raw atomistic trajectory and configuration data supporting the study of interfacial Li+ transport in the argyrodite solid electrolyte Li6PS5Cl and its coated/layered interfaces. The data were produced with classical and machine-learning molecular dynamics (MACE interatomic potential, validated against CP2K/PBE-D3 single-point and nudged-elastic-bandcalculations) and first-principles geometry optimizations (CP2K, PBE with D3 dispersion). The package is organized as follows:- initial_structures/bulk/ : five bulk crystals in CIF format (Li metal, Li6PS5Cl, LiCoO2, LiF, Li3N).- initial_structures/interfaces/ : two bare interface models in CIF format (Li(100)|Li6PS5Cl...
+
+  `matched: solid-state electrolyte, interatomic potential, molecular dynamics, electrolyte, crystal`
+
+
+- **[Selective Random Structure Search (SRSS): Diversity-Oriented Exploration of Polymorphs in Crystals](https://doi.org/10.1021/acs.cgd.6c00574)**
+  <br>*Crystal Growth & Design | 2026-11-05 | doi:10.1021/acs.cgd.6c00574 | score 23*
+  <br>Jiexi Song, Diwei Shi, Aixian She, Yuanhui Sun
+
+  Abstract Crystal structure prediction has traditionally relied on prototype-based seeding, approaches that often bias sampling toward known low-energy basins and overlook metastable polymorphs with unconventional symmetries. Here, we introduce selective random structure search (SRSS), a diversity-oriented framework designed to explore the configurational space of inorganic crystalline materials. SRSS combines symmetry-constrained random generation with feature-based diversity selection and rapid relaxation and stability evaluation via universal machine-learning interatomic potentials (uMLIPs). Applied to diverse systems, including bulk system SiC and BaPtAs, 2D layered compounds NbSe2, and 1...
+
+  `matched: crystal structure prediction, interatomic potential, inorganic, crystal`
+
+
+- **[Review for "Site-Dependent BINAP Substituent Effects Govern Cu-Catalyzed γ-H Lactam Formation: A DFT and Machine Learning Study"](https://doi.org/10.1039/d6cy01229a/v1/review1)**
+  <br>*Crossref | 2026-11-06 | doi:10.1039/d6cy01229a/v1/review1 | score 13*
+
+  `matched: machine learning, dft`
+
+
+- **[Review for "Site-Dependent BINAP Substituent Effects Govern Cu-Catalyzed γ-H Lactam Formation: A DFT and Machine Learning Study"](https://doi.org/10.1039/d6cy01229a/v2/review1)**
+  <br>*Crossref | 2026-11-06 | doi:10.1039/d6cy01229a/v2/review1 | score 13*
+
+  `matched: machine learning, dft`
+
+
+- **[Review for "Site-Dependent BINAP Substituent Effects Govern Cu-Catalyzed γ-H Lactam Formation: A DFT and Machine Learning Study"](https://doi.org/10.1039/d6cy01229a/v2/review2)**
+  <br>*Crossref | 2026-11-06 | doi:10.1039/d6cy01229a/v2/review2 | score 13*
+
+  `matched: machine learning, dft`
+
+
+- **[Decision letter for "Site-Dependent BINAP Substituent Effects Govern Cu-Catalyzed γ-H Lactam Formation: A DFT and Machine Learning Study"](https://doi.org/10.1039/d6cy01229a/v2/decision1)**
+  <br>*Crossref | 2026-11-06 | doi:10.1039/d6cy01229a/v2/decision1 | score 13*
+
+  `matched: machine learning, dft`
+
+
+- **[Decision letter for "Site-Dependent BINAP Substituent Effects Govern Cu-Catalyzed γ-H Lactam Formation: A DFT and Machine Learning Study"](https://doi.org/10.1039/d6cy01229a/v1/decision1)**
+  <br>*Crossref | 2026-11-06 | doi:10.1039/d6cy01229a/v1/decision1 | score 13*
+
+  `matched: machine learning, dft`
+
+
+- **[Author response for "Site-Dependent BINAP Substituent Effects Govern Cu-Catalyzed γ-H Lactam Formation: A DFT and Machine Learning Study"](https://doi.org/10.1039/d6cy01229a/v2/response1)**
+  <br>*Crossref | 2026-11-06 | doi:10.1039/d6cy01229a/v2/response1 | score 13*
+  <br>Xu Zhang, Qin Ma, Yujiao Xu, Linquan Qiu et al.
+
+  `matched: machine learning, dft`
+
+
+- **[Review for "Site-Dependent BINAP Substituent Effects Govern Cu-Catalyzed γ-H Lactam Formation: A DFT and Machine Learning Study"](https://doi.org/10.1039/d6cy01229a/v1/review2)**
+  <br>*Crossref | 2026-11-06 | doi:10.1039/d6cy01229a/v1/review2 | score 13*
+
+  `matched: machine learning, dft`
+
+
+- **[Multifunctional TiO₂-Coated Zeolite for Efficient Methylene Blue Removal: Adsorption Mechanism, Antibacterial Activity, and Machine Learning-Based Prediction](https://doi.org/10.1016/j.dwt.2026.102024)**
+  <br>*Desalination and Water Treatment | 2026-11-06 | doi:10.1016/j.dwt.2026.102024 | score 13*
+  <br>ALTINTIG, KABADAYI, BOZDAG AK, SARICI et al.
+
+  `matched: machine learning, zeolite`
+
+
+- **[A unified machine-learning interatomic potential for thermal properties of As-doped and B-doped silicon systems](https://doi.org/10.1016/j.commatsci.2026.115227)**
+  <br>*Computational Materials Science | 2026-11-05 | doi:10.1016/j.commatsci.2026.115227 | score 13*
+  <br>Qingyuan Cao, Chaofeng Hou, Wei Ge, Xizhong Chen
+
+  `matched: interatomic potential`
+
+
+- **[Machine learning–assisted prediction of the compressive yield strength in a heat-treated CoCrFeMnNi high-entropy alloy](https://doi.org/10.1016/j.jmrt.2026.11.072)**
+  <br>*Journal of Materials Research and Technology | 2026-11-06 | doi:10.1016/j.jmrt.2026.11.072 | score 11*
+  <br>Nagarjuna, Dewangan, Duan, Soni et al.
+
+  `matched: machine learning, alloy`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Applicability Domain of Universal Machine Learning Interatomic Potentials at Solid-State Battery Interfaces](https://doi.org/10.26434/chemrxiv.15011777/v1)**
+  <br>*Crossref | 2026-11-06 | doi:10.26434/chemrxiv.15011777/v1 | score 53*
+  <br>Agarwal, Li, Gautam, Deng et al.
+
+  Universal machine learning interatomic potentials (uMLIPs) are trained predominantly on bulk systems, yet are increasingly applied to solid-solid interfaces. Evaluating six uMLIPs against DFT across 24 Li-metal/solid-electrolyte interfaces, we map their applicability domain (AD) and where they break down. Total energies are predicted reasonably well (MAE < 15 meV/atom), whereas interatomic forces at the interfaces are not. Most models underestimate the interfacial formation energy by 0.32 J/m2 and overestimate the work of adhesion by 0.26 J/m2, and none reproduces the stability ordering of polyanion-containing interfaces. Despite large force errors for the interfaces, Li-ion kinetics agree w...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, formation energy, electrolyte, battery`
+
+
+- **[Accurate and Rapid Vibrational Spectra of Molecular Crystals from Machine-Learned Interatomic Potentials](https://doi.org/10.26434/chemrxiv.15011775/v1)**
+  <br>*Crossref | 2026-11-06 | doi:10.26434/chemrxiv.15011775/v1 | score 44*
+  <br>Petrov, Kölbel, Stoll, Ruggiero et al.
+
+  Currently, vibrational spectra of molecular crystals often require computational methods to aid in band assignment, especially in the low-frequency region where no functional group specific transitions exist. DFT methods are the gold-standard for computational spectroscopy, but their high computational cost limits simulations to systems characterized by small unit cells. Universal machine-learned interatomic potentials (MLIPs) offer a much cheaper alternative, but their reliability for phonons in molecular crystals has been little explored. In this work, eleven MLIPs from the ANI, MACE or UMA families of models are tested on geometry optimizations, vibrational frequencies and normal mode cha...
+
+  `matched: machine-learned interatomic potential, interatomic potential, crystal, phonon, dft`
+
+
+- **[Training of Neural Network Machine Learning Potentials for Activation Barrier Calculations in Predicting Growth Modes of Deposited Metals](https://doi.org/10.26434/chemrxiv.15011790/v1)**
+  <br>*Crossref | 2026-11-06 | doi:10.26434/chemrxiv.15011790/v1 | score 26*
+  <br>Rönnby, Nies, Timony, Nolan et al.
+
+  Machine-learning interatomic potentials (MLIPs) are opening many new opportunities to extend the capabilities of computational materials science. MLIPs deliver increased throughput and simulations at time and length scales beyond first principles density functional theory (DFT), while maintaining near-DFT accuracy, thus allowing unravelling of chemical processes not accessible with DFT. In this work, we present an approach to training a neural network MLIP using DeepMD-kit software that delivers both accurate energies and forces, suitable for determining activation energies via nudged elastic band calculations. We use the deposition of metals on substrates, in particular Ru and Cu on TaN for...
+
+  `matched: density functional theory, interatomic potential, machine learning, neural network, dft`
+
+
+- **[Machine Learning the Complete Active-Space Wavefunction Reconstruction](https://doi.org/10.48550/arxiv.2611.06779)**
+  <br>*arXiv (Cornell University) | 2026-11-04 | doi:10.48550/arxiv.2611.06779 | score 25*
+  <br>Aniruddha Seal, Bhavnesh Jangid, Helen Clifford, Andrew L. Ferguson
+
+  Machine-learned interatomic potentials enable multireference-quality reaction dynamics but do not retain the electronic structure underlying the predicted energies and forces. Recovering this information by independently performing complete active space self-consistent field (CASSCF) calculations is both expensive and potentially inconsistent. We introduce the Complete Active-Space Wave Function Reconstruction (CAS-WR) model, which learns the geometry-dependent electronic structure from CASSCF data and reconstructs the CAS wave function without repeated orbital optimization. Combined with uncertainty-based active learning, CAS-WR is demonstrated for the Diels--Alder reaction and \ce{TiC+}-ca...
+
+  `matched: machine-learned interatomic potential, interatomic potential, machine learning, active learning`
+
+
+- **[Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model](https://doi.org/10.48550/arxiv.2611.05946)**
+  <br>*arXiv (Cornell University) | 2026-11-04 | doi:10.48550/arxiv.2611.05946 | score 23*
+  <br>Jack Yang, Lei Ao, Sean Li
+
+  The rapid growth of machine-learning interatomic potentials (MLIP), particularly the foundational models for materials chemistry, such as MACE, has significantly strengthened our capabilities in studying the complex dynamics of materials through statistical sampling. Here, by performing molecular dynamics with a fine-tuned MACE model, that are further combined with essential dynamics analysis, a tool that is commonly applied in (bio)molecular simulations, we examine the temperature-dependent ion dynamics in a prototypical inorganic solid superionic conductor, namely argyrodite Li$_{6}$PS$_{5}$Cl. Our analyses show clear localised phonon-like dynamics for Li$^+$ ions below 500 K with trajecto...
+
+  `matched: interatomic potential, molecular dynamics, foundation model, inorganic, phonon`
+
+
+- **[Spectral symmetry fingerprints in equivariant representations](http://arxiv.org/abs/2611.07410v1)**
+  <br>*arXiv | 2026-11-05 | score 20*
+  <br>Jiacheng Cen, Anyi Li, Ning Lin, Zihe Wang et al.
+
+  Symmetry governs the organization of physical structures, while symmetry breaking reveals their transformations. In geometric deep learning, symmetry imposes rank constraints on equivariant representations, limiting the expressive capacity of equivariant graph neural networks (GNNs). Here we show that these constraints can instead be exploited: the singular-value spectra of equivariant representations provide a unified fingerprint of structural symmetry. We introduce spectral symmetry fingerprints (SymFP), which enable discrete point-group identification through rank-template matching and continuous symmetry analysis by quantifying spectral energy beyond target rank constraints. SymFP is ori...
+
+  `matched: graph neural network, neural network, deep learning, equivariant`
+
+
+- **[Active Learning for Fragment-Based Kinase Inhibitor Discovery using Docking](https://doi.org/10.26434/chemrxiv.15011770/v1)**
+  <br>*Crossref | 2026-11-06 | doi:10.26434/chemrxiv.15011770/v1 | score 14*
+  <br>Kramer, Backenköhler, Volkamer
+
+  Drug discovery requires efficient exploration of vast chemical spaces while minimizing computational cost. Fragment-based drug design offers a promising route for generating novel ligands through recombination of fragments, yet the resulting combinatorial search spaces rapidly become too large for exhaustive evaluation. Here, we present an active learning framework for navigating kinase-focused fragment recombination spaces derived from KinFragLib. Our approach combines subpocket-aware fragment recombination, structure-based docking, machine learning surrogate models, and genetic algorithm-inspired exploration through fragment additions, deletions, and substitutions around previously evaluat...
+
+  `matched: machine learning, surrogate model, active learning`
+
+
+- **[Machine Learning for NMR Observables Sensitive to Nuclear Quantum Effects](https://doi.org/10.26434/chemrxiv.15011276/v2)**
+  <br>*Crossref | 2026-11-06 | doi:10.26434/chemrxiv.15011276/v2 | score 13*
+  <br>Laurila, Zakary, Lantto
+
+  Nuclear quantum effects (NQEs) are essential for an accurate description of systems containing light elements. Their omission in classical simulations can lead to significant deviations between theoretical predictions and experimental measurements, particularly for nuclear magnetic resonance (NMR) observables that are highly sensitive to quantum nuclear motion. Although NQEs can be treated rigorously by using ab initio path-integral molecular dynamics (AI-PIMD), the substantial computational cost associated with these simulations continues to limit their applicability to large systems and long timescales. To address this limitation, we developed a machine learning-driven PIMD (MLPIMD) workfl...
+
+  `matched: molecular dynamics, machine learning, magnet`
+
+
+- **[Subtle Energy Corrections Reshape Condensed-Phase Property Predictions from a Machine-Learning Interatomic Potential](https://doi.org/10.48550/arxiv.2611.06109)**
+  <br>*arXiv (Cornell University) | 2026-11-04 | doi:10.48550/arxiv.2611.06109 | score 13*
+  <br>Haihui Wang, Xinyan Wang, Jiashu Liang, Yuanheng Wang
+
+  Accurate reproduction of electronic-structure labels by machine-learning interatomic potentials does not necessarily ensure reliable condensed-phase properties. We investigate the effects of basis-set superposition error (BSSE) and an explicit Axilrod-Teller-Muto (ATM) three-body dispersion contribution on molecular-liquid predictions. Starting from MACELES-OFF, we fine-tune a baseline potential at the $ω$B97M-V/def2-TZVPD level. A separate branch learns counterpoise (CP) energy and force corrections with the baseline frozen, while a D4-parametrized ATM term is added during molecular-dynamics inference. Mean atom-normalized CP and ATM contributions are 0.222 and 0.205 meV/atom, respectively,...
+
+  `matched: interatomic potential`
+
+
+- **[Interpretable many-body interaction laws for collective motion from few trajectories](http://arxiv.org/abs/2611.08314v1)**
+  <br>*arXiv | 2026-11-05 | score 11*
+  <br>Timon S. Gutleb
+
+  Models of collective motion usually reduce social interactions to pairwise forces, despite empirical evidence for many-body effects. We introduce the directional atomic cluster expansion (dACE), which adapts the atomic cluster expansion (ACE) of interatomic potentials to self-propelled agents. dACE provides a systematically improvable, exactly equivariant expansion of an agent's acceleration that splits uniquely into 1-, 2-, 3-body and higher contributions, along with a self term for the agent's own past motion that is fitted so that it does not absorb the interactions. On simulated collectives in two and three dimensions with known rules, dACE recovers the interaction law body order by body...
+
+  `matched: interatomic potential, equivariant`
+
+
+- **[Graph Symbolic Distillation: Decoding Graph Data into Interpretable Formulas across Materials and Chemistry](http://arxiv.org/abs/2611.07719v1)**
+  <br>*arXiv | 2026-11-05 | score 9*
+  <br>Yuxuan Yao, Harald Oberhofer, Karsten Reuter, Wenbin Xu
+
+  Graph data provide a natural representation of the interconnected structures and interactions underlying many chemical and materials systems. Graph neural networks (GNNs) can learn complex relationships from such data, yet translating these representations into interpretable descriptors and scientific insights remains challenging. Here we introduce graph symbolic distillation (GSD), a framework for decoding graph data into interpretable symbolic formulas. GSD identifies task-relevant message-passing architectures and distills their learned transformations while preserving graph connectivity and aggregation operations. Across three case studies spanning bulk materials, molecules, and surfaces...
+
+  `matched: graph neural network, neural network`
+
+
+- **[Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction](http://arxiv.org/abs/2611.07998v1)**
+  <br>*arXiv | 2026-11-05 | score 8*
+  <br>Makoto Takamoto, Chaitanya Sampara, Viktor Zaverkin, Daniel Oñoro-Rubio et al.
+
+  It is well established that molecular substructures can contribute unequally to chemical and physical properties, with specific motifs or side chains often playing dominant roles. Fragment-based representations have therefore emerged as an effective strategy for incorporating chemically meaningful inductive biases, as exemplified by molecular fingerprints and fragment-based attention mechanisms. However, many existing fragmentation-based machine learning methods rely on predefined chemical rules, which may yield suboptimal fragmentation for previously unseen or chemically unfamiliar structures and often overlook the importance of multiscale molecular representations. To address these limitat...
+
+  `matched: machine learning, polymer`
+
+
+- **[Exact periodic electrostatics for latent-charge machine-learning potentials](https://doi.org/10.48550/arxiv.2611.06575)**
+  <br>*arXiv (Cornell University) | 2026-11-04 | doi:10.48550/arxiv.2611.06575 | score 7*
+  <br>Eslam Ibrahim
+
+  Machine-learning interatomic potentials of the latent Ewald summation (LES) type learn atomic charges from energies and forces and evaluate their electrostatic energy in reciprocal space. I formulate this long-range term as a smeared Epstein-Hurwitz lattice sum and derive its exact periodic structure: a decomposition isolating a net-charge artefact and a local self-energy, an image theorem for cells of any shape, and the forces and virial. Full charge equilibration, LES with induced charges, constrained and unconstrained LES models and fixed-charge force fields follow as successive approximations of one variational problem, whose diagonal-hardness limit is a projection of the latent charges...
+
+  `matched: interatomic potential`
+
+
+### Conference papers
+
+- **[Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding](http://arxiv.org/abs/2611.07723v1)**
+  <br>*arXiv | 2026-11-05 | score 12*
+  <br>Accepted/presented: NeurIPS | Emile de Bruyn, Moritz Schäffler, Jannik Schneider, Sebastian R. Schmidt et al.
+
+  Protein motif scaffolding benchmarks assess whether generative models can build scaffolds around functionally important residues. Their conclusions depend on which motifs are tested and which criteria define success. Existing benchmarks typically use small hand-curated motif sets and static refolding criteria, but protein function often depends on conformational ensembles and transitions. Here, we address both benchmark scope and success criteria. We introduce BILBY-PRO, a systematically derived benchmark of structurally conserved functional motifs from PROSITE-linked experimental structures, comprising 220 cases from 174 PROSITE motif-pattern entries. Evaluating six recent scaffold-generati...
+
+  `matched: generative model, benchmark`
+
+
+- **[SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty](http://arxiv.org/abs/2611.06953v1)**
+  <br>*arXiv | 2026-11-03 | score 12*
+  <br>Accepted/presented: IJCAI | Aleksandr Volkov, Roman Sultimov, Mikhail Kuzin, Yury Maximov
+
+  Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, uncertainty reporting and inverse design. We examine how the choice of held-out unit changes the conclusions drawn from SteelBench tensile-strength evaluations. For gradient boosting, pooled out-of-fold $R^2$ fell from 0.859 on a random split to 0.113 when steel families were held out. Empirical coverage of nominal 90% prediction intervals ranged from 91.0% under random splitting to 37.6% on held-out sources. The effect of physics-derived features d...
+
+  `matched: inverse design, alloy`
+
+
+---
+
+
 ## 2026-11-05
 
 21 new item(s). Top hit: **The Thiolate Shell as a Dynamic Gold Reservoir: Size-Dependent Thermal Restructuring of Gold Nanoclusters from** (score 35, Crossref).
