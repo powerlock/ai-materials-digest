@@ -6,6 +6,88 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-07
+
+10 new item(s). Top hit: **Molecular dynamics simulation of gas diffusion in metal-organic frameworks based on a classical force field an** (score 43, Microporous and Mesoporous Materials).
+
+### Journal articles
+
+- **[Molecular dynamics simulation of gas diffusion in metal-organic frameworks based on a classical force field and machine-learned interatomic potential](https://doi.org/10.1016/j.micromeso.2026.114447)**
+  <br>*Microporous and Mesoporous Materials | 2026-11-07 | doi:10.1016/j.micromeso.2026.114447 | score 43*
+  <br>Jalalmanesh, Allaei, Sahimi
+
+  `matched: machine-learned interatomic potential, metal-organic framework, interatomic potential, molecular dynamics`
+
+
+- **[ASSYST: A Python package for automated generation of training data for machine learning interatomic potentials](https://doi.org/10.21105/joss.11133)**
+  <br>*Journal of Open Source Software | 2026-11-07 | doi:10.21105/joss.11133 | score 37*
+  <br>Poul, Neugebauer
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Accuracy and uncertainty quantification of phase diagrams calculated from universal machine learning interatomic potentials](https://doi.org/10.1016/j.scriptamat.2026.117663)**
+  <br>*Scripta Materialia | 2026-11-04 | doi:10.1016/j.scriptamat.2026.117663 | score 37*
+  <br>Wenhao Zhang, Mariano Forti, Thomas Hammerschmidt, Jean‐Claude Crivello
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Machine Learning-Assisted Prediction and SHAP-Based Analysis of Non-Metal-Doped ZnO Photocatalysts: Data-Driven Modelling of Bandgap, Degradation Efficiency, and Kinetics](https://doi.org/10.1016/j.jmgm.2026.109649)**
+  <br>*Journal of Molecular Graphics and Modelling | 2026-11-07 | doi:10.1016/j.jmgm.2026.109649 | score 13*
+  <br>Ali, Fathalla, Amin, Irfan et al.
+
+  `matched: machine learning, catalyst`
+
+
+- **[Sequentially supported tunnels in viscoelastic-viscoplastic rock masses: Analytical solutions and machine-learning-based inverse design of permanent support system](https://doi.org/10.1016/j.compgeo.2026.108800)**
+  <br>*Computers and Geotechnics | 2026-11-07 | doi:10.1016/j.compgeo.2026.108800 | score 13*
+  <br>Liu, Wang, Yan, Song et al.
+
+  `matched: inverse design`
+
+
+- **[Machine learning-optimized LaCoFe alloy-decorated MnFeCo LDH heterostructures for enhanced oxygen evolution reaction](https://doi.org/10.1016/j.jallcom.2026.192336)**
+  <br>*Journal of Alloys and Compounds | 2026-11-07 | doi:10.1016/j.jallcom.2026.192336 | score 11*
+  <br>Maqbool, Maqbool, Mahmoud, Zafar et al.
+
+  `matched: machine learning, alloy`
+
+
+- **[A graph-coupled reaction–diffusion model for emotional contagion and stress propagation in human social networks](https://doi.org/10.1016/j.rico.2026.100865)**
+  <br>*Results in Control and Optimization | 2026-11-07 | doi:10.1016/j.rico.2026.100865 | score 9*
+  <br>Owolabi, Okeowo, Maré
+
+  `matched: diffusion model`
+
+
+- **[Wind Speed Foundation Model](https://doi.org/10.1016/j.eswa.2026.135004)**
+  <br>*Expert Systems with Applications | 2026-11-07 | doi:10.1016/j.eswa.2026.135004 | score 9*
+  <br>Yu, Mi
+
+  `matched: foundation model`
+
+
+- **[Cycle-by-Cycle Loading Pattern Optimization for an OPR-1000 Core Using Simulated Annealing with a Pin-wise Surrogate Model](https://doi.org/10.1016/j.net.2026.104839)**
+  <br>*Nuclear Engineering and Technology | 2026-11-07 | doi:10.1016/j.net.2026.104839 | score 7*
+  <br>Jeong, Jang, Lee
+
+  `matched: surrogate model`
+
+
+### Industry labs and code releases
+
+- **[Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs](https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/)**
+  <br>*NVIDIA Developer Blog | 2026-11-06 | score 7*
+
+  When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an...
+
+  `matched: diffusion model`
+
+
+---
+
+
 ## 2026-11-06
 
 30 new item(s). Top hit: **Applicability Domain of Universal Machine Learning Interatomic Potentials at Solid-State Battery Interfaces** (score 53, Crossref).
