@@ -6,6 +6,30 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-08
+
+2 new item(s). Top hit: **Impact of the glass transition temperature on Li-ion diffusion in amorphous alloy anodes via machine learning** (score 13, npj Computational Materials).
+
+### Journal articles
+
+- **[Impact of the glass transition temperature on Li-ion diffusion in amorphous alloy anodes via machine learning](https://www.nature.com/articles/s41524-026-02383-5)**
+  <br>*npj Computational Materials | 2026-11-07 | doi:10.1038/s41524-026-02383-5 | score 13*
+
+  `matched: machine learning, alloy`
+
+
+- **[Property-Defining Feature Extraction in Porous Crystalline Materials Using Attention-Guided Cooperative Game Theory](https://doi.org/10.1021/acs.jcim.6c02337)**
+  <br>*Journal of Chemical Information and Modeling | 2026-11-08 | doi:10.1021/acs.jcim.6c02337 | score 9*
+  <br>Asiedu, Achenie, Asiedu
+
+  Abstract Porous crystalline materials assembled from molecular building blocks offer vast potential across applications such as gas storage, separation, and catalysis, yet their structural tunability creates an expansive design space that demands the systematic identification of their property-defining features. To help researchers identify these features rapidly and inform next generation design, we introduce the Explainable Crystal Transformer (ExCT); an attention-guided cooperative game-theoretic workflow for extracting property-defining structural features in porous crystalline materials by combining attention-based representation learning, Shapley-style attribution, and local surrogate-...
+
+  `matched: transformer, crystal`
+
+
+---
+
+
 ## 2026-11-07
 
 10 new item(s). Top hit: **Molecular dynamics simulation of gas diffusion in metal-organic frameworks based on a classical force field an** (score 43, Microporous and Mesoporous Materials).
