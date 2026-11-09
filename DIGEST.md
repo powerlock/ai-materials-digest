@@ -6,6 +6,83 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-09
+
+8 new item(s). Top hit: **Inverse design of superconductors and semiconductors with differentiable foundation models** (score 39, arXiv).
+
+### Journal articles
+
+- **[Makino et al., Supplementary Data for "Elucidation of Mg-Ion Diffusion Factors in Mg-O-Based Materials Using Machine-Learning Interatomic Potentials and Causal Analysis"](https://doi.org/10.6084/m9.figshare.32769276)**
+  <br>*Figshare | 2026-11-08 | doi:10.6084/m9.figshare.32769276 | score 19*
+  <br>Keisuke Makino, Masanobu Nakayama
+
+  Supplementary data for the paper, Makino et al., "Elucidation of Mg-Ion Diffusion Factors in Mg-O-Based Materials Using Machine-Learning Interatomic Potentials and Causal Analysis"A zip file contains following data and codes.mgo_diffusion_dataset.csvThis file is the descriptor dataset used as the input for causal discovery. Each row corresponds to one Mg-O-based material. The first column contains the Materials Project ID and composition, and the remaining columns contain composition descriptors, structural descriptors derived from radial distribution functions (RDFs) and angular distribution functions (ADFs), and the target variable logD. (CSV formatted)mgo_lightgbm_prediction_dataset.csvTh...
+
+  `matched: interatomic potential, materials project, dataset`
+
+
+- **[Machine Learning Forecasting and Simulation for Battery Optimization Under Extreme Energy Imbalance](https://doi.org/10.1109/iisa66859.2025.11771067)**
+  <br>*2025 16th International Conference on Information, Intelligence, Systems &amp; Applications (IISA) | 2026-11-09 | doi:10.1109/iisa66859.2025.11771067 | score 13*
+  <br>Panagoulias, Sarmas, Marinakis, Virvou et al.
+
+  `matched: machine learning, battery`
+
+
+- **[SimPoly: Simulation of polymers with machine learning force fields derived from first principles](https://www.nature.com/articles/s41467-026-78736-x)**
+  <br>*Nature Communications | 2026-11-09 | doi:10.1038/s41467-026-78736-x | score 11*
+
+  `matched: machine learning, polymer`
+
+
+- **[Synthetic Data Augmentation for Imbalanced EV Charging Network Security: An Empirical Study of Generative Models and Feature Transformation](https://doi.org/10.1109/csr69374.2026.11759989)**
+  <br>*2026 IEEE International Conference on Cyber Security and Resilience (CSR) | 2026-11-09 | doi:10.1109/csr69374.2026.11759989 | score 9*
+  <br>Lazaridis, Topouzelidis, Vagionas, Lekidis et al.
+
+  `matched: generative model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Inverse design of superconductors and semiconductors with differentiable foundation models](http://arxiv.org/abs/2611.09572v1)**
+  <br>*arXiv | 2026-11-06 | score 39*
+  <br>Cristóbal Méndez, Justin Tahmassebpur, Tomás A. Arias
+
+  Designing a crystal for a target property requires choosing its elements, stoichiometry, and atomic structure together, yet gradients exist only for the continuous structural variables. We introduce differentiable Equiformer fast effective-atom theory (DEFEAT), which lets a pretrained EquiformerV3 foundation model accept continuous species weights and site occupancies without retraining on fractional data, thereby enabling gradient-based materials optimization. Gradients from fine-tuned property models and a machine-learned energy penalty then guide updates to composition, atom count, atomic positions, and lattice vectors in a single optimization. In a search for phonon-mediated superconduct...
+
+  `matched: foundation model, superconductor, inverse design, semiconductor, crystal, phonon`
+
+
+- **[Physics Informed Priors for Machine Learning Interatomic Potentials with Uncertainty Quantification](http://arxiv.org/abs/2611.09325v1)**
+  <br>*arXiv | 2026-11-06 | score 37*
+  <br>George I. Simmons, Thomas D. Swinburne, Thomas Hudson, James R. Kermode
+
+  Standard uncertainty quantification methods for machine learning interatomic potentials often fail to quantify the effects of model misspecification despite its prominence as a source of error. To combat this, misspecification-aware uncertainty schemes have been gaining attention, pointwise optimal parameter set regression (POPS-Regression) among them. However, no guarantees on the physicality of the posterior distribution are given and uncertainty estimates can be conservative compared to the true error. To combat this, we present a model misspecification aware scheme that builds on POPS-Regression by allowing users to specify physical priors that are enforced across the obtained ensemble o...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Fortuitous Cancellation of Competing Effects in the Free Energy of Water Autoionization: Long-Range Electrostatics, System Size, and Nuclear Quantum Effects](http://arxiv.org/abs/2611.08874v1)**
+  <br>*arXiv | 2026-11-06 | score 19*
+  <br>Samuel Varner, Yinan Xu, Yezhi Jin, Gustavo R. Pérez-Lemus et al.
+
+  Few molecular processes are more fundamental to chemistry than the autoionization of water, whose equilibrium constant, $K_w \approx 10^{-14}$, underlies acid-base equilibria and the chemistry of life. Yet the molecular origins of the free energy cost of forming and separating ions remain incompletely understood. Efforts to explain it have been limited by the difficulty of modeling water reactivity in sufficient detail. Here we combine machine learning interatomic potentials (MLIPs) with spectral adaptive biasing force enhanced sampling to connect proton transfer and water wire configurations to the underlying free energy landscape. We identify competing influences of long-range electrostati...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+### Industry labs and code releases
+
+- **[NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)**
+  <br>*NVIDIA Blog | 2026-11-09 | score 7*
+
+  Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with [&#8230;]
+
+  `matched: foundation model, semiconductor`
+
+
+---
+
+
 ## 2026-11-08
 
 2 new item(s). Top hit: **Impact of the glass transition temperature on Li-ion diffusion in amorphous alloy anodes via machine learning** (score 13, npj Computational Materials).
