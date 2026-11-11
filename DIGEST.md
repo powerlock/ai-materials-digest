@@ -6,6 +6,198 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-11
+
+21 new item(s). Top hit: **MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials** (score 41, arXiv (Cornell University)).
+
+### Journal articles
+
+- **[Unveiling the Phase Transformation Mechanism in BN from Large-Scale Machine Learning Molecular Dynamics](https://doi.org/10.1021/acs.jpclett.6c02892)**
+  <br>*The Journal of Physical Chemistry Letters | 2026-11-10 | doi:10.1021/acs.jpclett.6c02892 | score 34*
+  <br>Jaeyoung Cho, Nikhil Rampal, Stephen Eric Weitzner, Graeme Henkelman
+
+  Abstract Boron nitride (BN) exhibits rich polymorphism, including cubic, hexagonal, rhombohedral, and wurtzite phases, whose dynamic transformations govern the stability and performance of BN-based materials in modern electronics, quantum photonics, and energy devices. Despite their technological importance, the atomistic mechanisms underlying its phase evolution remain poorly understood. Here, we use large-scale molecular dynamics simulations with a MACE-based machine learning interatomic potential. The potential is trained on high-fidelity density functional theory data and validated against ab initio molecular dynamics simulations to investigate phase transformation pathways in crystallin...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, molecular dynamics, machine learning, crystal`
+
+
+- **[Orientation-Tunable Interfacial Thermal Conductance in Lateral MoSe₂/MoS₂ Heterostructures: A Deep Potential Molecular Dynamics Study](https://doi.org/10.1088/1361-648x/aec07d)**
+  <br>*Journal of Physics Condensed Matter | 2026-11-10 | doi:10.1088/1361-648x/aec07d | score 25*
+  <br>Shirin Sabokdast, Pedram Mirchi, Ali Rajabpour
+
+  Abstract Managing heat flow across interfaces in lateral 2D transition-metal dichalcogenide (TMD) heterostructures is a key challenge for next-generation nanoelectronic and optoelectronic devices.To tackle this, we trained a deep learning interatomic potential (DLP) using DeePMD-kit on density functional theory (DFT) data, then paired it with non-equilibrium molecular dynamics (NEMD) simulations to study interfacial thermal conductance (ITC) in lateral MoSe₂/MoS₂ heterostructures -looking specifically at both armchair and zigzag interface orientations. The potential we trained closely matches DFT energies, forces, and phonon dispersion relations, which confirms its reliability for thermal tr...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics, deep learning, phonon, dft`
+
+
+- **[Spectral Prediction and Inverse Design of Multimode-Coupled Topological Photonic Crystal Structures Based on Fourier Feature Encoding](https://doi.org/10.1088/1361-6463/aec026)**
+  <br>*Journal of Physics D Applied Physics | 2026-11-10 | doi:10.1088/1361-6463/aec026 | score 22*
+  <br>Xu Liu Liu, Kai Guo
+
+  Abstract Customized spectral response of topological photonic crystal (TPC) structure is of great significance for its practical application. However, the complex spectral response of multimode TPC would make both conventional manual optimization and standard deep learning highly challenging. In this work, we propose a Fourier-encoded deep learning strategy that replaces full-spectrum prediction with frequency-conditioned transmittance prediction. The resulting Fourier MLP resolves sharp spectral variations and achieves high prediction accuracy (R² = 0.9836) across rapidly oscillating transmittance profiles. As a differentiable surrogate, this model effectively guides gradient-based inverse...
+
+  `matched: inverse design, deep learning, crystal`
+
+
+- **[Nitrosyl coordination compounds: a comprehensive review of synthetic strategies, bonding elucidation, spectroscopic diagnostics, and computational intelligence from DFT to machine learning and generative AI](https://doi.org/10.1515/revic-2026-0064)**
+  <br>*Reviews in Inorganic Chemistry | 2026-11-10 | doi:10.1515/revic-2026-0064 | score 21*
+  <br>Ahmed  A. Aloufi, Muteb H. Alshamari, Jan Mohammad Mir, Firdoos Ahmad Itoo
+
+  Abstract Nitrosyl coordination compounds have undergone a remarkable evolution from Priestley’s serendipitous discovery of nitric oxide to their current standing as versatile molecular platforms at the forefront of modern coordination chemistry, bioinorganic signaling, catalysis, and materials science. This comprehensive review presents an integrated and forward-looking examination of metal–nitrosyl chemistry that systematically bridges classical synthetic methodologies, fundamental bonding paradigms, advanced spectroscopic diagnostics, and cutting-edge computational intelligence. The synthetic landscape is critically surveyed as a decision-oriented framework encompassing direct NO gas react...
+
+  `matched: machine learning, generative ai, inorganic, dft`
+
+
+- **[Elucidation of Mg-Ion Diffusion Factors in Mg–O-Based Materials Using Machine-Learning Interatomic Potentials and Causal Analysis](https://doi.org/10.1021/acs.jpcc.6c04722)**
+  <br>*The Journal of Physical Chemistry C | 2026-11-10 | doi:10.1021/acs.jpcc.6c04722 | score 17*
+  <br>Keisuke Makino, Koichi Gocho, Haruka Okada, Naoto Tanibata
+
+  Abstract Mg-ion batteries are promising next-generation energy-storage systems because Mg metal offers high volumetric capacity, abundant resources, and intrinsic safety. However, Mg2+ usually diffuses slowly in solids because of its strong interaction with surrounding anion frameworks and cation environments. Here, Mg–O-based candidate materials extracted from The Materials Project were investigated to clarify the compositional and structural factors governing Mg-ion diffusion. Representative materials were selected by clustering composition descriptors and structural descriptors derived from radial distribution functions (RDFs) and angular distribution functions (ADFs). High-throughput mol...
+
+  `matched: interatomic potential, materials project`
+
+
+- **[Identifying catalyst technologies in clusters with unsupervised machine learning: an application on patent clusters in the UK](https://doi.org/10.1080/17421772.2026.2754065)**
+  <br>*Spatial Economic Analysis | 2026-11-11 | doi:10.1080/17421772.2026.2754065 | score 13*
+  <br>Usta, Andersson, Kopczewska, Kubara et al.
+
+  `matched: machine learning, catalyst`
+
+
+- **[Machine-Learning-Accelerated Metallene Stabilization from High-Throughput Sandwich Modeling](https://doi.org/10.1021/acs.nanolett.6c04636)**
+  <br>*Nano Letters | 2026-11-10 | doi:10.1021/acs.nanolett.6c04636 | score 10*
+  <br>Mohammad Bagheri, Pekka Koskinen
+
+  Abstract Metallenes have appealing properties, but stabilizing them in a monolayer phase poses synthesis challenges. A recent experiment showed that the van der Waals squeezing method can stabilize certain metallenes in a MoS2 sandwich. This pioneering work motivates systematic studies, but such studies are experimentally impractical, while first-principles modeling remains prohibitive. Here, using universal machine-learning interatomic potentials, we constructed 1620 metallene sandwich heterostructures containing 6 different sandwich layers and 45 metals. We performed phonon calculations, which revealed 1208 dynamically stable structures and narrowed them to 331 after structural filtering....
+
+  `matched: interatomic potential, phonon`
+
+
+- **[LD2AL: A deep active learning framework with learnable diffusion representations for medical hyperspectral image segmentation](https://doi.org/10.1016/j.cmpb.2026.109705)**
+  <br>*Computer Methods and Programs in Biomedicine | 2026-11-11 | doi:10.1016/j.cmpb.2026.109705 | score 7*
+  <br>Xu, Liu, Zhu, Guo et al.
+
+  `matched: active learning`
+
+
+- **[A tidal-regime-adaptive surrogate modeling framework for optimizing joint sluice–pump operations in plain tidal river networks: toward effective use of tide-induced hydraulic potential](https://doi.org/10.1016/j.envsoft.2026.107245)**
+  <br>*Environmental Modelling &amp; Software | 2026-11-11 | doi:10.1016/j.envsoft.2026.107245 | score 7*
+  <br>Huang, Wei, Tang, Ran et al.
+
+  `matched: surrogate model`
+
+
+- **[A hybrid GNN–FEM framework for phase-field fracture simulation: Physics-regularized hybridization for generalizable surrogate modeling](https://doi.org/10.1016/j.engfracmech.2026.112770)**
+  <br>*Engineering Fracture Mechanics | 2026-11-11 | doi:10.1016/j.engfracmech.2026.112770 | score 7*
+  <br>Moon, Choi, Ryu
+
+  `matched: surrogate model`
+
+
+- **[A Conceptual Proposal for an Architecture of an Adaptive Gamebook with GLA and GenAI for Interdisciplinary Learning](https://doi.org/10.5753/se4games.2026.32937)**
+  <br>*Anais do II Workshop sobre Engenharia de Software para Desenvolvimento de Jogos (SE4Games 2026) | 2026-11-11 | doi:10.5753/se4games.2026.32937 | score 6*
+  <br>Campanella, Silva, Vittori, Brandão et al.
+
+  Serious games have been widely explored to promote engagement and active learning. However, most systems lack mechanisms to dynamically adapt educational content based on learner interactions during gameplay. This work proposes a conceptual architecture for an adaptive educational gamebook that integrates Game Learning Analytics (GLA) and Generative Artificial Intelligence (GenAI) for real-time personalization of the learning experience. Based on Intelligent Tutoring Systems, the architecture defines a continuous cycle in which GLA analyzes player interactions to update a Student Model, whose state guides GenAI-based scenario and narrative generation. A functional Unity prototype was develop...
+
+  `matched: artificial intelligence, active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials](https://doi.org/10.48550/arxiv.2611.11226)**
+  <br>*arXiv (Cornell University) | 2026-11-08 | doi:10.48550/arxiv.2611.11226 | score 41*
+  <br>Junfu Tan, Mengfan Wu, Yu Zhu, Yu Shi
+
+  Machine Learning Interatomic Potentials (MLIPs) based on Equivariant Graph Neural Networks (EGNNs) have achieved remarkable progress in atomistic modeling. However, accurately representing atomic interactions across different spatial scales remains challenging. In this work, we investigate the radial spectral properties of SO(3)-equivariant message passing and establish that the cutoff radius controls the characteristic spatial-frequency scale of radial interactions. Based on this analysis, we propose Multi-Cutoff Spectral Aggregation (MCSA), a plug-and-play module that aggregates radial kernels with different cutoff radii to enrich multi-scale geometric representations. To achieve efficient...
+
+  `matched: machine learning interatomic potential, interatomic potential, graph neural network, machine learning, neural network, equivariant`
+
+
+- **[Orchestr.AI: A Unified Workflow for Training and Benchmarking of Machine-Learned Interatomic Potentials](http://arxiv.org/abs/2611.13898v1)**
+  <br>*arXiv | 2026-11-10 | score 35*
+  <br>Zain Ul Abideen, Mario Fernández-Pendás, Muhammad Usman, Camilo Rodríguez Quintero et al.
+
+  Machine-learning force fields enable atomistic simulations at near-reference accuracy and substantially reduced computational cost, but their development remains fragmented across software frameworks with incompatible data formats, configuration schemes, dependencies, and execution procedures. Orchestr.AI addresses this limitation through a unified workflow that coordinates different MLIP software frameworks, referred to as engines, for data preparation, model training, fine-tuning, evaluation, and deployment. A common YAML interface defines each experiment, while engine-specific environment profiles preserve compatible software stacks and avoid dependency conflicts. The platform currently s...
+
+  `matched: machine-learned interatomic potential, interatomic potential, benchmark`
+
+
+- **[How anion composition governs structural frameworks and Li-ion transport in oxychloride solid-state electrolytes](http://arxiv.org/abs/2611.13611v1)**
+  <br>*arXiv | 2026-11-10 | score 35*
+  <br>Jiho Lee, Seungwoo Hwang, Seungwu Han, Jisu Jung et al.
+
+  Mixed-anion lithium oxychlorides exhibit high Li conductivity, but the relationship between oxygen content, structural framework, and Li-ion transport remains unclear. Here, crystal structure prediction and molecular dynamics simulations with machine-learning interatomic potentials are used to examine $\mathrm{Li}_yM\mathrm{O}_x\mathrm{Cl}_{6-2x}$ ($M$ = Nb and Ta [Group 5] and $M$ = Ti, Zr, and Hf [Group 4]). Increasing oxygen content changes isolated chloride-rich polyhedra into one-dimensional chains and subsequently more highly connected two- and three-dimensional frameworks. In the Group 5 series, fast Li diffusion occurs over $x \approx 0.67$--1.5, where the Li sites form a three-dimen...
+
+  `matched: crystal structure prediction, solid-state electrolyte, interatomic potential, molecular dynamics, electrolyte, crystal`
+
+
+- **[Differentiable Search of Compositionally Complex Alloys](https://doi.org/10.26434/chemrxiv.15011864/v1)**
+  <br>*ChemRxiv | 2026-11-09 | doi:10.26434/chemrxiv.15011864/v1 | score 19*
+  <br>Pin-Wen Guan
+
+  Identifying solid-solution compositions in multicomponent alloys requires exploring a highdimensional design space while accounting for competing phases. We present a differentiable search framework that uses composition gradients of a thermodynamic objective to identify promising alloy regions without exhaustive grid enumeration. In the present implementation, an alchemical machine-learning interatomic potential and ideal configurational entropy provide a differentiable free-energy approximation for random solid solutions. Gradient-based optimization is combined with metadynamics biasing to explore multiple basins, and a tangent-plane criterion screens candidates against precipitation of co...
+
+  `matched: interatomic potential, alchemi, alloy`
+
+
+- **[Defects and Structural Evolution in CrSBr: Machine-Learning Potentials for Atomistic Simulations](https://doi.org/10.48550/arxiv.2611.12267)**
+  <br>*arXiv (Cornell University) | 2026-11-09 | doi:10.48550/arxiv.2611.12267 | score 19*
+  <br>Arsalan Hashemi, Daniil Kruklinskii, Xiaoya Chang, Tapio Ala-Nissilä
+
+  The layered van der Waals semiconductor CrSBr combines intrinsic magnetic order with semiconducting and optical properties, making it a promising material for multifunctional electronic and photonic applications. Understanding how defects and structural transformations affect its properties under experimentally relevant conditions, however, remains challenging for first-principles simulations due to the relevant length and time scales. Here, we develop and benchmark machine-learning interatomic potentials (MLIPs) for the Cr-S-Br system, enabling large-scale atomistic simulations of CrSBr with accuracy approaching that of density functional theory (DFT). The charge-aware variant qNEP achieves...
+
+  `matched: density functional theory, interatomic potential, semiconductor, benchmark, magnet, dft`
+
+
+- **[TEBench: a source-labelled thermoelectric data collection with leakage-safe splits and baselines for machine learning](https://doi.org/10.26434/chemrxiv.15011944/v1)**
+  <br>*Crossref | 2026-11-11 | doi:10.26434/chemrxiv.15011944/v1 | score 17*
+  <br>Rapaka
+
+  Machine-learning thermoelectric scores are difficult to compare when source provenance and split groups differ. TEBench organises Starrydata Experiment-labelled curves (30,530 samples, 1,648,315 points, 6,045 papers), a JARVIS-DFT extract (23,558 structures) and an audited bulk Bi2Te3 workbook (740 records, 151 DOIs) as separate domains. DFT and experiment are never pooled. Canonical composition keys, paper/family/formula grouping and an eight-paper own-data hold-out support leakage review. The original Bi2Te3 Seebeck random forest reaches test R2 = 0.935 but own-paper R2 = −1.21. A κ-specific physical screening rule retains 257,647 Starrydata points before composition parsing and split join...
+
+  `matched: machine learning, thermoelectric, dft`
+
+
+- **[Alchemically Transferable Parameters for Variational Quantum Eigensolvers](http://arxiv.org/abs/2611.11445v1)**
+  <br>*arXiv | 2026-11-08 | score 17*
+  <br>Jonas Motyl, Jakob S. Kottmann
+
+  Machine-learned circuit parameters could remove one of the main bottlenecks of variational quantum eigensolvers: the classical optimization loop, with its typical barren plateaus, local minima, and costly energy and gradient evaluations, is replaced by a direct prediction. Prior work showed that machine-learning models paired with a structured circuit design can transfer across system size and structure within hydrogenic systems. The next step: Extending them to organic molecules would seem to require re-training on use-case-specific training sets. In this work, we show that this is not necessary by establishing an alchemical approach. A geometric projection places surrogate hydrogen atoms a...
+
+  `matched: alchemi`
+
+
+- **[Optimization of Laser Ablation Resistance for Multilayer Heterogeneous Thin Films Based on Optical–Thermal–Ablation Coupling and a BP Neural Network Surrogate Model](https://doi.org/10.21203/rs.3.rs-11533304/v1)**
+  <br>*Crossref | 2026-11-11 | doi:10.21203/rs.3.rs-11533304/v1 | score 14*
+  <br>Shen, Zheng, He, Cui et al.
+
+  Abstract The thermophysical response of multilayer heterogeneous thin films under continuous-wave laser heating involves non-uniform volumetric heat generation modulated by interference-induced standing-wave absorption, which governs the layer-by-layer phase-change sequence and the ultimate thermal failure threshold—a coupling that conventional Beer–Lambert approximations fail to capture. This study develops an optical–thermal–ablation coupled model that resolves the standing-wave absorption profile and couples it to temperature-dependent transient heat conduction with latent-heat effects, validated against laser-damage experiments at seven power levels. A two-stage surrogate-based framework...
+
+  `matched: surrogate model, neural network`
+
+
+- **[Ab Initio Molecular Dynamics-Guided Machine-Learning Potentials for Mapping Nitric Oxide Interactions with Oxygen-Covered Graphite](https://doi.org/10.48550/arxiv.2611.12573)**
+  <br>*arXiv (Cornell University) | 2026-11-09 | doi:10.48550/arxiv.2611.12573 | score 13*
+  <br>Yaideny Rodriguez Linares, Gilberto A. Alou Angulo, Samuel Del Fré, Maurice Monnerville
+
+  Exploratory ab initio molecular dynamics is used to construct machine-learning interatomic potentials for NO interactions with highly oriented pyrolytic graphite at 33\% bridge-site oxygen coverage. Representative configurations sampled across surface temperatures and incidence energies provide reference energies and forces for training and validation. The selected potential enables relaxation of 300 adsorption configurations and construction of spatial and angular interaction maps. These maps reveal increasingly restricted attractive regions during vertical approach and reduced short-range repulsion upon molecular reorientation. The resulting adsorption geometries and interaction landscapes...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[The Reverse Pourbaix Explorer: a condition-first screening tool of aqueous stability on the Materials Project](https://doi.org/10.26434/chemrxiv.15011970/v1)**
+  <br>*Crossref | 2026-11-11 | doi:10.26434/chemrxiv.15011970/v1 | score 12*
+  <br>Karlsson, Chiu, Mathis, Foley et al.
+
+  Aqueous stability is a critical constraint in the discovery of materials for electrocatalysis, corrosion-resistant systems, and electrochemical energy technologies. Conventional Pourbaix analysis follows a material-first workflow in which a predefined composition is evaluated across pH and electrochemical potential. Here, we introduce the Reverse Pourbaix Explorer, an interactive, condition-first screening application hosted on the Materials Project. This tool identifies structures predicted to be stable at user-selected aqueous operating conditions using a pre-computed dataset of Pourbaix decomposition energies evaluated across pH and potential. Users select an operating condition and stabi...
+
+  `matched: materials project, dataset`
+
+
+---
+
+
 ## 2026-11-10
 
 28 new item(s). Top hit: **Reweighting Free Energy Profiles with Universal Machine Learning Interatomic Potentials for Fast Consensus Bui** (score 48, Journal of Chemical Theory and Computation).
