@@ -6,6 +6,97 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-12
+
+10 new item(s). Top hit: **Orchestr.AI: A Unified Workflow for Training and Benchmarking of Machine-Learned Interatomic Potentials** (score 35, arXiv (Cornell University)).
+
+### Journal articles
+
+- **[Modeling the inner electric double layer using short-range machine learning potentials: A critical assessment](https://doi.org/10.1063/5.0359674)**
+  <br>*The Journal of Chemical Physics | 2026-11-11 | doi:10.1063/5.0359674 | score 28*
+  <br>Lucas B. T. de Kam, Jiaxin Zhu, Ankit Mathanker, Katharina Doblhoff-Dier
+
+  Atomistic simulations of electrochemical interfaces typically require large system sizes and long simulation times to obtain reliable thermodynamic properties. In this context, machine learning interatomic potentials (MLIPs) allow for computationally efficient sampling compared to density functional theory-based molecular dynamics simulations. Although conventional short-range MLIPs are recognized as inadequate for modeling the (potentially nanometer-wide) diffuse layer, they may still be capable of describing the inner electric double layer that is relevant for electrochemical reactions. Here, we evaluate the performance of common (short-ranged) MLIP architectures [the deep potential DP, th...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, molecular dynamics, machine learning`
+
+
+- **[Thickness-Dependent Mechanical Response of Recycled HPDC A383 Alloy under Short-Time T6 Treatment: Random Forest Surrogate Modeling and NSGA-II-Based Inverse Design](https://doi.org/10.1007/s40962-026-02205-w)**
+  <br>*International Journal of Metalcasting | 2026-11-12 | doi:10.1007/s40962-026-02205-w | score 23*
+  <br>Kim, Lee, Park, Sim et al.
+
+  `matched: surrogate model, inverse design, alloy`
+
+
+- **[Generative inverse estimation of 3D atomic coordination from near-edge spectra via equivariant diffusion models](https://www.nature.com/articles/s41524-026-02384-4)**
+  <br>*npj Computational Materials | 2026-11-12 | doi:10.1038/s41524-026-02384-4 | score 19*
+
+  `matched: diffusion model, equivariant`
+
+
+- **[Innovative Approaches using Generative Artificial Intelligence (GAI) with Diffusion Models, GANs, and Optimization of Spectrum, Power, Routing, and Network Scheduling in Wireless Networks](https://doi.org/10.55041/ijmat.v4i10.001)**
+  <br>*International Journal of Multidisciplinary Academic Research and Trends | 2026-11-12 | doi:10.55041/ijmat.v4i10.001 | score 13*
+  <br>Sharma, Kumar, Garg, K et al.
+
+  `matched: artificial intelligence, diffusion model`
+
+
+- **[Open foundation models for clinical AI](https://www.nature.com/articles/s43588-026-01094-7)**
+  <br>*Nature Computational Science | 2026-11-12 | doi:10.1038/s43588-026-01094-7 | score 11*
+
+  `matched: foundation model`
+
+
+- **[KazumaIto0810/Fe-H_NQC-PACE: Fe-H NQC-PACE v1.0.0](https://doi.org/10.5281/zenodo.24126376)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-11 | doi:10.5281/zenodo.24126376 | score 7*
+  <br>KazumaIto0810
+
+  Initial release of the Fe–H nuclear-quantum-corrected PACE (NQC-PACE) machine-learning interatomic potential used in the associated research article. This release provides the trained interatomic potential for simulations of hydrogen in α-iron, incorporating nuclear quantum effects at 300 K.
+
+  `matched: interatomic potential`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Orchestr.AI: A Unified Workflow for Training and Benchmarking of Machine-Learned Interatomic Potentials](https://doi.org/10.48550/arxiv.2611.13898)**
+  <br>*arXiv (Cornell University) | 2026-11-10 | doi:10.48550/arxiv.2611.13898 | score 35*
+  <br>Zain Ul Abideen, Mario Fernández-Pendás, Muhammad Usman, Camilo Rodríguez Quintero
+
+  Machine-learning force fields enable atomistic simulations at near-reference accuracy and substantially reduced computational cost, but their development remains fragmented across software frameworks with incompatible data formats, configuration schemes, dependencies, and execution procedures. Orchestr.AI addresses this limitation through a unified workflow that coordinates different MLIP software frameworks, referred to as engines, for data preparation, model training, fine-tuning, evaluation, and deployment. A common YAML interface defines each experiment, while engine-specific environment profiles preserve compatible software stacks and avoid dependency conflicts. The platform currently s...
+
+  `matched: machine-learned interatomic potential, interatomic potential, benchmark`
+
+
+- **[How anion composition governs structural frameworks and Li-ion transport in oxychloride solid-state electrolytes](https://doi.org/10.48550/arxiv.2611.13611)**
+  <br>*arXiv (Cornell University) | 2026-11-10 | doi:10.48550/arxiv.2611.13611 | score 35*
+  <br>Jiho Lee, Seungwoo Hwang, Seungwu Han, Jisu Jung
+
+  Mixed-anion lithium oxychlorides exhibit high Li conductivity, but the relationship between oxygen content, structural framework, and Li-ion transport remains unclear. Here, crystal structure prediction and molecular dynamics simulations with machine-learning interatomic potentials are used to examine $\mathrm{Li}_yM\mathrm{O}_x\mathrm{Cl}_{6-2x}$ ($M$ = Nb and Ta [Group 5] and $M$ = Ti, Zr, and Hf [Group 4]). Increasing oxygen content changes isolated chloride-rich polyhedra into one-dimensional chains and subsequently more highly connected two- and three-dimensional frameworks. In the Group 5 series, fast Li diffusion occurs over $x \approx 0.67$--1.5, where the Li sites form a three-dimen...
+
+  `matched: crystal structure prediction, solid-state electrolyte, interatomic potential, molecular dynamics, electrolyte, crystal`
+
+
+- **[Machine Learning-Driven High-Throughput Discovery of Energetic Materials Based on Regioisomeric Pyrazole Scaffolds](https://doi.org/10.26434/chemrxiv.15012060/v1)**
+  <br>*Crossref | 2026-11-12 | doi:10.26434/chemrxiv.15012060/v1 | score 21*
+  <br>Chunjie, Hao, Pang, Dong et al.
+
+  The energy-safety trade-off remains the central challenge in energetic materials design. This study constructs a virtual library of 25,417 derivatives based on two regioisomeric pyrazole scaffolds and trains predictive models using Density Functional Theory (DFT) data from 413 molecules. Unlike conventional approaches, we systematically benchmarked three descriptor families and identified RDKit global physicochemical descriptors as superior to Morgan fingerprints, revealing that global molecular properties govern detonation performance in this regioisomeric system. Among six evaluated machine learning algorithms, Extreme Gradient Boosting (XGBoost) was identified as the optimal base model. B...
+
+  `matched: density functional theory, machine learning, materials design, benchmark, dft`
+
+
+- **[End-to-End Learning from Experimental Data: Integrating the PC-SAFT Equation of State into Neural Networks Training for Improved Polymer Parameter Estimation](https://doi.org/10.26434/chemrxiv.15011908/v2)**
+  <br>*Crossref | 2026-11-12 | doi:10.26434/chemrxiv.15011908/v2 | score 17*
+  <br>Ismaeel, Ricci, Krokidas, Gkatsis et al.
+
+  Accurate and computationally efficient thermodynamic models are essential for the design, optimization, and operation of many (bio)chemical processes involving polymer solutions, blends, and membranes. In this work, we combine machine learning (ML) with the PC-SAFT equation of state (EoS) to predict the non-associating pure component parameters for polymers, enabling the rapid evaluation of the pressure–volume–temperature (PVT) behavior of polymer melts and rubbers. Using a dataset of more than 5,400 PVT measurements for 78 chemically diverse polymers, we systematically evaluate the effects of EoS integration in the training process, the molecular representation, neural network architecture,...
+
+  `matched: machine learning, neural network, polymer, dataset`
+
+
+---
+
+
 ## 2026-11-11
 
 21 new item(s). Top hit: **MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials** (score 41, arXiv (Cornell University)).
