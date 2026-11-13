@@ -6,6 +6,204 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-13
+
+21 new item(s). Top hit: **ORCHID-SAGE: Fully Reproducible CALPHAD Assessment from Evidence to Phase Diagram** (score 34, arXiv).
+
+### Journal articles
+
+- **[Prediction of Polymer Adhesion and Inverse Design of Heterogeneous Surfaces using Data-Driven Approaches](https://doi.org/10.1039/d6me00104a)**
+  <br>*Molecular Systems Design &amp; Engineering | 2026-11-13 | doi:10.1039/d6me00104a | score 17*
+  <br>Panigrahy, James, Nayar
+
+  Engineering selective polymer adsorption to chemically heterogeneous surfaces involves complex free-energy landscapes shaped by adhesion strength, polymer sequences, surface patterns and compositions. Such a surface recognition requires sequence-specific spatial matching...
+
+  `matched: inverse design, polymer`
+
+
+- **[Extreme anharmonicity determines the superionic transition in the prototypical antifluorite Li2O](https://doi.org/10.24435/materialscloud:5b-57)**
+  <br>*NCCR MARVEL | 2026-11-12 | doi:10.24435/materialscloud:5b-57 | score 13*
+  <br>Lorenzo Bastonero, Chiara Cignarella, Nicola Marzari, Lorenzo Monacelli
+
+  Superionic conductors are promising electrolyte candidates for all-solid-state batteries, thanks to their liquid-like ionic mobility. In the prototypical lithium-ion oxide superionic conductor with antifluorite structure, the high-temperature transition to the fast-ion regime has long been attributed to volume-driven harmonic phonon softening. However, this quasi-harmonic picture neglects the strong lattice anharmonicity inherent to the fast-ion regime, leaving the microscopic origin of the transition unresolved. Here, we apply non-perturbative lattice dynamics combined with a first-principles-accurate machine-learning interatomic potential to study the phase transition in Li2O. We demonstra...
+
+  `matched: interatomic potential, electrolyte, phonon`
+
+
+- **[Performance of two machine-learning interatomic potentials for studying hydrogen isotope diffusion in vanadium](https://doi.org/10.1016/j.commatsci.2026.115194)**
+  <br>*Computational Materials Science | 2026-11-12 | doi:10.1016/j.commatsci.2026.115194 | score 13*
+  <br>Prashanth Srinivasan, Krishna Chaitanya Pitike, Wahyu Setyawan, Mark R. Gilbert
+
+  `matched: interatomic potential`
+
+
+- **[Navigating barriers and opportunities in active learning](https://doi.org/10.1344/reire.54547)**
+  <br>*REIRE Revista d'Innovació i Recerca en Educació | 2026-11-13 | doi:10.1344/reire.54547 | score 9*
+  <br>Børte
+
+  Introduction. Active learning has for decades been promoted as a key principle of quality in higher education, yet its large-scale adoption remains uneven. Despite strong policy expectations and a substantial research base, traditional lecture-based practices continue to dominate many university contexts. Method. This conceptual paper explores how teachers can navigate barriers and opportunities in active learning in higher education by drawing on research into this approach to teaching, its historical and theoretical perspectives, barriers to pedagogical innovation, and the emerging literature on generative artificial intelligence (GenAI). Results & Discussion. Previous research shows that...
+
+  `matched: artificial intelligence, active learning`
+
+
+- **[Behavioral and Anomaly Analytics using Generative Models](https://doi.org/10.1201/9781003658368-9)**
+  <br>*Generative AI for Fraud Detection | 2026-11-13 | doi:10.1201/9781003658368-9 | score 9*
+  <br>Tyagi, Tiwari
+
+  `matched: generative model`
+
+
+- **[Advancing active learning in higher education through evidence, innovation and pedagogical transformation](https://doi.org/10.1344/reire.57142)**
+  <br>*REIRE Revista d'Innovació i Recerca en Educació | 2026-11-13 | doi:10.1344/reire.57142 | score 7*
+  <br>Stoyanova, Gómez-Puig
+
+  Active learning is a student-centred approach that promotes engagement, participation and responsibility for learning through discussion, collaboration, problem-solving, reflection and knowledge application. Students actively construct understanding, while lecturers facilitate learning through meaningful educational experiences. Various methodologies support active learning, including problem-based learning, collaborative tasks, simulations, research-based activities and the flipped classroom. Their effectiveness depends on the alignment between learning outcomes, activities and assessment, and on cognitive and social engagement. Research suggests that deeper learning occurs when students ge...
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[ORCHID-SAGE: Fully Reproducible CALPHAD Assessment from Evidence to Phase Diagram](http://arxiv.org/abs/2611.16308v1)**
+  <br>*arXiv | 2026-11-12 | score 34*
+  <br>Raymundo Arróyave
+
+  Knowledge of phase stability is the first requirement for materials design, and predicting the conditions under which new materials can be synthesized has become a key capability of self-driving laboratories (SDLs). For inorganic materials, notably alloys, these predictions come from thermodynamic databases built with the CALPHAD method. Building a database, however, requires expert judgment at many steps, and because these decisions are rarely recorded, others can use a database but cannot regenerate or update it. Machines can already collect the data, build a first model with machine-learned interatomic potentials and refine it against experiments. The assessment itself, the sequence of ju...
+
+  `matched: machine-learned interatomic potential, interatomic potential, materials design, self-driving lab, inorganic, alloy`
+
+
+- **[Materials research with a general-purpose agent](http://arxiv.org/abs/2611.15451v1)**
+  <br>*arXiv | 2026-11-11 | score 32*
+  <br>Paulo R. Pires, Théo Cavignac, Tiago F. T. Cerqueira, Hai-Chen Wang et al.
+
+  Over the last decade we have built Alexandria, an open database of about 15 million density-functional calculations of crystals. It includes PBE, PBEsol, SCAN and TB-mBJ results, structures relaxed at pressures up to 150 GPa, dielectric tensors and about 145,000 electron-phonon calculations, together with more than 400 million structures relaxed with machine-learned potentials. On these data we trained a generative model for crystal structures, a universal interatomic potential and graph neural networks for more than ten properties, from band gaps to superconducting critical temperatures. From the convex hull we computed a reaction graph of the 17.4 billion reactions between its 193,416 stab...
+
+  `matched: interatomic potential, graph neural network, generative model, neural network, convex hull, band gap`
+
+
+- **[Brute-force molecular dynamics simulation of aging in amorphous Ge$_2$Sb$_2$Te$_5$](http://arxiv.org/abs/2611.15664v1)**
+  <br>*arXiv | 2026-11-11 | score 30*
+  <br>Elisa Petroni, Dario Baratella, Omar Abou El Kheir, Andrea Redaelli et al.
+
+  Chalcogenide alloys such as the prototypical Ge$_2$Sb$_2$Te$_5$ compound are used in phase change electronic memories due to their ability to undergo a fast and reversible transition between the amorphous and crystalline phases upon heating. The amorphous phase is subject to aging that leads to an increase in the electrical resistance, which is detrimental to the operation of the devices. Using a machine learning interatomic potential, we have investigated the structural relaxations responsible for aging in amorphous Ge$_2$Sb$_2$Te$_5$ in molecular dynamics simulations at temperatures slightly below the glass transition. The aging simulation, lasting about 100 ns, follows an equilibration of...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, crystal, alloy`
+
+
+- **[Competing Octahedral Tilting and $B$-Site Off-Centering Govern the Phase Diagram of CsGe$_{1-x}$Sn$_x$Br$_3$ Perovskite Alloys](http://arxiv.org/abs/2611.15200v1)**
+  <br>*arXiv | 2026-11-11 | score 29*
+  <br>Apinya Ngoipala, Erik Fransson, Paul Erhart, Julia Wiktor
+
+  Lead-free halide perovskites based on Ge and Sn avoid the toxicity of Pb, but the two cations favor different structural distortions. The stereochemically active Ge $4s^2$ lone pair drives polar $B$-site off-centering, whereas the larger Sn$^{2+}$ cation favors octahedral tilting. Here, we map how these two instabilities compete across the full composition range of CsGe$_{1-x}$Sn$_x$Br$_3$ using large-scale molecular dynamics simulations with a charge-aware machine-learned interatomic potential trained on hybrid-functional data. At low temperature the alloy exhibits a morphotropic phase boundary between $x=0.60$ and $0.65$ that separates a ferroelectric monoclinic $Cc$ phase from a monoclini...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics, perovskite, alloy`
+
+
+- **[Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of semiconductor interfaces](http://arxiv.org/abs/2611.14948v1)**
+  <br>*arXiv | 2026-11-11 | score 19*
+  <br>Feiyu Zhou, Wei Qiu, Fei Shuang, Yilun Liu et al.
+
+  State-of-the-art atomistic foundation models provide broadly transferable energy and force predictions, but their direct deployment in large-scale molecular dynamics remains computationally costly. Here we examine whether their knowledge can be distilled into compact potentials while retaining the physical responses of heterogeneous semiconductor interfaces. From 128 pretrained models spanning 22 model families, we select a fixed EquiformerV3 teacher and train atomic cluster expansion (ACE) and neuroevolution potential (NEP) students without target-specific teacher fine-tuning, with both simulation speed and accessible system size improved by several orders of magnitude relative to the teach...
+
+  `matched: molecular dynamics, foundation model, semiconductor`
+
+
+- **[High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurtzite Semiconductors](http://arxiv.org/abs/2611.15138v1)**
+  <br>*arXiv | 2026-11-11 | score 17*
+  <br>Gustavo Madrigal, Cibrán López, Jordi Llorca, Claudio Cazorla
+
+  Surfaces and interfaces govern the performance of wurtzite semiconductors in electronics, sensing, and solar-fuel conversion. To date, first-principles studies have focused mostly on high-symmetry low-index facets, owing to the computational cost and complexity of modelling low-symmetry high-index surfaces. In practice, however, surface formation energy is determined by the planar atomic density and the strength of the bonds severed upon cleavage, neither of which inherently excludes high-Miller-index surfaces from being energetically competitive. Here, we combine automated surface generation, machine-learning interatomic potential screening, and density functional theory to explore 226 clea...
+
+  `matched: density functional theory, interatomic potential, formation energy, semiconductor`
+
+
+- **[Edge-scaling softening of a universal machine-learned potential: point-defect formation energies in a coronene graphene quantum dot](http://arxiv.org/abs/2611.16528v1)**
+  <br>*arXiv | 2026-11-12 | score 15*
+  <br>Andrii Tuzhykov, Vladimir Soloviev, Arnold Kiv, Andrii Bielinskyi
+
+  Universal machine-learning interatomic potentials (MLIPs) are increasingly used as computationally efficient surrogates for density functional theory (DFT) in high-throughput nanomaterials screening. Systematic softening has been reported for several universal MLIPs when high-energy and far-from-equilibrium configurations are underrepresented in training data. We examine how this behavior appears at under-coordinated edge sites in graphene quantum dots (GQDs), where a vacancy can have pronounced molecular-radical character. Using coronene (C$_{24}$H$_{12}$), a hexagonal GQD with $D_{6h}$ symmetry and three carbon classes, we benchmark SevenNet (7net-omni-i12) against spin-polarized PBE DFT (...
+
+  `matched: density functional theory, interatomic potential, benchmark, dft`
+
+
+- **[HARMONY: an efficient and accurate deep learning framework for prediction of experimental vibrational spectra](http://arxiv.org/abs/2611.16342v1)**
+  <br>*arXiv | 2026-11-12 | score 14*
+  <br>Xinyu Lu, Bowen Li, Yi Rong, Qingling Zhou et al.
+
+  Predicting experimental vibrational spectra requires both efficient molecular calculations and a reliable mapping from theoretical vibrations to measured signals. Here we introduce \textbf{HARMONY}, a two-stage deep-learning framework that bridges this gap using harmonic spectra as physical anchors. Equivariant neural networks directly predict atomic forces and spectroscopic tensors for rapid harmonic-spectrum construction, while HarmoNet combines these spectra with molecular topology and measurement metadata to predict experimental infrared and Raman spectra. HARMONY achieves mean cosine similarities of 0.912 for infrared and 0.907 for Raman spectra, with a mean inference time of 2.12~s per...
+
+  `matched: neural network, deep learning, equivariant`
+
+
+- **[Hessian- and Property-Aware Learning of Analytic Bond-Order Potentials](https://doi.org/10.26434/chemrxiv.15011976/v1)**
+  <br>*ChemRxiv | 2026-11-11 | doi:10.26434/chemrxiv.15011976/v1 | score 14*
+  <br>JunHo Song, Kyoungmin Min
+
+  Empirical bond-order potentials make large carbon simulations affordable, yet none of eight parameter sets tested reproduces both the elastic constants and the out-of-plane phonons of graphene; the Lindsay-Broido Tersoff parametrization gives C12 = 23.2N m -1 against 63.2 N m -1 in DFT (-63%) and an out-of-plane optical frequency ZO(Γ) of 1,303 against 872 cm -1 (+49%).The two most accurate universal machine-learning interatomic potentials tested close this gap with 5 × 10 7 to 3 × 10 8 parameters.Here we introduce HALO, a constrained training procedure for analytic potentials that keeps the lattice constant, cohesive energy, C11, C12 and the G-peak position Pos(G), i.e. the frequency of the...
+
+  `matched: interatomic potential, phonon, dft`
+
+
+- **[Systematic Evaluation of Training Data Generation Strategies for Machine Learning-Based Molecular and Materials Property Prediction](http://arxiv.org/abs/2611.16792v1)**
+  <br>*arXiv | 2026-11-12 | score 12*
+  <br>Minh Nghia Nguyen, Beate Paulus, Akhil S. Nair
+
+  Machine-learning (ML) models for molecular and materials property prediction are often trained on large datasets curated through arbitrary or generic sampling strategies. Such approaches can lead to the over- or under-representation of regions of chemical and materials space that are most relevant to the prediction task. An important challenge is therefore how to efficiently curate training data to maximize predictive performance while minimising the number of labelled examples required. Here, we systematically compare training data acquisition strategies for molecular and materials property prediction, ranging from random sampling to various active learning approaches. We evaluate their per...
+
+  `matched: machine learning, active learning, dataset`
+
+
+- **[Machine-accelerated extraction of experimental superconducting parameters for physical insight and prediction across thousands of materials](http://arxiv.org/abs/2611.15627v1)**
+  <br>*arXiv | 2026-11-11 | score 12*
+  <br>Mihir Manium, Benjamin Geisler, Peter J. Hirschfeld, Amalia I. Coldea
+
+  New superconductors could unlock next-generation technologies from nuclear fusion to lossless electronics. Machine learning can predict candidate superconductors but lacks validated experimental training data beyond the critical temperature. Here we present AutoSuperCon, a database of eight superconducting parameters, containing 20354 entries for 6793 superconductors. The data were extracted from over 47000 arXiv preprints using a large language model and validated against reference datasets ($R^2 = 0.96$ with NIMS SuperCon). Using AutoSuperCon, we show that median gap ratios rise from 3.6 in conventional superconductors to 6.4 in cuprates, 28% of upper critical fields exceed the Pauli limit...
+
+  `matched: large language model, machine learning, superconductor, dataset`
+
+
+- **[eRoboChem: Autonomous Electrosynthesis Across Redox Modes and Reactor Designs](https://doi.org/10.26434/chemrxiv.15012097/v1)**
+  <br>*ChemRxiv | 2026-11-12 | doi:10.26434/chemrxiv.15012097/v1 | score 10*
+  <br>Morgan Regnier, Oliver M. Bayley, Guillaume Hopsort, Elia Savino
+
+  Synthetic electrochemistry offers powerful opportunities for molecular synthesis, yet its broader adoption remains hindered by the complexity of electrochemical reaction development. Beyond conventional reaction parameters, electrosynthesis requires careful choice of electrode materials, reactor designs and control of electron transfer, creating a complex experimental and optimisation challenge that can deter many synthetic chemists. Here, we introduce eRoboChem, a modular self-driving laboratory that integrates automated experimentation, analytical feedback and Bayesian optimisation across complementary flow and batch electrochemical reactors. Its versatility is demonstrated through three t...
+
+  `matched: self-driving lab`
+
+
+- **[Quantum Material Generation via Coherent Hamiltonian Search](http://arxiv.org/abs/2611.16016v1)**
+  <br>*arXiv | 2026-11-11 | score 8*
+  <br>Jiang Yuhan, Matthew Otten
+
+  Discovering new materials with targeted properties is a central goal of materials science, yet the space of candidates is vast. Data-driven generative models learn the distribution of known materials, but they extrapolate poorly, and a generated structure is not known to be stable. A material's properties follow from its Hamiltonian, and a quantum computer can calculate them from it. We introduce the quantum material generative algorithm (QMage), a coherent search, guided by the Hamiltonian, over crystalline configurations of atomic composition, unit cell structure, and atomic positions, for one whose calculated properties meet the targets to within a given error tolerance. The computation i...
+
+  `matched: generative model, crystal`
+
+
+- **[Physical consistency and completeness in the data-driven modeling of microwave absorbing materials](https://doi.org/10.26434/chemrxiv.15012153/v1)**
+  <br>*Crossref | 2026-11-13 | doi:10.26434/chemrxiv.15012153/v1 | score 7*
+  <br>Zeng
+
+  Machine learning (ML) has been applied to the modeling of microwave absorbing materials, including the prediction of electromagnetic parameters and reflection loss (RL), yet the physical consistency of such models is rarely examined. This paper addresses two types of physical consistency problems in data-driven modeling: the physical inconsistency of predicted outputs and the physical incompleteness of input features. On the output side, we constructed a numerical integrator based on the Kramers-Kronig (KK) relation to test permittivity spectra output by ML models. The results show that none of the four examined spectra from three studies satisfied the KK relation, indicating that the model...
+
+  `matched: machine learning, magnet`
+
+
+### Conference papers
+
+- **[Are Scaling Laws of Universal MLIPs Universal?](http://arxiv.org/abs/2611.15603v1)**
+  <br>*arXiv | 2026-11-11 | score 21*
+  <br>Accepted/presented: NeurIPS | Theo Keane, Anthony Onwuli, Richard Tomsett, Robert M. Forrest et al.
+
+  Neural scaling laws enable the prediction of returns from larger training datasets, but machine-learned interatomic potential (MLIP) datasets are heterogeneous and expensive to generate, and equal numbers of structures need not contain equal amounts of useful information. We study data scaling under fixed model configurations for M3GNet, MACE, and PET trained on subsets of a combined MatPES-MP-ALOE training pool. Across training structure subsets from 10,000 to 640,000, together with the full 1.16-million-structure training set, we compare uniform random sampling, three chemistry- and structure-informed stratification policies, iterative DIRECT, and furthest-point sampling using embeddings f...
+
+  `matched: machine-learned interatomic potential, interatomic potential, dataset`
+
+
+---
+
+
 ## 2026-11-12
 
 10 new item(s). Top hit: **Orchestr.AI: A Unified Workflow for Training and Benchmarking of Machine-Learned Interatomic Potentials** (score 35, arXiv (Cornell University)).
