@@ -6,6 +6,114 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-14
+
+11 new item(s). Top hit: **Brute-force molecular dynamics simulation of aging in amorphous Ge$_2$Sb$_2$Te$_5$** (score 30, arXiv (Cornell University)).
+
+### Journal articles
+
+- **[Inverse Design of Inorganic Compounds with Generative AI](https://doi.org/10.1021/jacs.6c18007)**
+  <br>*Journal of the American Chemical Society | 2026-11-13 | doi:10.1021/jacs.6c18007 | score 29*
+  <br>Hannes Kneiding, Lucía Morán‐González, Nishamol Kuriakose, Ainara Nova
+
+  Abstract Machine learning is revolutionizing chemistry. Beyond the value of predictive models accelerating virtual screening, generative AI aims at enabling inverse design, reversing the compound-to-property prediction paradigm into property-to-compound generation. Chemists now have access to a rich AI toolbox for organic chemistry, including drug discovery. However, the application of these methods to inorganic compounds remains limited by the challenges posed by their intrinsic nature. This perspective analyzes how these challenges have been addressed, considering widely diverse systems ranging from molecules to crystals, including transition metal complexes and microporous materials. The...
+
+  `matched: machine learning, inverse design, generative ai, inorganic, crystal`
+
+
+- **[Percolation and site energy distribution jointly control Li+ transport in disordered rocksalt positive electrodes](https://doi.org/10.1038/s41467-026-79420-w)**
+  <br>*Nature Communications | 2026-11-13 | doi:10.1038/s41467-026-79420-w | score 23*
+  <br>Junhong Liao, Zihui Li, Hao Chen, Yaoshu Xie
+
+  Abstract Disordered rocksalt positive electrodes are promising candidates for high-energy batteries, yet their ion transport kinetics is constrained by an incomplete understanding of Li transport in disordered environments. Conventional percolation theory focuses on topological connectivity but often overlooks the critical role of the energy landscape. Here, leveraging actively fine-tuned machine learning interatomic potentials combined with experimental validation, we quantitatively resolve the interplay between Li percolation connectivity and the Li-site energy distribution. We reveal a trade-off whereby increasing cation disorder enhances topological connectivity but concurrently broadens...
+
+  `matched: machine learning interatomic potential, experimental validation, interatomic potential, machine learning`
+
+
+- **[AmorphGen: A Python package for amorphous structure generation with machine-learning and classical interatomic potentials](https://doi.org/10.5281/zenodo.24207926)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-13 | doi:10.5281/zenodo.24207926 | score 16*
+  <br>Chaiyawat Kaewmeechai, Louie Slocombe, Alexis G. Manche, David O. Scanlon
+
+  AmorphGen generates amorphous structure models by melt-quench molecular dynamics, by random placement, or by random placement followed by a melt-quench anneal, using machine-learning interatomic potentials (MACE, CHGNet, SevenNet) or classical potentials, and analyses the resulting ensembles.
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[A K‐space guided invertible diffusion model for accelerating MRI reconstruction](https://doi.org/10.1002/mp.70765)**
+  <br>*Medical Physics | 2026-11-14 | doi:10.1002/mp.70765 | score 14*
+  <br>Yang, Zhu, Yu, Chen et al.
+
+  Abstract Background Magnetic resonance imaging (MRI), a core technology in clinical medical diagnosis, has long aimed to balance imaging quality and acquisition efficiency. Traditional MRI techniques, limited by the Nyquist‐Shannon sampling theorem, are faced with significant challenges in high‐acceleration‐factor imaging, including artifacts and detail loss due to sparse sampling. While existing parallel imaging, compressed sensing, and deep learning methods have improved reconstruction efficiency, they have limitations such as insufficient integration of electromagnetic physics models with biological tissue prior information, inadequate high‐frequency information recovery, and high computa...
+
+  `matched: diffusion model, deep learning, magnet`
+
+
+- **[Energy-based phase physics-informed neural networks for indentation mechanics in high-entropy alloys](https://doi.org/10.1007/s10853-026-14108-6)**
+  <br>*Journal of Materials Science | 2026-11-14 | doi:10.1007/s10853-026-14108-6 | score 11*
+  <br>Nguyen, Le, Lien, Fang et al.
+
+  `matched: neural network, alloy`
+
+
+- **[Needs Analysis of Interactive Learning Media Based on Local Biodiversity for Senior High School Science Education in the Kei Islands, Southeast Maluku](https://doi.org/10.62159/isej.v7i3.2488)**
+  <br>*ISEJ : Indonesian Science Education Journal | 2026-11-14 | doi:10.62159/isej.v7i3.2488 | score 7*
+  <br>Jeujanan, Rochintaniawati, Riandi, Rahman et al.
+
+  Science learning resources that authentically represent local biodiversity remain limited in senior high schools, particularly in the Kei Islands of Southeast Maluku, Indonesia. This study identified students' and teachers' perceived needs for developing interactive learning media based on local biodiversity for senior high school science education. A descriptive survey was conducted with 23 students from one senior high school and 12 biology and science teachers from several senior high schools in the Kei Islands, recruited using purposive sampling. Data were collected using separate 23-item Likert-scale questionnaires with open-ended questions. Two science education experts reviewed the qu...
+
+  `matched: active learning`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Brute-force molecular dynamics simulation of aging in amorphous Ge$_2$Sb$_2$Te$_5$](https://doi.org/10.48550/arxiv.2611.15664)**
+  <br>*arXiv (Cornell University) | 2026-11-11 | doi:10.48550/arxiv.2611.15664 | score 30*
+  <br>Elisa Petroni, Dario Baratella, Omar Abou El Kheir, Andrea Redaelli
+
+  Chalcogenide alloys such as the prototypical Ge$_2$Sb$_2$Te$_5$ compound are used in phase change electronic memories due to their ability to undergo a fast and reversible transition between the amorphous and crystalline phases upon heating. The amorphous phase is subject to aging that leads to an increase in the electrical resistance, which is detrimental to the operation of the devices. Using a machine learning interatomic potential, we have investigated the structural relaxations responsible for aging in amorphous Ge$_2$Sb$_2$Te$_5$ in molecular dynamics simulations at temperatures slightly below the glass transition. The aging simulation, lasting about 100 ns, follows an equilibration of...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, crystal, alloy`
+
+
+- **[High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurtzite Semiconductors](https://doi.org/10.48550/arxiv.2611.15138)**
+  <br>*arXiv (Cornell University) | 2026-11-11 | doi:10.48550/arxiv.2611.15138 | score 17*
+  <br>Gustavo Madrigal, Cibrán López, Jordi Llorca, Claudio Cazorla
+
+  Surfaces and interfaces govern the performance of wurtzite semiconductors in electronics, sensing, and solar-fuel conversion. To date, first-principles studies have focused mostly on high-symmetry low-index facets, owing to the computational cost and complexity of modelling low-symmetry high-index surfaces. In practice, however, surface formation energy is determined by the planar atomic density and the strength of the bonds severed upon cleavage, neither of which inherently excludes high-Miller-index surfaces from being energetically competitive. Here, we combine automated surface generation, machine-learning interatomic potential screening, and density functional theory to explore 226 clea...
+
+  `matched: density functional theory, interatomic potential, formation energy, semiconductor`
+
+
+- **[Edge-scaling softening of a universal machine-learned potential: point-defect formation energies in a coronene graphene quantum dot](https://doi.org/10.48550/arxiv.2611.16528)**
+  <br>*arXiv (Cornell University) | 2026-11-12 | doi:10.48550/arxiv.2611.16528 | score 15*
+  <br>Andrii Tuzhykov, Vladimir Soloviev, Arnold Kiv, Andrii Bielinskyi
+
+  Universal machine-learning interatomic potentials (MLIPs) are increasingly used as computationally efficient surrogates for density functional theory (DFT) in high-throughput nanomaterials screening. Systematic softening has been reported for several universal MLIPs when high-energy and far-from-equilibrium configurations are underrepresented in training data. We examine how this behavior appears at under-coordinated edge sites in graphene quantum dots (GQDs), where a vacancy can have pronounced molecular-radical character. Using coronene (C$_{24}$H$_{12}$), a hexagonal GQD with $D_{6h}$ symmetry and three carbon classes, we benchmark SevenNet (7net-omni-i12) against spin-polarized PBE DFT (...
+
+  `matched: density functional theory, interatomic potential, benchmark, dft`
+
+
+- **[Nepali-English Code-Mixed Speech Recognition: Data Preparation and Adaptation of a Speech Foundation Model](https://doi.org/10.66977/xsci.2611.0027)**
+  <br>*Crossref | 2026-11-14 | doi:10.66977/xsci.2611.0027 | score 10*
+  <br>Neupane, Bhetwal, Paudel, Aryal et al.
+
+  Nepali speakers regularly mix English words into conversation, but multilingual speech recognisers often struggle with language switches and the writing script used for English words. We study how to adapt SraVaani, a 449M-parameter hybrid TDT-CTC model, using a 172.8-hour corpus covering six Nepali speech domains. Its pretrained tokenizer does not support digits and several common symbols. Rather than replace it or discard these recordings, we generate Nepali and English readings for numbers and use zero-shot ASR output to select a plausible form. Full fine-tuning reduces test word error rate (WER) from 48.6% to 17.1%; a 12-epoch run reaches 16.3%, compared with 16.4% for fine-tuned Whisper...
+
+  `matched: foundation model`
+
+
+- **[Quantum Material Generation via Coherent Hamiltonian Search](https://doi.org/10.48550/arxiv.2611.16016)**
+  <br>*arXiv (Cornell University) | 2026-11-11 | doi:10.48550/arxiv.2611.16016 | score 8*
+  <br>Jiang Yuhan, Matthew Otten
+
+  Discovering new materials with targeted properties is a central goal of materials science, yet the space of candidates is vast. Data-driven generative models learn the distribution of known materials, but they extrapolate poorly, and a generated structure is not known to be stable. A material's properties follow from its Hamiltonian, and a quantum computer can calculate them from it. We introduce the quantum material generative algorithm (QMage), a coherent search, guided by the Hamiltonian, over crystalline configurations of atomic composition, unit cell structure, and atomic positions, for one whose calculated properties meet the targets to within a given error tolerance. The computation i...
+
+  `matched: generative model, crystal`
+
+
+---
+
+
 ## 2026-11-13
 
 21 new item(s). Top hit: **ORCHID-SAGE: Fully Reproducible CALPHAD Assessment from Evidence to Phase Diagram** (score 34, arXiv).
