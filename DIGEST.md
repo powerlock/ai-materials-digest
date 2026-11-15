@@ -6,6 +6,40 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-15
+
+3 new item(s). Top hit: **AlphaDiffract: automated crystallographic analysis of powder X-ray diffraction data** (score 18, npj Computational Materials).
+
+### Journal articles
+
+- **[AlphaDiffract: automated crystallographic analysis of powder X-ray diffraction data](https://doi.org/10.1038/s41524-026-02388-0)**
+  <br>*npj Computational Materials | 2026-11-15 | doi:10.1038/s41524-026-02388-0 | score 18*
+  <br>Nina Andrejevic, Ming Du, Hemant Sharma, James P. Horwath
+
+  Materials identification and structural understanding from powder X-ray diffraction (PXRD) data is a long-standing challenge in materials science, fundamental to discovering and characterizing novel materials. A prerequisite for full structure solution is the accurate determination of the crystal lattice, including lattice parameters and crystallographic symmetries. Traditional methods for this are iterative and typically require expert input, and while existing deep learning approaches have shown promise, a robust, single-shot method for comprehensive lattice determination from experimental data remains a key goal. Here, we introduce AlphaDiffract, a deep learning framework that achieves st...
+
+  `matched: x-ray diffraction, deep learning, crystal`
+
+
+- **[Data-Driven Discovery of Sustainable Materials](https://doi.org/10.48366/r1992775)**
+  <br>*Open Research Knowledge Graph (ORKG) | 2026-11-14 | doi:10.48366/r1992775 | score 14*
+  <br>Moeko Ozaki
+
+  The increasing environmental challenges associated with climate change, resource depletion, and industrial pollution have intensified the demand for sustainable materials that support a circular economy sustainable material. Traditional materials discovery methods are often labor-intensive, time-consuming, and dependent on costly experimental trial-and-error approaches, limiting the rapid development of environmentally friendly materials. In recent years, materials informatics (MI), combined with advances in artificial intelligence (AI) and machine learning (ML), has emerged as a transformative paradigm capable of accelerating the discovery and optimization of sustainable materials. This art...
+
+  `matched: artificial intelligence, materials discovery, machine learning`
+
+
+- **[The data mining analysis and inverse design method for end wall flow control in an axial compressor cascade](https://doi.org/10.1016/j.ast.2026.114283)**
+  <br>*Aerospace Science and Technology | 2026-11-15 | doi:10.1016/j.ast.2026.114283 | score 13*
+  <br>Xu, Li, Zhou, Yuan et al.
+
+  `matched: inverse design`
+
+
+---
+
+
 ## 2026-11-14
 
 11 new item(s). Top hit: **Brute-force molecular dynamics simulation of aging in amorphous Ge$_2$Sb$_2$Te$_5$** (score 30, arXiv (Cornell University)).
