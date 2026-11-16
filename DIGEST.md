@@ -6,6 +6,134 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-16
+
+14 new item(s). Top hit: **Crystal Structure Prediction from Search to Learning: A 30-Year Expedition** (score 31, arXiv).
+
+### Journal articles
+
+- **[GhanaMining-Sat: A Multi-Site Benchmark Dataset for Mining Site Detection in Ghana Using Machine Learning](https://doi.org/10.1109/icsid69485.2026.11779239)**
+  <br>*2026 IEEE International Conference on Sustainable Science and Infrastructure Development (ICSID) | 2026-11-16 | doi:10.1109/icsid69485.2026.11779239 | score 18*
+  <br>Henry, Asante-Mensah, Haruna, Amofa et al.
+
+  `matched: machine learning, benchmark, dataset, mof`
+
+
+- **[Resilient Integrated Access and Backhaul Network Planning via Graph Neural Network Curriculum Learning](https://doi.org/10.1109/jiot.2026.3754237)**
+  <br>*IEEE Internet of Things Journal | 2026-11-16 | doi:10.1109/jiot.2026.3754237 | score 17*
+  <br>Zhang, Sun, Zhou, Mitchell et al.
+
+  `matched: graph neural network, neural network`
+
+
+- **[Improving molecular property prediction with score-based diffusion models](https://www.nature.com/articles/s41467-026-79240-y)**
+  <br>*Nature Communications | 2026-11-16 | doi:10.1038/s41467-026-79240-y | score 9*
+
+  `matched: diffusion model`
+
+
+- **[Uncertainty-Aware Joint Generative Modeling of Fault Event Sequences and Sensor Time Series in Solar PV Plants](https://doi.org/10.1109/tase.2026.3753959)**
+  <br>*IEEE Transactions on Automation Science and Engineering | 2026-11-16 | doi:10.1109/tase.2026.3753959 | score 9*
+  <br>Huang, Xu, Liu, Yan et al.
+
+  `matched: generative model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Crystal Structure Prediction from Search to Learning: A 30-Year Expedition](http://arxiv.org/abs/2611.17670v1)**
+  <br>*arXiv | 2026-11-13 | score 31*
+  <br>Jianjun Hu, Ying Feng
+
+  Crystal structure prediction (CSP) determines periodic atomic or molecular arrangements from chemical composition and physical conditions. Over three decades, CSP has evolved from chemical construction and global energy optimization to hybrid approaches combining symmetry, learned potentials, adaptive search, and deep generative models. This survey reviews method, software, review, and benchmark records from 1996 to October 2026, covering inorganic and molecular crystals, including formula-conditioned diffusion, flow, and autoregressive models that preserve composition. We classify methods by candidate construction and exploration: template and discrete construction, random search, evolution...
+
+  `matched: crystal structure prediction, generative model, inorganic, benchmark, crystal`
+
+
+- **[Validating Graph Neural Network Feature Attribution Through Local Perturbations: A Study on CoMoFeNiCu Decomposition Enthalpy](http://arxiv.org/abs/2611.18430v1)**
+  <br>*arXiv | 2026-11-13 | score 30*
+  <br>Miguel Tenorio, James Chapman
+
+  Graph neural networks (GNNs) show promise for predicting materials properties, but interpretability remains a challenge, particularly understanding whether attributed feature importance reflects physical reality or statistical artifacts. Here, we present a methods validation study that deliberately overfits a physics-aware GNN ensemble to probe the robustness of feature-ranking approaches. Using the CoMoFeNiCu high-entropy alloy system with three stoichiometries, we train GNNs to predict decomposition enthalpies from DFT-calculated structures while explicitly constraining output weights to encode feature importance. By design, our dataset is limited (approximately 900 binary and 4,500 ternar...
+
+  `matched: graph neural network, neural network, dataset, alloy, mof, dft`
+
+
+- **[Electric Fields Turn Vacancy-trapping Grain Boundaries into Li-Ion Pathways in Li2O](http://arxiv.org/abs/2611.17679v1)**
+  <br>*arXiv | 2026-11-13 | score 25*
+  <br>Youjeong Choi, Po-yen Chem, Tasuku Sugiura, Teruyasu Mizoguchi
+
+  Ion transport in solids has conventionally been understood from equilibrium diffusion, yet ions in batteries are driven by electric fields. Does field-driven ion transport follow equilibrium behavior? We examined this question in bulk Li2O and at its grain boundaries (GBs) using electric-field molecular dynamics combining a machine learning interatomic potential with a Bader charge prediction model. Although Li diffusion in cubic Li2O is isotropic at zero field, an electric field renders it orientation dependent because Li hops along a limited set of crystallographic pathways that the field biases unequally. At GBs, this anisotropy becomes a qualitative difference: a GB that strongly traps L...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, crystal`
+
+
+- **[Graph diffusion transformer for interpretable generation and inverse design of disordered atomic structures](http://arxiv.org/abs/2611.18420v1)**
+  <br>*arXiv | 2026-11-13 | score 21*
+  <br>Jiani Hu, Chenyan Wang, Yongkun Yang, Guanyu Hou et al.
+
+  Atomic disorder offers a potent degree of freedom to tailor material properties, yet the resulting vast configuration space obscures structure-property relations and hinders rational inverse design. Here we introduce Graph Amorphous Diffusion Transformer (GaDiT), a generative model that combines dynamic periodic graphs, masked conditioning and an interval-weighted training-noise distribution. GaDiT generates high-quality disordered structures while accelerating sampling by two orders of magnitude compared with existing corrector-based approaches, as demonstrated across two-dimensional amorphous carbon and three-dimensional amorphous silicon and silica. Moreover, GaDiT supports conditional ge...
+
+  `matched: generative model, inverse design, transformer`
+
+
+- **[End-to-End Learning from Experimental Data: Integrating the PC-SAFT Equation of State into Neural Network Training for Improved Polymer Parameter Estimation](https://doi.org/10.26434/chemrxiv.15011908/v3)**
+  <br>*Crossref | 2026-11-16 | doi:10.26434/chemrxiv.15011908/v3 | score 17*
+  <br>Ismaeel, Ricci, Krokidas, Gkatsis et al.
+
+  Accurate and computationally efficient thermodynamic models are essential for the design, optimization, and operation of many (bio)chemical processes involving polymer solutions, blends, and membranes. In this work, we combine machine learning (ML) with the PC-SAFT equation of state (EoS) to predict the non-associating pure component parameters for polymers, enabling the rapid evaluation of the pressure–volume–temperature (PVT) behavior of polymer melts and rubbers. Using a dataset of more than 5,400 PVT measurements for 78 chemically diverse polymers, we systematically evaluate the effects of EoS integration in the training process, the molecular representation, neural network architecture,...
+
+  `matched: machine learning, neural network, dataset, polymer`
+
+
+- **[Assessing the transfer-learning performance of foundation models for energetic materials property prediction under low-data conditions](https://doi.org/10.26434/chemrxiv.15012261/v1)**
+  <br>*Crossref | 2026-11-16 | doi:10.26434/chemrxiv.15012261/v1 | score 17*
+  <br>Backman, Mohan, Seth, Morrison et al.
+
+  This study evaluates the performance of off-the-shelf foundation model embeddings provided by CheMeleon, MolCLR, and MACE-OFF to predict energetic material properties from sparse datasets. Models were trained to predict crystal density, heat of formation and impact sensitivity from SMILES strings, with performance benchmarked against molecular representations provided by Morgan fingerprints and hand-crafted descriptors. Overall, the foundation model embeddings were found to be competitive with the hand-crafted descriptors, with MACE-OFF showing the strongest performance in numerical regression tasks. Heat of formation was found to be the most predictable property (R2 = 0.72), followed by cry...
+
+  `matched: foundation model, benchmark, crystal, dataset`
+
+
+- **[Mapping the Phase Space of Cubic Chiral Semiconductors: High-Throughput Search,Stability, and Prototype Families](http://arxiv.org/abs/2611.18161v1)**
+  <br>*arXiv | 2026-11-13 | score 17*
+  <br>Pierre-Paul De Breuck, Hai-Chen Wang, Reynaldo Mares-Gil, Miguel A. L. Marques et al.
+
+  Chiral crystals show unique electronic, magnetic, and optical characteristics that make them attractive for topological and spintronic applications. Nevertheless, the limited set of identified chiral semiconductors, especially those with cubic symmetry, has so far constrained their technological application. In this work, we perform a high-throughput computational search for semiconducting chiral compounds in the cubic space group $P4_332$ (No. 212). By integrating machine-learning techniques with density functional theory, we obtain 24\,227 cubic chiral structures containing up to five elements, and identify 368 thermodynamically stable semiconductors on the convex hull and 3\,048 within 50...
+
+  `matched: density functional theory, semiconductor, convex hull, crystal, magnet`
+
+
+- **[Fine-tuned atomistic foundation model for accurate sodium-carbon chemistry in Na-ion batteries](http://arxiv.org/abs/2611.18490v1)**
+  <br>*arXiv | 2026-11-13 | score 12*
+  <br>Andres Felipe Usuga, Ihor Radchenko, Yuxin Tang, Oleksandr I. Malyi
+
+  Atomistic foundation models have emerged as a promising route to DFT-level accuracy for materials simulation with complex chemical environments. However, their reliability across competing bonding regimes and, more importantly, how complex bonding affects predictions of material properties remain unclear. Among materials with competing bonding regimes, sodium storage in hard carbon poses a substantial challenge. Hard carbon features diverse local structural motifs, including defective and curved graphitic regions, amorphous regions, and closed/open pores. Motivated by its importance for Na-ion batteries, we systematically evaluate existing pretrained foundation models based on the MACE archi...
+
+  `matched: foundation model, dft`
+
+
+- **[Learning gene co-regulation across cells with Multicellular Transformer](https://doi.org/10.64898/2026.11.14.766251)**
+  <br>*Crossref | 2026-11-16 | doi:10.64898/2026.11.14.766251 | score 10*
+  <br>Wiatrak, Andersson, Hoi, Biancalani et al.
+
+  Understanding how genes coordinate across cells is central to explaining tissue function and disease, yet most existing models still take a single cell as input and therefore emphasize cell-intrinsic regulation. We present the Multicellular Transformer (MCT), a foundation model built around a different assumption: cells function together within tissues, so the appropriate unit of input is not one cell in isolation but a set of cells from the same sample. By jointly modeling multiple cells, MCT learns context-aware gene embeddings that capture gene-gene interactions across the tissue environment. Trained on a large set of tissue samples (>4200) across more than 30 tissue types, MCT recovers l...
+
+  `matched: foundation model, transformer`
+
+
+- **[Machine-learning charge density for electronic materials and devices simulation](http://arxiv.org/abs/2611.17627v1)**
+  <br>*arXiv | 2026-11-13 | score 8*
+  <br>Qingyun Zhang, Yang Hu, Aixia Zhang, Zehua Sun et al.
+
+  We present a machine-learning (ML) charge density model, DeltaChargeNet, integrated with the full-potential tight-binding muffin-tin orbital (FP-TB-MTO) method for electronic structure and quantum transport simulations of materials and devices. The ML model predicts electron density from atomic structures with low linear-scaling cost, while FP-TB-MTO provides an accurate tight-binding representation of the system Hamiltonian. To achieve high-fidelity ML density for complex devices with interfaces and disorder, we train an equivariant graph convolutional network to predict $Δρ$-the difference between DFT and atomic superposition densities-under a charge neutrality constraint required for inho...
+
+  `matched: equivariant, dft`
+
+
+---
+
+
 ## 2026-11-15
 
 3 new item(s). Top hit: **AlphaDiffract: automated crystallographic analysis of powder X-ray diffraction data** (score 18, npj Computational Materials).
