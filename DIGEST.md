@@ -6,6 +6,251 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-17
+
+26 new item(s). Top hit: **Classical-to-DFT multi-fidelity approach for developing machine learning potentials of aqueous systems** (score 39, The Journal of Chemical Physics).
+
+### Journal articles
+
+- **[Classical-to-DFT multi-fidelity approach for developing machine learning potentials of aqueous systems](https://doi.org/10.1063/5.0341814)**
+  <br>*The Journal of Chemical Physics | 2026-11-16 | doi:10.1063/5.0341814 | score 39*
+  <br>Md. Abu Bakar Siddique, Kendra Coronado, Mohammad Mohib Ullah Badhon, Mirza Galib
+
+  Machine learning interatomic potentials (MLIPs) offer near–ab initio accuracy at a fraction of the cost of conventional electronic structure calculations, but their reliability depends critically on the quality and diversity of training data. Here, we present a classical-to-density functional theory (DFT) multi-fidelity workflow for efficient dataset generation, in which long classical molecular dynamics trajectories are supplemented with selectively DFT-optimized configurations to train neural network potentials. We demonstrate this approach on four systems: bulk water, water at the air–water interface, CaSO4 in bulk water, and CaSO4 at the interface. In all cases, the trained models faithf...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, molecular dynamics, machine learning, neural network`
+
+
+- **[Dpaccel: accelerating the training of machine learning interatomic potentials with efficient data loading and distributed memory management](https://doi.org/10.1007/s42514-026-00295-w)**
+  <br>*CCF Transactions on High Performance Computing | 2026-11-16 | doi:10.1007/s42514-026-00295-w | score 37*
+  <br>Xiangyu Zhang, Siyu Hu, Chun Cai, Weijian Liu
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Classical-to-DFT Multi-Fidelity Approach for Developing Machine Learning Potentials of Aqueous Systems](https://doi.org/10.60893/figshare.jcp.c.8790462)**
+  <br>*AIP Publishing | 2026-11-16 | doi:10.60893/figshare.jcp.c.8790462 | score 33*
+  <br>Mirza Galib, Md Abu Bakar Siddique, Kendra Coronado, Mohammad Badhon
+
+  Machine learning interatomic potentials (MLIPs) offer near-ab initio accuracy at a fraction of the cost of conventional electronic structure calculations, but their reliability depends critically on the quality and diversity of training data. Here, we present a classical-to-DFT multi-fidelity workflow for efficient dataset generation, in which large classical MD trajectories are supplemented with selectively DFT-optimized configurations to train neural network potentials. We demonstrate this approach on four systems: bulk water, water at the air-water interface, CaSO4 in bulk water, and CaSO4 at the interface. In all cases, the trained models faithfully reproduce reference DFT properties, va...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, neural network, dataset, dft`
+
+
+- **[Accelerating Materials Discovery and Design via Generative Artificial Intelligence](https://doi.org/10.31399/asm.hb.v26.a0007275)**
+  <br>*ASM International eBooks | 2026-11-16 | doi:10.31399/asm.hb.v26.a0007275 | score 32*
+  <br>Bo Ni, S. Mohadeseh Taheri-Mousavi
+
+  Abstract This article combines the trends in materials engineering and generative artificial intelligence (GAI) and discusses how GAI models—such as diffusion models, large language models (LLMs), and multiagent systems—can help overcome challenges in materials discovery, such as vast design spaces, computational inefficiencies, and experimental bottle necks. It focuses on GAI models to discuss their applications in materials design through representative examples and to provide an outlook for future directions.
+
+  `matched: artificial intelligence, large language model, materials discovery, materials design, diffusion model`
+
+
+- **[MACHINE LEARNING FOR QUANTUM ENERGY STORAGE APPLICATIONS: A SHORT REVIEW](https://doi.org/10.25258/ijddt.16.80s.15)**
+  <br>*International Journal of Drug Delivery Technology | 2026-11-16 | doi:10.25258/ijddt.16.80s.15 | score 15*
+  <br>D. Bhadra Rao, J. Suresh Kumar, Ch. Komala Lakshmi, P.V.S.S.S.N Reddy
+
+  Quantum energy storage is a rapidly growing research and development arena that ranges from highly speculative quantum batteries that may harness coherence and entanglement via quantum-mechanical modeling for the control and materials design of electrochemical storage devices. This work explore a total of few areas of application like use of reinforcement learning (RL) for the control of quantum-battery recharging protocols, the employment of variational quantum algorithms in the evaluation of extractable work, a quantum-enhanced sequence model for predicting state-of-health (SOH) and state-of-charge (SOC), the quantum-influenced control of grid-connected battery energy-storage systems (BESS...
+
+  `matched: machine learning, materials design, battery`
+
+
+- **[Instance Segmentation via Deep Learning for Machinery Monitoring in Industry 5.0](https://doi.org/10.5753/eniac.2026.29866)**
+  <br>*Anais do XXIII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2026) | 2026-11-17 | doi:10.5753/eniac.2026.29866 | score 13*
+  <br>Lavor Neto, Guedes
+
+  Aiming to contribute to automated visual inspection in Industry 5.0, this work presents a comparative analysis of intelligent models for instance segmentation of defects in ball screw drives. The BSData benchmark was used to evaluate specialized end-to-end models (YOLO26-seg) and foundation models operating in a zero-shot regime (SAM2 and SAM3). Under a unified experimental protocol, the SAM2 Hiera-T architecture was identified as a candidate solution, achieving a mAP@0.5 of 0.799, a mIoU of 0.632, and an inference rate of 8.6 FPS. The selected model shows adaptive robustness and outperforms the instance segmentation baseline previously reported for selected benchmark.
+
+  `matched: foundation model, deep learning, benchmark`
+
+
+- **[Dynamic octahedral freezing and polarization rotation in lead zirconate titanate](https://doi.org/10.20517/jmi.2026.77)**
+  <br>*Journal of Materials Informatics | 2026-11-16 | doi:10.20517/jmi.2026.77 | score 10*
+  <br>Xiaohan Huang, Yihan Nie, Haifei Zhan, Gang Zhang
+
+  Lead zirconate titanate (PZT) exhibits outstanding piezoelectric performance, yet its atomistic mechanisms remain ambiguous due to multiscale chemical and structural heterogeneity. Here we employ large-scale molecular dynamics driven by a machine-learning interatomic potential to probe PZT’s structural evolution across compositions, temperatures and electric fields. For Zr-rich PZT, the simulations reveal a dynamical crossover within the rhombohedral region, in which local oxygen-octahedral rotational hopping is progressively suppressed upon cooling, leading to effective freezing on the molecular-dynamics timescale. Near the morphotropic phase boundary (MPB), external fields induce polarizat...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[MACE-Relaxed Supercell Structures, Energetics and Analysis Scripts for Sulfur-Doped BaTiO3 (BaTiO3-xSx)](https://doi.org/10.17632/bvfn54pr87)**
+  <br>*Mendeley Data | 2026-11-16 | doi:10.17632/bvfn54pr87 | score 9*
+  <br>Franscious Cummings, Christopher J. Arendse
+
+  This dataset accompanies the manuscript "Configurational Thermodynamics, Site-Selective Strain Anisotropy and Octahedral Bond Distortion in Sulfur-Doped BaTiO3: A Large-Scale Machine-Learning Interatomic Potential Study" (Cummings & Arendse, 2026). It contains all 1,031 variable-cell MACE-MP-0 relaxed 3 × 3 × 3 supercells (135 atoms per cell; 997 strictly converged below 10^-3 eV/Å force and 10^-2 GPa stress thresholds) across the BaTiO3–BaTiS3 solid solution. Included are the four ordered stoichiometric endpoints (cubic BaTiO3, 100%-apical BaTiO2S, 100%-equatorial BaTiOS2, and cubic BaTiS3), stochastic ensembles (n = 50 variants per concentration, random seed = 42) across Apical, Equatorial...
+
+  `matched: interatomic potential, dataset`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[IANN: A Unified Framework for Equivariant InterAtomic Neural Networks with User-Friendly Implementation](http://arxiv.org/abs/2611.19793v1)**
+  <br>*arXiv | 2026-11-15 | score 36*
+  <br>Changzhi Ai, Xueping Qin, Dimosthenis Sokaras, Frank Abild-Pedersen et al.
+
+  Machine-learning interatomic potentials (MLIPs) now approach density functional theory (DFT) accuracy at a fraction of its cost, but the practical benefit is limited by software fragmentation: each state-of-the-art architecture is released as a separate codebase, with its own data format, configuration system, training loop and molecular-dynamics interface. Comparing two architectures on the same dataset, or moving a trained model into a production simulation, therefore requires substantial re-engineering. We introduce IANN (InterAtomic Neural Network), an open-source PyTorch framework that reimplements equivariant graph neural networks - PaiNN, NequIP, MACE, Allegro, EquiformerV2, Equiforme...
+
+  `matched: density functional theory, interatomic potential, graph neural network, neural network, open-source, equivariant`
+
+
+- **[Local topology hallucinations in universal machine-learned interatomic potentials](http://arxiv.org/abs/2611.21489v1)**
+  <br>*arXiv | 2026-11-16 | score 31*
+  <br>Xiaoqing Liu, Yangshuai Wang, Lei Shen
+
+  Predicting metastable states with universal machine-learned interatomic potentials requires that they preserve the minima and saddles of the reference potential-energy surface. Here we identify local topology hallucination, in which distinct model minima relax into the same reference basin. This failure arises from mode-selective curvature-sign errors shared by MACE, CHGNet and M3GNet. Curvature signs predicted by two of the three models agreed with density-functional calculations in 55 of 57 positive but only 5 of 56 negative cases. In LiGe$_2$S, two MACE minima connected by a verified saddle relaxed into one density-functional basin. Reference relaxation likewise returned nine of ten selec...
+
+  `matched: machine-learned interatomic potential, interatomic potential`
+
+
+- **[Scaling laws in machine learning on non-ideal experimental data enable inverse design of radiative-cooling coatings](http://arxiv.org/abs/2611.19596v1)**
+  <br>*arXiv | 2026-11-14 | score 28*
+  <br>Kunihiko Shizume, Jiawen Li, Yaerim Lee, Yuki Asano et al.
+
+  Materials informatics increasingly targets multicomponent materials, yet experimental datasets inevitably contain non-ideal variations arising from imperfect uniformity and reproducibility in composition, coating formation, and measurement. Whether machine-learning prediction accuracy scales with amount of data under these conditions remains unclear. Here, we develop an automated platform that produced and optically characterized 11,520 radiative-cooling coatings spanning nine material and processing parameters. Forward and inverse neural networks, and a spectrum-conditioned diffusion model were trained on subsets of 10 to 10,000 samples. All models exhibited power-law scaling, with predicti...
+
+  `matched: machine learning, diffusion model, inverse design, neural network, dataset`
+
+
+- **[Thermodynamic Model of Mixing and Photo-Demixing in MAPb(I,Br)3 from Machine-Learning Molecular Dynamics](https://doi.org/10.26434/chemrxiv.15012331/v1)**
+  <br>*Crossref | 2026-11-17 | doi:10.26434/chemrxiv.15012331/v1 | score 26*
+  <br>Rivas-Blanco, Rodríguez-Gómez Balestra, Hamad, Anta et al.
+
+  Mixed-halide lead perovskites are promising materials for solar cells because of high photoconversion efficiencies and bandgaps that can be finely tuned through composition, but their application is limited by reversible light-induced halide segregation. Here, we investigate the thermodynamic origin of the segregation behaviour in MAPb(I,Br)3 by combining molecular dynamics, based on a machine-learned interatomic potential fine-tuned to r2SCAN density-functional-theory data, with a model for the electronic and elastic contributions that arise under illumination. The simulations give the free energy of mixing in the dark across the full composition range, including configurational and molecul...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics, perovskite`
+
+
+- **[Adsorbate-Free Screening of Dissociative Water Adsorption on Nickel Nanoparticles via Graph Neural Networks](http://arxiv.org/abs/2611.20706v1)**
+  <br>*arXiv | 2026-11-16 | score 23*
+  <br>Marta Monti, Alec Noppe, Olivier Lugier, Maria B. Brands et al.
+
+  Dissociative water adsorption is a key step in heterogeneous and electrochemical catalysis, but on finite Ni nanosystems the OH$^*$ and H$^*$ fragments can occupy many combinations of surface sites, making exhaustive density functional theory (DFT) screening impractical. We introduce a graph neural network (GNN) framework with an adsorbate-free representation: candidate O- and H-binding sites are defined by sets of Ni atoms (\textit{anchors}), and each site pair is encoded as a graph constructed solely from these anchors and their local Ni environment. Using only MACE-relaxed bare Ni geometries as input, separate GNNs predict the DFT-reference adsorption energies of OH$^*$+H$^*$ configuratio...
+
+  `matched: density functional theory, graph neural network, neural network, dft`
+
+
+- **[From Self-Driving Laboratories to Connected Experimentation in the Physical Sciences: Lessons from the Critical Materials Value Chain](https://doi.org/10.26434/chemrxiv.15012308/v1)**
+  <br>*Crossref | 2026-11-17 | doi:10.26434/chemrxiv.15012308/v1 | score 20*
+  <br>Qi, Washton, Allec, An et al.
+
+  Self-driving laboratories close the loop between prediction, synthesis, and measurement on individual platforms, yet most physical-science research outside user facilities proceeds through multistage workflows distributed across separate laboratories, with manual handoffs of samples, protocols, and data. This review assesses how autonomous experimentation can extend across such workflows, using the critical minerals and materials value chain for energy technologies as a use case. The chain is a demanding test: dilute, heterogeneous feedstocks require characterization, separations, and materials synthesis performed in different laboratories with different instruments and safety bases. For cap...
+
+  `matched: self-driving lab`
+
+
+- **[Scaling a Universal Graph Neural Network Force Field to Billions of Atoms on Desk-Side GPUs](http://arxiv.org/abs/2611.20585v1)**
+  <br>*arXiv | 2026-11-16 | score 17*
+  <br>Jaehyung Lee, Kamal Choudhary
+
+  Machine-learning force fields are capable of simulating billions of atoms, but usually require high-performance supercomputing clusters. We show that a universal graph neural network force field, ALIGNN-FF, evaluates energies and forces of more than one billion atoms on desk-side computers such as the NVIDIA GB10, which has 128 GB of unified memory, by using a cube-and-halo decomposition. The halo contains every atom within the model's 20 Å receptive field, which makes the result exact. One GB10 holds 216,000 atoms with forces as a single graph. The cube-and-halo decomposition removes this limit, enabling an evaluation of 2 billion atoms on nine GB10s. We also demonstrate three case studies:...
+
+  `matched: graph neural network, neural network`
+
+
+- **[Large-scale Monte Carlo/Molecular Dynamics simulations with Atomic Cluster Expansion potentials in LAMMPS](http://arxiv.org/abs/2611.21147v1)**
+  <br>*arXiv | 2026-11-16 | score 13*
+  <br>Lorenzo Piersante, Anirudh Raju Natarajan
+
+  Monte Carlo/molecular dynamics (MCMD) simulations are widely used to study the properties of materials at the mesoscale. Simulations with hundreds of thousands of atoms usually rely on empirical potentials because MCMD with machine-learning interatomic potentials is impractical at this scale in existing implementations. Here, we introduce a hybrid MPI/OpenMP scheme for MCMD with Atomic Cluster Expansion (ACE) potentials in LAMMPS. Monte Carlo moves are evaluated from local energy changes and carried out in parallel over MPI ranks, while molecular dynamics is parallelized over OpenMP threads. At a fixed number of CPUs, the wall time of the Monte Carlo moves decreases by a factor equal to the...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Autonomous phase diagram mapping of polymer blends through SAXS-guided active learning](https://doi.org/10.26434/chemrxiv.15012310/v1)**
+  <br>*Crossref | 2026-11-17 | doi:10.26434/chemrxiv.15012310/v1 | score 12*
+  <br>Upreti, Adhikari, Baral, Wang et al.
+
+  Autonomous phase behavior mapping from multicomponent copolymer formulation requires feedback that connects scattering measurements to experimental decisions. We couple robotic polymer formulation, automated small-angle X-ray scattering (SAXS) analysis, and Gaussian-process active learning using structure factor to autonomously map complex phase behavior of multiblock copolymer/homopolymer blends. This dimensionless descriptor, based on secondary and primary scattering peak ratio q2/q1, captures relative reciprocal-space geometry while removing a common structural length scale when the same reflections are tracked. An ordering model identifies compositions with sharp scattering features, and...
+
+  `matched: active learning, polymer`
+
+
+- **[Heteroscedastic Gaussian Process Q-learning for Sample Efficient Experimentation](http://arxiv.org/abs/2611.21249v1)**
+  <br>*arXiv | 2026-11-16 | score 10*
+  <br>Maximilian Bloor, Max Mowbray, Calvin Tsay, Ehecatl Antonio del Rio Chanona
+
+  Self-driving laboratories must learn to control a process from tens to hundreds of expensive experiments, too few for deep reinforcement learning (RL). We learn the Q-function directly with a Gaussian process (GP), which avoids learning the dynamics, and show that the GP posterior supplies the learning rate of Q-learning. If each Bellman target is treated as a noisy measurement of the Q-function, the learning rate that minimises the mean squared error is the Kalman gain, and applying it to every observed transition is equivalent to GP regression. Heteroscedastic Gaussian Process Q-learning (HGPQ) sets the noise variance of each target with a heteroscedastic GP, which learns how unreliable th...
+
+  `matched: self-driving lab`
+
+
+- **[Multi-output neural network surrogate for double-pulse femtosecond optothermal control of thin silicon films on fused silica](http://arxiv.org/abs/2611.20301v1)**
+  <br>*arXiv | 2026-11-15 | score 10*
+  <br>George D. Tsibidis
+
+  We introduce a multi-output feedforward neural network surrogate trained on a coupled multiple-reflection and two-temperature model to map double-pulse femtosecond laser excitation (1030 nm) of crystalline silicon films on fused silica across film thicknesses (50-500 nm) and inter-pulse delays (0-10ps). Trained via Levenberg-Marquardt optimization on 2000 physical simulations, the dual-hidden-layer network ([40,30] neurons) simultaneously predicts six strongly coupled optothermal observables, peak electron temperature, peak lattice temperature, peak carrier density, minimum and maximum absorptivity and minimum refractive index achieving coefficients of determination R2 larger than 0.9998 acr...
+
+  `matched: neural network, crystal`
+
+
+- **[Mesoscale Neural Operators: Learning Nonlinear Constitutive Laws from Molecular Dynamics for Scalable Fracture Predictions](http://arxiv.org/abs/2611.19658v1)**
+  <br>*arXiv | 2026-11-14 | score 10*
+  <br>Yue Yu, Jihong Wang, Stewart Silling, Ziwei Yang
+
+  Molecular dynamics (MD) simulations can capture the nanoscale physics of fracture at the atomistic level, but their computational cost prohibits predictions at the length scales and time scales needed for many applications. Machine learning approaches, on the other hand, have been proposed as heuristic surrogates for material fracture, yet they cannot guarantee the physical consistency of the predicted response. To address this shortcoming, we propose the mesoscale neural operator (MNO): a data-driven nonlocal constitutive model that is learned directly from MD loading and displacement data. After training, it can be used in continuum fracture simulations on much larger domains and grid size...
+
+  `matched: molecular dynamics, machine learning`
+
+
+- **[Flat-band driven bipolar anomalous Nernst effect towards volt-scale transverse thermoelectric conversion](http://arxiv.org/abs/2611.19039v1)**
+  <br>*arXiv | 2026-11-14 | score 10*
+  <br>Haofu Wen, Xiaodong Guo, Xiaokang Xu, Peng Di et al.
+
+  Unipolar anomalous Nernst thermopiles are critically plagued by metallic interconnects, which induce heavy Joule dissipation and compromise the module's packing density, ultimately capping voltage generation. Here, we circumvent these limitations by establishing an intrinsic bipolar anomalous Nernst effect (BANE) paradigm, enabling seamless series integration analogous to Seebeck n-p pairs without passive metallic bridges. Focusing on flat-band topological systems, through machine learning assisted screening across multiple target properties, we identified 249 BANE materials, exhibiting near-room-temperature polarity switching. Guided by this predictive framework, we experimentally realized...
+
+  `matched: machine learning, thermoelectric`
+
+
+- **[Bias Conditioning and Long-Range Electrostatics for Consistent Machine-Learning Potentials of Electrified Interfaces](http://arxiv.org/abs/2611.21026v1)**
+  <br>*arXiv | 2026-11-16 | score 7*
+  <br>Lucas B. T. de Kam, Patrick Rinke, Christopher J. Stein, Philip Loche
+
+  Machine-learning interatomic potentials (MLIPs) of electrified interfaces need the bias as input, but it is unclear whether a scalar electrode charge suffices and whether short-range models capture the non-local response. We add charge and field conditioning to short- and long-range MLIPs. State-of-the-art field-conditioned short-range models overpolarize thick water films nearly twofold and miss work-function shifts at stepped Pt. Our long-range model captures both, needs only the electrode charge at metals as input, and reproduces ab initio simulations of the Pt(111)--water interface.
+
+  `matched: interatomic potential`
+
+
+- **[Exploring Energy Landscapes for Functional Materials: Ga vacancies in $β$-Ga$_{2}$O$_{3}$](http://arxiv.org/abs/2611.19365v1)**
+  <br>*arXiv | 2026-11-14 | score 7*
+  <br>Soon Woo Park, Philipp Pracht, Seán R. Kavanagh, David J. Wales
+
+  Energy landscape exploration requires extensive energy and force evaluations, making efficient access to interatomic potentials an important practical challenge. We present a persistent socket interface that connects the landscape exploration tools in the GMIN, OPTIM, and PATHSAMPLE programs to potentials available through the Atomic Simulation Environment (ASE). The persistent design keeps both the calculator and socket connection active throughout the search, avoiding repeated initialisation. We apply this framework to understand and predict the properties of Ga vacancies in $β$-Ga$_2$O$_3$ using two NequIP-based potentials, and construct kinetic transition networks describing complex vaca...
+
+  `matched: interatomic potential`
+
+
+### Conference papers
+
+- **[Out-of-training properties in frozen interatomic potential embeddings are decodable and ordered by physical scale](http://arxiv.org/abs/2611.21116v1)**
+  <br>*arXiv | 2026-11-16 | score 36*
+  <br>Accepted/presented: NeurIPS | Natalija Stepurko, Joonatan E. M. Laulainen
+
+  Machine-learned interatomic potentials (MLIPs) are trained on energies, forces and stresses, yet their frozen representations can predict other materials properties. We probe ORB-v3 and UMA-S across layers, read-outs and equivariant channels for nine properties of 154,875 Materials Project crystals. Both models outperform composition-only descriptors on all targets, including five outside their training objectives; errors in physical units help assess potential screening applications. Optimal depth varies by property, consistent with a physical-scale ordering. Random-weight controls reveal strongly property-dependent benefits of pretraining. UMA-S's rotation-invariant angular channels improv...
+
+  `matched: machine-learned interatomic potential, interatomic potential, materials project, equivariant, crystal`
+
+
+- **[Rotation-Invariant Machine Learning for Highly Symmetric Molecular Configurations](http://arxiv.org/abs/2611.21308v1)**
+  <br>*arXiv | 2026-11-16 | score 16*
+  <br>Accepted/presented: NeurIPS | Logan Bolton, Tomas Karella, Nicholas Lubbers, Nathaniel Philip Gorski et al.
+
+  Atomistic machine learning can approximate expensive quantum mechanical calculations at a fraction of their computational cost, but accuracy depends strongly on how the three-dimensional atomic environments are represented. Invariant representations enable fast computation but can fail to distinguish geometrically distinct configurations, especially in highly symmetric environments. We introduce a lightweight benchmark to evaluate expressivity on $n$-fold symmetric configurations, and use it to expose degeneracies in both invariant and equivariant architectures. Guided by these results, we construct a new invariant basis for HIP-HOP which resolves most of the identified failures. On a methan...
+
+  `matched: machine learning, equivariant, benchmark`
+
+
+- **[Nahual: A Sequence Model for Language and Atoms](http://arxiv.org/abs/2611.19072v1)**
+  <br>*arXiv | 2026-11-14 | score 14*
+  <br>Accepted/presented: NeurIPS | Austin H. Cheng, Marcel Müller, Andreas Burger, Yeonghun Kang et al.
+
+  Generative models play a rapidly growing role in the design and simulation of molecules. The most widely used applications of generative models are in large language models (LLMs), owing to the natural flexibility of language for specifying and answering queries. However, generalist LLMs do not effectively handle large sets of 3D coordinates, whereas specialist generative models of 3D molecules cannot reach the controllability afforded by language. To bridge these capabilities, we propose Nahual, a decoder-only autoregressive diffusion model for any sequence of text and 3D molecules. To enable expressive autoregression on continuous coordinates, we propose next-token diffusion, whereby a cau...
+
+  `matched: large language model, generative model, diffusion model`
+
+
+---
+
+
 ## 2026-11-16
 
 14 new item(s). Top hit: **Crystal Structure Prediction from Search to Learning: A 30-Year Expedition** (score 31, arXiv).
