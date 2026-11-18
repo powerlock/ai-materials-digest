@@ -6,6 +6,269 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-18
+
+28 new item(s). Top hit: **Efficient Machine Learning Interatomic Potentials** (score 43, arXiv).
+
+### Journal articles
+
+- **[Multiscale Modeling of Boron Carbide Across Extreme Conditions: From First-Principles Calculations to Machine-Learned Interatomic Potentials](https://doi.org/10.7939/85796)**
+  <br>*ERA: Education and Research Archive (University of Alberta) | 2026-11-17 | doi:10.7939/85796 | score 34*
+  <br>Sara Sheikhi
+
+  Advanced ceramics, such as boron carbide, exhibit favorable mechanical strength, low density, and chemical and thermal stability under extreme environments. These properties make them candidate materials for refractory applications such as aerospace components, thermal protection systems, neutron shielding, and armour. Despite these desirable properties, boron carbide’s complex crystal structure, with significant compositional and configurational variability, presents significant challenges for the accurate prediction of its behavior across a broad range of temperatures and loading conditions. Previous experimental and computational investigations have improved our understanding of boron car...
+
+  `matched: machine-learned interatomic potential, interatomic potential, crystal`
+
+
+- **[The Overprediction Problem: Aligning Computational Crystal Structure Prediction with Experimental Reality for Two Sulfa Drugs](https://doi.org/10.1021/jacs.6c14137)**
+  <br>*Journal of the American Chemical Society | 2026-11-18 | doi:10.1021/jacs.6c14137 | score 26*
+  <br>Wood, Bučar, Guo, Salvalaglio et al.
+
+  Abstract Computational crystal structure prediction (CSP) methods usually overpredict the number of plausible polymorphs. In this study, we used sulfadiazine (SDZ) and sulfamerazine (SMZ), which are respectively monomorphic and pentamorphic (by the end of this study), to investigate the extent of CSP overprediction and its use in designing experiments that identify additional polymorphs. Lattice energy CSP studies (CSP_0) generate a few hundred plausible crystal structures (low-energy minima) for these molecules; however, if these crystal structures are simulated at ambient conditions using a molecular dynamics workflow, then many of the structures can be clustered as equivalent, reducing th...
+
+  `matched: crystal structure prediction, molecular dynamics, crystal`
+
+
+- **[A Wrong Ground-State Structure of HfO2 Predicted by Machine-Learning Interatomic Potentials Based on the Perdew−Burke−Ernzerhof Functional](https://doi.org/10.1021/acs.chemmater.6c01853)**
+  <br>*Chemistry of Materials | 2026-11-17 | doi:10.1021/acs.chemmater.6c01853 | score 25*
+  <br>Shuqi Tang, Jinchen Wei, Kang Wang, Junjie Zhou
+
+  Abstract Machine-learning interatomic potentials (MLIPs) have become powerful tools for material simulations. Many MLIPs are trained based on density functional theory (DFT) datasets generated with the Perdew−Burke−Ernzerhof (PBE) exchange−correlation functional. Using a PBE-based MLIP for HfO2, we identify a low-energy I41/amd structure, which is predicted to be more stable than the well-known ground-state structure, the monoclinic P21/c structure. Since experiments show clearly that HfO2 takes the P21/c structure as the ground state, this is obviously a wrong prediction. Unfortunately, the same prediction is also made by widely used PBE-based foundation models, such as NequIP-OAM-L and Mat...
+
+  `matched: density functional theory, interatomic potential, foundation model, dataset, dft`
+
+
+- **[Molecular and Materials Simulations on Classical and Quantum Computers for Energy and Environmental Applications – A Review](https://doi.org/10.32628/ijsrst13132634)**
+  <br>*International Journal of Scientific Research in Science and Technology | 2026-11-16 | doi:10.32628/ijsrst13132634 | score 25*
+  <br>A. S. Chandravati, N. Baby Nirmala
+
+  Molecular and materials simulations connect atomistic mechanisms with measurable performance in energy conversion, energy storage and environmental remediation.Classical computational chemistryparticularly density functional theory (DFT), ab initio molecular dynamics (AIMD), and molecular dynamics supported by machine-learning interatomic potentials-can predict electronic structure, reaction energetics, ion transport, interfacial chemistry and excited-state processes.This review critically examines how these approaches are used across four connected application areas: alternative battery anodes and electrolyte interphases; molecular design for organic photovoltaics; degradation of persistent...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics, photovoltaic, electrolyte, battery`
+
+
+- **[GBProject: A Comprehensive Database of Fundamental Grain-Boundary Properties in Metals](https://doi.org/10.60893/figshare.apm.c.8813325)**
+  <br>*AIP Publishing | 2026-11-17 | doi:10.60893/figshare.apm.c.8813325 | score 24*
+  <br>Oyshee Chowdhury, Jingyi Zhou, Chongze Hu, Aidan H. Gesch
+
+  Artificial intelligence/machine learning (AI/ML)-driven materials design through grain-boundary (GB) engineering has emerged as a promising strategy for developing next-generation metals and alloys. However, its broader application has been limited by the lack of comprehensive GB databases needed to train robust AI/ML models for accurately predicting GB structures and properties across diverse crystallographic and chemical spaces. In this work, we develop a comprehensive GB database through high-throughput atomistic simulations of 28 elemental metals using both semi-empirical and machine-learning interatomic potentials (MLIPs). The current dataset contains 3,519 face-centered cubic (FCC), 3,...
+
+  `matched: artificial intelligence, interatomic potential, materials design, machine learning, crystal, dataset`
+
+
+- **[Rapid Wind-load Prediction for a Standard Tall Building Using Physics-informed Deep Learning and CFD Surrogate Modelling](https://doi.org/10.2478/cee-2027-0033)**
+  <br>*Civil and Environmental Engineering | 2026-11-18 | doi:10.2478/cee-2027-0033 | score 16*
+  <br>Al-Aasm
+
+  Abstract An accurate estimation of wind loads applied on tall buildings is still a challenge for civil engineers. Traditionally performed CFD simulations are computationally expensive enough to be unaffordable for use in the iterative process of design. A framework that exploits a physics-informed deep learning method is hereby proposed that performs fast wind pressure estimations for tall buildings. It will be demonstrated for one geometry through a proof-of-concept study of the CAARC standard tall building. The main principle relies on injecting information on the governing physical laws, in the shape of a physics-informed loss term, into a neural network for training. In this new learning...
+
+  `matched: surrogate model, neural network, deep learning`
+
+
+- **[Revealing Bulk-Phase Reactivity of Fe-Based Catalyst in the Reverse Water–Gas Shift Reaction](https://doi.org/10.1021/jacs.6c14850)**
+  <br>*Journal of the American Chemical Society | 2026-11-18 | doi:10.1021/jacs.6c14850 | score 16*
+  <br>Haonan Yu, Zeyu Li, Hanzi Liu, Wei-Wei Wang
+
+  Abstract Heterogeneous catalysis is conventionally interpreted as a surface-localized process, yet many catalysts undergo extensive reaction-driven restructuring that may fundamentally redistribute reactivity beyond the interface. Here we combine microscopy, isotope-labeling experiments, and large-scale molecular dynamics driven by a machine-learning interatomic potential (MLIP-MD) to investigate reactive carbon–oxygen chemistry in iron catalysts relevant to the reverse water–gas shift reaction. We show that under reaction conditions, the catalyst evolves into a dynamic FeOx/Fe3C mixed phase in which carbon and oxygen continuously redistribute across surface, subsurface and bulk regions. Iso...
+
+  `matched: interatomic potential, molecular dynamics, catalyst`
+
+
+- **[Ion-Induced Atomic and Cluster Sputtering from Amorphous Wollastonite: A Comparison of Empirical and Machine-Learning Interatomic Potentials with BCA Models and Experiments](https://doi.org/10.1021/acs.jpcc.6c07249)**
+  <br>*The Journal of Physical Chemistry C | 2026-11-18 | doi:10.1021/acs.jpcc.6c07249 | score 16*
+  <br>Anastasis Georgiou, Benjamin Alan Clouter-Gergen, Noah Jäggi, Flyura Djurabekova
+
+  Abstract Sputtering of minerals contributes to exosphere formation on airless planetary bodies, yet experiments provide limited information on the composition of sputtered material, and binary collision approximation (BCA) models depend strongly on accurate surface binding energies (SBEs). Molecular dynamics (MD) simulations include many-body interactions and can resolve ejecta characteristics. Here, we use MD to study the sputtering behavior of wollastonite, a common planetary surface analogue, under 2 keV Ar bombardment, comparing the empirical BMP potential and the machine-learning interatomic potential NeuroEvolution Potential against experiments and BCA models. Both potentials accuratel...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Predicting spin-crossover behavior in metal-organic frameworks from limited and noisy data using quantile active learning](https://www.nature.com/articles/s41524-026-02365-7)**
+  <br>*npj Computational Materials | 2026-11-18 | doi:10.1038/s41524-026-02365-7 | score 15*
+
+  `matched: metal-organic framework, active learning`
+
+
+- **[Diffuson-Assisted Hierarchy of Thermal Transport in Anharmonic Cu2CdSiTe4 Thermoelectrics](https://doi.org/10.1021/acsaem.6c02699)**
+  <br>*ACS Applied Energy Materials | 2026-11-17 | doi:10.1021/acsaem.6c02699 | score 13*
+  <br>Guowei Wang, Shulin Bai, Da Wan, Pengfei Zhang
+
+  Abstract Cu2ABX4-based chalcogenides, characterized by the inherently restricted lattice thermal transport associated with low structural symmetry and complexity, have emerged as promising candidates for advanced thermoelectric (TE) applications. Herein, tetragonal Cu2CdSiTe4 is systematically investigated through an integrated methodology comprising first-principles calculations, machine-learning interatomic potentials, and Boltzmann transport theory coupled with a two-channel model. Cu2CdSiTe4 exhibits distinct structural merits, including distorted tetrahedral coordination, a spatially separated conductive Cu2Te4 unit and an insulating CdSiTe4 framework, as well as strong acoustic–optical...
+
+  `matched: interatomic potential, thermoelectric`
+
+
+- **[CNN-ViT-Based Model Incorporating a Voting-Based Ensemble Method with Future Fusion for Multiple Sclerosis Classification](https://doi.org/10.3390/diagnostics16223867)**
+  <br>*Diagnostics | 2026-11-18 | doi:10.3390/diagnostics16223867 | score 8*
+  <br>Ciplak, Karaduman, Bingol, Yildirim et al.
+
+  Background/Objectives: Multiple Sclerosis (MS) is a chronic neurodegenerative disease affecting the central nervous system and significantly reducing the quality of life. Early detection of the disease is critical for slowing its progression and developing appropriate treatment plans. In recent years, artificial intelligence and deep learning methods have begun to play a significant role in clinical decision support systems, particularly due to their high accuracy rates in the analysis of Magnetic Resonance (MR) images. Methods: In this study, a hybrid model was developed for the automatic classification of MS. Two different architectures were used for feature extraction in the developed mod...
+
+  `matched: artificial intelligence, deep learning, magnet`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Efficient Machine Learning Interatomic Potentials](http://arxiv.org/abs/2611.22444v1)**
+  <br>*arXiv | 2026-11-17 | score 43*
+  <br>Yury Lysogorskiy, Anton Bochkarev, Ralf Drautz
+
+  Machine learning interatomic potentials (MLIPs) reach an accuracy close to quantum mechanical reference calculations at a small fraction of the cost. Efficiency is the purpose of MLIPs, yet strategies for efficient MLIPs have not been reviewed systematically. This review takes efficiency as its guideline. To compare MLIPs on a common footing, we represent them in a complete basis expansion, the Atomic Cluster Expansion (ACE) and its graph generalization (GRACE). The expansion is canonical, built from products of single-particle functions. Classical interatomic potentials, such as the embedded-atom method, and many modern MLIPs, including equivariant transformers, can be represented within th...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, equivariant, transformer`
+
+
+- **[A stopping rule for completing computed phase diagrams with generative models](https://doi.org/10.26434/chemrxiv.15012360/v1)**
+  <br>*ChemRxiv | 2026-11-17 | doi:10.26434/chemrxiv.15012360/v1 | score 39*
+  <br>Seungbae Kim, Juo Kim, 박재휘, Yerim Jung
+
+  Phase diagrams constructed using known phases misjudge stability when key phases are missing. Generative models supply as many structures as needed, but how many structures to generate and which diagrams will change are unknown. We add 10,000 MatterGen structures per system, relaxed with a machine learning interatomic potential, to Materials Project (MP) data for six Li–transition-metal–O ternaries and track the hull convergence. The responses fall into two groups: Li–Ru–O, Li–Hf–O, and Li–Zr–O (70–107 MP structures) gain 4–9 stable candidates and exhibit total convex-hull shifts of 59.9–62.9 meV/atom, whereas Li–Mn–O, Li–Co–O, and Li–Ni–O (240–609) exhibit a minimal hull shift. When reduced...
+
+  `matched: machine learning interatomic potential, interatomic potential, materials project, generative model, machine learning, mattergen`
+
+
+- **[IANN: A Unified Framework for Equivariant InterAtomic Neural Networks with User-Friendly Implementation](https://doi.org/10.48550/arxiv.2611.19793)**
+  <br>*arXiv (Cornell University) | 2026-11-15 | doi:10.48550/arxiv.2611.19793 | score 36*
+  <br>Changzhi Ai, Xueping Qin, Dimosthenis Sokaras, Frank Abild-Pedersen
+
+  Machine-learning interatomic potentials (MLIPs) now approach density functional theory (DFT) accuracy at a fraction of its cost, but the practical benefit is limited by software fragmentation: each state-of-the-art architecture is released as a separate codebase, with its own data format, configuration system, training loop and molecular-dynamics interface. Comparing two architectures on the same dataset, or moving a trained model into a production simulation, therefore requires substantial re-engineering. We introduce IANN (InterAtomic Neural Network), an open-source PyTorch framework that reimplements equivariant graph neural networks - PaiNN, NequIP, MACE, Allegro, EquiformerV2, Equiforme...
+
+  `matched: density functional theory, interatomic potential, graph neural network, neural network, equivariant, open-source`
+
+
+- **[FLAMES – A flexible and extensible code for Monte Carlo simulations of nanoporous materials](https://doi.org/10.26434/chemrxiv.15004623/v2)**
+  <br>*Crossref | 2026-11-18 | doi:10.26434/chemrxiv.15004623/v2 | score 26*
+  <br>Lopes Oliveira, Grigoletto, Saßnick, Maurin et al.
+
+  Molecular dynamics (MD) and Monte Carlo (MC) simulations are the cornerstone for computational studies of adsorption in nanoporous materials such as zeolites, Metal-Organic Frameworks, and Covalent Organic Frameworks. Currently, most of these simulations rely on classical force fields, which are often limited in their ability to describe specific interactions or the intrinsic flexibility of the host framework. Machine-learned interatomic potentials (MLIPs) have emerged as a powerful alternative, offering near ab initio accuracy while remaining computationally feasible, potentially capturing framework flexibility and complex potential energy surfaces. Despite this promise, there is a signific...
+
+  `matched: machine-learned interatomic potential, metal-organic framework, interatomic potential, molecular dynamics, zeolite`
+
+
+- **[LLaMalysis: Language-guided inverse design of catalyst surfaces with targeted hydrogen adsorption energies](https://doi.org/10.26434/chemrxiv.15012306/v1)**
+  <br>*ChemRxiv | 2026-11-16 | doi:10.26434/chemrxiv.15012306/v1 | score 25*
+  <br>Deahyun Kim, Kwangnam Kim, Tuan Anh Pham, Haesun Park
+
+  Computational catalyst discovery is constrained by vast compositional and structural spaces, whereas atomistic generative models typically rely on engineered conditioning variables. Here we formulate catalyst inverse design as an instruction-following task in which compositional and catalytic requirements are expressed in natural language. We fine-tune an instruction-tuned language model on serialized catalyst slabs from the Open Catalyst 2020 dataset and obtain a generator with validity and uniqueness comparable to catalyst-specific baselines. Reward-weighted regression using machine-learning interatomic-potential feedback increases the number of candidates satisfying the validity criteria...
+
+  `matched: generative model, inverse design, catalyst, dataset`
+
+
+- **[DSADiff: Data Structure-Aware Diffusion for Crystal Structure Prediction via Mitigating Complexity- and Imbalance-Induced Biases](http://arxiv.org/abs/2611.22050v1)**
+  <br>*arXiv | 2026-11-17 | score 23*
+  <br>Jiang Xiaobo, Dinghong Lai
+
+  Crystal Structure Prediction (CSP) is an important step in accelerating the generation and discovery of new materials. In recent years, diffusion-based CSP methods have made significant progress. However, existing models still suffer from generation bias when facing diverse materials spaces, while systematic approaches for tracing the sources of such performance variations remain limited. To address this issue, we propose LAS (Layered Analysis Strategy), a mechanism analysis framework that identifies crystal complexity and elemental composition imbalance as two key factors affecting generation difficulty and further reveals their relationships with model generation performance. Building on t...
+
+  `matched: crystal structure prediction, crystal`
+
+
+- **[Cross-Facility Materials Discovery Platform: Integrating Heterogeneous Data and Automated Experimental Pipelines into High-Throughput Workflows](https://doi.org/10.26434/chemrxiv.15012421/v1)**
+  <br>*Crossref | 2026-11-18 | doi:10.26434/chemrxiv.15012421/v1 | score 22*
+  <br>Kodalle, Roncoroni, McCarthy, Wall et al.
+
+  Artificial intelligence (AI)-driven materials discovery depends on the availability of large, highly annotated experimental datasets. However, data generated in typical materials science projects are fragmented across heterogeneous instruments, laboratories, and user facilities, each with its own formats, schedules, and degree of curation. In addition, manual sample preparation, time-consuming characterization, and changing sample form factors and holders between process steps often limit throughput and therefore dataset size. Here, we present a modular cross-facility workflow that addresses both the physical and the data bottlenecks. We combine robotic thin-film deposition, a custom robotic...
+
+  `matched: artificial intelligence, materials discovery, dataset`
+
+
+- **[When Do Tensor Product Paths Matter? A Group-Theoretic Analysis of Equivariant Interatomic Potentials](http://arxiv.org/abs/2611.21683v1)**
+  <br>*arXiv | 2026-11-15 | score 21*
+  <br>Jiawei Wang, Sai Gu, Laurence T. Yang, Junfu Tan et al.
+
+  Tensor-product (TP) layers in equivariant interatomic potentials encode angular interactions through symmetry-allowed paths. Yet local site symmetry can make an allowed path carry no signal after neighbor aggregation. We call this effect Aggregation Cancellation. In a scalar-input first layer, equal-species neighbors on a complete site-symmetry orbit share scalar and radial factors, reducing their angular contribution to a spherical-harmonic orbit sum. If the restricted degree-$l$ representation has no trivial component, this sum and the corresponding path vanish for any learned radial weight. For an ideal $O_h$ octahedral orbit, this removes the $l_\mathrm{edge}=1,2,3$ classes. Beyond the f...
+
+  `matched: interatomic potential, equivariant`
+
+
+- **[Dynamics and transport in LiF using classical and machine learned interatomic potentials](http://arxiv.org/abs/2611.21900v1)**
+  <br>*arXiv | 2026-11-16 | score 20*
+  <br>Harvey L. Devereux, Margaret-Ann Withington, Alin M. Elena, Cillian Cockrell et al.
+
+  We perform molecular dynamics simulations of molten Lithium Fluoride, comparing the classical Buckingham and Born-Huggins-Mayer potentials with machine-learnt interatomic potentials - the MACE-MP-0b3 (small) foundation model potential, and a fine-tuned version thereof. We find that the MACE-MP-0b3, out-of-the-box, is able to accurately reproduce the experimental shear viscosity across the liquid state comparable with polarisable potentials despite not itself being polarisable. Previous viscosities computed using classical potentials are under-predicted, which has previously been attributed to a suppressed melting temperature. Prompted by this we compare the melting points of these potentials...
+
+  `matched: interatomic potential, molecular dynamics, foundation model`
+
+
+- **[The Role of Artificial Intelligence in Strengthening Software Supply Chain Security Through Vulnerability Discovery and Network Threat Detection](https://doi.org/10.2139/ssrn.7706401)**
+  <br>*Crossref | 2026-11-18 | doi:10.2139/ssrn.7706401 | score 16*
+  <br>Sharma
+
+  Modern software is assembled from large numbers of third-party components, build tools, and distribution channels, so a single compromised element can propagate to thousands of downstream consumers. Manual review and signature-based tools cannot keep pace with this scale. This review examines how artificial intelligence (AI) strengthens software supply chain security through two complementary capabilities: vulnerability discovery in source code and dependencies, and threat detection in network traffic. We synthesize the progression of learning-based vulnerability discovery from token and program-slice models to graph neural networks, pretrained transformers, and contrastive representation le...
+
+  `matched: artificial intelligence, graph neural network, neural network, transformer`
+
+
+- **[Neural Network Path Optimization for Finding Transition States on a Machine Learned Potential](http://arxiv.org/abs/2611.22272v1)**
+  <br>*arXiv | 2026-11-17 | score 16*
+  <br>Kareem Hegazy, Eric C-Y Yuan, Anup Kumar, Dmitriy Morozov et al.
+
+  Transition states govern chemical reaction rates and outcomes, yet locating them remains a central challenge in computational chemistry. Double-ended search methods find transition states given reactant and product structures, but generally rely on discretized path representations developed for density functional theory, where potential energy surface evaluations are expensive. Machine learned interatomic potentials (MLIPs) dramatically reduce this cost and leverage automatic differentiation to access higher-order derivatives efficiently. We introduce Popcornn, a framework to find transition states by optimizing continuous neural network paths atop an MLIP with a parallelized adaptive numeri...
+
+  `matched: density functional theory, interatomic potential, neural network`
+
+
+- **[Supercell periodicity biases octahedral tilting and energetics in high-entropy perovskite oxides](http://arxiv.org/abs/2611.22313v1)**
+  <br>*arXiv | 2026-11-17 | score 13*
+  <br>Hanzo Tsubota, Wai Kian Tan, Hiroyuki Muto, Atsunori Matsuda et al.
+
+  Odd-period supercells such as $3 \times 3 \times 5$ are often used for equimolar five-component compositions in computational studies of high-entropy perovskite oxides (HEPOs). However, such cells are known to constrain octahedral tilting because they cannot accommodate all standard tilt patterns (Glazer tilt systems). How strongly this constraint affects HEPOs, whose octahedra respond to local cation environments, remains unclear. Here we show that supercell periodicity systematically biases computed octahedral tilting and energetics. Using a machine-learning interatomic potential, we compared odd-period and tilt-commensurate cells for 13 HEPOs. Odd-period cells yielded smaller and less coh...
+
+  `matched: interatomic potential, perovskite`
+
+
+- **[Large-scale Monte Carlo/Molecular Dynamics simulations with Atomic Cluster Expansion potentials in LAMMPS](https://doi.org/10.48550/arxiv.2611.21147)**
+  <br>*arXiv (Cornell University) | 2026-11-16 | doi:10.48550/arxiv.2611.21147 | score 13*
+  <br>Lorenzo Piersante, Anirudh Raju Natarajan
+
+  Monte Carlo/molecular dynamics (MCMD) simulations are widely used to study the properties of materials at the mesoscale. Simulations with hundreds of thousands of atoms usually rely on empirical potentials because MCMD with machine-learning interatomic potentials is impractical at this scale in existing implementations. Here, we introduce a hybrid MPI/OpenMP scheme for MCMD with Atomic Cluster Expansion (ACE) potentials in LAMMPS. Monte Carlo moves are evaluated from local energy changes and carried out in parallel over MPI ranks, while molecular dynamics is parallelized over OpenMP threads. At a fixed number of CPUs, the wall time of the Monte Carlo moves decreases by a factor equal to the...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Weight-Space Programming for Materials Science](http://arxiv.org/abs/2611.22013v1)**
+  <br>*arXiv | 2026-11-17 | score 11*
+  <br>Sk Md Ahnaf Akif Alvi, Raymundo Arróyave
+
+  A materials discovery campaign often begins with almost no measurements of the property it is searching for, and the models that rank candidates or screen the output of a generator then have to be built from those first few labels. Following recent work on weight-space programming, in which a language model writes the weights of a small network directly as text, we show that a general-purpose model, given the task in words, the names of the inputs and a network of 16 hidden units with every weight set to zero, can provide this starting point by filling in all of the weights from what it has learned about materials. With no labels, the networks of the strongest model rank experimental alloys...
+
+  `matched: materials discovery, alloy`
+
+
+- **[Bias Conditioning and Long-Range Electrostatics for Consistent Machine-Learning Potentials of Electrified Interfaces](https://doi.org/10.48550/arxiv.2611.21026)**
+  <br>*arXiv (Cornell University) | 2026-11-16 | doi:10.48550/arxiv.2611.21026 | score 7*
+  <br>Lucas B. T. de Kam, Patrick Rinke, Christopher Johannes Stein, Philip Loche
+
+  Machine-learning interatomic potentials (MLIPs) of electrified interfaces need the bias as input, but it is unclear whether a scalar electrode charge suffices and whether short-range models capture the non-local response. We add charge and field conditioning to short- and long-range MLIPs. State-of-the-art field-conditioned short-range models overpolarize thick water films nearly twofold and miss work-function shifts at stepped Pt. Our long-range model captures both, needs only the electrode charge at metals as input, and reproduces ab initio simulations of the Pt(111)--water interface.
+
+  `matched: interatomic potential`
+
+
+### Conference papers
+
+- **[Synthetic Crystal Data Generation for Diffusion Pretraining in Material Property Prediction](http://arxiv.org/abs/2611.22140v1)**
+  <br>*arXiv | 2026-11-17 | score 21*
+  <br>Accepted/presented: NeurIPS | Aamod Varma, Shuyi Jia, Victor Fung
+
+  Diffusion-based pretraining has emerged as a powerful strategy for learning transferable representations in graph neural networks for materials property prediction without requiring quantum-mechanical labels such as energies, forces, and stresses for every pretraining structure. However, the method retains a critical dependency: it requires structures residing near local minima of a potential energy surface, which have traditionally been obtained through costly DFT relaxations of known or physically synthesized compounds. This reliance constrains both the scale and the structural diversity of available pretraining data, leaving large regions of crystal structure space unexplored. In this wor...
+
+  `matched: graph neural network, neural network, crystal, dft`
+
+
+### Industry labs and code releases
+
+- **[Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision](https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/)**
+  <br>*NVIDIA Developer Blog | 2026-11-18 | score 30*
+
+  Training a next-generation machine learning interatomic potential (MLIP) requires ground truth: tens to hundreds of millions of density functional theory (DFT)...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, machine learning, dft`
+
+
+---
+
+
 ## 2026-11-17
 
 26 new item(s). Top hit: **Classical-to-DFT multi-fidelity approach for developing machine learning potentials of aqueous systems** (score 39, The Journal of Chemical Physics).
