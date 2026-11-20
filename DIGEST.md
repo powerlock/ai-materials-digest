@@ -6,6 +6,225 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-20
+
+24 new item(s). Top hit: **Emergent Fatigue Dynamics from Foundational Interatomic Potentials** (score 34, arXiv).
+
+### Journal articles
+
+- **[Design and Experimental Validation of an LLC Resonant Converter for Electric Vehicle Battery Charging](https://doi.org/10.64060/jestt3i36)**
+  <br>*Journal of Engineering, Science and Technological Trends | 2026-11-20 | doi:10.64060/jestt3i36 | score 19*
+  <br>Zafar, Ahsan, Javed, Abubakar et al.
+
+  This manuscript presents the design and experimental validation of an LLC resonant converter for electric vehicle (EV) battery charging. The proposed topology integrates the transformer magnetising inductance with a resonant tank formed by an inductor and a capacitor, enabling zero-voltage switching (ZVS) of all main switches throughout the entire charging process and zero-current switching (ZCS) to boost the current under charging conditions. The charger delivers a wide output-voltage range suitable for battery systems, while the transformer transfers energy under low-output-voltage conditions. High efficiency and a narrow frequency variation range are achieved under load conditions. The LL...
+
+  `matched: experimental validation, transformer, battery, magnet`
+
+
+- **[Data for: Alloying effects on the interface cohesion of grain boundaries in the Ni–Fe–Cr system](https://doi.org/10.5281/zenodo.24368616)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-19 | doi:10.5281/zenodo.24368616 | score 19*
+  <br>A. F. Baumann, Reyhaneh Ghassemizadeh, Daniel F. Urban
+
+  This dataset contains rigid-body separation data for six symmetric-tilt nickel grain boundaries, obtained using density functional theory (DFT) and a machine-learning interatomic potential (MLIP). The DFT data cover pure Ni grain boundaries, Fe- and Cr-substituted grain boundaries, and Ni bulk reference structures. The MLIP data cover binary Fe and Cr substitutions and ternary Ni–Fe–Cr configurations. For each configuration, the dataset provides an extended XYZ structure at zero separation and a CSV file containing separation distances in Å and total energies in eV. The data support the article “Alloying effects on the interface cohesion of grain boundaries in the Ni–Fe–Cr system” by A. F. B...
+
+  `matched: density functional theory, interatomic potential, dataset, alloy, dft`
+
+
+- **[Literature Catalogue of 3D Molecular and Materials Generation Models](https://doi.org/10.57760/sciencedb.01aqn)**
+  <br>*ScienceDB | 2026-11-18 | doi:10.57760/sciencedb.01aqn | score 19*
+  <br>Linhu Pan, 张庆华, 宋思维
+
+  This dataset provides a literature-derived catalogue of 3D generative models for molecular and materials design, compiled to support a review of deep learning-driven 3D molecular generation.The dataset is provided as an Excel workbook containing a summary worksheet and category-specific worksheets. Each entry records the paper title, publication year, and links to the original publication and source code where available. The categories cover generative adversarial networks, variational autoencoders, autoregressive models, diffusion models, flow-based models, energy-based models, text-based and multimodal approaches, multi-objective optimization, and materials generation.The catalogue support...
+
+  `matched: materials design, generative model, diffusion model, deep learning, dataset`
+
+
+- **[Machine Learning Prediction of Thermoelectric Figure of Merit: Benchmarking Multiple Models for Compositionally Diverse Material Systems](https://doi.org/10.1016/j.mtcomm.2026.116717)**
+  <br>*Materials Today Communications | 2026-11-20 | doi:10.1016/j.mtcomm.2026.116717 | score 17*
+  <br>Dahal, Chaudhary, Yadav, Adhikari et al.
+
+  `matched: machine learning, thermoelectric, benchmark`
+
+
+- **[Navigating order-disorder family trees via group-subgroup transitions](https://doi.org/10.1038/s41524-026-02386-2)**
+  <br>*npj Computational Materials | 2026-11-19 | doi:10.1038/s41524-026-02386-2 | score 14*
+  <br>Shuya Yamazaki, Yuyao Huang, Martin Hoffmann Petersen, Wei Nong
+
+  As closed-loop materials discovery systems scale to produce millions of candidate compounds, the credibility of the novelty they reward becomes a critical concern. Novelty is commonly assessed against databases of ordered crystal structures, in which atomic sites are fully occupied. Yet, a predicted ordered structure may simply correspond to a particular ordering of a known disordered phase, whose sites are occupied by multiple species in the statistical average structure; we refer to such a structure as an ordered child of a disordered parent. Here, we introduce order-(dis)order family trees, a symmetry-based framework that organizes ordered and disordered structures through group-subgroup...
+
+  `matched: materials discovery, crystal`
+
+
+- **[Generalizable machine learning framework for half-Heusler thermoelectrics](https://doi.org/10.1103/2ffk-zqn8)**
+  <br>*Physical Review B | 2026-11-20 | doi:10.1103/2ffk-zqn8 | score 13*
+  <br>Athar, Mecibah, Jund
+
+  `matched: machine learning, thermoelectric`
+
+
+- **[FACE: Factorised Cartesian Atomic Cluster Expansion for Low-Cost Machine-Learning Interatomic Potentials](https://doi.org/10.5281/zenodo.24371219)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-19 | doi:10.5281/zenodo.24371219 | score 13*
+  <br>Albert Linda
+
+  First public release of FACE, a factorised Cartesian atomic cluster expansion for low-cost machine-learning interatomic potentials. This release accompanies the manuscript submitted to the Journal of Chemical Theory and Computation. Highlights Per-edge cost independent of model width: each neighbour contributes a small set of learned radial functions and messages. All channel mixing happens once per atom. Constant-map tensor transport and fused GPU kernels (CuPy/NVRTC, no host compiler needed). Pluggable physics operators: latent-charge electrostatics (Ewald / smooth PME, charge equilibration), environment-dependent dispersion and ZBL repulsion. Unit weight parameterisation for stable traini...
+
+  `matched: interatomic potential`
+
+
+- **[MTP-distilled empirical interatomic potentials: Balancing efficiency and accuracy for large-scale interfacial thermal conductance simulations](https://doi.org/10.1016/j.ijthermalsci.2026.111484)**
+  <br>*International Journal of Thermal Sciences | 2026-11-18 | doi:10.1016/j.ijthermalsci.2026.111484 | score 13*
+  <br>Yuanjun Tang, Yang Zhang, Jun Zhong, Haipeng Zhu
+
+  `matched: interatomic potential`
+
+
+- **[Role of Hydrogen Coverage and Surface Atom Arrangement in Predicting the Composition-Dependent Activity of Au-Pd/Pd(111) Surface Alloys for Hydrogen Evolution](https://doi.org/10.5281/zenodo.24346697)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-18 | doi:10.5281/zenodo.24346697 | score 11*
+  <br>Leonardo Henrique de Morais, Mailde S. Ozório, Zacharias Liasi, Henrik H. Kristoffersen
+
+  Structures, energies, and scripts supporting the full chain from the construction of Au–Pd/Pd(111) surface alloys to the coverage-dependent activity analysis.Preprint: To be addedPrint: To be added Hydrogen-evolution activity on surface alloys is usually predicted from the low-coverage hydrogen adsorption energy. This deposit supports a test of how hydrogen coverage and surface atom arrangement change the composition-dependent activity predicted for Au–Pd/Pd(111) surface alloys from 0 to 76% surface Au. Energies were computed with the UMA machine-learning interatomic potential (uma-s-1p1, OC20 task, fairchem-core 2.19.0) on 5x5x4 slabs, and a subset was validated with RPBE in GPAW 24.6.0. RE...
+
+  `matched: interatomic potential, alloy`
+
+
+- **[ECDM: Efficient Collaborative Diffusion Model for self-supervised diffusion MRI denoising](https://doi.org/10.1016/j.media.2026.104397)**
+  <br>*Medical Image Analysis | 2026-11-20 | doi:10.1016/j.media.2026.104397 | score 9*
+  <br>Chen, Bai, Jiang, Zhou et al.
+
+  `matched: diffusion model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Emergent Fatigue Dynamics from Foundational Interatomic Potentials](http://arxiv.org/abs/2611.26533v1)**
+  <br>*arXiv | 2026-11-19 | score 34*
+  <br>Jingye Tan, Benjamin A. Jasperson, Eric Rothchild, Anders Johansson et al.
+
+  Foundational machine-learned interatomic potentials are trained on large, diverse DFT datasets, but their validation rests on equilibrium states, which does not guarantee correct emergent behavior in large-scale molecular dynamics. Where no direct experimental validation is available, comparisons to physically motivated potentials are valuable for drawing insight. We distinguish static properties, which are thermally accessible, from emergent properties, which require work from an external fatigue stress to drive rare events, and compare the potentials on both. An EAM potential and the NequIP foundational potential both agree closely with reference data for many near-equilibrium properties,...
+
+  `matched: machine-learned interatomic potential, experimental validation, interatomic potential, molecular dynamics, dataset, dft`
+
+
+- **[The phase diagram of fluid hydrogen near melting from machine-learned interatomic potentials trained on quantum Monte Carlo](http://arxiv.org/abs/2611.25178v1)**
+  <br>*arXiv | 2026-11-18 | score 34*
+  <br>Shubhang Goswami, Hongwei Niu, Ilnur Saitov, Mathieu Istas et al.
+
+  Dissociation of molecular hydrogen increasing temperature or pressure may either occur gradually or abruptly, via a phase transition. Despite considerable experimental and theoretical efforts, the phase diagram of dense hydrogen at temperatures above solid melting is not precisely known. Here, we perform classical and quantum Path Integral molecular dynamics simulations of dense hydrogen using two machine-learned interatomic potentials both trained on quantum Monte Carlo energies and forces. The resulting phase diagram is constructed using state-of-the-art techniques. Both models show a first-order phase transition from the molecular to the atomic liquid terminating in critical points whose...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics`
+
+
+- **[Physics-Guided Crystal Structure Elucidation from Powder X-Ray Diffraction with Universal Machine-Learning Interatomic Potentials](https://doi.org/10.48550/arxiv.2611.23760)**
+  <br>*arXiv (Cornell University) | 2026-11-18 | doi:10.48550/arxiv.2611.23760 | score 33*
+  <br>Yunsung Lim, Seungwoo Hwang, Seungwu Han
+
+  Determining unique atomic coordinates from powder X-ray diffraction (PXRD) remains challenging because peak overlap, weak scattering from light elements, limited scattering contrast between elements with similar atomic numbers, and experimental noise render the inverse problem underdetermined. Here, we present XCAPE (XRD-Constrained Accelerated Prediction Engine), a crystal structure prediction (CSP) framework that integrates experimentally derived composition, unit cell parameters, space group, and PXRD data into a symmetry-aware evolutionary search. XCAPE explores Wyckoff-site configurations using tailored mutation operations, evaluates candidates by both energetic stability and diffractio...
+
+  `matched: crystal structure prediction, interatomic potential, x-ray diffraction, crystal`
+
+
+- **[Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data](https://doi.org/10.48550/arxiv.2611.23873)**
+  <br>*arXiv (Cornell University) | 2026-11-18 | doi:10.48550/arxiv.2611.23873 | score 30*
+  <br>Daiki Shintani, Shigeru Iwase, Jun Oshiki, Kohei Shinohara
+
+  Universal machine learning interatomic potentials (uMLIPs) make atomistic simulations possible at scales beyond the reach of density functional theory (DFT). Matlantis PFP is a uMLIP that treats a variety of domains, including crystals, molecules, and surfaces, with a single model. PFP v8 incorporated a training dataset computed with the r2SCAN functional, chosen for its good agreement with experiment, but the elements and domains covered by that dataset were limited. Here we present Matlantis PFP v9, in which the training data computed with the r2SCAN functional are extended to the lanthanides from Pr to Lu and to the elements from Po to Cm, for a total of 96 elements, and to additional dom...
+
+  `matched: machine learning interatomic potential, density functional theory, interatomic potential, machine learning, crystal, dataset`
+
+
+- **[Reward misalignment as an opportunity for materials discovery](http://arxiv.org/abs/2611.26186v1)**
+  <br>*arXiv | 2026-11-19 | score 29*
+  <br>Ryotaro Okabe, Shoki Kishida, Abhijatmedhi Chotrattanapituk, Dominic Bollettieri et al.
+
+  Reward misalignment is usually regarded as a failure of artificial intelligence. In materials discovery with generative AI models, however, disagreement between predefined rewards and expert judgment may reveal materials that the rewards overlook. We investigate this possibility using electronic flat bands as a prime example. Experts mostly agree with a numerical bandwidth score, but their disagreements are systematic and cannot be explained by an estimated 5% rate of mistaken labels. We learn the experts' preferences from pairwise comparisons and use them to guide a crystal diffusion model. The learned preferences and numerical score agree on the flattest bands but diverge elsewhere. For ex...
+
+  `matched: artificial intelligence, materials discovery, diffusion model, generative ai, crystal`
+
+
+- **[Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides](http://arxiv.org/abs/2611.25127v1)**
+  <br>*arXiv | 2026-11-18 | score 28*
+  <br>Arina A. Svinukhova, Faisal Baber, Michel M. Lukanov, Viktor S. Baidyshev et al.
+
+  Search for optimal compositions among high-entropy ceramics are challenging due to large composition space, which are unable to test either experimentally or by \textit{ab initio} calculations. Here we present a high-throughput screening for equimolar and non-equimolar high-entropy carbides (HEC) among group IVB and VB transition metals (Ti, Zr, Hf, V, Nb and Ta). Large Atomistic Model MACE, and deep learning based interatomic potential DeePMD trained on \textit{ab initio}-based dataset of structures are used to effectively screen over the thousands of potential non-equimolar compositions among high-entropy carbides of Ti, Zr, Hf, V, Nb and Ta transition metals. A set of both equimolar and n...
+
+  `matched: high-throughput screening, interatomic potential, machine learning, deep learning, dataset`
+
+
+- **[AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction](http://arxiv.org/abs/2611.25646v1)**
+  <br>*arXiv | 2026-11-19 | score 27*
+  <br>Changzhi Ai, Frank Abild-Pedersen, Johannes Voss
+
+  Fast and accurate prediction of adsorption energies is critical for high-throughput computational catalyst screening, existing methods compromise either on evaluation speed (full-graph machine learning potentials) or geometric sensitivity (coordination-based models like the alpha-scheme). Here, we present AdsNet, an equivariant graph neural network that directly predicts adsorption energies in a single forward pass, which operates on a local graph restricted only to adsorbate atoms and its immediate surface neighbors within a cutoff radius. This local graph formulation decouples computational complexity from total system size while encoding continuous geometric features (interatomic distance...
+
+  `matched: graph neural network, machine learning, neural network, equivariant, catalyst`
+
+
+- **[Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories](http://arxiv.org/abs/2611.25043v1)**
+  <br>*arXiv | 2026-11-18 | score 21*
+  <br>Yimeng Liu, Eric Isbrandt, Felix Katzenburg, Kevin P. Greenman et al.
+
+  Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results. However, analytical reasoning alone does not make a laboratory autonomous: autonomy in an SDL is achievable only when the agent can be trusted to act on physical hardware unsupervised and knows when to defer to a human. Here, we present an architecture that integrates an agent at the Analyze-Design interface of the Design-Make-Test-Analyze (DMTA) cycle, enabling agent-driven measurement selection and data interpretation while ensuring that state-changing operations are authorized, validated, and auditable. We demonstrate this architecture on a liqui...
+
+  `matched: artificial intelligence, self-driving lab`
+
+
+- **[Alloying effects on the interface cohesion of grain boundaries in the Ni--Fe--Cr system](http://arxiv.org/abs/2611.25944v1)**
+  <br>*arXiv | 2026-11-19 | score 20*
+  <br>Aljoscha Felix Baumann, Reyhaneh Ghassemizadeh, Daniel F. Urban
+
+  Grain boundaries (GBs) in polycrystalline Ni-based alloys strongly influence mechanical strength and fracture behavior, yet the effect of alloying elements such as Fe and Cr on GB cohesion remains difficult to quantify systematically. Using density functional theory (DFT), we compute rigid-body separation (RBS) curves for six symmetric-tilt Ni GBs, extracting the work of separation $W_{\mathrm{sep}}$ and maximum traction $σ_{\max}$ via the universal binding energy relation (UBER). We find that substitution of Cr or Fe into the GB plane increases both quantities relative to pure Ni GBs. To overcome the size limitations of DFT, we compare several machine-learning interatomic potential (MLIP) f...
+
+  `matched: density functional theory, interatomic potential, crystal, alloy, dft`
+
+
+- **[Uncovering the Structural, Electronic, and Electrostatic Landscapes of SrTiO$_3$ Grain Boundaries via Grand Canonical Monte Carlo with a Machine-Learning Interatomic Potential](https://doi.org/10.48550/arxiv.2611.24097)**
+  <br>*arXiv (Cornell University) | 2026-11-18 | doi:10.48550/arxiv.2611.24097 | score 18*
+  <br>Xing He, Kairi Masuda, Aaron M. Schankler, Songsong Zhou
+
+  Grain boundaries in perovskites exhibit a rich variety of electronic, polar and magnetic properties, yet identifying their atomic structures and compositions remains challenging. Here, we combine the Grand Canonical Monte Carlo (GCMC) method with a universal machine-learning interatomic potential to explore the coupled compositional and structural phase space of $Σ$5(310)[001] SrTiO$_3$ grain boundaries. The resulting chemical potential phase diagram identifies ten stable structures belonging to four motif families: large Sr kite, small Sr kite, incomplete Sr large kite, and Ti-rich structures. Extending the GCMC method to the Sigma5(210)[001] and Sigma17(410)[001] grain boundaries reveals h...
+
+  `matched: interatomic potential, perovskite, magnet`
+
+
+- **[Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation](http://arxiv.org/abs/2611.26349v1)**
+  <br>*arXiv | 2026-11-19 | score 17*
+  <br>Zhiwei Li, Yuhao Zhou, Yikai Yang, Haonan Wang et al.
+
+  First-principles structural relaxation and band calculations require substantial computation and expertise. Here we present Perfumer, a large language model-based agentic framework that couples Quantum ESPRESSO with two predictive models. Across tested structures, pre-relaxation with Perfumer-relax model followed by QE refinement yielded a 2.75-fold overall speedup over QE alone. Perfumer-band model combines a periodic graph neural network with a latent Hermitian spectral head returns 12 band energies at any requested wavevector, preserving reciprocal lattice periodicity and time-reversal symmetry without constructing Hamiltonian. Trained on 125,153 self-curated band structures, Perfumer-ban...
+
+  `matched: graph neural network, large language model, neural network, agentic`
+
+
+- **[Spacer accommodation under geometric confinement governs phase behavior in mixed Ruddlesden–Popper and Dion–Jacobson halide perovskites](https://doi.org/10.26434/chemrxiv.15012469/v1)**
+  <br>*ChemRxiv | 2026-11-19 | doi:10.26434/chemrxiv.15012469/v1 | score 16*
+  <br>Hochan Song, Allison Hinkle, Minseong Kim, Alla Slautina
+
+  Mixing organic spacers broadens the structural diversity of two-dimensional (2D) halide perovskites (HPs); however, predicting whether chemically distinct spacers can be incorporated into a shared layered phase remains a significant challenge. Here, we integrate high-throughput compositional screening and diffraction-based phase mapping with molecular dynamics simulations accelerated by machine-learning interatomic potentials (MLIP-MD) to investigate combinations of five Dion–Jacobson (DJ) spacers with varying alkyl-chain lengths and three aliphatic or aromatic Ruddlesden–Popper (RP) spacers. Contrary to conventional structural-matching expectations, large differences in parent-phase interla...
+
+  `matched: interatomic potential, molecular dynamics, perovskite`
+
+
+- **[MatVerse: A Foundation Model for Materials Science](http://arxiv.org/abs/2611.25651v1)**
+  <br>*arXiv | 2026-11-19 | score 12*
+  <br>Xuanyu Zhu, Qian Tan, Bo Chen, Jiaqing Xie et al.
+
+  Materials science involves highly heterogeneous scientific information, including textual knowledge, molecular and crystal structures, experimental characterization data, microscopy images, and structure-property relationships. Developing a general-purpose foundation model capable of understanding and reasoning over these diverse materials representations remains challenging. In this technical report, we introduce MatVerse, a materials foundation model built upon Intern-S2-Preview and further specialized through large-scale materials-domain post-training. We construct a large-scale multimodal training corpus covering materials knowledge, scientific reasoning, quantitative problem solving, st...
+
+  `matched: foundation model, crystal`
+
+
+- **[FamilySpace: From Emergent Chemical Semantics to Controllable Crystal Generation](http://arxiv.org/abs/2611.25452v1)**
+  <br>*arXiv | 2026-11-19 | score 11*
+  <br>Haowei Hua, Irwin King, Wanyu Lin
+
+  Latent crystal generative models typically combine a variational autoencoder (VAE) for learning atom-wise representations with a flow model that transports a simple source distribution to the learned latent distribution. However, previous studies have mainly focused on the quality of generated crystals, leaving the structure and generative utility of the atom-wise latent space largely unexplored. In this work, we show that even a vanilla crystal VAE implicitly organizes atom-wise latent representations according to elemental families, with different families occupying largely separated regions of the latent space. We term this phenomenon emergent chemical semantics. This structure suggests t...
+
+  `matched: generative model, crystal`
+
+
+---
+
+
 ## 2026-11-19
 
 18 new item(s). Top hit: **Efficient Machine Learning Interatomic Potentials** (score 43, arXiv (Cornell University)).
