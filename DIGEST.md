@@ -6,6 +6,126 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-21
+
+13 new item(s). Top hit: **Reward misalignment as an opportunity for materials discovery** (score 29, arXiv (Cornell University)).
+
+### Journal articles
+
+- **[A Depth-adaptive Inverse Design Framework for Medical Puncture Needles Based on Optimized Lie Group–neural Network Integration](https://doi.org/10.1007/s00266-026-06430-w)**
+  <br>*Aesthetic Plastic Surgery | 2026-11-21 | doi:10.1007/s00266-026-06430-w | score 19*
+  <br>Huang, Zhang, Li, Deng et al.
+
+  `matched: neural network, inverse design`
+
+
+- **[Foundational Potentials for Molecules and Materials: A Game Changer in Atomistic Simulations?](https://doi.org/10.1088/3050-287x/aec468)**
+  <br>*AI for Science | 2026-11-19 | doi:10.1088/3050-287x/aec468 | score 19*
+  <br>Tsz Wai Ko, Varinia Bernales, Alan Aspuru-Guzik
+
+  Machine learning interatomic potentials (MLIPs) have emerged as powerful tools for large-scale atomistic simulations, often reproducing their underlying ab initio references at a fraction of the computational cost within well-represented domains. In recent years, numerous developments and applications of MLIPs have transformed research in chemistry and materials science. Of particular interest is the rise of foundational potentials (FPs), which aim to provide reusable pretrained models across broad chemical and configurational spaces. In this Perspective, we review recent progress in FPs, highlight key challenges, and outline promising directions for future research.
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning`
+
+
+- **[Nex2LG: A Deep Reinforcement Learning Algorithm for Influence Maximization via Gated Collaborative Dual-Coupled Graph Neural Networks and Global Attention](https://doi.org/10.1016/j.eswa.2026.135206)**
+  <br>*Expert Systems with Applications | 2026-11-21 | doi:10.1016/j.eswa.2026.135206 | score 17*
+  <br>Tang, Chen, Zhao, Wang et al.
+
+  `matched: graph neural network, neural network`
+
+
+- **[Accelerating the discovery of luminescent metal-organic frameworks via machine learning: From rational synthesis to intelligent fluorescence sensing](https://doi.org/10.1016/j.ccr.2026.218803)**
+  <br>*Coordination Chemistry Reviews | 2026-11-21 | doi:10.1016/j.ccr.2026.218803 | score 13*
+  <br>Shu, Zhang, Liu, Yu et al.
+
+  `matched: metal-organic framework, machine learning`
+
+
+- **[Search for high-pressure phases of yttrium via a data assimilation approach](https://doi.org/10.1103/hgvh-r1t8)**
+  <br>*Physical review. B./Physical review. B | 2026-11-20 | doi:10.1103/hgvh-r1t8 | score 13*
+  <br>Yuuki Kubo, Takahiro Ishikawa, Yuta Tanaka, Yuki Nakamoto
+
+  We investigate the distorted face-centered-cubic (dfcc) phase of yttrium (Y) using a data-assimilation-based structure search that combines high-resolution powder x-ray diffraction (XRD) data with machine-learning interatomic potentials. By exploring supercells containing up to 128 atoms, we identify three low-enthalpy phases: the previously reported $I4_1/a$ structure and two additional structures, $Ibam$ and $R\overline{3}$. No data-assimilation-derived structure relaxes to the previously proposed $R\overline{3}m$ phase. Phonon calculations show that $I4_1/a$, $Ibam$, and $R\overline{3}$ are dynamically stable, whereas $R\overline{3}m$ exhibits imaginary modes near the $Γ$ point, indicatin...
+
+  `matched: interatomic potential, x-ray diffraction, phonon`
+
+
+- **[Harnessing lattice distortion for point-defect self-healing in multi-principal element alloys](https://doi.org/10.1073/pnas.2526642123)**
+  <br>*Proceedings of the National Academy of Sciences | 2026-11-20 | doi:10.1073/pnas.2526642123 | score 11*
+  <br>Bozhao Zhang, Kaihui Xun, Pengfei Guan, Robert O. Ritchie
+
+  Multi-principal element alloys are promising structural materials for nuclear, aerospace, and fusion applications, yet their accelerated discovery is limited by the prohibitive cost of evaluating point-defect transport and self-healing behavior across vast compositional spaces. Here, we establish local lattice distortion (LLD), an intrinsic feature of chemically complex alloys, as a predictive and universal descriptor for vacancy–interstitial diffusivity convergence. We develop and validate a high-fidelity machine-learning interatomic potential based on the moment tensor potential formalism for body-centered-cubic Zr–Ti–Nb alloys, enabling accurate large-scale simulations of defect energetic...
+
+  `matched: interatomic potential, alloy`
+
+
+- **[Probabilistic multi‑scale strength prediction of sulfate‑attacked concrete using a physics‑constrained diffusion model](https://doi.org/10.1016/j.matdes.2026.117620)**
+  <br>*Materials &amp; Design | 2026-11-21 | doi:10.1016/j.matdes.2026.117620 | score 9*
+  <br>Sun, Cao, Jia
+
+  `matched: diffusion model`
+
+
+- **[AI-Driven Cross-Scale Simulation of Lithium Batteries](https://doi.org/10.1021/acsnano.6c15838)**
+  <br>*ACS Nano | 2026-11-20 | doi:10.1021/acsnano.6c15838 | score 6*
+  <br>Qiliang Zhang, Juntao Zhao, Hanming Li, Peiyu Chen
+
+  The evolution of lithium battery performance involves complex coupled processes across multiple scales, ranging from electronic and atomic scales to mesoscopic structures and battery systems. Traditional simulation approaches face significant challenges in accurately predicting realistic battery electrochemical responses because of scale-bridging limitations, high computational costs, and insufficient dynamic feedback mechanisms. In recent years, advances in artificial intelligence (AI) have provided opportunities for cross-scale simulations by enabling knowledge transfer and intelligent prediction through learning physical representations from data. This Review provides a comprehensive over...
+
+  `matched: artificial intelligence, battery`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Reward misalignment as an opportunity for materials discovery](https://doi.org/10.48550/arxiv.2611.26186)**
+  <br>*arXiv (Cornell University) | 2026-11-19 | doi:10.48550/arxiv.2611.26186 | score 29*
+  <br>Ryotaro Okabe, Shoki Kishida, Abhijatmedhi Chotrattanapituk, Dominic Bollettieri
+
+  Reward misalignment is usually regarded as a failure of artificial intelligence. In materials discovery with generative AI models, however, disagreement between predefined rewards and expert judgment may reveal materials that the rewards overlook. We investigate this possibility using electronic flat bands as a prime example. Experts mostly agree with a numerical bandwidth score, but their disagreements are systematic and cannot be explained by an estimated 5% rate of mistaken labels. We learn the experts' preferences from pairwise comparisons and use them to guide a crystal diffusion model. The learned preferences and numerical score agree on the flattest bands but diverge elsewhere. For ex...
+
+  `matched: artificial intelligence, materials discovery, diffusion model, generative ai, crystal`
+
+
+- **[Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides](https://doi.org/10.48550/arxiv.2611.25127)**
+  <br>*arXiv (Cornell University) | 2026-11-18 | doi:10.48550/arxiv.2611.25127 | score 28*
+  <br>A. A. Svinukhova, Faisal Baber, Michel M. Lukanov, Viktor S. Baidyshev
+
+  Search for optimal compositions among high-entropy ceramics are challenging due to large composition space, which are unable to test either experimentally or by \textit{ab initio} calculations. Here we present a high-throughput screening for equimolar and non-equimolar high-entropy carbides (HEC) among group IVB and VB transition metals (Ti, Zr, Hf, V, Nb and Ta). Large Atomistic Model MACE, and deep learning based interatomic potential DeePMD trained on \textit{ab initio}-based dataset of structures are used to effectively screen over the thousands of potential non-equimolar compositions among high-entropy carbides of Ti, Zr, Hf, V, Nb and Ta transition metals. A set of both equimolar and n...
+
+  `matched: high-throughput screening, interatomic potential, machine learning, deep learning, dataset`
+
+
+- **[AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction](https://doi.org/10.48550/arxiv.2611.25646)**
+  <br>*arXiv (Cornell University) | 2026-11-19 | doi:10.48550/arxiv.2611.25646 | score 27*
+  <br>Changzhi Ai, Frank Abild-Pedersen, Johannes Voss
+
+  Fast and accurate prediction of adsorption energies is critical for high-throughput computational catalyst screening, existing methods compromise either on evaluation speed (full-graph machine learning potentials) or geometric sensitivity (coordination-based models like the alpha-scheme). Here, we present AdsNet, an equivariant graph neural network that directly predicts adsorption energies in a single forward pass, which operates on a local graph restricted only to adsorbate atoms and its immediate surface neighbors within a cutoff radius. This local graph formulation decouples computational complexity from total system size while encoding continuous geometric features (interatomic distance...
+
+  `matched: graph neural network, machine learning, neural network, equivariant, catalyst`
+
+
+- **[Alloying effects on the interface cohesion of grain boundaries in the Ni--Fe--Cr system](https://doi.org/10.48550/arxiv.2611.25944)**
+  <br>*arXiv (Cornell University) | 2026-11-19 | doi:10.48550/arxiv.2611.25944 | score 20*
+  <br>Aljoscha Baumann, Reyhaneh Ghassemizadeh, Daniel F. Urban
+
+  Grain boundaries (GBs) in polycrystalline Ni-based alloys strongly influence mechanical strength and fracture behavior, yet the effect of alloying elements such as Fe and Cr on GB cohesion remains difficult to quantify systematically. Using density functional theory (DFT), we compute rigid-body separation (RBS) curves for six symmetric-tilt Ni GBs, extracting the work of separation $W_{\mathrm{sep}}$ and maximum traction $σ_{\max}$ via the universal binding energy relation (UBER). We find that substitution of Cr or Fe into the GB plane increases both quantities relative to pure Ni GBs. To overcome the size limitations of DFT, we compare several machine-learning interatomic potential (MLIP) f...
+
+  `matched: density functional theory, interatomic potential, crystal, alloy, dft`
+
+
+- **[Spacer accommodation under geometric confinement governs phase behavior in mixed Ruddlesden–Popper and Dion–Jacobson halide perovskites](https://doi.org/10.26434/chemrxiv.15012469/v2)**
+  <br>*ChemRxiv | 2026-11-19 | doi:10.26434/chemrxiv.15012469/v2 | score 16*
+  <br>Hochan Song, Allison Hinkle, Minseong Kim, Alla Slautina
+
+  Mixing organic spacers broadens the structural diversity of two-dimensional (2D) halide perovskites (HPs); however, predicting whether chemically distinct spacers can be incorporated into a shared layered phase remains a significant challenge. Here, we integrate high-throughput compositional screening and diffraction-based phase mapping with molecular dynamics simulations accelerated by machine-learning interatomic potentials (MLIP-MD) to investigate combinations of five Dion–Jacobson (DJ) spacers with varying alkyl-chain lengths and three aliphatic or aromatic Ruddlesden–Popper (RP) spacers. Contrary to conventional structural-matching expectations, large differences in parent-phase interla...
+
+  `matched: interatomic potential, molecular dynamics, perovskite`
+
+
+---
+
+
 ## 2026-11-20
 
 24 new item(s). Top hit: **Emergent Fatigue Dynamics from Foundational Interatomic Potentials** (score 34, arXiv).
