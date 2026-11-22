@@ -6,6 +6,33 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-22
+
+2 new item(s). Top hit: **Accelerating high-throughput catalyst screening by direct generation of equilibrium adsorption structures** (score 44, Nature Communications).
+
+### Journal articles
+
+- **[Accelerating high-throughput catalyst screening by direct generation of equilibrium adsorption structures](https://doi.org/10.1038/s41467-026-79243-9)**
+  <br>*Nature Communications | 2026-11-21 | doi:10.1038/s41467-026-79243-9 | score 44*
+  <br>Songze Huo, Xiao-Ming Cao
+
+  The adsorption energy serves as a crucial descriptor for the large-scale screening of catalysts. Nevertheless, the limited distribution of training data for the extensively utilised machine learning interatomic potential, predominantly sourced from near-equilibrium structures, results in unreliable adsorption structures and consequent adsorption energy predictions. In this context, we present DBCata, a deep generative model that integrates a periodic Brownian-bridge framework with an equivariant graph neural network to establish a low-dimensional transition manifold between unrelaxed and DFT-relaxed structures, without requiring explicit energy or force information. Upon training, DBCata eff...
+
+  `matched: machine learning interatomic potential, interatomic potential, graph neural network, machine learning, generative model, neural network`
+
+
+- **[Atomistic Intelligence Lab: A Python Framework for Physics-Informed Machine Learning in Atomistic Modeling and Atomic Charge Prediction](https://doi.org/10.5281/zenodo.24416706)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-21 | doi:10.5281/zenodo.24416706 | score 18*
+  <br>Amirhossein Rezazadeh
+
+  Atomistic Intelligence Lab Atomistic Intelligence Lab (AIL) is an open-source Python research framework focused on the development and evaluation of physics-informed machine learning methods for atomistic modeling and molecular simulations. The project explores the integration of physical principles, analytical models, and machine learning architectures to improve the accuracy, efficiency, and interpretability of atomistic predictions. The framework is organized around two complementary research directions: 1. Physics-Informed Interatomic Potential Modeling Inspired by the 2019 study Physically informed artificial neural networks for atomistic modeling of materials, this module investigates...
+
+  `matched: interatomic potential, machine learning, neural network, open-source`
+
+
+---
+
+
 ## 2026-11-21
 
 13 new item(s). Top hit: **Reward misalignment as an opportunity for materials discovery** (score 29, arXiv (Cornell University)).
