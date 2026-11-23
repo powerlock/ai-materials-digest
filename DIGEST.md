@@ -6,6 +6,136 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-23
+
+16 new item(s). Top hit: **Generating grain boundary structures at a specified energy with a symmetry-constrained diffusion model** (score 30, arXiv).
+
+### Journal articles
+
+- **[Code and data for: Temperature-dependent elastic anisotropy of ScXI (X = S, Se, Te) monolayers from pretrained machine-learning interatomic potentials](https://doi.org/10.5281/zenodo.24439589)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-22 | doi:10.5281/zenodo.24439589 | score 17*
+  <br>Hamdi Onur BAHADIR, Ceren Tayran, M. Çakmak
+
+  Code and data supporting the article "Temperature-dependent elastic anisotropy of ScXI (X = S, Se, Te) monolayers from pretrained machine-learning interatomic potentials" by H. O. Bahadır, C. Tayran and M. Çakmak (submitted to Computational Materials Science, 2026). All calculations use pretrained MACE foundation models through ASE. The production model is MACE-OMAT-0 (medium) with D3(BJ) dispersion; MACE-MPA-0, MACE-MATPES-PBE and MACE-MATPES-r2SCAN are used for the 0 K model comparison.
+
+  `matched: interatomic potential, foundation model`
+
+
+- **[Decoding the Machine: Understanding Algorithms, Artificial Intelligence and Machine Learning](https://doi.org/10.51952/9781529251968.ch001)**
+  <br>*Algorithms of War | 2026-11-23 | doi:10.51952/9781529251968.ch001 | score 14*
+  <br>Moffett
+
+  `matched: artificial intelligence, machine learning, mof`
+
+
+- **[Decision letter for "A single reference-energy outlier nearly eliminates Co-O chemistry from a generative model's training distribution"](https://doi.org/10.1039/d6dd00707d/v2/decision1)**
+  <br>*Crossref | 2026-11-23 | doi:10.1039/d6dd00707d/v2/decision1 | score 9*
+
+  `matched: generative model`
+
+
+- **[Decision letter for "A single reference-energy outlier nearly eliminates Co-O chemistry from a generative model's training distribution"](https://doi.org/10.1039/d6dd00707d/v1/decision1)**
+  <br>*Crossref | 2026-11-23 | doi:10.1039/d6dd00707d/v1/decision1 | score 9*
+
+  `matched: generative model`
+
+
+- **[Review for "A single reference-energy outlier nearly eliminates Co-O chemistry from a generative model's training distribution"](https://doi.org/10.1039/d6dd00707d/v1/review3)**
+  <br>*Crossref | 2026-11-23 | doi:10.1039/d6dd00707d/v1/review3 | score 9*
+
+  `matched: generative model`
+
+
+- **[Review for "A single reference-energy outlier nearly eliminates Co-O chemistry from a generative model's training distribution"](https://doi.org/10.1039/d6dd00707d/v1/review1)**
+  <br>*Crossref | 2026-11-23 | doi:10.1039/d6dd00707d/v1/review1 | score 9*
+
+  `matched: generative model`
+
+
+- **[Review for "A single reference-energy outlier nearly eliminates Co-O chemistry from a generative model's training distribution"](https://doi.org/10.1039/d6dd00707d/v1/review2)**
+  <br>*Crossref | 2026-11-23 | doi:10.1039/d6dd00707d/v1/review2 | score 9*
+
+  `matched: generative model`
+
+
+- **[Review for "A single reference-energy outlier nearly eliminates Co-O chemistry from a generative model's training distribution"](https://doi.org/10.1039/d6dd00707d/v2/review1)**
+  <br>*Crossref | 2026-11-23 | doi:10.1039/d6dd00707d/v2/review1 | score 9*
+
+  `matched: generative model`
+
+
+- **[Author response for "A single reference-energy outlier nearly eliminates Co-O chemistry from a generative model's training distribution"](https://doi.org/10.1039/d6dd00707d/v2/response1)**
+  <br>*Crossref | 2026-11-23 | doi:10.1039/d6dd00707d/v2/response1 | score 9*
+  <br>Dowon Song
+
+  `matched: generative model`
+
+
+- **[Review for "A single reference-energy outlier nearly eliminates Co-O chemistry from a generative model's training distribution"](https://doi.org/10.1039/d6dd00707d/v2/review2)**
+  <br>*Crossref | 2026-11-23 | doi:10.1039/d6dd00707d/v2/review2 | score 9*
+
+  `matched: generative model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Generating grain boundary structures at a specified energy with a symmetry-constrained diffusion model](http://arxiv.org/abs/2611.27188v1)**
+  <br>*arXiv | 2026-11-20 | score 30*
+  <br>Kazuya Miyamoto, Ibuki Okuda, Izumi Takahara, Teruyasu Mizoguchi
+
+  Grain boundaries (GBs) govern many properties of polycrystalline materials, and inverse design would make the GB structure itself a design variable. Crystal generative models such as MatterGen operate on periodic cells, which contain two GBs. The cell energy defines a single GB only when the two are equivalent, but existing models do not enforce this equivalence. Building on MatterGen, we developed a symmetry-constrained diffusion model in which the two GBs are related by a symmetry operation: atoms near one GB are generated, and those near the other are reconstructed through a symmetry projection applied at every denoising step. We applied it to the $Σ5(210)[001]$ symmetric tilt GB in Al, c...
+
+  `matched: generative model, diffusion model, inverse design, mattergen, crystal`
+
+
+- **[E2Former-V3: Atom-Role-Aware Equivariant Interatomic Potentials](http://arxiv.org/abs/2611.27111v1)**
+  <br>*arXiv | 2026-11-20 | score 30*
+  <br>Frank Peng, Lin Huang, Arthur Jiang, Jia Zhang
+
+  Machine-learned interatomic potentials approach density-functional accuracy, but explicit-solvent atom counts are dominated by hydrogens and water. Uniform equivariant architectures still give every atom the same latent width and number of expensive block updates. To our knowledge, no prior method reallocates capacity by chemical role while retaining every atom and its first-principles force. We introduce E2Former-V3, which treats capacity as an atom-level resource: a static chemical role, assigned before the backbone runs, sets each atom's latent width and update count. No atom is removed, no coordinate is integrated out, and every force remains the gradient of one conservative energy. Stan...
+
+  `matched: machine-learned interatomic potential, interatomic potential, equivariant`
+
+
+- **[Building a grain-boundary machine-learning force field by reactive sampling and data curation, and its application to large-scale grain-boundary transport in Li6PS5X (X =Cl, Br)](https://doi.org/10.26434/chemrxiv.15012608/v1)**
+  <br>*Crossref | 2026-11-23 | doi:10.26434/chemrxiv.15012608/v1 | score 19*
+  <br>Nakata, Kadota, Ena
+
+  General-purpose machine-learning interatomic potentials (MLIPs) achieve near-DFT accuracy for equilibrium properties, yet their reliability for rare, non-equilibrium events—such as Li migration in grain-boundary (GB) corescannot be judged from static error metrics alone. Here we present a datageneration, curation, and validation framework that turns this judgment into a routine check, demonstrated on argyrodite Li6PS5X. Reactive-path sampling (ODPMD) concentrated in the transition region yields configurations far from the existing data (44% novel vs. 4% for intact-phase frames), which are screened by a physical-consistency filter and selected by stratified sampling in a MatterSim descriptor...
+
+  `matched: interatomic potential, mattersim, dft`
+
+
+- **[Gap-weighted diversity space for pool-based molecular screening and why the metric decides whether active learning helps](https://doi.org/10.26434/chemrxiv.15012588/v1)**
+  <br>*Crossref | 2026-11-23 | doi:10.26434/chemrxiv.15012588/v1 | score 17*
+  <br>Reddy Venna, Clayborne
+
+  Gas-phase density functional theory (DFT) calculations provide valuable electronic structure information for molecular screening but remain computationally expensive for large chemical libraries. At the B3LYP/6-31G(d,p) level, screening 8,657 organic carboxylates would require approximately 2.1 × 105 CPU hours. We introduce MolecularLens, an automated computational framework integrating RDKit molecular descriptors, a Monte Carlo dropout Bayesian neural network, a tailored molecular diversity representation (Xcluster), four pool-based acquisition strategies, and Gaussian 16/SLURM workflows. We demonstrate that conventional concatenation of 51 molecular descriptors and 2,048 Morgan fingerprint...
+
+  `matched: density functional theory, active learning, neural network, dft`
+
+
+- **[Verified experience improves materials prediction with large language models](https://doi.org/10.26434/chemrxiv.15012571/v1)**
+  <br>*Crossref | 2026-11-23 | doi:10.26434/chemrxiv.15012571/v1 | score 16*
+  <br>Zhang, Tsuda
+
+  Materials discovery is an iterative loop: experiments and calculations verify predictions, and each outcome can inform the next. Yet most predictors are specialized single-task models fixed after training. Large language models have recently emerged as predictors across heterogeneous tasks but generally underperform specialized models, and retrieval-augmented variants discard their own outcomes. Benchmarks also score queries in isolation, leaving improvement from outcomes untested. Here we construct MatMemBench, a sequential benchmark of 22 materials tasks that reveals outcomes only after prediction and tests online adaptation, memory retention and cross-task transfer. We present MatRecall,...
+
+  `matched: large language model, materials discovery, benchmark`
+
+
+- **[Resting-State MEG Functional Connectivity Changes in Lumbar Spinal Stenosis: A Multi-Band wPLI and Machine Learning Study](https://doi.org/10.21203/rs.3.rs-10929075/v1)**
+  <br>*Crossref | 2026-11-23 | doi:10.21203/rs.3.rs-10929075/v1 | score 10*
+  <br>Zhao, Miao, Wang, Wang et al.
+
+  Abstract Purpose of the Study: To investigate alterations in resting-state brain functional connectivity in lumbar spinal stenosis (LSS) patients and to evaluate multi-band connectivity features between LSS patients and healthy controls (HCs). Materials and Methods The study included 39 LSS patients and 31 HCs. Resting-state recordings were acquired using a 64-channel magnetoencephalography (MEG) system. After preprocessing, power spectral density (PSD) and functional connectivity matrices based on the weighted phase lag index (wPLI) were calculated across eight sensor-level regions of interest in four frequency bands (theta, alpha, beta, and gamma). Multiple machine learning model were appl...
+
+  `matched: machine learning, magnet`
+
+
+---
+
+
 ## 2026-11-22
 
 2 new item(s). Top hit: **Accelerating high-throughput catalyst screening by direct generation of equilibrium adsorption structures** (score 44, Nature Communications).
