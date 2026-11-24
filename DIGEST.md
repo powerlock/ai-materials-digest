@@ -6,6 +6,204 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-24
+
+21 new item(s). Top hit: **Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in M** (score 41, arXiv).
+
+### Journal articles
+
+- **[Mechanism of Alkene Skeletal Isomerization in Zeolites Revealed by Coupled‐Cluster Accurate Free‐Energy Simulations](https://doi.org/10.1002/ange.5971003)**
+  <br>*Angewandte Chemie | 2026-11-23 | doi:10.1002/ange.5971003 | score 22*
+  <br>Chintu Das, Merlin Haaf, GiovanniMaria Piccini
+
+  The mechanism of Brønsted acid‐catalyzed transformations in zeolites is generally described in terms of carbocationic intermediates, yet their thermodynamic stability and mechanistic role remain controversial. Resolving this issue requires chemically accurate free‐energy simulations, which are beyond the reach of conventional density functional theory (DFT) and prohibitively expensive at the coupled‐cluster level. Here, we combine a cluster‐based QM/QM ‐learning strategy with a machine‐learning interatomic potential (MLIP) to enable molecular dynamics (MD) simulations with near‐CCSD(T) accuracy. Applied to the skeletal isomerization of n ‐butene in chabazite, the resulting free‐energy surfac...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics, zeolite, dft`
+
+
+- **[End-to-End Machine-Learning Potentials in AutoMeKin: Reliable Exploration of Reactive Potential Energy Surfaces](https://doi.org/10.5281/zenodo.24471414)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-23 | doi:10.5281/zenodo.24471414 | score 21*
+  <br>Omar Rodríguez López, Saulo A. Vázquez, Berta Fernández, Emilio Martínez-Núñez
+
+  This dataset contains the data that support the article on the use of the machine-learned interatomic potentials UMA and MACE-OMOL-0 in the potential energy surface exploration stage of AutoMeKin. For each test system, formic acid, disilanol and 2-pyrrolidone, the dataset includes the final reaction networks obtained with four protocols: a PM7 exploration, the PM7 network refined at the ωB97M-V/def2-TZVPD level, and the UMA and MACE-OMOL-0 explorations. Each network folder contains the energies, geometries and vibrational modes of the stationary points, the list of reactions and the results of the kinetic simulations. The dataset also includes the ORCA outputs of the DFT reoptimizations and...
+
+  `matched: machine-learned interatomic potential, interatomic potential, dataset, dft`
+
+
+- **[Data-Efficient Machine Learning-DFT Workflow for Rapid Prediction of Polyaromatic Reactivity on Bimetallic Surfaces](https://doi.org/10.1021/acsomega.6c10184)**
+  <br>*ACS Omega | 2026-11-23 | doi:10.1021/acsomega.6c10184 | score 19*
+  <br>Jérémie Zaffran, Arnaud Guillabert, Sébastien Paul
+
+  Density functional theory (DFT) simulations have become an essential tool for studying surface reactivity at the microscale, providing guidelines for experimentalists in the design of efficient catalyst compositions across a wide range of applications. However, DFT calculations are resource-intensive and can be prohibitively time-consuming, especially when large adsorbates must be sampled across heterogeneous surfaces with many nonequivalent adsorption sites. In this work, we propose a joint ML–DFT workflow to accelerate the prediction of polyaromatic reactivity on bimetallic surfaces using carefully selected descriptors computed on related molecular fragments. To establish a proof of concep...
+
+  `matched: density functional theory, machine learning, catalyst, dft`
+
+
+- **[A Dual-Branch Deep Learning Model for Lithium-Ion Battery Health Assessment Under Variable Operating Conditions](https://doi.org/10.1109/ccpcdl71372.2026.11795636)**
+  <br>*2026 5th International Conference on Cloud Computing, Performance Computing and Deep Learning (CCPCDL) | 2026-11-24 | doi:10.1109/ccpcdl71372.2026.11795636 | score 13*
+  <br>Chen
+
+  `matched: deep learning, battery`
+
+
+- **[Capturing Nuclear Quantum Effects in Hydrogen Diffusion through MoS2 via Machine-Learning-Enhanced Path-Integral Simulations](https://doi.org/10.1088/2053-1583/aec570)**
+  <br>*2D Materials | 2026-11-23 | doi:10.1088/2053-1583/aec570 | score 10*
+  <br>Ismail Eren, Ege Yigit Erbil, Maria-Judith Caisachana-Lozada, Hossein Mirhosseini
+
+  Hydrogen transport through layered two-dimensional (2D) materials is central to technologies such as hydrogen storage, fuel cells, and isotope separation. Among these materials, MoS2 exhibits tunable interlayer diffusion properties, whose accurate theoretical description requires accounting for nuclear quantum effects (NQEs), including zero-point motion and tunneling. Here, we present a machine-learning-enhanced atomistic study of hydrogen and deuterium diffusion in layered MoS2 based on interatomic potentials trained on r2SCAN+rVV10 density-functional-theory data. Combining well-tempered metadynamics with path-integral molecular dynamics, we investigate diffusion across multiple MoS2 polyty...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+- **[Frequency-Gated Foundation Model Adaptation for Degradation-Robust Semantic Segmentation](https://doi.org/10.1109/ccpcdl71372.2026.11795531)**
+  <br>*2026 5th International Conference on Cloud Computing, Performance Computing and Deep Learning (CCPCDL) | 2026-11-24 | doi:10.1109/ccpcdl71372.2026.11795531 | score 9*
+  <br>Wang, Chen, Tang, Zhang et al.
+
+  `matched: foundation model`
+
+
+- **[Symmetry-resolved nonlinear vibrational modes as diagnostics of interatomic interactions in graphene](https://doi.org/10.1088/1361-648x/aec5ae)**
+  <br>*Journal of Physics Condensed Matter | 2026-11-23 | doi:10.1088/1361-648x/aec5ae | score 7*
+  <br>Denis Ryabov, Danial Saadatmand, Daxing Xiong, Weicheng Fu
+
+  Accurate atomistic simulations of graphene require interatomic potentials that capture anharmonic bond stretching, bond-angle bending, and out-of-plane torsion. Here, we identify delocalized nonlinear vibrational modes (DNVMs) in graphene as symmetry-controlled probes of these interaction channels. The considered modes include one-and two-component excitations with in-plane, outof-plane, and mixed atomic displacements. Their symmetry confines the dynamics to invariant vibrational subspaces, thereby suppressing coupling to other lattice modes before instability develops. For two-component in-plane modes, we determine amplitude relations that produce time-periodic oscillations, including exact...
+
+  `matched: interatomic potential`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[DeepDOSReasoner: Physics-Grounded Reasoning for Density-of-States Prediction and Materials Discovery](http://arxiv.org/abs/2611.29132v1)**
+  <br>*arXiv | 2026-11-22 | score 33*
+  <br>Yingheng Wang, Francesco Ricci, Zhilong Wang, Tao Yu et al.
+
+  Predicting a material's behavior from its atomic structure is a longstanding goal of the physical sciences. The electronic and phonon densities of states (eDOS and phDOS) govern key electronic, optical, vibrational, and thermodynamic properties, yet their calculation using density functional theory (DFT) is costly: about 60% of Materials Project entries lack eDOS and over 80% lack phDOS. Existing crystal-to-spectrum models rely on pooled structural representations and pointwise regression, which blur spectral features and violate total-state conservation. Here we introduce DeepDOSReasoner, a physics-grounded framework that decodes spectra through atom-to-energy source attention and refines t...
+
+  `matched: density functional theory, materials discovery, materials project, crystal, phonon, dft`
+
+
+- **[High-Throughput Screening of Phononic Bandgap in Experimentally Realized Materials](http://arxiv.org/abs/2611.30344v1)**
+  <br>*arXiv | 2026-11-23 | score 26*
+  <br>Mohammad Bagheri, Kameyab Raza Abidi, Pekka Koskinen
+
+  Materials with a phonon band gap offer a unique mechanism to restrict phonon scattering, making them promising candidates for developing functional materials for targeted thermal applications. Unlocking this mechanism across broad material classes requires systematic exploration, but first-principles methods and experiments are too expensive. Here, we used the universal machine-learning interatomic potential to quantify phonons and thermodynamic properties. We validated the accuracy of machine-learning-calculated results by comparing them with density-functional theory. We screened 154,879 materials and performed phonon calculations for 42,347 thermodynamically stable and experimentally obse...
+
+  `matched: high-throughput screening, interatomic potential, band gap, phonon`
+
+
+- **[Unveiling the Complex high-pressure phases of Sodium at the Melting Curve Minimum via Data-Drive Crystal Structure Prediction](http://arxiv.org/abs/2611.29889v1)**
+  <br>*arXiv | 2026-11-23 | score 23*
+  <br>Zhenyu Wang, Chengqian Zhang, Xiaoyang Wang, Haiyang Niu et al.
+
+  Sodium exhibits a remarkable concentration of complex crystalline phases near its melting-curve minimum, yet the atomic arrangements of several experimentally observed phases remain unresolved. Here, we combine CALYPSO crystal structure prediction with Deep Potential models developed through concurrent learning to explore this structural landscape. Searches over more than 1.6 million configurations recover the previously reported $I4/m$ structure of $tI50$ and identify candidate atomic arrangements for $oC120$ and $aP90$, together with three additional low-enthalpy structures, $tI52$, $oP72$, and $oP92$. The proposed candidates reproduce key features of the experimentally indexed cell geomet...
+
+  `matched: crystal structure prediction, crystal`
+
+
+- **[Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides](http://arxiv.org/abs/2611.29349v1)**
+  <br>*arXiv | 2026-11-22 | score 23*
+  <br>Rafael R. Del Grande, David A. Strubbe
+
+  The GW method is the one of the main workhorses of the materials science community to accurately calculate the electronic bandgap of materials, as it overcomes the gap underestimation problem from Density Functional Theory (DFT). Despite its accuracy, its computational cost becomes prohibitive when calculations have more than 10-100 atoms, which makes more difficult its use for defects, surfaces and moiré systems that demand large supercells. To overcome this problem, we developed a Graph Neural Network trained with smaller GW calculations which can make accurate predictions on large supercells at a small fraction of the computational cost. Our model uses as features the projection of DFT wa...
+
+  `matched: density functional theory, graph neural network, neural network, dft`
+
+
+- **[CLFF: Automated Framework for Concurrent Learning Force Fields and Material Property Calculations](http://arxiv.org/abs/2611.29187v1)**
+  <br>*arXiv | 2026-11-22 | score 23*
+  <br>Cao Thang Nguyen, Sung Youb Kim
+
+  Machine learning interatomic potentials (MLIPs) offer an efficient paradigm for large-scale atomistic simulations with near first-principles accuracy. However, developing and deploying these potentials often involves intricate procedures that require substantial manual effort and domain expertise. In this work, we present CLFF, an open-source Python framework designed to automate concurrent learning workflows for MLIPs. CLFF integrates model training, MLIP-driven sampling, uncertainty-based candidate selection, quantum-mechanical labeling, and dataset augmentation into a unified workflow. The framework currently supports several modern graph-based MLIP architectures and is compatible with wi...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, open-source, dataset`
+
+
+- **[Accuracy and Limits of Pretrained Interatomic Potentials Across Molecular Reaction Pathways](https://doi.org/10.26434/chemrxiv.15012574/v1)**
+  <br>*ChemRxiv | 2026-11-22 | doi:10.26434/chemrxiv.15012574/v1 | score 22*
+  <br>Austin Ellis, Ryan J. Morelock, Soumendu Bagchi, A. M. Santos
+
+  Foundation models of machine-learning interatomic potentials are now used to search for reaction pathways, but the common reactive test sets share structures with the training data for several of these models. We compare energies and forces from fifteen pretrained models with DFT single-point values at fixed GFN2-xTB-derived geometries from 9,017 gas-phase reaction pathways in DORTS-9K, a separately generated dataset, and extend the comparison to seventeen models for the reactions that contain only carbon, hydrogen, nitrogen, and oxygen (CHNO). Models trained on molecular data are the most accurate, and the best of them, UMA-M OMol, has a median force RMSE of 0.018 eV Å⁻¹ and reproduces 96%...
+
+  `matched: interatomic potential, foundation model, dataset, dft`
+
+
+- **[Molecular Pawns on a Surface Chessboard: Computational Investigation of Nanographenes with Atomistic Methods](http://arxiv.org/abs/2611.30917v1)**
+  <br>*arXiv | 2026-11-23 | score 21*
+  <br>Antonio Lorenzo Mariano, Jacopo Lupi, Emilio Lorini, Matteo Briganti
+
+  Atomically precise nanographenes combine tunable electronic topology with localized, coherent spin states, making them candidate platforms for molecular quantum technologies. This review examines the multiscale theoretical framework governing these systems: the hierarchy of computational methods for describing magnetic properties, the substrate-molecule interface, on-surface synthetic kinetics, and supramolecular self-assembly. We highlight how density functional theory, automated reaction-path discovery, and spin-aware machine-learned interatomic potentials connect static electronic structure to mesoscale dynamics, and how magnetic exchange, optical excitations, and spin transport can be pr...
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, magnet`
+
+
+- **[Accelerating interatomic potential development through student-driven exploration and reliability-aware distillation](http://arxiv.org/abs/2611.30229v1)**
+  <br>*arXiv | 2026-11-23 | score 19*
+  <br>Ruiqi Dong, Haotian Huang, Yubin Hu, Guixiang Zeng
+
+  Conventional two-stage distillation first establishes a teacher through teacher-driven configuration exploration, a costly first stage for complex materials, and then uses its predictions to supervise students, potentially propagating teacher-label errors. Here, we propose distillation-driven teacher-student co-evolution (DICE), which uses a fast student to accelerate configuration exploration and replaces the fixed teacher-to-student sequence with alternating student and teacher updates. A representation-based support-assessment algorithm routes high-support configurations to teacher labelling and selects low-support configurations for density functional theory (DFT) calculations to update...
+
+  `matched: density functional theory, interatomic potential, dft`
+
+
+- **[Crystal-structure design by agentic AI in a language of motifs](https://doi.org/10.21203/rs.3.rs-11807841/v1)**
+  <br>*Research Square | 2026-11-23 | doi:10.21203/rs.3.rs-11807841/v1 | score 19*
+  <br>Dinh-Khiet Le, Minh-Quyet Ha, Hong-Phuc Vu-Dinh, Viet-Cuong Nguyen
+
+  Data-driven materials discovery interpolates more reliably than it extrapolates and seldom reveals new structure types. We present MatEvolve, an agentic-AI framework that designs crystals in an interpretable language of motifs, in which each crystal is written as a motif profile that describes the recurring geometric patterns - the motifs - composing the crystal. The motif profile serves not merely as a description of a material but as the medium for material design: the agent edits the profile with a stated rationale and constructs a crystal from the modified one; the most promising candidates are then validated by first-principles calculations. MatEvolve is built on the state-of-the-art la...
+
+  `matched: materials discovery, crystal, agentic`
+
+
+- **[AmorphGen: A Python package for amorphous structure generation with machine-learning and classical interatomic potentials](http://arxiv.org/abs/2611.29539v1)**
+  <br>*arXiv | 2026-11-22 | score 18*
+  <br>Chaiyawat Kaewmeechai, Louie Slocombe, Alexis G. Manche, David O. Scanlon
+
+  AmorphGen is an open-source Python package for generating and analyzing amorphous structures from a composition or a crystal. Chemically informed rules estimate initial densities and assign separation and coordination constraints. Three routes are available: random placement followed by relaxation, melt-quench from a crystal, and a hybrid route that anneals and quenches random structures. ASE provides access to classical and machine-learning potentials, with GPU batching for selected backends. Analysis tools compute coordination numbers, bond angles, rings, and X-ray or neutron structure factors for comparison with measurements. An optional interface to the FEFF code computes extended X-ray...
+
+  `matched: interatomic potential, open-source, crystal`
+
+
+- **[LeIFF: A localized-electron and ion force field for coupled nuclear and electronic dynamics](http://arxiv.org/abs/2611.31029v1)**
+  <br>*arXiv | 2026-11-23 | score 16*
+  <br>Anthony Mannino, Isidro Losada, Simon Divilov, Michelle Fritz et al.
+
+  Classical and machine-learned interatomic potentials enable large-scale simulations by replacing electronic structure with an effective energy surface for nuclear motion. This excludes electronic dynamics, electronic excitation and energy exchange between electrons and ions. First-principles electron dynamics can describe these processes, but its computational cost restricts system sizes and simulation times. Electron force fields offer an intermediate description by treating electrons as semiclassical dynamical particles interacting with ions. We introduce the localized-electron and ion force field (LeIFF), a compact physical model for both ground state bonding and excited electron dynamics...
+
+  `matched: machine-learned interatomic potential, interatomic potential`
+
+
+- **[CrysLDM: Latent Diffusion Model for Crystal Material Generation](http://arxiv.org/abs/2611.29675v1)**
+  <br>*arXiv | 2026-11-22 | score 15*
+  <br>Subhojyoti Khastagir, Kishalay Das, Pawan Goyal, Seung-Cheol Lee et al.
+
+  Generating new crystal materials with desirable chemical properties has long been a challenging task. Existing diffusion models operate in feature space, requiring complex diffusion architectures to model the joint distribution of atom types, coordinates, and lattice structures. This complexity increases the number of diffusion steps, leading to higher training and sampling costs. In this work, we aim to generate novel crystal materials within a time- and resource-constrained setup, where existing models are not well-suited. To address this, we propose CrysLDM, a novel latent diffusion model for 3D crystal materials, which integrates a variational autoencoder and a diffusion model. The VAE e...
+
+  `matched: diffusion model, crystal`
+
+
+- **[An equivariant classical density functional for ionic fluids at complex interfaces](http://arxiv.org/abs/2611.28501v1)**
+  <br>*arXiv | 2026-11-21 | score 9*
+  <br>Bingqing Cheng
+
+  Predicting the combined effects of ionic packing and long-range electrostatics at complex interfaces is technologically important, but remains challenging without atomistic simulations. Here we present a machine-learned classical density functional for ionic fluids that combines a symmetry-adapted neural free energy for short-range correlations with explicit long-range electrostatics. Trained on three-dimensional equilibrium densities and bulk correlations of the full-Coulomb restricted primitive model, a single functional transfers to charge-patterned particles and atomically structured electrodes. Around anisotropic charged solutes, it reproduces the ionic structure and mean forces from mo...
+
+  `matched: equivariant`
+
+
+### Conference papers
+
+- **[Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery](http://arxiv.org/abs/2611.30066v1)**
+  <br>*arXiv | 2026-11-23 | score 41*
+  <br>Accepted/presented: NeurIPS | Harry Sevi, Joonatan E. M. Laulainen
+
+  In AI-guided materials discovery, machine-learning models increasingly decide which candidate materials should receive expensive first-principles or experimental evaluation. Standard reliability metrics such as uncertainty, calibration, novelty, and ranking accuracy evaluate properties of the predictions, but success on these metrics does not necessarily imply a better downstream screening decision. We study this mismatch for foundation machine-learned interatomic potentials (MACE-MP, CHGNet, Orb V3) used to rank candidate crystal structures before DFT verification. We evaluate three representative reliability interventions (novelty detection, sparse DFT calibration, and chemistry-level rank...
+
+  `matched: machine-learned interatomic potential, interatomic potential, materials discovery, crystal, dft`
+
+
+---
+
+
 ## 2026-11-23
 
 16 new item(s). Top hit: **Generating grain boundary structures at a specified energy with a symmetry-constrained diffusion model** (score 30, arXiv).
