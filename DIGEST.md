@@ -6,6 +6,205 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-25
+
+21 new item(s). Top hit: **Machine Learning Interatomic Potentials and Agentic AI as Enabling Tools for the Computational Study of Metal-** (score 56, University of Notre Dame).
+
+### Journal articles
+
+- **[Machine Learning Interatomic Potentials and Agentic AI as Enabling Tools for the Computational Study of Metal-Organic Frameworks’ Self-Assembly](https://doi.org/10.7274/35018608)**
+  <br>*University of Notre Dame | 2026-11-24 | doi:10.7274/35018608 | score 56*
+  <br>Orlando A. Mendible-Barreto
+
+  Metal-organic frameworks (MOFs) are porous, crystalline materials whose exceptional tunability has enabled applications across gas storage and separation, heterogeneous catalysis, and drug delivery. Despite more than 100,000 distinct MOFs synthesized to date, the molecular mechanisms governing MOF self-assembly remain poorly understood, in part because self-assembly is a multi-scale process that neither ab initio molecular dynamics (AIMD), which is too computationally expensive to sample adequately, nor classical force fields, which lack the electronic-structure detail to capture bond-breaking and bond-forming events, can fully describe. This dissertation addresses this gap by developing and...
+
+  `matched: machine learning interatomic potential, metal-organic framework, interatomic potential, molecular dynamics, machine learning, agentic`
+
+
+- **[2d-mlip-workflows: DFT dataset generation, fine-tuning of universal machine-learning interatomic potentials and molecular dynamics of 2D carbon materials](https://doi.org/10.5281/zenodo.24516294)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-24 | doi:10.5281/zenodo.24516294 | score 29*
+  <br>Luis Martín‐Encinar
+
+  Workflows and scripts to build DFT and ab initio molecular dynamics training data with Quantum ESPRESSO, select configurations with SOAP descriptors and farthest-point sampling, fine-tune universal machine-learning interatomic potentials (MACE, NequIP, PET), estimate their uncertainty with committees, and run and analyse NVT and NPT molecular dynamics of 2D carbon materials, applied to boron-graphdiyne.
+
+  `matched: interatomic potential, molecular dynamics, dataset, dft`
+
+
+- **[A data-efficient machine-learning approach for modeling the photodynamics of all- trans hexatriene based on multireference configuration interaction calculations](https://doi.org/10.1039/d6fd00061d)**
+  <br>*Faraday Discussions | 2027-01-01 | doi:10.1039/d6fd00061d | score 25*
+  <br>Luan G. F. dos Santos, Julio C. V. Chagas, Mikołaj Martyka, Pavlo O. Dral
+
+  Accurate simulations of excited-state photodynamics of polyenes remain challenging due to the high computational cost of multireference electronic-structure methods required to describe the coexistence of ionic and covalent states. In this work, active learning together with machine learning interatomic potentials (MLIP) trained on multireference configuration interaction with single and double excitations (MR-CISD) level energies and gradients, is used to enable efficient and accurate nonadiabatic molecular dynamics for all-trans-hexatriene. A compact yet representative training set is constructed by reducing an initial pool of ∼850 k configurations to ∼3 k geometries while preserving the r...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, active learning`
+
+
+- **[Predicting the Impact Sensitivity of Energetic Materials From Small Datasets: A Multi‐Task Graph Neural Network Approach Utilizing Co‐Measured Properties](https://doi.org/10.1002/prep.70321)**
+  <br>*Propellants, Explosives, Pyrotechnics | 2026-11-25 | doi:10.1002/prep.70321 | score 24*
+  <br>Li, Yan, Zhang, Wang et al.
+
+  ABSTRACT Impact sensitivity is a vital safety metric of energetic materials whose measurement is expensive and dangerous, with public datasets limited to hundreds of molecules. Using the 307‐molecule Mathieu dataset under a leakage‐free nested cross‐validation framework (outer five‐fold; molecule‐level inner split; four seeds averaged), this work asks whether MPNN surpasses descriptor‐based machine learning and at which data size, whether co‐training with co‐measured density, detonation velocity and pressure helps without extra computed data, and how to quantify applicability domain and predictive uncertainty. The single‐task MPNN ( R 2 = 0.616 ± 0.030) matches or slightly exceeds the strong...
+
+  `matched: graph neural network, machine learning, neural network, dataset`
+
+
+- **[AI-driven inverse design of quantum materials: From crystal structures to quantum states](https://doi.org/10.1016/j.qrl.2026.11.003)**
+  <br>*Quantum Review Letters | 2026-11-25 | doi:10.1016/j.qrl.2026.11.003 | score 19*
+  <br>Xiang, Gao, Lu
+
+  `matched: inverse design, crystal`
+
+
+- **[XAI-Guard](https://doi.org/10.4018/979-8-2600-3985-4.ch007)**
+  <br>*Advances in Computational Intelligence and Robotics | 2026-11-25 | doi:10.4018/979-8-2600-3985-4.ch007 | score 17*
+  <br>Senthamaraiselvi, Srinivasreddy, Ahmed, Suresh Kumar et al.
+
+  Financial fraud detection often involves adversarial attacks, shifting transaction behaviours, and lack of explainability of traditional machine learning models. This chapter presents XAI-Guard, an explainable, robust deep learning framework for financial fraud detection, compliance decisions, and accountability. The framework combines transformer-based temporal learning, graph neural networks, and attention mechanisms to model sequential transaction behaviours and financial business relationships. An explainable Compliance Risk Score combining fraud probability, behavioural anomaly, and adversarial robustness measures supports risk-based financial decisions. The framework is evaluated on ap...
+
+  `matched: graph neural network, machine learning, neural network, deep learning, transformer`
+
+
+- **[Code and data for: Debye temperatures from heat capacity, elasticity and Debye–Waller factors are different moments of one phonon spectrum](https://doi.org/10.5281/zenodo.24476364)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-23 | doi:10.5281/zenodo.24476364 | score 13*
+  <br>Jurabek Abdiev, Eldor Xolmurodov
+
+  Code and data accompanying the article "Debye temperatures from heat capacity, elasticity and Debye–Waller factors are different moments of one phonon spectrum" by Jurabek Abdiev and Eldor Xolmurodov. The archive contains the Python code that computes phonon spectra of nine solids with two MACE machine-learning interatomic potentials (model weights are not included; their download addresses and SHA-256 checksums are recorded), the moment analysis, the provenance table of every published value used, and the scripts that reproduce every number, table and figure of the article. The code is released under the MIT license; the MACE model weights are subject to their own licenses.
+
+  `matched: interatomic potential, phonon`
+
+
+- **[Deep Learning-Assisted Highly Sensitive Hydrogel Sensors for Underwater Breaststroke Motion Recognition](https://doi.org/10.1021/acsami.6c16678)**
+  <br>*ACS Applied Materials &amp; Interfaces | 2026-11-25 | doi:10.1021/acsami.6c16678 | score 9*
+  <br>Cai, Wu, Jiang, Wu et al.
+
+  Abstract Ion-conductive hydrogels hold immense promise for flexible electronics, but their inherent swelling in liquid environments severely limits amphibious applications. Herein, a highly conductive, anti-swelling hydrogel designated as PASLC was developed via the one-pot photo-initiated copolymerization of acrylic acid (AA), lauryl methacrylate (LMA), sulfobetaine methacrylate (SBMA), and cetyltrimethylammonium bromide (CTAB). When the molar ratio of hydrophilic to hydrophobic monomers was optimized to 150:3, the resulting PASLC-3 hydrogel achieved optimal swelling equilibrium, with a swelling ratio of only 4% after 7 days of immersion in water. Concurrently, this microenvironment effecti...
+
+  `matched: deep learning, polymer`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery](https://doi.org/10.48550/arxiv.2611.30066)**
+  <br>*arXiv | 2026-11-23 | doi:10.48550/arxiv.2611.30066 | score 38*
+  <br>Harry Sevi, Joonatan E. M. Laulainen
+
+  In AI-guided materials discovery, machine-learning models increasingly decide which candidate materials should receive expensive first-principles or experimental evaluation. Standard reliability metrics such as uncertainty, calibration, novelty, and ranking accuracy evaluate properties of the predictions, but success on these metrics does not necessarily imply a better downstream screening decision. We study this mismatch for foundation machine-learned interatomic potentials (MACE-MP, CHGNet, Orb V3) used to rank candidate crystal structures before DFT verification. We evaluate three representative reliability interventions (novelty detection, sparse DFT calibration, and chemistry-level rank...
+
+  `matched: machine-learned interatomic potential, interatomic potential, materials discovery, crystal, dft`
+
+
+- **[Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion](http://arxiv.org/abs/2611.31865v1)**
+  <br>*arXiv | 2026-11-24 | score 36*
+  <br>Jaekyun Yoo, Suyeon Ju
+
+  Equivariant machine-learned interatomic potentials (MLIPs) achieve near-quantum-chemical accuracy, but their computational cost and GPU memory footprint restrict molecular dynamics (MD) at extended length and time scales. Even when the tensor product (TP) is accelerated, both bottlenecks remain governed by evaluating and storing per-edge radial weights in the NequIP convolution. We introduce JET-MLIPs (Joint-Kernel Equivariant Convolution with Tabulated Radial Weights for MLIP simulation), a GPU backend applicable to pretrained NequIP-family potentials without retraining. JET-MLIPs replaces the radial multilayer perceptron (MLP) with a piecewise cubic Hermite table and fuses table lookup, sp...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics, equivariant`
+
+
+- **[Neighbor-Graph Truncation and Density Shift in Equivariant Direct-Hessian Potentials: Diagnosis, Controls, and Mitigation](https://doi.org/10.26434/chemrxiv.15012005/v2)**
+  <br>*ChemRxiv | 2026-11-23 | doi:10.26434/chemrxiv.15012005/v2 | score 35*
+  <br>Abhijit Chatterjee
+
+  Direct prediction of molecular Hessians with SE(3)-equivariant graph neural networks avoids the O(3N ) automatic-differentiation cost of scalar machine learning interatomic potentials, yet extrapolating from small training molecules (N ≤ 22) to compact conformers (N = 30-100) exposes severe local coordination density shift.Auditing patched EquiformerV2-based Hessian Interatomic Potentials (hip_v3-1, hip_v2-1) across 702 valid 3D PubChem conformers shows that un-enveloped outer-shell crowding drives out-of-distribution curvature error even after controlling for atom count N .Deterministic distance-sorted backbone capping (Near-32) cuts Eckart eigenvalue MAE by 21.9% [95% cluster CI: 18.1-25.5...
+
+  `matched: machine learning interatomic potential, interatomic potential, graph neural network, machine learning, neural network, equivariant`
+
+
+- **[High-Throughput Screening of Phononic Bandgap in Experimentally Realized Materials](https://doi.org/10.48550/arxiv.2611.30344)**
+  <br>*arXiv | 2026-11-23 | doi:10.48550/arxiv.2611.30344 | score 26*
+  <br>Mohammad Bagheri, Kameyab Raza Abidi, Pekka Koskinen
+
+  Materials with a phonon band gap offer a unique mechanism to restrict phonon scattering, making them promising candidates for developing functional materials for targeted thermal applications. Unlocking this mechanism across broad material classes requires systematic exploration, but first-principles methods and experiments are too expensive. Here, we used the universal machine-learning interatomic potential to quantify phonons and thermodynamic properties. We validated the accuracy of machine-learning-calculated results by comparing them with density-functional theory. We screened 154,879 materials and performed phonon calculations for 42,347 thermodynamically stable and experimentally obse...
+
+  `matched: high-throughput screening, interatomic potential, band gap, phonon`
+
+
+- **[Assessment of machine-learned vs. classical/quantum atomistic simulations for predicting palladium-hydrogen materials](https://doi.org/10.26434/chemrxiv.15011901/v2)**
+  <br>*Crossref | 2026-11-25 | doi:10.26434/chemrxiv.15011901/v2 | score 25*
+  <br>Yao, Xu, Galassi, Wong et al.
+
+  Palladium-hydrogen materials are used in a wide range of hydrogen storage, purification, sensing, and catalysis technologies; however, accurately predicting the structural and kinetic behavior of palladium hydrides remains computationally challenging. In this work, we present the first systematic assessment of Meta’s Universal Model for Atoms (UMA), a machine-learned interatomic potential, by benchmarking its predictions against density functional theory (DFT) and two widely used embedded-atom method (EAM) potentials for PdHx systems. All approaches were in close agreement for predicting equilibrium structural and thermodynamic properties, such as lattice constants and cohesive energies. In...
+
+  `matched: machine-learned interatomic potential, density functional theory, interatomic potential, benchmark, dft`
+
+
+- **[OMNI-P3x universal neural network potential for large-scale computational photochemistry workflows](http://arxiv.org/abs/2611.32133v1)**
+  <br>*arXiv | 2026-11-24 | score 25*
+  <br>Mikołaj Martyka, Joanna Jankowska, Pavlo O. Dral
+
+  Computational photochemistry supports the design and understanding of new materials. However, the high cost of excited-state quantum-mechanical (QM) calculations makes screening large molecular libraries prohibitively expensive. To address this limitation, we introduce OMNI-P3x, a universal machine-learned interatomic potential (MLIP) for singlet ground- and excited-state simulations of neutral and charged organic molecules. Trained on both ground- and excited-state conformations, it performs complete computational photochemistry workflows with accuracy approaching TD-DFT. We demonstrate its practical applicability by screening a combinatorial library of 234,375 flavylium derivatives, where...
+
+  `matched: machine-learned interatomic potential, interatomic potential, neural network, dft`
+
+
+- **[Unveiling the Complex high-pressure phases of Sodium at the Melting Curve Minimum via Data-Drive Crystal Structure Prediction](https://doi.org/10.48550/arxiv.2611.29889)**
+  <br>*arXiv | 2026-11-23 | doi:10.48550/arxiv.2611.29889 | score 23*
+  <br>Zhenyu Wang, Chengqian Zhang, Xiaoyang Wang, Haiyang Niu
+
+  Sodium exhibits a remarkable concentration of complex crystalline phases near its melting-curve minimum, yet the atomic arrangements of several experimentally observed phases remain unresolved. Here, we combine CALYPSO crystal structure prediction with Deep Potential models developed through concurrent learning to explore this structural landscape. Searches over more than 1.6 million configurations recover the previously reported $I4/m$ structure of $tI50$ and identify candidate atomic arrangements for $oC120$ and $aP90$, together with three additional low-enthalpy structures, $tI52$, $oP72$, and $oP92$. The proposed candidates reproduce key features of the experimentally indexed cell geomet...
+
+  `matched: crystal structure prediction, crystal`
+
+
+- **[CLFF: Automated Framework for Concurrent Learning Force Fields and Material Property Calculations](https://doi.org/10.48550/arxiv.2611.29187)**
+  <br>*arXiv | 2026-11-22 | doi:10.48550/arxiv.2611.29187 | score 23*
+  <br>Cao Thang Nguyen, Sung Youb Kim
+
+  Machine learning interatomic potentials (MLIPs) offer an efficient paradigm for large-scale atomistic simulations with near first-principles accuracy. However, developing and deploying these potentials often involves intricate procedures that require substantial manual effort and domain expertise. In this work, we present CLFF, an open-source Python framework designed to automate concurrent learning workflows for MLIPs. CLFF integrates model training, MLIP-driven sampling, uncertainty-based candidate selection, quantum-mechanical labeling, and dataset augmentation into a unified workflow. The framework currently supports several modern graph-based MLIP architectures and is compatible with wi...
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, open-source, dataset`
+
+
+- **[From Self-Driving Laboratories to Connected Experimentation in the Physical Sciences: Lessons from the Critical Materials Value Chain](https://doi.org/10.26434/chemrxiv.15012308/v2)**
+  <br>*Crossref | 2026-11-25 | doi:10.26434/chemrxiv.15012308/v2 | score 20*
+  <br>Qi, Washton, Alexander, Allec et al.
+
+  Self-driving laboratories close the loop between prediction, synthesis, and measurement on individual platforms, yet most physical-science research outside user facilities proceeds through multistage workflows distributed across separate laboratories, with manual handoffs of samples, protocols, and data. This review assesses how autonomous experimentation can extend across such workflows, using the critical minerals and materials value chain for energy technologies as a use case. The chain is a demanding test: dilute, heterogeneous feedstocks require characterization, separations, and materials synthesis performed in different laboratories with different instruments and safety bases. For cap...
+
+  `matched: self-driving lab`
+
+
+- **[AmorphGen: A Python package for amorphous structure generation with machine-learning and classical interatomic potentials](https://doi.org/10.48550/arxiv.2611.29539)**
+  <br>*arXiv | 2026-11-22 | doi:10.48550/arxiv.2611.29539 | score 18*
+  <br>Chaiyawat Kaewmeechai, Louie Slocombe, Alexis G. Manche, David O. Scanlon
+
+  AmorphGen is an open-source Python package for generating and analyzing amorphous structures from a composition or a crystal. Chemically informed rules estimate initial densities and assign separation and coordination constraints. Three routes are available: random placement followed by relaxation, melt-quench from a crystal, and a hybrid route that anneals and quenches random structures. ASE provides access to classical and machine-learning potentials, with GPU batching for selected backends. Analysis tools compute coordination numbers, bond angles, rings, and X-ray or neutron structure factors for comparison with measurements. An optional interface to the FEFF code computes extended X-ray...
+
+  `matched: interatomic potential, open-source, crystal`
+
+
+- **[Neutron Spectroscopy Transformed: Deuterated ZIF-8 and Machine-Learned Potentials Catch Nitrogen Threading Its Gates](http://arxiv.org/abs/2611.32739v1)**
+  <br>*arXiv | 2026-11-24 | score 16*
+  <br>Jeff Armstrong, Hamish Cavaye, Pankaj Sharma, Matthew E. Potter
+
+  We report a step change in what inelastic neutron scattering (INS) can reveal, by combining machine-learned interatomic potentials (MLIPs) with deliberate deuteration of the sample. INS's prowess in charting framework and guest motions within porous materials during in situ dosing has historically had one caveat: costly density-functional-theory calculations are a major bottleneck in the speed and depth of analysis. We show that rapid frontier MLIPs remove this bottleneck on both counts, keeping pace with the experiment while bringing a new level of insight. Deuterating the linkers of ZIF-8 pries apart bands that overlap in the hydrogenous framework, and we test four MLIPs against eight stag...
+
+  `matched: machine-learned interatomic potential, interatomic potential`
+
+
+- **[Comparative Molecular Dynamics Study of Initial Oxide Film Growth on Al, Mg, and Ti Using a Universal Neural Network Potential](http://arxiv.org/abs/2611.32659v1)**
+  <br>*arXiv | 2026-11-24 | doi:10.1063/5.0356489 | score 13*
+  <br>Yoyo Hinuma, Taisuke Hasegawa
+
+  Spontaneous formation of an oxide film, which may be passive, is found in many metals such as Al and Ti. We report direct computational observation of oxide film formation on the three major light structural metals, Al, Mg, and Ti, with molecular dynamics (MD) using a universal neural network potential (NNP). O2 molecules were supplied during MD simulations to replenish O consumed by the metal. Al and Ti formed a 1-2 nm thick film within a few ps of the simulation with O2 gas pressure of 102-103 atm. The film thicknesses of all metal oxides continued to increase proportionally to the logarithm of simulation time, consistent with Cabrera-Mott theory. Al and Ti oxides grow at the surface, whil...
+
+  `matched: molecular dynamics, neural network`
+
+
+### Industry labs and code releases
+
+- **[How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling](https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/)**
+  <br>*NVIDIA Developer Blog | 2026-11-25 | score 7*
+
+  Attention can be a major bottleneck when serving world foundation models, where long sequences make inference computationally demanding. On NVIDIA Hopper and...
+
+  `matched: foundation model`
+
+
+---
+
+
 ## 2026-11-24
 
 21 new item(s). Top hit: **Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in M** (score 41, arXiv).
