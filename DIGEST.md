@@ -6,6 +6,195 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-26
+
+20 new item(s). Top hit: **Benchmarking Machine-Learned Interatomic Potentials for Reactive Chemistry: Failure Modes in Nitromethane Deco** (score 36, Crossref).
+
+### Journal articles
+
+- **[Agentic Materials Science and Engineering: A Conceptual Foundation and Theoretical Framework for Goal-Directed Autonomous Materials Discovery, Design, Development, and Manufacturing](https://doi.org/10.5281/zenodo.24526117)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-25 | doi:10.5281/zenodo.24526117 | score 26*
+  <br>Medhat Zohery
+
+  Materials Science and Engineering is an interdisciplinary scientific discipline concerned with understanding, discovering, designing, processing, characterising, and applying materials. Advances in artificial intelligence, computational materials science, robotics, machine learning, and autonomous experimentation have created new opportunities to transform traditional materials research. However, the integration of these technologies into complex, adaptive, goal-directed systems raises important scientific and engineering questions concerning the coordination of knowledge, hypotheses, computational methods, experiments, material resources, and development processes. This paper develops a con...
+
+  `matched: artificial intelligence, materials discovery, machine learning, agentic`
+
+
+- **[Generative Models, Optimization, and AI-Driven Scientific Discovery](https://doi.org/10.1201/9781003671046-11)**
+  <br>*CRC Press eBooks | 2026-11-25 | doi:10.1201/9781003671046-11 | score 14*
+  <br>Ijaz A. Rauf
+
+  This chapter explores generative modelling, optimization, and artificial intelligence techniques that actively drive scientific discovery in physics. It introduces generative models as tools for learning probability distributions and synthesizing new data consistent with physical constraints. Variational autoencoders and generative adversarial networks are examined as frameworks for constructing latent representations and producing realistic simulations of complex systems. The chapter develops Monte Carlo methods and Bayesian optimization as strategies for exploring high-dimensional parameter spaces and guiding efficient experimental design. Response surface methodology and surrogate modelli...
+
+  `matched: artificial intelligence, generative model, surrogate model`
+
+
+- **[Self-consistent drift-diffusion modelling of trap-mediated photoresponse dynamics in MoS2 transistors](https://doi.org/10.1016/j.mssp.2026.111433)**
+  <br>*Materials Science in Semiconductor Processing | 2026-11-26 | doi:10.1016/j.mssp.2026.111433 | score 9*
+  <br>Guskov, Gaponov, Avdizhiyan, Venglinskaya et al.
+
+  `matched: diffusion model`
+
+
+- **[AI-assisted reconstruction of lost architectural heritage: integrating generative models with archaeological typology](https://doi.org/10.1038/s41598-026-81544-4)**
+  <br>*Scientific Reports | 2026-11-26 | doi:10.1038/s41598-026-81544-4 | score 9*
+  <br>Dai, Hao, Zhang, Bi et al.
+
+  `matched: generative model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[Benchmarking Machine-Learned Interatomic Potentials for Reactive Chemistry: Failure Modes in Nitromethane Decomposition](https://doi.org/10.26434/chemrxiv.15012828/v1)**
+  <br>*Crossref | 2026-11-26 | doi:10.26434/chemrxiv.15012828/v1 | score 36*
+  <br>Darwin, Dunal, Nielsen
+
+  The failure modes of ab initio methods and empirical force fields are well documented, but those of machine-learned interatomic potentials (MLIPs) in reactive chemistry remain largely uncharacterized. We benchmark five MLIPs on condensed-phase nitromethane decomposition against coupled-cluster dissociation energies and published simulations, and trace each model’s failure to a specific component: the global spin label of MACE-OMol-0 and UMA-S-1P1 produces a spurious ~25 kcal/mol rise as fragments separate, gaps in the training data of ANI-1xnr cause it to underbind dissociation into two polyatomic radicals by up to 48 kcal/mol, and the absence of close-contact configurations from the trainin...
+
+  `matched: machine-learned interatomic potential, interatomic potential, benchmark`
+
+
+- **[PerovAgent: Autonomous Ligand Design for Halide Perovskite Nanocrystals](http://arxiv.org/abs/2611.33913v1)**
+  <br>*arXiv | 2026-11-25 | score 30*
+  <br>Seungjun Cha, Yoo Jae Jeong, Amanda Conde Del Moral, Juan-Pablo Correa-Baena et al.
+
+  Designing surface-capping ligands for high-performance halide perovskite nanocrystals requires navigating a vast molecular space while discovering design rules that govern ligand-surface interactions. Here, we introduce PerovAgent, an autonomous multi-agent framework that combines large language model (LLM)-driven scientific reasoning with computational tools for atomistic model construction, machine-learned interatomic potential evaluation, and statistical validation. Across ten independent campaigns on CsPbBr3 surfaces, PerovAgent adaptively explored and refined diverse ligand chemistries while progressively improving the binding-energy objective. Beyond optimization, the framework convert...
+
+  `matched: machine-learned interatomic potential, interatomic potential, large language model, perovskite, crystal`
+
+
+- **[Phono3GPU: GPU-Accelerated Linear Tetrahedron Integration for Phonon Thermal Transport](http://arxiv.org/abs/2611.33912v1)**
+  <br>*arXiv | 2026-11-25 | score 29*
+  <br>Jinhyeong Jo, Sungwoo Kang, Byungju Lee, Jung-Hoon Lee et al.
+
+  Materials with high or low thermal conductivity are increasingly important for thermal management and energy technologies. Machine-learned interatomic potentials have accelerated anharmonic force-constant calculations, shifting the bottleneck toward phonon transport calculations for large materials datasets. Existing GPU solvers often rely on smearing, whose width can require material-dependent choices, while the linear tetrahedron method used in phono3py avoids this parameter but becomes costly for complex structures. Here we introduce Phono3GPU, which reformulates three-phonon scattering and linear tetrahedron integration for massively parallel GPU execution. Across benchmark crystals, Pho...
+
+  `matched: machine-learned interatomic potential, interatomic potential, benchmark, crystal, dataset, phonon`
+
+
+- **[ILMlip: fast and universal machine-learning interatomic potentials](http://arxiv.org/abs/2611.33538v1)**
+  <br>*arXiv | 2026-11-24 | score 29*
+  <br>Jonas Hänseroth, Christian Dreßler
+
+  Large-scale pretrained machine-learned interatomic potentials keep growing more accurate as new models appear at a rapid pace, and more expensive: the current leader of Matbench Discovery as of November 2026 (F1 score 0.935) has $9.9\times10^7$ parameters and took 3.6 thousand GPU-hours to train. The ILMlip potentials presented here are optimised for speed as well as zero-shot accuracy. They are equivariant, conservative message-passing potentials in which every component is arranged for throughput: little work per pair of atoms and as much as needed per atom. Through ASE on one GPU, they run molecular dynamics up to about $10^3$ times faster than state-of-the-art message-passing potentials...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics, equivariant`
+
+
+- **[CertMat: Formally Certified Robust Phase and Elastic Stability Verification Across One Million Inorganic Crystals](https://doi.org/10.26434/chemrxiv.15012737/v1)**
+  <br>*ChemRxiv | 2026-11-24 | doi:10.26434/chemrxiv.15012737/v1 | score 27*
+  <br>Hyungyu Choi
+
+  Machine-learning interatomic potentials (MLIPs) and high-throughput density functional theory (DFT) workflows have expanded candidate inorganic crystal catalogs to the million-material scale, yet thermodynamic convex hull stability (Ehull = 0) and mechanical Born stability (C ≻ 0) remain evaluated almost exclusively via floating-point point estimates that neglect energy and stiffness uncertainties. Here we introduce CertMat, an exact rational certificate generator and machine-checked Lean 4 formal verification kernel (leanprover/lean4:v4.16.0, zero Mathlib dependencies, zero sorry or non-standard axioms across 51 mechanized theorems) that certifies worst-case phase and elastic stability over...
+
+  `matched: density functional theory, interatomic potential, convex hull, inorganic, crystal, dft`
+
+
+- **[EGQCA Code: automated high-throughput thermodynamic modeling of solid solutions](http://arxiv.org/abs/2611.34551v1)**
+  <br>*arXiv | 2026-11-25 | score 19*
+  <br>Dominik Spath, Luka Wibmer, Kieran Bozier, Ralf Meyer et al.
+
+  Modeling disordered systems from first principles across the full composition range is a long-standing computational challenge. We present a code package implementing the extended generalized quasichemical approximation (EGQCA), which describes solid solutions through the statistics of a finite set of clusters and enables their thermodynamic modeling at arbitrary compositions and temperatures. The package automates the complete workflow and interfaces with both DFT codes and universal machine-learned interatomic potentials (uMLIPs). We show that replacing DFT with uMLIPs reduces the cost of the cluster calculations by up to five orders of magnitude while preserving the thermodynamic predicti...
+
+  `matched: machine-learned interatomic potential, interatomic potential, dft`
+
+
+- **[Decision-Tree-Guided Feasibility-Aware Bayesian Optimization for Materials Discovery](https://doi.org/10.26434/chemrxiv.15012840/v1)**
+  <br>*Crossref | 2026-11-26 | doi:10.26434/chemrxiv.15012840/v1 | score 18*
+  <br>Ehsan, Priyadarshini
+
+  Material properties depend on composition, processing conditions, and other parameters that together define a vast design space. Exploring every possible combination is impractical because synthesis and processing experiments are expensive and time-consuming. Some candidates may also be unstable, form an undesired phase, or fail to synthesize. These outcomes create feasibility constraints that are not known before an experiment is performed. Here, we present a decision-tree-guided, feasibility-aware Bayesian optimization framework (DT-BO) for materials property optimization. A decision-tree classifier learns from the feasibility outcomes of previously tested candidates. It is updated periodi...
+
+  `matched: materials discovery`
+
+
+- **[Foundation interatomic potentials capture structural disorder in metallic glasses](http://arxiv.org/abs/2611.34156v1)**
+  <br>*arXiv | 2026-11-25 | score 18*
+  <br>Dario Massa, Luca Leoni, Antoni Wadowski, Kacper Cybinski et al.
+
+  Foundation machine-learning interatomic potentials transfer well across chemical and structural space, yet their reliability for highly disordered metallic states is less established. Metallic glasses are a demanding benchmark: they have traditionally been modeled with Embedded Atom Method (EAM) potentials fitted to specific compositions, while ab initio molecular dynamics remains too expensive at the required sizes and timescales. Using the prototypical Cu-Zr-Al glass, we show that foundation potentials capture structural disorder, reproducing the structure, quenching dynamics, and elastic, mechanical and thermal properties of the amorphous state at near first-principles accuracy. We benchm...
+
+  `matched: interatomic potential, molecular dynamics, benchmark`
+
+
+- **[Machine Learning for Non Adiabatic Excited State Molecular Dynamics](https://doi.org/10.26434/chemrxiv.15012790/v1)**
+  <br>*Crossref | 2026-11-26 | doi:10.26434/chemrxiv.15012790/v1 | score 17*
+  <br>Khanna, Lohr, Athavale, Cho et al.
+
+  Machine learning promises to accelerate nonadiabatic excited-state molecular dynamics, yet no fully integrated surrogate has replaced the complete electronic-structure workflow these simulations demand at every nuclear step. Here we introduce a modular machine learning framework that decomposes the problem into physically motivated components: it separates the smoothly varying energies and forces from the highly localized nonadiabatic couplings, learns the gap-scaled coupling atop a frozen energy-and-force model, and treats the coupling strategy as an interchangeable part. Active learning constructs the training set within a deliberate budget of 50k geometries per molecule without requiring...
+
+  `matched: molecular dynamics, machine learning, active learning`
+
+
+- **[Learning Molecular Excitation Energies Beyond Local Atomic Environments](https://doi.org/10.26434/chemrxiv.15012803/v1)**
+  <br>*Crossref | 2026-11-26 | doi:10.26434/chemrxiv.15012803/v1 | score 16*
+  <br>Deng, Hu, Zhai, Luo et al.
+
+  Electronic excitation governs photophysical processes in light-harvesting materials and photosensitizers. Designing these materials requires accurate predictions of excitation energies, but quantum-chemical calculations are costly for highthroughput screening. Geometric graph neural networks offer efficient alternatives. A prevailing strategy improves their accuracy through richer descriptions of local atomic geometry. However, local representations may miss molecularscale structural relationships relevant to excitation. Here we develop rEGNN-GT, combining equivariant local message passing with global self-attention to connect distant atomic regions directly. Across datasets spanning small m...
+
+  `matched: graph neural network, neural network, equivariant, dataset`
+
+
+- **[From physics-informed machine learning to de-Occamising physics: the case of the currentmagnetisation hypothesis](https://doi.org/10.26434/chemrxiv.15012843/v1)**
+  <br>*Crossref | 2026-11-26 | doi:10.26434/chemrxiv.15012843/v1 | score 12*
+  <br>Tawfik
+
+  Occam’s razor implies that a fundamental theory should describe diverse systems with few adjustable parameters. We test how far the current–magnetisation hypothesis (CMH), a microscopic description of the Orsted magnetic induction, must be enlarged to cover wires, dilute plasmas and molecules. That is, we attempt a de-Occamisation of CMH. After finding failures in the original formulation, two repairs define the new formulation, CMH-ML: an adaptive k rule removes density-dependent plasma suppression, and a curl of correlation potentials removes the divergent-energy 1/r field around bounded currents. The Cu-wire-refitted baseline, L0, gives a Biot–Savart-like dilute-plasma response but severe...
+
+  `matched: machine learning, magnet`
+
+
+- **[OrbACE: Orbital and Atomic Cluster Expansion](http://arxiv.org/abs/2611.33743v1)**
+  <br>*arXiv | 2026-11-25 | score 11*
+  <br>Etinosa Osaro, Dario Rocca
+
+  Accurate electronic-structure reference data are expensive, motivating interatomic potentials that learn effectively from limited training sets. We introduce OrbACE (Orbital and Atomic Cluster Expansion), a framework that supplements an E(3)-equivariant cluster-expansion backbone with inexpensive electronic-structure descriptors. On ANI-1x at the $ω$B97X/6-31G* level, its atom-centered variant, OrbACE-A, trained on 10,000 configurations and evaluated on 442,000 held-out configurations, achieves energy and force mean absolute errors of 3.16 meV/atom and 76 meV/angstrom in direct learning, compared with 9.61 meV/atom and 146 meV/angstrom for MACE with matched backbone settings. This reduces th...
+
+  `matched: interatomic potential, equivariant`
+
+
+- **[Automatic dual basis sets for self-consistent field calculations](http://arxiv.org/abs/2611.34694v1)**
+  <br>*arXiv | 2026-11-25 | score 10*
+  <br>Joonatan Huhtasalo, Susi Lehtola
+
+  Density functional theory (DFT) has long been the workhorse of electronic structure theory, and it is experiencing a new boom thanks to big data applications and machine learning. A DFT calculation requires the iterative solution of the self-consistent field (SCF) problem, whose cost is the product of (i) the number of SCF steps and (ii) the cost of a single step. The number of SCF steps depends strongly on the initial guess, regardless of the SCF algorithm, and quantitative DFT accuracy is known to require at least a polarized triple-$ζ$ basis set. However, a qualitatively correct solution may often be found already in a smaller \emph{dual basis} (DB), which can then bootstrap a calculation...
+
+  `matched: density functional theory, machine learning, dft`
+
+
+- **[Computing hydration free energies and crystalline solubility of drug-like molecules with MACE](http://arxiv.org/abs/2611.33408v1)**
+  <br>*arXiv | 2026-11-24 | score 10*
+  <br>J. Harry Moore, Paul Mortenson, Davide Branduardi, Pavel Buslaev et al.
+
+  Accurate prediction of thermodynamic solubility is critical in drug discovery, where it influences oral bioavailability and drives decisions in formulation chemistry. First-principles calculations of intrinsic solubility offer the potential to achieve superior generalization to existing direct, data-driven predictors, which often suffer significant performance degradation outside of their training distribution. Whilst free energy perturbation calculations provide a rigorous framework to estimate these quantities, their accuracy is typically limited by the quality of the empirical force field used. In this work, we present a computational workflow driven by the MACE family of machine learning...
+
+  `matched: machine learning, crystal`
+
+
+- **[PineIR: 3D molecular structures from an infrared spectrum alone](http://arxiv.org/abs/2611.34334v1)**
+  <br>*arXiv | 2026-11-25 | score 7*
+  <br>Giulio Benedini, Pierre-Paul De Breuck, Miguel A. L. Marques, Silvana Botti
+
+  Computing the infrared (IR) spectrum of a molecule from its structure is routine. The inverse problem is not. In practice, IR spectra are used to identify the functional groups present in a molecule, while the determination of its complete structure requires additional measurements. Machine-learning models that return 3D structures from IR spectra exist, but all of them need extra input, such as Raman, ultraviolet or nuclear magnetic resonance spectra, the molecular formula, or the number of atoms. In this work we present PineIR, a generative model that returns 3D molecular structures from the IR spectrum alone. PineIR builds the molecule atom by atom, and each atom is associated with its co...
+
+  `matched: generative model, magnet`
+
+
+### Conference papers
+
+- **[Geometry Sets the Neutral MLIP-DFT Gap in Non-Covalent Binding, and Charged Systems Fail](http://arxiv.org/abs/2611.33830v1)**
+  <br>*arXiv | 2026-11-25 | score 18*
+  <br>Accepted/presented: ICML | Rui Ding, Zixin Ding, Rodrigo Pires Ferreira, Diantong Li et al.
+
+  Pretrained universal machine-learning interatomic potentials (MLIPs) are widely expected to substitute for explicit quantum chemistry when screening molecular interactions. On non-covalent binding we find that this expectation holds for neutral chemistry and fails for charged chemistry. We audit the FAIRChem UMA OMol head, without task-specific fine-tuning, on 5,567 probe-target dimers from 18 benchmarks across nine fidelity arms, using RAPIDS (Rapid Atomistic Probe-target Interaction Discovery Scaffold), a training-free inference-time scaffold. First, on neutral chemistry RAPIDS reaches a mean absolute error (MAE) of 1.37 kcal/mol, matching or beating every explicit DFT single-point fidelit...
+
+  `matched: interatomic potential, benchmark, dft`
+
+
+---
+
+
 ## 2026-11-25
 
 21 new item(s). Top hit: **Machine Learning Interatomic Potentials and Agentic AI as Enabling Tools for the Computational Study of Metal-** (score 56, University of Notre Dame).
