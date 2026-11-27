@@ -6,6 +6,180 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-27
+
+19 new item(s). Top hit: **klasp: Performance-Portable Crystal Structure Prediction with Distributed Multipoles and Machine-Learned Inter** (score 54, Crossref).
+
+### Journal articles
+
+- **[Accelerating inverse materials design using generative diffusion models with reinforcement learning](https://doi.org/10.1038/s42256-026-01334-5)**
+  <br>*Nature Machine Intelligence | 2026-11-26 | doi:10.1038/s42256-026-01334-5 | score 26*
+  <br>Junwu Chen, Jeff Guo, Edvin Fako, Philippe Schwaller
+
+  Diffusion models promise to accelerate materials design by directly generating novel structures with desired properties, but existing approaches such as conditional generation typically require expensive and substantial labelled data (>10,000) and lack adaptability. Here we present MatInvent, a general and efficient reinforcement learning workflow that optimizes diffusion models for goal-directed crystal generation. By formulating equivariant denoising as a multistep decision-making problem, MatInvent leverages policy gradient with reward-weighted Kullback–Leibler regularization, including experience replay and diversity filters to enhance optimization efficiency and sample diversity. For si...
+
+  `matched: materials design, diffusion model, equivariant, crystal`
+
+
+- **[Neither harmonic benchmarks nor a default SSCHA cross-check certifies a foundation machine-learning interatomic potential for finite-temperature dynamic stability](https://doi.org/10.1039/d6ra06452c)**
+  <br>*RSC Advances | 2026-11-25 | doi:10.1039/d6ra06452c | score 20*
+  <br>Frank Cai
+
+  A harmonic phonon benchmark does not certify a foundation MLIP for finite-temperature dynamic stability, and neither does a default SSCHA check; on BaTiO 3 a direct test traces the SSCHA's disagreement with a single-mode screen to mode coupling.
+
+  `matched: interatomic potential, benchmark, phonon`
+
+
+- **[Inverse design of high-quality perovskite solar cell materials via a generative-discriminative framework](https://doi.org/10.1016/j.commatsci.2026.115291)**
+  <br>*Computational Materials Science | 2026-11-26 | doi:10.1016/j.commatsci.2026.115291 | score 19*
+  <br>Wenjie Wang, Zehui Xiong, Jiajun Jiang, Wenjing Hu
+
+  `matched: inverse design, perovskite`
+
+
+- **[Interface-Defect-Aware Machine Learning Optimization of Cs2BiAgI6 and Cs2PtI6 Lead-Free Double Perovskite Solar Cells via SCAPS-1D](https://doi.org/10.1016/j.nxelec.2026.100010)**
+  <br>*Next ElectroEngineering | 2026-11-27 | doi:10.1016/j.nxelec.2026.100010 | score 13*
+  <br>Anonto, Shufian, Arshad, Ali Khan et al.
+
+  `matched: machine learning, perovskite`
+
+
+- **[Enhancing the Performance of CuBiSCl2 Perovskite Solar Cell by Integrating SCAPS and Machine Learning Modelling](https://doi.org/10.1007/s11664-026-13276-0)**
+  <br>*Journal of Electronic Materials | 2026-11-27 | doi:10.1007/s11664-026-13276-0 | score 13*
+  <br>Vanshika, Baghel
+
+  `matched: machine learning, perovskite`
+
+
+- **[Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials](https://doi.org/10.1016/j.commatsci.2026.115277)**
+  <br>*Computational Materials Science | 2026-11-26 | doi:10.1016/j.commatsci.2026.115277 | score 13*
+  <br>Minseok Moon, Wonjun Choi, Seungwu Han, Youngho Kang
+
+  `matched: interatomic potential`
+
+
+- **[Few-Shot Generative Model Adaption via Identity Injection and Preservation](https://doi.org/10.1145/3872103)**
+  <br>*ACM Transactions on Multimedia Computing, Communications, and Applications | 2026-11-27 | doi:10.1145/3872103 | score 9*
+  <br>He, Li, Zhang, Sun et al.
+
+  Training generative models with limited data presents severe challenges of mode collapse. A common approach is to adapt a large pretrained generative model upon a target domain with very few samples (fewer than 10), known as few-shot generative model adaptation. However, existing methods often suffer from forgetting source domain identity knowledge during adaptation, which degrades the quality of generated images in the target domain. To address this, we propose I dentity I njection and P reservation ( I 2 P ), which leverages identity injection and consistency alignment to preserve the source identity knowledge. Specifically, we first introduce an identity injection module that integrates s...
+
+  `matched: generative model`
+
+
+### Preprints (arXiv / ChemRxiv / other)
+
+- **[klasp: Performance-Portable Crystal Structure Prediction with Distributed Multipoles and Machine-Learned Interatomic Potentials](https://doi.org/10.26434/chemrxiv.15012881/v1)**
+  <br>*Crossref | 2026-11-27 | doi:10.26434/chemrxiv.15012881/v1 | score 54*
+  <br>Spackman, Brookes
+
+  Crystal structure prediction (CSP) of molecular crystals commonly begins with the lattice energy minimisation of very large numbers of trial structures, treating molecules as rigid bodies interacting through distributed multipoles and an empirical repulsion–dispersion potential. Here we present klasp, a batched lattice energy minimiser and complete CSP program, which runs from a single performanceportable source on CPUs and on GPUs from different vendors. Generation, minimisation, deduplication and refinement with a machine-learned interatomic potential run within one program, with no file or process for each structure. With the same energy model as existing implementations, klasp reproduces...
+
+  `matched: machine-learned interatomic potential, crystal structure prediction, interatomic potential, crystal`
+
+
+- **[A unified perspective on AI for secure, safe, and sustainable molecules and materials discovery](https://doi.org/10.26434/chemrxiv.15012861/v1)**
+  <br>*Crossref | 2026-11-27 | doi:10.26434/chemrxiv.15012861/v1 | score 35*
+  <br>Suvarna, Soeteman-Hernández, Samanipour, Moore et al.
+
+  Safety, security, and sustainability (S3) - encompassing risks to human health, ecosystems, and societal impacts are crucial dimensions in molecular and materials design. Parallelly, artificial intelligence (AI) is transforming scientific discovery, offering new avenues to tackle complex chemical design challenges. Yet, systematically integration of S3 objectives into AIdriven chemical discovery remains underexplored. Through an AI-assisted network analysis of 8,417 studies - spanning drug, polymers, organic electronics, batteries, semiconductors, catalysts, and thermoelectric discoveries - we find current efforts are dominated by property and function prediction, while only 7.1% explicitly...
+
+  `matched: artificial intelligence, materials discovery, materials design, thermoelectric, semiconductor, catalyst`
+
+
+- **[Simulating Silicon Surface Passivation in Water using ReaxFF Force Field and Fine-Tuned Machine Learning Models](https://doi.org/10.26434/chemrxiv.15012877/v1)**
+  <br>*Crossref | 2026-11-27 | doi:10.26434/chemrxiv.15012877/v1 | score 34*
+  <br>Tiwari, Gu, Elgabarty, Brehm et al.
+
+  The passivation of silicon surfaces is important in several industrial settings, such as for semiconductor device fabrication and photovoltaic applications. In this study, we compare molecular dynamics (MD) simulations based on the ReaxFF reactive force field and fine-tuned Machine Learning Interatomic Potentials (MLIPs) to extend our understanding of mechanism of Si(100) surface passivation in presence of water at various temperatures (300K, 350K, 383K). Fine-tuning was performed via DFT-based ab initio MD (AIMD) simulations of the full solid-liquid interface. Simulation results indicate that the surface termination occurs predominantly through dissociative adsorption leading to the formati...
+
+  `matched: machine learning interatomic potential, interatomic potential, molecular dynamics, machine learning, semiconductor, photovoltaic`
+
+
+- **[ILMlip: fast and universal machine-learning interatomic potentials](https://doi.org/10.48550/arxiv.2611.33538)**
+  <br>*arXiv | 2026-11-24 | doi:10.48550/arxiv.2611.33538 | score 29*
+  <br>Jonas Hänseroth, Christian Dreßler
+
+  Large-scale pretrained machine-learned interatomic potentials keep growing more accurate as new models appear at a rapid pace, and more expensive: the current leader of Matbench Discovery as of November 2026 (F1 score 0.935) has $9.9\times10^7$ parameters and took 3.6 thousand GPU-hours to train. The ILMlip potentials presented here are optimised for speed as well as zero-shot accuracy. They are equivariant, conservative message-passing potentials in which every component is arranged for throughput: little work per pair of atoms and as much as needed per atom. Through ASE on one GPU, they run molecular dynamics up to about $10^3$ times faster than state-of-the-art message-passing potentials...
+
+  `matched: machine-learned interatomic potential, interatomic potential, molecular dynamics, equivariant`
+
+
+- **[Exploration of Heterocyclic Donor-Functionalized Acenaphthofluoranthene Chromophores as HTMs for Perovskite Solar Cells: A DFT and Machine Learning Approach](https://doi.org/10.26434/chemrxiv.15012864/v1)**
+  <br>*Crossref | 2026-11-27 | doi:10.26434/chemrxiv.15012864/v1 | score 23*
+  <br>Ameen
+
+  The development of efficient hole transport materials is essential for advancing next-generation perovskite solar cells. The present work systematically explores 7,14-di(thiophen-3yl)acenaphtho[1,2‑k]fluoranthene (DTP)-based HTMs (DTP1-DTP5) featuring D‑π‑D configuration with density functional theory (DFT), time dependent density functional theory (TD-DFT) and machine learning (ML). The DFT/TD-DFT calculations at the M06/6-311G(d,p) level, shows that DTP2 featuring a DMPX donor exihibits the narrowest energy gap (2.633 eV), and highest absorption wavelength (456.950 nm) revealing efficient intramolecular charge transfer. In addition, DTP2, exhibited the highest-lying HOMO level (-5.114 eV),...
+
+  `matched: density functional theory, machine learning, perovskite, dft`
+
+
+- **[Foundation interatomic potentials capture structural disorder in metallic glasses](https://doi.org/10.48550/arxiv.2611.34156)**
+  <br>*arXiv | 2026-11-25 | doi:10.48550/arxiv.2611.34156 | score 18*
+  <br>Dario Massa, Luca Leoni, Antoni Wadowski, Kacper Cybiński
+
+  Foundation machine-learning interatomic potentials transfer well across chemical and structural space, yet their reliability for highly disordered metallic states is less established. Metallic glasses are a demanding benchmark: they have traditionally been modeled with Embedded Atom Method (EAM) potentials fitted to specific compositions, while ab initio molecular dynamics remains too expensive at the required sizes and timescales. Using the prototypical Cu-Zr-Al glass, we show that foundation potentials capture structural disorder, reproducing the structure, quenching dynamics, and elastic, mechanical and thermal properties of the amorphous state at near first-principles accuracy. We benchm...
+
+  `matched: interatomic potential, molecular dynamics, benchmark`
+
+
+- **[Geometry Sets the Neutral MLIP-DFT Gap in Non-Covalent Binding, and Charged Systems Fail](https://doi.org/10.48550/arxiv.2611.33830)**
+  <br>*arXiv | 2026-11-25 | doi:10.48550/arxiv.2611.33830 | score 15*
+  <br>Rui Ding, Zixin Ding, Rodrigo Pires Ferreira, Diantong Li
+
+  Pretrained universal machine-learning interatomic potentials (MLIPs) are widely expected to substitute for explicit quantum chemistry when screening molecular interactions. On non-covalent binding we find that this expectation holds for neutral chemistry and fails for charged chemistry. We audit the FAIRChem UMA OMol head, without task-specific fine-tuning, on 5,567 probe-target dimers from 18 benchmarks across nine fidelity arms, using RAPIDS (Rapid Atomistic Probe-target Interaction Discovery Scaffold), a training-free inference-time scaffold. First, on neutral chemistry RAPIDS reaches a mean absolute error (MAE) of 1.37 kcal/mol, matching or beating every explicit DFT single-point fidelit...
+
+  `matched: interatomic potential, benchmark, dft`
+
+
+- **[One Held-Out Split Is Not Enough: Exhaustive Group-Held-Out Evaluation Reverses Conclusions in Nanomaterial Machine Learning](https://doi.org/10.26434/chemrxiv.15012870/v1)**
+  <br>*Crossref | 2026-11-27 | doi:10.26434/chemrxiv.15012870/v1 | score 13*
+  <br>Monreal Hernández
+
+  Nano-QSAR and other machine-learning models for nanomaterials are usually validated with random splits, which place materials of the same chemical family in both training and test sets. Family-held-out splits are the usual remedy, but a single held-out split is a sample of one. We evaluated four model classes and a re-implementation of a published nanotoxicity pipeline on two public datasets – NanoTox metal-oxide cytotoxicity (483 records) and CHILI-3K crystal-system classification (636 simulated nanoparticles) – under random cross-validation, a single family-held-out split and exhaustive leave-one-group-out evaluation. In both datasets the single split supported a conclusion that the exhaus...
+
+  `matched: machine learning, dataset, crystal`
+
+
+- **[Two-stage slowdown of CO2 transport in UiO-66 directed by water placement at µ3-OH sites](https://doi.org/10.26434/chemrxiv.15012795/v1)**
+  <br>*ChemRxiv | 2026-11-25 | doi:10.26434/chemrxiv.15012795/v1 | score 13*
+  <br>Lu Zhang, Guangsheng Liu, Xiao Ma, Wan‐Lu Li
+
+  Water slows CO 2 transport in metal–organic frameworks, but how it disrupts migration between cages remains unclear. Here, we use molecular dynamics with a machine-learning interatomic potential fine-tuned to density functional theory to resolve how water redistributes CO 2 and restricts its transport in UiO-66. Water preferentially occupies tetrahedral cages lined by hydrogen-bond-donating µ 3 -OH groups and subsequently fills neighbouring octahedral cages, displacing CO 2 into largely dry µ 3 -O-lined tetrahedral cages. Below the water percolation threshold of 13.7 wt%, water in the octahedral cages obstructs some inter-cage pathways, making CO 2 hops less frequent. Above the threshold, a...
+
+  `matched: density functional theory, interatomic potential, molecular dynamics`
+
+
+- **[Machine Learning Potentials from Fragment Molecular Orbital Calculations: Application to Peptides in Water](https://doi.org/10.26434/chemrxiv.15012880/v1)**
+  <br>*Crossref | 2026-11-27 | doi:10.26434/chemrxiv.15012880/v1 | score 11*
+  <br>Mori, Matsumoto, Miyakawa, Okuwaki et al.
+
+  We trained machine learning potentials on energies and atomic forces from fragment molecular orbital calculations on finite peptide and water systems. For isolated leucine-enkephalin, the predicted energies and forces agreed with reference calculations on configurations sampled during a one-nanosecond simulation at 500 K. A second potential, trained on the isolated peptide, the solvated peptide, and water clusters, supported a one-nanosecond molecular dynamics simulation of leucine-enkephalin in water under periodic boundary conditions. At 310 K and 1 atm, the predicted solution density was higher than expected. We applied this potential to alanine dipeptide in water without further training...
+
+  `matched: molecular dynamics, machine learning`
+
+
+- **[Computing hydration free energies and crystalline solubility of drug-like molecules with MACE](https://doi.org/10.48550/arxiv.2611.33408)**
+  <br>*arXiv | 2026-11-24 | doi:10.48550/arxiv.2611.33408 | score 10*
+  <br>J. Harry Moore, Paul Mortenson, Davide Branduardi, Pavel Buslaev
+
+  Accurate prediction of thermodynamic solubility is critical in drug discovery, where it influences oral bioavailability and drives decisions in formulation chemistry. First-principles calculations of intrinsic solubility offer the potential to achieve superior generalization to existing direct, data-driven predictors, which often suffer significant performance degradation outside of their training distribution. Whilst free energy perturbation calculations provide a rigorous framework to estimate these quantities, their accuracy is typically limited by the quality of the empirical force field used. In this work, we present a computational workflow driven by the MACE family of machine learning...
+
+  `matched: machine learning, crystal`
+
+
+- **[PineIR: 3D molecular structures from an infrared spectrum alone](https://doi.org/10.48550/arxiv.2611.34334)**
+  <br>*arXiv | 2026-11-25 | doi:10.48550/arxiv.2611.34334 | score 7*
+  <br>Giulio Benedini, Pierre-Paul De Breuck, Miguel A.L. Marques, Silvana Botti
+
+  Computing the infrared (IR) spectrum of a molecule from its structure is routine. The inverse problem is not. In practice, IR spectra are used to identify the functional groups present in a molecule, while the determination of its complete structure requires additional measurements. Machine-learning models that return 3D structures from IR spectra exist, but all of them need extra input, such as Raman, ultraviolet or nuclear magnetic resonance spectra, the molecular formula, or the number of atoms. In this work we present PineIR, a generative model that returns 3D molecular structures from the IR spectrum alone. PineIR builds the molecule atom by atom, and each atom is associated with its co...
+
+  `matched: generative model, magnet`
+
+
+---
+
+
 ## 2026-11-26
 
 20 new item(s). Top hit: **Benchmarking Machine-Learned Interatomic Potentials for Reactive Chemistry: Failure Modes in Nitromethane Deco** (score 36, Crossref).
