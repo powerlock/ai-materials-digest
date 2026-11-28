@@ -6,6 +6,91 @@ Newest entries appear directly below this line.
 
 <!-- NEW-ENTRIES-BELOW -->
 
+## 2026-11-28
+
+10 new item(s). Top hit: **Benchmarking workflow to reproduce "Fast training of bespoke Open Force Field valence parameters using machine** (score 41, Zenodo (CERN European Organization for Nuclear Research)).
+
+### Journal articles
+
+- **[Benchmarking workflow to reproduce "Fast training of bespoke Open Force Field valence parameters using machine learning interatomic potentials"](https://doi.org/10.5281/zenodo.21168421)**
+  <br>*Zenodo (CERN European Organization for Nuclear Research) | 2026-11-27 | doi:10.5281/zenodo.21168421 | score 41*
+  <br>Finlay Clark
+
+  Benchmarking workflow to reproduce "Fast training of bespoke Open Force Field valence parameters using machine learning interatomic potentials". Includes overall results and trained force fields.
+
+  `matched: machine learning interatomic potential, interatomic potential, machine learning, benchmark`
+
+
+- **[LeMat-GenBench: a unified evaluation framework for crystal generative models](https://www.nature.com/articles/s41524-026-02342-0)**
+  <br>*npj Computational Materials | 2026-11-28 | doi:10.1038/s41524-026-02342-0 | score 17*
+
+  `matched: generative model, crystal`
+
+
+- **[EGMOF: efficient generation of metal-organic frameworks using a hybrid diffusion-transformer architecture](https://www.nature.com/articles/s41467-026-79640-0)**
+  <br>*Nature Communications | 2026-11-28 | doi:10.1038/s41467-026-79640-0 | score 17*
+
+  `matched: metal-organic framework, transformer, mof`
+
+
+- **[Explainable Machine Learning Based Framework for Predicting Creep Rupture Life of IN718 Superalloy Using SHAP-Interpreted Neural Networks](https://doi.org/10.1007/s11661-026-08434-2)**
+  <br>*Metallurgical and Materials Transactions A | 2026-11-28 | doi:10.1007/s11661-026-08434-2 | score 17*
+  <br>Polimetla, Khadke, Anirudh, Phaniraj et al.
+
+  `matched: machine learning, neural network, alloy`
+
+
+- **[Self-Organized Defect Clustering and Concentration-Dependent Vacancy Diffusion in MoS2](https://doi.org/10.1021/acsmaterialslett.6c00965)**
+  <br>*ACS Materials Letters | 2026-11-27 | doi:10.1021/acsmaterialslett.6c00965 | score 14*
+  <br>Aaron Flötotto, Benjamin Spetzler, Martin Ziegler, Erich Runge
+
+  Defect migration is crucial for the functional behavior of transition-metal dichalcogenide-based devices, such as MoS2 memristors and memtransistors. Sulfur-vacancy migration has been shown to govern the memristive behavior of MoS2. According to recent atomistic simulations, sulfur vacancies migrate via cooperative, vacancy-assisted sulfur jumps, leading to strongly correlated defect dynamics that cannot be captured by conventional independent-particle diffusion models. Using kinetic Monte Carlo simulations with transition rates from machine-learning interatomic potential molecular dynamics, we identify three regimes controlled by the average vacancy concentration. At low concentrations, vac...
+
+  `matched: interatomic potential, molecular dynamics, diffusion model`
+
+
+- **[Discovery of blue thermally activated delayed fluorescence emitters in low-data regime via deep generative model](https://doi.org/10.1039/d6mh01859a)**
+  <br>*Materials Horizons | 2026-11-26 | doi:10.1039/d6mh01859a | score 14*
+  <br>Unhyeok Jo, Jae-Min Kim, Jun Yeob Lee
+
+  Thermally activated delayed fluorescence (TADF) materials have emerged as promising emitters in organic light-emitting diodes (OLEDs) owing to their ability to harvest both singlet and triplet excitons. However, designing novel TADF molecules with desired properties remains challenging due to the cost of trial-and-error experimentation. Herein, we propose a transfer learning (TL)-assisted molecular generative model combined with machine learning (ML)-driven high-throughput virtual screening (HTVS) for the discovery of blue TADF emitters. The TL strategy enables efficient exploration of targeted chemical spaces even from relatively small domain-specific datasets. In addition, a multi-stage sc...
+
+  `matched: generative model, machine learning, dataset`
+
+
+- **[Artificial intelligence-driven generative modeling in Alzheimer’s disease drug discovery](https://doi.org/10.1016/j.apsb.2026.11.045)**
+  <br>*Acta Pharmaceutica Sinica B | 2026-11-28 | doi:10.1016/j.apsb.2026.11.045 | score 13*
+  <br>Dong, Xiao, Deng, Wu et al.
+
+  `matched: artificial intelligence, generative model`
+
+
+- **[Machine learning for alloy design: from predictive accuracy to experimental decisions](https://doi.org/10.1016/j.commatsci.2026.115300)**
+  <br>*Computational Materials Science | 2026-11-28 | doi:10.1016/j.commatsci.2026.115300 | score 11*
+  <br>Wang
+
+  `matched: machine learning, alloy`
+
+
+- **[Plant-derived extracellular vesicle-like particles for obesity: Multi-target mechanisms, materials design, and translational perspectives](https://doi.org/10.1016/j.matdes.2026.117643)**
+  <br>*Materials &amp; Design | 2026-11-28 | doi:10.1016/j.matdes.2026.117643 | score 11*
+  <br>Ye, Zhu, Wei, Huang et al.
+
+  `matched: materials design`
+
+
+- **[Quasichemical short-range order in high-entropy reciprocal melts: Li, Na, K‖F, Cl](https://doi.org/10.1039/d6cp03168d)**
+  <br>*Physical Chemistry Chemical Physics | 2026-11-25 | doi:10.1039/d6cp03168d | score 10*
+  <br>Dmitry Zakiryanov, Nickolay Konstantinovich Tkachev
+
+  We present a combined molecular dynamics and analytical study of quasichemical short-range order and entropy decomposition in the high-entropy reciprocal quaternary melt LiF-NaF-KF-LiCl-NaCl-KCl (equimolar composition Li1/6Na1/6K1/6F1/4Cl1/4) at 900 K. Using a machine-learning interatomic potential trained on ab initio data, we compute all fifteen partial radial distribution functions and the corresponding coordination numbers. The simulations reveal pronounced chemical short-range order: Li+ is strongly preferentially coordinated by F- (NLi-F ≈ 2.88), whilst K+ is predominantly surrounded by Cl- (NK-Cl ≈ 4.86), with Na+ occupying a mixed environment (NNa-Cl/NNa-F ≈ 1.56). This selective pai...
+
+  `matched: interatomic potential, molecular dynamics`
+
+
+---
+
+
 ## 2026-11-27
 
 19 new item(s). Top hit: **klasp: Performance-Portable Crystal Structure Prediction with Distributed Multipoles and Machine-Learned Inter** (score 54, Crossref).
